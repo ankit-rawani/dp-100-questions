@@ -17,7 +17,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q1_ans_0000400001.jpg)
+<img src="images/q1_ans_0000400001.jpg" />
 
 </details>
 
@@ -36,7 +36,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q2_ans_0000600002.jpg)
+<img src="images/q2_ans_0000600002.jpg" />
 
 </details>
 
@@ -141,7 +141,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q7_ans_0001200001.jpg)
+<img src="images/q7_ans_0001200001.jpg" />
 
 </details>
 
@@ -160,7 +160,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q8_ans_0001400002.jpg)
+<img src="images/q8_ans_0001400002.jpg" />
 
 </details>
 
@@ -371,7 +371,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q19_ans_0002500001.jpg)
+<img src="images/q19_ans_0002500001.jpg" />
 
 </details>
 
@@ -409,7 +409,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q21_ans_0002700001.jpg)
+<img src="images/q21_ans_0002700001.jpg" />
 
 </details>
 
@@ -470,7 +470,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q24_ans_0003000001.jpg)
+<img src="images/q24_ans_0003000001.jpg" />
 
 </details>
 
@@ -691,7 +691,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q35_ans_0004100001.jpg)
+<img src="images/q35_ans_0004100001.jpg" />
 
 </details>
 
@@ -714,7 +714,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q36_ans_0004400001.jpg)
+<img src="images/q36_ans_0004400001.jpg" />
 
 </details>
 
@@ -857,7 +857,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q43_ans_image376.png)
+<img src="images/q43_ans_image376.png" />
 
 </details>
 
@@ -938,7 +938,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q46_ans_image596.png)
+<img src="images/q46_ans_image596.png" />
 
 </details>
 
@@ -1123,7 +1123,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q55_ans_0006400001.jpg)
+<img src="images/q55_ans_0006400001.jpg" />
 
 </details>
 
@@ -1188,7 +1188,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q58_ans_image597.png)
+<img src="images/q58_ans_image597.png" />
 
 </details>
 
@@ -1232,7 +1232,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q60_ans_0007000001.png)
+<img src="images/q60_ans_0007000001.png" />
 
 </details>
 
@@ -1261,7 +1261,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q61_ans_0007300001.png)
+<img src="images/q61_ans_0007300001.png" />
 
 </details>
 
@@ -1303,7 +1303,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q63_ans_0007600001.png)
+<img src="images/q63_ans_0007600001.png" />
 
 </details>
 
@@ -1349,7 +1349,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q65_ans_0007800002.png)
+<img src="images/q65_ans_0007800002.png" />
 
 </details>
 
@@ -1409,7 +1409,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q67_ans_0008100003.png)
+<img src="images/q67_ans_0008100003.png" />
 
 </details>
 
@@ -1438,7 +1438,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q68_ans_image598.png)
+<img src="images/q68_ans_image598.png" />
 
 </details>
 
@@ -1465,7 +1465,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q69_ans_0008500002.png)
+<img src="images/q69_ans_0008500002.png" />
 
 </details>
 
@@ -1494,7 +1494,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q70_ans_0008700002.png)
+<img src="images/q70_ans_0008700002.png" />
 
 </details>
 
@@ -1542,7 +1542,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q72_ans_image599.png)
+<img src="images/q72_ans_image599.png" />
 
 </details>
 
@@ -1669,7 +1669,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q77_ans_image600.png)
+<img src="images/q77_ans_image600.png" />
 
 </details>
 
@@ -1932,7 +1932,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q88_ans_0010900001.png)
+<img src="images/q88_ans_0010900001.png" />
 
 </details>
 
@@ -1986,7 +1986,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q90_ans_0011300001.png)
+<img src="images/q90_ans_0011300001.png" />
 
 </details>
 
@@ -2042,7 +2042,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q92_ans_0011700001.png)
+<img src="images/q92_ans_0011700001.png" />
 
 </details>
 
@@ -2104,7 +2104,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q94_ans_0012000002.png)
+<img src="images/q94_ans_0012000002.png" />
 
 </details>
 
@@ -2152,7 +2152,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q96_ans_0012500001.png)
+<img src="images/q96_ans_0012500001.png" />
 
 </details>
 
@@ -2179,7 +2179,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q97_ans_image601.png)
+<img src="images/q97_ans_image601.png" />
 
 </details>
 
@@ -2206,7 +2206,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q98_ans_0013000001.png)
+<img src="images/q98_ans_0013000001.png" />
 
 </details>
 
@@ -2229,7 +2229,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q99_ans_0013200001.png)
+<img src="images/q99_ans_0013200001.png" />
 
 </details>
 
@@ -2292,7 +2292,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q102_ans_0013600001.png)
+<img src="images/q102_ans_0013600001.png" />
 
 </details>
 
@@ -2319,7 +2319,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q103_ans_0013800002.png)
+<img src="images/q103_ans_0013800002.png" />
 
 </details>
 
@@ -2346,7 +2346,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q104_ans_0014100002.jpg)
+<img src="images/q104_ans_0014100002.jpg" />
 
 </details>
 
@@ -2371,7 +2371,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q105_ans_image378.png)
+<img src="images/q105_ans_image378.png" />
 
 </details>
 
@@ -2396,7 +2396,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q106_ans_image380.png)
+<img src="images/q106_ans_image380.png" />
 
 </details>
 
@@ -2457,7 +2457,7 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q109_ans_image382.png)
+<img src="images/q109_ans_image382.png" />
 
 </details>
 
@@ -2575,7 +2575,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q113_ans_image386.png)
+<img src="images/q113_ans_image386.png" />
 
 </details>
 
@@ -2602,7 +2602,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q114_ans_image389.png)
+<img src="images/q114_ans_image389.png" />
 
 </details>
 
@@ -2625,7 +2625,7 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q115_ans_image391.png)
+<img src="images/q115_ans_image391.png" />
 
 </details>
 
@@ -2650,7 +2650,7 @@ NOTE: More than one order of answer choices is correct. You will receive credit 
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q116_ans_image393.png)
+<img src="images/q116_ans_image393.png" />
 
 </details>
 
@@ -2794,7 +2794,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q122_ans_image399.png)
+<img src="images/q122_ans_image399.png" />
 
 </details>
 
@@ -2821,7 +2821,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q123_ans_image401.png)
+<img src="images/q123_ans_image401.png" />
 
 </details>
 
@@ -2848,7 +2848,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q124_ans_image403.png)
+<img src="images/q124_ans_image403.png" />
 
 </details>
 
@@ -2875,7 +2875,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q125_ans_image405.png)
+<img src="images/q125_ans_image405.png" />
 
 </details>
 
@@ -2917,7 +2917,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q127_ans_image451.png)
+<img src="images/q127_ans_image451.png" />
 
 </details>
 
@@ -2942,7 +2942,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q128_ans_image453.png)
+<img src="images/q128_ans_image453.png" />
 
 </details>
 
@@ -2982,7 +2982,7 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q130_ans_image455.png)
+<img src="images/q130_ans_image455.png" />
 
 </details>
 
@@ -3013,7 +3013,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q131_ans_image457.png)
+<img src="images/q131_ans_image457.png" />
 
 </details>
 
@@ -3073,7 +3073,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q133_ans_image478.png)
+<img src="images/q133_ans_image478.png" />
 
 </details>
 
@@ -3098,7 +3098,7 @@ For each of the following statements, select Yes if the statement is true. Other
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q134_ans_image481.png)
+<img src="images/q134_ans_image481.png" />
 
 </details>
 
@@ -3146,7 +3146,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q136_ans_image483.png)
+<img src="images/q136_ans_image483.png" />
 
 </details>
 
@@ -3173,7 +3173,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q137_ans_image485.png)
+<img src="images/q137_ans_image485.png" />
 
 </details>
 
@@ -3217,7 +3217,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q139_ans_image487.png)
+<img src="images/q139_ans_image487.png" />
 
 </details>
 
@@ -3248,7 +3248,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q140_ans_image489.png)
+<img src="images/q140_ans_image489.png" />
 
 </details>
 
@@ -3294,7 +3294,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q142_ans_image491.png)
+<img src="images/q142_ans_image491.png" />
 
 </details>
 
@@ -3321,7 +3321,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q143_ans_image493.png)
+<img src="images/q143_ans_image493.png" />
 
 </details>
 
@@ -3361,7 +3361,7 @@ Which four commands should you use? To answer, move the appropriate actions from
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q145_ans_image495.png)
+<img src="images/q145_ans_image495.png" />
 
 </details>
 
@@ -3388,7 +3388,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q146_ans_image497.png)
+<img src="images/q146_ans_image497.png" />
 
 </details>
 
@@ -3419,7 +3419,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q147_ans_image499.png)
+<img src="images/q147_ans_image499.png" />
 
 </details>
 
@@ -3444,7 +3444,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q148_ans_image501.png)
+<img src="images/q148_ans_image501.png" />
 
 </details>
 
@@ -3569,7 +3569,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q153_ans_image602.png)
+<img src="images/q153_ans_image602.png" />
 
 </details>
 
@@ -3677,7 +3677,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q157_ans_image559.png)
+<img src="images/q157_ans_image559.png" />
 
 </details>
 
@@ -3757,7 +3757,7 @@ Which four actions should you perform in sequence?
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q161_ans_image565.png)
+<img src="images/q161_ans_image565.png" />
 
 </details>
 
@@ -3805,7 +3805,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q163_ans_image568.png)
+<img src="images/q163_ans_image568.png" />
 
 </details>
 
@@ -4045,7 +4045,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q173_ans_image578.png)
+<img src="images/q173_ans_image578.png" />
 
 </details>
 
@@ -4070,7 +4070,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q174_ans_image603.png)
+<img src="images/q174_ans_image603.png" />
 
 </details>
 
@@ -4095,7 +4095,7 @@ In which order should you perform the actions? To answer, move all actions from 
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q175_ans_image583.png)
+<img src="images/q175_ans_image583.png" />
 
 </details>
 
@@ -4122,7 +4122,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q176_ans_image585.png)
+<img src="images/q176_ans_image585.png" />
 
 </details>
 
@@ -4178,7 +4178,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q178_ans_image587.png)
+<img src="images/q178_ans_image587.png" />
 
 </details>
 
@@ -4224,7 +4224,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q180_ans_image593.png)
+<img src="images/q180_ans_image593.png" />
 
 </details>
 
@@ -4464,7 +4464,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q188_ans_0015500001.png)
+<img src="images/q188_ans_0015500001.png" />
 
 </details>
 
@@ -4578,7 +4578,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q192_ans_image604.png)
+<img src="images/q192_ans_image604.png" />
 
 </details>
 
@@ -4605,7 +4605,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q193_ans_0016300001.png)
+<img src="images/q193_ans_0016300001.png" />
 
 </details>
 
@@ -4634,7 +4634,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q194_ans_0016600001.png)
+<img src="images/q194_ans_0016600001.png" />
 
 </details>
 
@@ -4678,7 +4678,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q196_ans_0016900001.png)
+<img src="images/q196_ans_0016900001.png" />
 
 </details>
 
@@ -4705,7 +4705,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q197_ans_0017100002.png)
+<img src="images/q197_ans_0017100002.png" />
 
 </details>
 
@@ -4736,7 +4736,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q198_ans_image605.png)
+<img src="images/q198_ans_image605.png" />
 
 </details>
 
@@ -4763,7 +4763,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q199_ans_0017600001.png)
+<img src="images/q199_ans_0017600001.png" />
 
 </details>
 
@@ -4796,7 +4796,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q200_ans_0018000001.png)
+<img src="images/q200_ans_0018000001.png" />
 
 </details>
 
@@ -4968,7 +4968,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q208_ans_image606.png)
+<img src="images/q208_ans_image606.png" />
 
 </details>
 
@@ -4995,7 +4995,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q209_ans_image607.png)
+<img src="images/q209_ans_image607.png" />
 
 </details>
 
@@ -5039,7 +5039,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q211_ans_0019400001.png)
+<img src="images/q211_ans_0019400001.png" />
 
 </details>
 
@@ -5072,7 +5072,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q212_ans_0019700001.png)
+<img src="images/q212_ans_0019700001.png" />
 
 </details>
 
@@ -5122,7 +5122,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q214_ans_image608.png)
+<img src="images/q214_ans_image608.png" />
 
 </details>
 
@@ -5252,7 +5252,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q220_ans_0020800001.png)
+<img src="images/q220_ans_0020800001.png" />
 
 </details>
 
@@ -5279,7 +5279,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q221_ans_0021000002.png)
+<img src="images/q221_ans_0021000002.png" />
 
 </details>
 
@@ -5322,7 +5322,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q222_ans_0021300001.png)
+<img src="images/q222_ans_0021300001.png" />
 
 </details>
 
@@ -5645,7 +5645,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q231_ans_0022700001.png)
+<img src="images/q231_ans_0022700001.png" />
 
 </details>
 
@@ -5670,7 +5670,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q232_ans_0023000002.png)
+<img src="images/q232_ans_0023000002.png" />
 
 </details>
 
@@ -5844,7 +5844,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q238_ans_0023900001.png)
+<img src="images/q238_ans_0023900001.png" />
 
 </details>
 
@@ -5875,7 +5875,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q239_ans_0024200001.png)
+<img src="images/q239_ans_0024200001.png" />
 
 </details>
 
@@ -5919,7 +5919,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q241_ans_0024600001.png)
+<img src="images/q241_ans_0024600001.png" />
 
 </details>
 
@@ -5944,7 +5944,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q242_ans_0024800002.png)
+<img src="images/q242_ans_0024800002.png" />
 
 </details>
 
@@ -5967,7 +5967,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q243_ans_0025100001.png)
+<img src="images/q243_ans_0025100001.png" />
 
 </details>
 
@@ -6150,7 +6150,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q250_ans_0026100001.png)
+<img src="images/q250_ans_0026100001.png" />
 
 </details>
 
@@ -6175,7 +6175,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q251_ans_0026300001.png)
+<img src="images/q251_ans_0026300001.png" />
 
 </details>
 
@@ -6260,7 +6260,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q254_ans_0027000002.png)
+<img src="images/q254_ans_0027000002.png" />
 
 </details>
 
@@ -6335,7 +6335,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q257_ans_image609.png)
+<img src="images/q257_ans_image609.png" />
 
 </details>
 
@@ -6456,7 +6456,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q262_ans_0028300001.png)
+<img src="images/q262_ans_0028300001.png" />
 
 </details>
 
@@ -6485,7 +6485,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q263_ans_0028600001.png)
+<img src="images/q263_ans_0028600001.png" />
 
 </details>
 
@@ -6527,7 +6527,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q265_ans_image610.png)
+<img src="images/q265_ans_image610.png" />
 
 </details>
 
@@ -6577,7 +6577,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q267_ans_0029200001.png)
+<img src="images/q267_ans_0029200001.png" />
 
 </details>
 
@@ -6696,7 +6696,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q272_ans_0029800002.png)
+<img src="images/q272_ans_0029800002.png" />
 
 </details>
 
@@ -6904,7 +6904,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q282_ans_image611.png)
+<img src="images/q282_ans_image611.png" />
 
 </details>
 
@@ -6950,7 +6950,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q284_ans_image612.png)
+<img src="images/q284_ans_image612.png" />
 
 </details>
 
@@ -7019,7 +7019,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q287_ans_0031400001.png)
+<img src="images/q287_ans_0031400001.png" />
 
 </details>
 
@@ -7046,7 +7046,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q288_ans_0031700001.png)
+<img src="images/q288_ans_0031700001.png" />
 
 </details>
 
@@ -7140,7 +7140,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q292_ans_image409.png)
+<img src="images/q292_ans_image409.png" />
 
 </details>
 
@@ -7167,7 +7167,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q293_ans_image411.png)
+<img src="images/q293_ans_image411.png" />
 
 </details>
 
@@ -7213,7 +7213,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q295_ans_image413.png)
+<img src="images/q295_ans_image413.png" />
 
 </details>
 
@@ -7240,7 +7240,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q296_ans_image415.png)
+<img src="images/q296_ans_image415.png" />
 
 </details>
 
@@ -7267,7 +7267,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q297_ans_image417.png)
+<img src="images/q297_ans_image417.png" />
 
 </details>
 
@@ -7311,7 +7311,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q299_ans_image419.png)
+<img src="images/q299_ans_image419.png" />
 
 </details>
 
@@ -7342,7 +7342,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q300_ans_image422.png)
+<img src="images/q300_ans_image422.png" />
 
 </details>
 
@@ -7369,7 +7369,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q301_ans_image424.png)
+<img src="images/q301_ans_image424.png" />
 
 </details>
 
@@ -7529,7 +7529,7 @@ In which order should you perform the actions? To answer, move all actions from 
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q309_ans_image426.png)
+<img src="images/q309_ans_image426.png" />
 
 </details>
 
@@ -7556,7 +7556,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q310_ans_image428.png)
+<img src="images/q310_ans_image428.png" />
 
 </details>
 
@@ -7602,7 +7602,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q312_ans_image430.png)
+<img src="images/q312_ans_image430.png" />
 
 </details>
 
@@ -7627,7 +7627,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q313_ans_image613.png)
+<img src="images/q313_ans_image613.png" />
 
 </details>
 
@@ -7654,7 +7654,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q314_ans_image434.png)
+<img src="images/q314_ans_image434.png" />
 
 </details>
 
@@ -7681,7 +7681,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q315_ans_image436.png)
+<img src="images/q315_ans_image436.png" />
 
 </details>
 
@@ -7706,7 +7706,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q316_ans_image614.png)
+<img src="images/q316_ans_image614.png" />
 
 </details>
 
@@ -7792,7 +7792,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q320_ans_image466.png)
+<img src="images/q320_ans_image466.png" />
 
 </details>
 
@@ -7823,7 +7823,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q321_ans_image468.png)
+<img src="images/q321_ans_image468.png" />
 
 </details>
 
@@ -7888,7 +7888,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q324_ans_image470.png)
+<img src="images/q324_ans_image470.png" />
 
 </details>
 
@@ -7942,7 +7942,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q326_ans_image503.png)
+<img src="images/q326_ans_image503.png" />
 
 </details>
 
@@ -7965,7 +7965,7 @@ In which order should you perform the actions? To answer, move all actions from 
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q327_ans_image505.png)
+<img src="images/q327_ans_image505.png" />
 
 </details>
 
@@ -8011,7 +8011,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q329_ans_image507.png)
+<img src="images/q329_ans_image507.png" />
 
 </details>
 
@@ -8063,7 +8063,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q331_ans_image509.png)
+<img src="images/q331_ans_image509.png" />
 
 </details>
 
@@ -8166,7 +8166,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q336_ans_image511.png)
+<img src="images/q336_ans_image511.png" />
 
 </details>
 
@@ -8214,7 +8214,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q338_ans_image513.png)
+<img src="images/q338_ans_image513.png" />
 
 </details>
 
@@ -8241,7 +8241,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q339_ans_image515.png)
+<img src="images/q339_ans_image515.png" />
 
 </details>
 
@@ -8283,7 +8283,7 @@ For each of the following statements, select Yes if the statement is true. Other
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q341_ans_image615.png)
+<img src="images/q341_ans_image615.png" />
 
 </details>
 
@@ -8308,7 +8308,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q342_ans_image520.png)
+<img src="images/q342_ans_image520.png" />
 
 </details>
 
@@ -8333,7 +8333,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q343_ans_image616.png)
+<img src="images/q343_ans_image616.png" />
 
 </details>
 
@@ -8366,7 +8366,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q344_ans_image525.png)
+<img src="images/q344_ans_image525.png" />
 
 </details>
 
@@ -8433,7 +8433,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q347_ans_image544.png)
+<img src="images/q347_ans_image544.png" />
 
 </details>
 
@@ -8462,7 +8462,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q348_ans_image546.png)
+<img src="images/q348_ans_image546.png" />
 
 </details>
 
@@ -8487,7 +8487,7 @@ For each of the following statements, select Yes if the statement is true. Other
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q349_ans_image549.png)
+<img src="images/q349_ans_image549.png" />
 
 </details>
 
@@ -8524,7 +8524,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q350_ans_image551.png)
+<img src="images/q350_ans_image551.png" />
 
 </details>
 
@@ -8557,7 +8557,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q351_ans_image561.png)
+<img src="images/q351_ans_image561.png" />
 
 </details>
 
@@ -8584,7 +8584,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q352_ans_image563.png)
+<img src="images/q352_ans_image563.png" />
 
 </details>
 
@@ -8875,7 +8875,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q365_ans_image573.png)
+<img src="images/q365_ans_image573.png" />
 
 </details>
 
@@ -8902,7 +8902,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q366_ans_image576.png)
+<img src="images/q366_ans_image576.png" />
 
 </details>
 
@@ -9042,7 +9042,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q372_ans_image617.png)
+<img src="images/q372_ans_image617.png" />
 
 </details>
 
@@ -9149,7 +9149,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q377_ans_0037900001.png)
+<img src="images/q377_ans_0037900001.png" />
 
 </details>
 
@@ -9254,7 +9254,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q382_ans_0038600001.png)
+<img src="images/q382_ans_0038600001.png" />
 
 </details>
 
@@ -9547,7 +9547,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q395_ans_0039800002.png)
+<img src="images/q395_ans_0039800002.png" />
 
 </details>
 
@@ -9646,7 +9646,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q400_ans_0040400001.png)
+<img src="images/q400_ans_0040400001.png" />
 
 </details>
 
@@ -9728,7 +9728,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q404_ans_0040800001.jpg)
+<img src="images/q404_ans_0040800001.jpg" />
 
 </details>
 
@@ -9753,7 +9753,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q405_ans_0041000001.png)
+<img src="images/q405_ans_0041000001.png" />
 
 </details>
 
@@ -9805,7 +9805,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q407_ans_image438.png)
+<img src="images/q407_ans_image438.png" />
 
 </details>
 
@@ -9889,7 +9889,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q411_ans_image440.png)
+<img src="images/q411_ans_image440.png" />
 
 </details>
 
@@ -9916,7 +9916,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q412_ans_image442.png)
+<img src="images/q412_ans_image442.png" />
 
 </details>
 
@@ -10016,7 +10016,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q416_ans_image444.png)
+<img src="images/q416_ans_image444.png" />
 
 </details>
 
@@ -10041,7 +10041,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q417_ans_image446.png)
+<img src="images/q417_ans_image446.png" />
 
 </details>
 
@@ -10108,7 +10108,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q420_ans_image472.png)
+<img src="images/q420_ans_image472.png" />
 
 </details>
 
@@ -10133,7 +10133,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q421_ans_image474.png)
+<img src="images/q421_ans_image474.png" />
 
 </details>
 
@@ -10158,7 +10158,7 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q422_ans_image476.png)
+<img src="images/q422_ans_image476.png" />
 
 </details>
 
@@ -10202,7 +10202,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q424_ans_image527.png)
+<img src="images/q424_ans_image527.png" />
 
 </details>
 
@@ -10227,7 +10227,7 @@ For each of the following statements, select Yes if the statement is true. Other
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q425_ans_image618.png)
+<img src="images/q425_ans_image618.png" />
 
 </details>
 
@@ -10409,7 +10409,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q433_ans_image531.png)
+<img src="images/q433_ans_image531.png" />
 
 </details>
 
@@ -10434,7 +10434,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q434_ans_image533.png)
+<img src="images/q434_ans_image533.png" />
 
 </details>
 
@@ -10459,7 +10459,7 @@ Which three classes should you instantiate in sequence? To answer, move the appr
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q435_ans_image535.png)
+<img src="images/q435_ans_image535.png" />
 
 </details>
 
@@ -10549,7 +10549,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q439_ans_image553.png)
+<img src="images/q439_ans_image553.png" />
 
 </details>
 
@@ -10752,7 +10752,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q448_ans_image570.png)
+<img src="images/q448_ans_image570.png" />
 
 </details>
 
@@ -10923,7 +10923,7 @@ NOTE: More than one order of answer choices is correct. You will receive credit 
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q455_ans_image589.png)
+<img src="images/q455_ans_image589.png" />
 
 </details>
 
@@ -10950,7 +10950,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q456_ans_image595.png)
+<img src="images/q456_ans_image595.png" />
 
 </details>
 
@@ -11019,7 +11019,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q459_ans_image619.png)
+<img src="images/q459_ans_image619.png" />
 
 </details>
 
@@ -11121,7 +11121,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q463_ans_0042400001.png)
+<img src="images/q463_ans_0042400001.png" />
 
 </details>
 
@@ -11167,7 +11167,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q465_ans_0043000001.png)
+<img src="images/q465_ans_0043000001.png" />
 
 </details>
 
@@ -11324,7 +11324,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q472_ans_0043800001.jpg)
+<img src="images/q472_ans_0043800001.jpg" />
 
 </details>
 
@@ -11347,7 +11347,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q473_ans_0044000001.png)
+<img src="images/q473_ans_0044000001.png" />
 
 </details>
 
@@ -11374,7 +11374,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q474_ans_0044100002.png)
+<img src="images/q474_ans_0044100002.png" />
 
 </details>
 
@@ -11401,7 +11401,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q475_ans_0044400001.png)
+<img src="images/q475_ans_0044400001.png" />
 
 </details>
 
@@ -11495,7 +11495,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q479_ans_image620.png)
+<img src="images/q479_ans_image620.png" />
 
 </details>
 
@@ -11518,7 +11518,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q480_ans_0045000001.png)
+<img src="images/q480_ans_0045000001.png" />
 
 </details>
 
@@ -11549,7 +11549,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q481_ans_0045200001.jpg)
+<img src="images/q481_ans_0045200001.jpg" />
 
 </details>
 
@@ -11614,7 +11614,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q484_ans_0045600002.jpg)
+<img src="images/q484_ans_0045600002.jpg" />
 
 </details>
 
@@ -11681,7 +11681,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q487_ans_0045900001.jpg)
+<img src="images/q487_ans_0045900001.jpg" />
 
 </details>
 
@@ -11704,7 +11704,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q488_ans_0046000002.jpg)
+<img src="images/q488_ans_0046000002.jpg" />
 
 </details>
 
@@ -11811,7 +11811,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q493_ans_image449.png)
+<img src="images/q493_ans_image449.png" />
 
 </details>
 
@@ -11901,7 +11901,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q497_ans_image537.png)
+<img src="images/q497_ans_image537.png" />
 
 </details>
 
@@ -11924,7 +11924,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q498_ans_0032500001.png)
+<img src="images/q498_ans_0032500001.png" />
 
 </details>
 
@@ -11962,7 +11962,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q500_ans_0032700002.png)
+<img src="images/q500_ans_0032700002.png" />
 
 </details>
 
@@ -12036,7 +12036,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q504_ans_0033000002.png)
+<img src="images/q504_ans_0033000002.png" />
 
 </details>
 
@@ -12057,7 +12057,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q505_ans_0033200002.png)
+<img src="images/q505_ans_0033200002.png" />
 
 </details>
 
@@ -12129,7 +12129,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q509_ans_0034100001.png)
+<img src="images/q509_ans_0034100001.png" />
 
 </details>
 
@@ -12150,7 +12150,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q510_ans_0034400001.png)
+<img src="images/q510_ans_0034400001.png" />
 
 </details>
 
@@ -12190,7 +12190,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q512_ans_0034900001.png)
+<img src="images/q512_ans_0034900001.png" />
 
 </details>
 
@@ -12213,7 +12213,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q513_ans_image621.png)
+<img src="images/q513_ans_image621.png" />
 
 </details>
 
@@ -12236,7 +12236,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q514_ans_0035600001.jpg)
+<img src="images/q514_ans_0035600001.jpg" />
 
 </details>
 
@@ -12274,7 +12274,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q516_ans_0036000001.png)
+<img src="images/q516_ans_0036000001.png" />
 
 </details>
 
@@ -12297,7 +12297,7 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q517_ans_0036300001.png)
+<img src="images/q517_ans_0036300001.png" />
 
 </details>
 
@@ -12335,7 +12335,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q519_ans_0036600001.png)
+<img src="images/q519_ans_0036600001.png" />
 
 </details>
 
@@ -12358,7 +12358,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q520_ans_0036900001.png)
+<img src="images/q520_ans_0036900001.png" />
 
 </details>
 
@@ -12379,7 +12379,7 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-![Suggested Answer Image](images/q521_ans_0046800001.png)
+<img src="images/q521_ans_0046800001.png" />
 
 </details>
 
