@@ -12,12 +12,12 @@ Which of the following are requirements for this installation? Answer by draggin
 
 Select and Place:
 
-![Question Image](images\q1_0000300001.jpg)
+![Question Image](images/q1_0000300001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q1_ans_0000400001.jpg)
+![Suggested Answer Image](images/q1_ans_0000400001.jpg)
 
 </details>
 
@@ -31,12 +31,12 @@ Complete the sentence by selecting the correct option in the answer area.
 
 Hot Area:
 
-![Question Image](images\q2_0000600001.png)
+![Question Image](images/q2_0000600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q2_ans_0000600002.jpg)
+![Suggested Answer Image](images/q2_ans_0000600002.jpg)
 
 </details>
 
@@ -51,7 +51,7 @@ Which of the following DSVM should you create?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -74,7 +74,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -97,7 +97,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -120,7 +120,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -136,12 +136,12 @@ Which of the following can be used to complete your task? Answer by dragging the
 
 Select and Place:
 
-![Question Image](images\q7_0001100001.jpg)
+![Question Image](images/q7_0001100001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q7_ans_0001200001.jpg)
+![Suggested Answer Image](images/q7_ans_0001200001.jpg)
 
 </details>
 
@@ -155,12 +155,12 @@ Complete the sentence by selecting the correct option in the answer area.
 
 Hot Area:
 
-![Question Image](images\q8_0001400001.png)
+![Question Image](images/q8_0001400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q8_ans_0001400002.jpg)
+![Suggested Answer Image](images/q8_ans_0001400002.jpg)
 
 </details>
 
@@ -177,7 +177,7 @@ Which of the following actions should you take?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -198,7 +198,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -219,7 +219,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -236,7 +236,7 @@ Which of the following actions should you take?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -255,7 +255,7 @@ Which of the following actions should you take?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -276,7 +276,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -297,7 +297,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -318,7 +318,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -335,7 +335,7 @@ Select `No adjustment required` if the underlined segment is accurate. If the un
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -352,7 +352,7 @@ Select `No adjustment required` if the underlined segment is accurate. If the un
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -366,12 +366,12 @@ You need to consider the underlined segment to establish whether it is accurate.
 
 Hot Area:
 
-![Question Image](images\q19_0002400001.png)
+![Question Image](images/q19_0002400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q19_ans_0002500001.jpg)
+![Suggested Answer Image](images/q19_ans_0002500001.jpg)
 
 </details>
 
@@ -390,7 +390,7 @@ Which of the following actions should you take?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -404,12 +404,12 @@ Complete the sentence by selecting the correct option in the answer area.
 
 Hot Area:
 
-![Question Image](images\q21_0002600001.png)
+![Question Image](images/q21_0002600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q21_ans_0002700001.jpg)
+![Suggested Answer Image](images/q21_ans_0002700001.jpg)
 
 </details>
 
@@ -426,7 +426,7 @@ Which of the following actions should you take?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -447,7 +447,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -465,12 +465,12 @@ Which of the following are relevant conditions with regards to the label data? A
 
 Select and Place:
 
-![Question Image](images\q24_0002900001.jpg)
+![Question Image](images/q24_0002900001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q24_ans_0003000001.jpg)
+![Suggested Answer Image](images/q24_ans_0003000001.jpg)
 
 </details>
 
@@ -491,7 +491,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -512,7 +512,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -533,7 +533,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -550,7 +550,7 @@ Which of the following are conditions that must apply to use a paired t-test? (C
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BC
+BC
 
 </details>
 
@@ -569,7 +569,7 @@ Which of the following actions should you take?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -590,7 +590,7 @@ Which of the following actions should you take?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -605,7 +605,7 @@ Which of the following is an algorithm that reduces the variances between actual
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -626,7 +626,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -647,7 +647,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -668,7 +668,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -686,12 +686,12 @@ Which of the following are the metrics you would choose? Answer by dragging the 
 
 Select and Place:
 
-![Question Image](images\q35_0004000001.jpg)
+![Question Image](images/q35_0004000001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q35_ans_0004100001.jpg)
+![Suggested Answer Image](images/q35_ans_0004100001.jpg)
 
 </details>
 
@@ -709,12 +709,12 @@ Which of the following are valid parameters for the Two-Class Neural Network mod
 
 Select and Place:
 
-![Question Image](images\q36_0004300001.jpg)
+![Question Image](images/q36_0004300001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q36_ans_0004400001.jpg)
+![Suggested Answer Image](images/q36_ans_0004400001.jpg)
 
 </details>
 
@@ -731,7 +731,7 @@ Which of the following actions should you take?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -750,7 +750,7 @@ Which of the following is TRUE with regards to achieving your goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -771,7 +771,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -792,7 +792,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -813,7 +813,7 @@ Will the requirements be satisfied?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -832,7 +832,7 @@ Which of the following is a sequential combination of the models required to ach
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -852,12 +852,12 @@ You need to implement the computer resources.
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q43_image375.png)
+![Question Image](images/q43_image375.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q43_ans_image376.png)
+![Suggested Answer Image](images/q43_ans_image376.png)
 
 </details>
 
@@ -876,7 +876,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  CE
+CE
 
 </details>
 
@@ -905,7 +905,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -933,12 +933,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images\q46_0005300001.png)
+![Question Image](images/q46_0005300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q46_ans_image596.png)
+![Suggested Answer Image](images/q46_ans_image596.png)
 
 </details>
 
@@ -963,7 +963,7 @@ Which environment should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -982,7 +982,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -1007,7 +1007,7 @@ Which environment should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -1026,7 +1026,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BCD
+BCD
 
 </details>
 
@@ -1043,7 +1043,7 @@ Which module should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -1062,7 +1062,7 @@ What should you recommend?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -1079,7 +1079,7 @@ What should you implement?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -1096,7 +1096,7 @@ What should you create?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  E
+E
 
 </details>
 
@@ -1118,12 +1118,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q55_0006200001.jpg)
+![Question Image](images/q55_0006200001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q55_ans_0006400001.jpg)
+![Suggested Answer Image](images/q55_ans_0006400001.jpg)
 
 </details>
 
@@ -1140,7 +1140,7 @@ What should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -1159,7 +1159,7 @@ Which module should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -1183,12 +1183,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q58_0006700003.png)
+![Question Image](images/q58_0006700003.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q58_ans_image597.png)
+![Suggested Answer Image](images/q58_ans_image597.png)
 
 </details>
 
@@ -1205,7 +1205,7 @@ Which module should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -1227,12 +1227,12 @@ NOTE: More than one order of answer choices is correct. You will receive credit 
 
 Select and Place:
 
-![Question Image](images\q60_0006900001.png)
+![Question Image](images/q60_0006900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q60_ans_0007000001.png)
+![Suggested Answer Image](images/q60_ans_0007000001.png)
 
 </details>
 
@@ -1256,12 +1256,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q61_0007200001.png)
+![Question Image](images/q61_0007200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q61_ans_0007300001.png)
+![Suggested Answer Image](images/q61_ans_0007300001.png)
 
 </details>
 
@@ -1278,7 +1278,7 @@ Which parameter should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -1298,12 +1298,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q63_0007500001.png)
+![Question Image](images/q63_0007500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q63_ans_0007600001.png)
+![Suggested Answer Image](images/q63_ans_0007600001.png)
 
 </details>
 
@@ -1322,7 +1322,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ACE
+ACE
 
 </details>
 
@@ -1334,7 +1334,7 @@ HOTSPOT -
 
 A coworker registers a datastore in a Machine Learning services workspace by using the following code:
 
-![Question Image](images\q65_0007700001.png)
+![Question Image](images/q65_0007700001.png)
 
 You need to write code to access the datastore from a notebook.
 
@@ -1344,12 +1344,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q65_0007800001.png)
+![Question Image](images/q65_0007800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q65_ans_0007800002.png)
+![Suggested Answer Image](images/q65_ans_0007800002.png)
 
 </details>
 
@@ -1361,7 +1361,7 @@ A set of CSV files contains sales records. All the CSV files have the same data 
 
 Each CSV file contains the sales record for a particular month and has the filename sales.csv. Each file is stored in a folder that indicates the month and year when the data was recorded. The folders are in an Azure blob container for which a datastore has been defined in an Azure Machine Learning workspace. The folders are organized in a parent folder named sales to create the following hierarchical structure:
 
-![Question Image](images\q66_0007900001.png)
+![Question Image](images/q66_0007900001.png)
 
 At the end of each month, a new folder with that month's sales file is added to the sales folder.
 
@@ -1380,7 +1380,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -1394,7 +1394,7 @@ An organization uses Azure Machine Learning service and wants to expand their us
 
 You have the following compute environments. The organization does not want to create another compute environment.
 
-![Question Image](images\q67_0008100001.png)
+![Question Image](images/q67_0008100001.png)
 
 You need to determine which compute environment to use for the following scenarios.
 
@@ -1404,12 +1404,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q67_0008100002.png)
+![Question Image](images/q67_0008100002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q67_ans_0008100003.png)
+![Suggested Answer Image](images/q67_ans_0008100003.png)
 
 </details>
 
@@ -1425,7 +1425,7 @@ ComputeOne is currently idle and has zero active nodes.
 
 You define a Python variable named ws that references the Azure Machine Learning workspace. You run the following Python code:
 
-![Question Image](images\q68_0008300001.png)
+![Question Image](images/q68_0008300001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -1433,12 +1433,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q68_0008300002.png)
+![Question Image](images/q68_0008300002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q68_ans_image598.png)
+![Suggested Answer Image](images/q68_ans_image598.png)
 
 </details>
 
@@ -1460,12 +1460,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q69_0008500001.png)
+![Question Image](images/q69_0008500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q69_ans_0008500002.png)
+![Suggested Answer Image](images/q69_ans_0008500002.png)
 
 </details>
 
@@ -1489,12 +1489,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q70_0008700001.png)
+![Question Image](images/q70_0008700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q70_ans_0008700002.png)
+![Suggested Answer Image](images/q70_ans_0008700002.png)
 
 </details>
 
@@ -1517,7 +1517,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -1529,7 +1529,7 @@ HOTSPOT -
 
 You are preparing to use the Azure ML SDK to run an experiment and need to create compute. You run the following code:
 
-![Question Image](images\q72_0008900001.png)
+![Question Image](images/q72_0008900001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -1537,12 +1537,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q72_0009000001.png)
+![Question Image](images/q72_0009000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q72_ans_image599.png)
+![Suggested Answer Image](images/q72_ans_image599.png)
 
 </details>
 
@@ -1565,7 +1565,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -1590,7 +1590,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -1609,7 +1609,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  CE
+CE
 
 </details>
 
@@ -1634,7 +1634,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -1664,12 +1664,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q77_0009600001.png)
+![Question Image](images/q77_0009600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q77_ans_image600.png)
+![Suggested Answer Image](images/q77_ans_image600.png)
 
 </details>
 
@@ -1688,7 +1688,7 @@ Which Azure tool should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -1713,7 +1713,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -1738,7 +1738,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -1755,7 +1755,7 @@ Which method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -1772,7 +1772,7 @@ Which module should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -1791,7 +1791,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -1816,7 +1816,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -1842,24 +1842,24 @@ Which JSON code segment should you use?
 
 A.
 
-![Question Image](images\q85_0010300004.jpg)
+![Question Image](images/q85_0010300004.jpg)
 
 B.
 
-![Question Image](images\q85_0010400001.jpg)
+![Question Image](images/q85_0010400001.jpg)
 
 C.
 
-![Question Image](images\q85_0010400002.jpg)
+![Question Image](images/q85_0010400002.jpg)
 
 D.
 
-![Question Image](images\q85_0010400003.jpg)
+![Question Image](images/q85_0010400003.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -1882,7 +1882,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -1905,7 +1905,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -1927,12 +1927,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q88_0010800001.png)
+![Question Image](images/q88_0010800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q88_ans_0010900001.png)
+![Suggested Answer Image](images/q88_ans_0010900001.png)
 
 </details>
 
@@ -1949,7 +1949,7 @@ Which splitting mode should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -1981,12 +1981,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q90_0011200001.png)
+![Question Image](images/q90_0011200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q90_ans_0011300001.png)
+![Suggested Answer Image](images/q90_ans_0011300001.png)
 
 </details>
 
@@ -2015,7 +2015,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BC
+BC
 
 </details>
 
@@ -2037,12 +2037,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q92_0011600001.png)
+![Question Image](images/q92_0011600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q92_ans_0011700001.png)
+![Suggested Answer Image](images/q92_ans_0011700001.png)
 
 </details>
 
@@ -2071,7 +2071,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ABC
+ABC
 
 </details>
 
@@ -2099,12 +2099,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q94_0012000001.png)
+![Question Image](images/q94_0012000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q94_ans_0012000002.png)
+![Suggested Answer Image](images/q94_ans_0012000002.png)
 
 </details>
 
@@ -2123,7 +2123,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ABC
+ABC
 
 </details>
 
@@ -2147,12 +2147,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q96_0012400001.png)
+![Question Image](images/q96_0012400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q96_ans_0012500001.png)
+![Suggested Answer Image](images/q96_ans_0012500001.png)
 
 </details>
 
@@ -2174,12 +2174,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q97_0012600001.png)
+![Question Image](images/q97_0012600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q97_ans_image601.png)
+![Suggested Answer Image](images/q97_ans_image601.png)
 
 </details>
 
@@ -2201,12 +2201,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q98_0012900001.png)
+![Question Image](images/q98_0012900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q98_ans_0013000001.png)
+![Suggested Answer Image](images/q98_ans_0013000001.png)
 
 </details>
 
@@ -2224,12 +2224,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images\q99_0013100001.png)
+![Question Image](images/q99_0013100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q99_ans_0013200001.png)
+![Suggested Answer Image](images/q99_ans_0013200001.png)
 
 </details>
 
@@ -2248,7 +2248,7 @@ Which method of the DataDriftDetector class should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -2265,7 +2265,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -2287,12 +2287,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q102_0013500001.png)
+![Question Image](images/q102_0013500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q102_ans_0013600001.png)
+![Suggested Answer Image](images/q102_ans_0013600001.png)
 
 </details>
 
@@ -2306,7 +2306,7 @@ You create an Azure Machine Learning workspace named workspace1. You assign a cu
 
 The custom role has the following JSON definition:
 
-![Question Image](images\q103_0013700001.png)
+![Question Image](images/q103_0013700001.png)
 
 Instructions: For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -2314,12 +2314,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q103_0013800001.png)
+![Question Image](images/q103_0013800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q103_ans_0013800002.png)
+![Suggested Answer Image](images/q103_ans_0013800002.png)
 
 </details>
 
@@ -2333,7 +2333,7 @@ You create a new Azure Databricks workspace.
 
 You configure a new cluster for long-running tasks with mixed loads on the compute cluster as shown in the image below.
 
-![Question Image](images\q104_0014000001.png)
+![Question Image](images/q104_0014000001.png)
 
 Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic.
 
@@ -2341,12 +2341,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q104_0014100001.png)
+![Question Image](images/q104_0014100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q104_ans_0014100002.jpg)
+![Suggested Answer Image](images/q104_ans_0014100002.jpg)
 
 </details>
 
@@ -2366,12 +2366,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q105_image377.png)
+![Question Image](images/q105_image377.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q105_ans_image378.png)
+![Suggested Answer Image](images/q105_ans_image378.png)
 
 </details>
 
@@ -2391,12 +2391,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q106_image379.png)
+![Question Image](images/q106_image379.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q106_ans_image380.png)
+![Suggested Answer Image](images/q106_ans_image380.png)
 
 </details>
 
@@ -2413,7 +2413,7 @@ Which statistic should you analyze?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -2432,7 +2432,7 @@ Which magic function should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -2452,12 +2452,12 @@ You need to generate a new SSH key.
 
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q109_image381.png)
+![Question Image](images/q109_image381.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q109_ans_image382.png)
+![Suggested Answer Image](images/q109_ans_image382.png)
 
 </details>
 
@@ -2473,11 +2473,11 @@ You use Azure Machine Learning designer to load the following datasets into an e
 
 Dataset1 -
 
-![Question Image](images\q110_image383.png)
+![Question Image](images/q110_image383.png)
 
 Dataset2 -
 
-![Question Image](images\q110_image384.png)
+![Question Image](images/q110_image384.png)
 
 You need to create a dataset that has the same columns and header row as the input datasets and contains all rows from both input datasets.
 
@@ -2488,7 +2488,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -2504,11 +2504,11 @@ You use Azure Machine Learning designer to load the following datasets into an e
 
 Dataset1 -
 
-![Question Image](images\q111_image383.png)
+![Question Image](images/q111_image383.png)
 
 Dataset2 -
 
-![Question Image](images\q111_image384.png)
+![Question Image](images/q111_image384.png)
 
 You need to create a dataset that has the same columns and header row as the input datasets and contains all rows from both input datasets.
 
@@ -2519,7 +2519,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -2535,11 +2535,11 @@ You use Azure Machine Learning designer to load the following datasets into an e
 
 Dataset1 -
 
-![Question Image](images\q112_image383.png)
+![Question Image](images/q112_image383.png)
 
 Dataset2 -
 
-![Question Image](images\q112_image384.png)
+![Question Image](images/q112_image384.png)
 
 You need to create a dataset that has the same columns and header row as the input datasets and contains all rows from both input datasets.
 
@@ -2550,7 +2550,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -2570,12 +2570,12 @@ How should you complete the following code segment? To answer, select the approp
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q113_image385.png)
+![Question Image](images/q113_image385.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q113_ans_image386.png)
+![Suggested Answer Image](images/q113_ans_image386.png)
 
 </details>
 
@@ -2591,18 +2591,18 @@ You have an Azure Machine Learning workspace.
 
 You run the following code in a Python environment in which the configuration file for your workspace has been downloaded.
 
-![Question Image](images\q114_image387.png)
+![Question Image](images/q114_image387.png)
 
 Instructions: For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q114_image388.png)
+![Question Image](images/q114_image388.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q114_ans_image389.png)
+![Suggested Answer Image](images/q114_ans_image389.png)
 
 </details>
 
@@ -2620,12 +2620,12 @@ You need to use the shared file system of the workspace to store a clone of a pr
 
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q115_image390.png)
+![Question Image](images/q115_image390.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q115_ans_image391.png)
+![Suggested Answer Image](images/q115_ans_image391.png)
 
 </details>
 
@@ -2645,12 +2645,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 NOTE: More than one order of answer choices is correct. You will receive credit for any of the correct orders you select.
 
-![Question Image](images\q116_image392.png)
+![Question Image](images/q116_image392.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q116_ans_image393.png)
+![Suggested Answer Image](images/q116_ans_image393.png)
 
 </details>
 
@@ -2669,7 +2669,7 @@ Which option should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -2686,7 +2686,7 @@ Which schema should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -2700,20 +2700,20 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images\q119_image394.png)
+![Question Image](images/q119_image394.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images\q119_image395.png)
+![Question Image](images/q119_image395.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -2727,20 +2727,20 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images\q120_image394.png)
+![Question Image](images/q120_image394.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images\q120_image396.png)
+![Question Image](images/q120_image396.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -2754,20 +2754,20 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images\q121_image394.png)
+![Question Image](images/q121_image394.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images\q121_image397.png)
+![Question Image](images/q121_image397.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -2789,12 +2789,12 @@ How should you complete the following code segment? To answer, select the approp
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q122_image398.png)
+![Question Image](images/q122_image398.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q122_ans_image399.png)
+![Suggested Answer Image](images/q122_ans_image399.png)
 
 </details>
 
@@ -2816,12 +2816,12 @@ Which chart types should you use? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q123_image400.png)
+![Question Image](images/q123_image400.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q123_ans_image401.png)
+![Suggested Answer Image](images/q123_ans_image401.png)
 
 </details>
 
@@ -2843,12 +2843,12 @@ How should you construct the URI? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q124_image402.png)
+![Question Image](images/q124_image402.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q124_ans_image403.png)
+![Suggested Answer Image](images/q124_ans_image403.png)
 
 </details>
 
@@ -2870,12 +2870,12 @@ Which Azure services should you use? To answer, select the appropriate options i
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q125_image404.png)
+![Question Image](images/q125_image404.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q125_ans_image405.png)
+![Suggested Answer Image](images/q125_ans_image405.png)
 
 </details>
 
@@ -2892,7 +2892,7 @@ Which class should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -2912,12 +2912,12 @@ How should you complete the following code segment? To answer, select the approp
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q127_image450.png)
+![Question Image](images/q127_image450.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q127_ans_image451.png)
+![Suggested Answer Image](images/q127_ans_image451.png)
 
 </details>
 
@@ -2937,12 +2937,12 @@ How should you complete the following code segment? To answer, select the approp
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q128_image452.png)
+![Question Image](images/q128_image452.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q128_ans_image453.png)
+![Suggested Answer Image](images/q128_ans_image453.png)
 
 </details>
 
@@ -2959,7 +2959,7 @@ What should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -2977,12 +2977,12 @@ You need to attach Azure Databricks as a compute resource from the Azure Machine
 
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q130_image454.png)
+![Question Image](images/q130_image454.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q130_ans_image455.png)
+![Suggested Answer Image](images/q130_ans_image455.png)
 
 </details>
 
@@ -2998,9 +2998,9 @@ You are designing a machine learning solution.
 
 You have the following requirements:
 
-•	Use a training script to train a machine learning model.
+• Use a training script to train a machine learning model.
 
-•	Build a machine learning proof of concept without the use of code or script.
+• Build a machine learning proof of concept without the use of code or script.
 
 You need to select a development tool for each requirement.
 
@@ -3008,12 +3008,12 @@ Which development tool should you use? To answer, select the appropriate options
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q131_image456.png)
+![Question Image](images/q131_image456.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q131_ans_image457.png)
+![Suggested Answer Image](images/q131_ans_image457.png)
 
 </details>
 
@@ -3032,7 +3032,7 @@ What should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3050,15 +3050,15 @@ You must create a compute cluster in the workspace. The compute cluster must run
 
 The cluster definition includes the following properties and values:
 
-•	names=“mlcluster”
+• names=“mlcluster”
 
-•	size=“STANDARD_DS3_v2”
+• size=“STANDARD_DS3_v2”
 
-•	min_instances=1
+• min_instances=1
 
-•	max_instances=4
+• max_instances=4
 
-•	tier=“dedicated“
+• tier=“dedicated“
 
 The cost of the compute resources must be minimized when a workload is active or idle. Cluster property changes must not affect the maximum amount of compute resources available to the workloads run on the cluster.
 
@@ -3068,12 +3068,12 @@ Which properties should you modify? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q133_image477.png)
+![Question Image](images/q133_image477.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q133_ans_image478.png)
+![Suggested Answer Image](images/q133_ans_image478.png)
 
 </details>
 
@@ -3089,16 +3089,16 @@ You manage an Azure Machine Learning workspace. You create an experiment named e
 
 You are reviewing the results of experiment by using the following code segment:
 
-![Question Image](images\q134_image479.png)
+![Question Image](images/q134_image479.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
-![Question Image](images\q134_image480.png)
+![Question Image](images/q134_image480.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q134_ans_image481.png)
+![Suggested Answer Image](images/q134_ans_image481.png)
 
 </details>
 
@@ -3117,7 +3117,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3141,12 +3141,12 @@ Which resource configuration should you use? To answer, select the appropriate o
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q136_image482.png)
+![Question Image](images/q136_image482.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q136_ans_image483.png)
+![Suggested Answer Image](images/q136_ans_image483.png)
 
 </details>
 
@@ -3168,12 +3168,12 @@ Which command should you use? To answer, select the appropriate options in the a
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q137_image484.png)
+![Question Image](images/q137_image484.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q137_ans_image485.png)
+![Suggested Answer Image](images/q137_ans_image485.png)
 
 </details>
 
@@ -3192,7 +3192,7 @@ Which parameter should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -3212,12 +3212,12 @@ How should you complete the code segment? To answer, select the appropriate opti
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q139_image486.png)
+![Question Image](images/q139_image486.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q139_ans_image487.png)
+![Suggested Answer Image](images/q139_ans_image487.png)
 
 </details>
 
@@ -3233,9 +3233,9 @@ You manage an Azure Machine Learning workspace named workspace1 by using the Pyt
 
 You must register datastores in workspace1 for Azure Blob storage and Azure Files storage to meet the following requirements:
 
-•	Azure Active Directory (Azure AD) authentication must be used for access to storage when possible.
+• Azure Active Directory (Azure AD) authentication must be used for access to storage when possible.
 
-•	Credentials and secrets stored in workspace1 must be valid for a specified time period when accessing Azure Files storage.
+• Credentials and secrets stored in workspace1 must be valid for a specified time period when accessing Azure Files storage.
 
 You need to configure a security access method used to register the Azure Blob and Azure Files storage in workspace1.
 
@@ -3243,12 +3243,12 @@ Which security access method should you configure? To answer, select the appropr
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q140_image488.png)
+![Question Image](images/q140_image488.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q140_ans_image489.png)
+![Suggested Answer Image](images/q140_ans_image489.png)
 
 </details>
 
@@ -3267,7 +3267,7 @@ What should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -3289,12 +3289,12 @@ How should you complete the code segment? To answer, select the appropriate opti
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q142_image490.png)
+![Question Image](images/q142_image490.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q142_ans_image491.png)
+![Suggested Answer Image](images/q142_ans_image491.png)
 
 </details>
 
@@ -3316,12 +3316,12 @@ How should you complete the script? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q143_image492.png)
+![Question Image](images/q143_image492.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q143_ans_image493.png)
+![Suggested Answer Image](images/q143_ans_image493.png)
 
 </details>
 
@@ -3338,7 +3338,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3356,12 +3356,12 @@ You need to add a new Jupyter kernel to compute1.
 
 Which four commands should you use? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q145_image494.png)
+![Question Image](images/q145_image494.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q145_ans_image495.png)
+![Suggested Answer Image](images/q145_ans_image495.png)
 
 </details>
 
@@ -3383,12 +3383,12 @@ How should you complete the code segment? To answer, select the appropriate opti
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q146_image496.png)
+![Question Image](images/q146_image496.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q146_ans_image497.png)
+![Suggested Answer Image](images/q146_ans_image497.png)
 
 </details>
 
@@ -3404,9 +3404,9 @@ You manage an Azure Machine Learning workspace named workspace1 by using the Pyt
 
 You must register datastores in workspace1 for Azure Blob and Azure Data Lake Gen2 storage to meet the following requirements:
 
-•	Data scientists accessing the datastore must have the same level of access.
+• Data scientists accessing the datastore must have the same level of access.
 
-•	Access must be restricted to specified containers or folders.
+• Access must be restricted to specified containers or folders.
 
 You need to configure a security access method used to register the Azure Blob and Azure Data Lake Gen2 storage in workspace1.
 
@@ -3414,12 +3414,12 @@ Which security access method should you configure? To answer, select the appropr
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q147_image498.png)
+![Question Image](images/q147_image498.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q147_ans_image499.png)
+![Suggested Answer Image](images/q147_ans_image499.png)
 
 </details>
 
@@ -3439,12 +3439,12 @@ You need to attach the Synapse Spark pool in Azure Machine Learning by using the
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q148_image500.png)
+![Question Image](images/q148_image500.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q148_ans_image501.png)
+![Suggested Answer Image](images/q148_ans_image501.png)
 
 </details>
 
@@ -3461,7 +3461,7 @@ Which parameter should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3471,15 +3471,15 @@ Which parameter should you use?
 
 You create an Azure Machine Learning managed compute resource. The compute resource is configured as follows:
 
-•	Minimum nodes: 2
+• Minimum nodes: 2
 
-•	Maximum nodes: 4
+• Maximum nodes: 4
 
 You must decrease the minimum number of nodes and increase the maximum number of nodes to the following values:
 
-•	Minimum nodes: 0
+• Minimum nodes: 0
 
-•	Maximum nodes: 8
+• Maximum nodes: 8
 
 You need to reconfigure the compute resource.
 
@@ -3490,7 +3490,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BCD
+BCD
 
 </details>
 
@@ -3507,7 +3507,7 @@ Which enum of the automl package should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -3523,11 +3523,11 @@ You use Azure Machine Learning designer to load the following datasets into an e
 
 Dataset1 -
 
-![Question Image](images\q152_image538.png)
+![Question Image](images/q152_image538.png)
 
 Dataset2 -
 
-![Question Image](images\q152_image539.png)
+![Question Image](images/q152_image539.png)
 
 You need to create a dataset that has the same columns and header row as the input datasets and contains all rows from both input datasets.
 
@@ -3538,7 +3538,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3550,7 +3550,7 @@ HOTSPOT -
 
 You collect data from a nearby weather station. You have a pandas dataframe named weather_df that includes the following data:
 
-![Question Image](images\q153_image540.png)
+![Question Image](images/q153_image540.png)
 
 The data is collected every 12 hours: noon and midnight.
 
@@ -3564,12 +3564,12 @@ How should you configure parameters of the classes that implement the job? To an
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q153_image541.png)
+![Question Image](images/q153_image541.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q153_ans_image602.png)
+![Suggested Answer Image](images/q153_ans_image602.png)
 
 </details>
 
@@ -3583,20 +3583,20 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images\q154_image554.png)
+![Question Image](images/q154_image554.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images\q154_image555.png)
+![Question Image](images/q154_image555.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3610,20 +3610,20 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images\q155_image554.png)
+![Question Image](images/q155_image554.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images\q155_image556.png)
+![Question Image](images/q155_image556.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3637,20 +3637,20 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images\q156_image554.png)
+![Question Image](images/q156_image554.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images\q156_image557.png)
+![Question Image](images/q156_image557.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3672,12 +3672,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q157_image558.png)
+![Question Image](images/q157_image558.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q157_ans_image559.png)
+![Suggested Answer Image](images/q157_ans_image559.png)
 
 </details>
 
@@ -3696,7 +3696,7 @@ Which protocol should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -3715,7 +3715,7 @@ Which method should you use to achieve this goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3734,7 +3734,7 @@ What should you set the Registry name filter to?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -3752,12 +3752,12 @@ You need to clone repo1 to make it available directly from WS1. The configuratio
 
 Which four actions should you perform in sequence?
 
-![Question Image](images\q161_image564.png)
+![Question Image](images/q161_image564.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q161_ans_image565.png)
+![Suggested Answer Image](images/q161_ans_image565.png)
 
 </details>
 
@@ -3776,7 +3776,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -3790,7 +3790,7 @@ HOTSPOT
 
 You manage an Azure subscription that contains the following resources:
 
-![Question Image](images\q163_image566.png)
+![Question Image](images/q163_image566.png)
 
 You plan to implement a solution that will automatically trigger the retraining of the model implemented by MLPipeline1. The trigger must be invoked if data drift is detected in Dataset1.
 
@@ -3800,12 +3800,12 @@ Which components should you select? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q163_image567.png)
+![Question Image](images/q163_image567.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q163_ans_image568.png)
+![Suggested Answer Image](images/q163_ans_image568.png)
 
 </details>
 
@@ -3826,7 +3826,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AE
+AE
 
 </details>
 
@@ -3845,7 +3845,7 @@ What should you do first?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  E
+E
 
 </details>
 
@@ -3866,7 +3866,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -3891,7 +3891,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3916,7 +3916,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -3941,7 +3941,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -3966,7 +3966,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -3991,7 +3991,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -4016,7 +4016,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4040,12 +4040,12 @@ Which storage and data processing service should you use? To answer, select the 
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q173_image577.png)
+![Question Image](images/q173_image577.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q173_ans_image578.png)
+![Suggested Answer Image](images/q173_ans_image578.png)
 
 </details>
 
@@ -4059,18 +4059,18 @@ You manage an Azure Machine Learning workspace named workspace1.
 
 You plan to create a registry named registry01 with the help of the following registry.yml (line numbers are used for reference only):
 
-![Question Image](images\q174_image579.png)
+![Question Image](images/q174_image579.png)
 
 You need to use Azure Machine Learning Python SDK v2 with Python 3.10 in a notebook to interact with workspace1.
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q174_image580.png)
+![Question Image](images/q174_image580.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q174_ans_image603.png)
+![Suggested Answer Image](images/q174_ans_image603.png)
 
 </details>
 
@@ -4090,12 +4090,12 @@ You need to add a new R kernel to the compute instance.
 
 In which order should you perform the actions? To answer, move all actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q175_image582.png)
+![Question Image](images/q175_image582.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q175_ans_image583.png)
+![Suggested Answer Image](images/q175_ans_image583.png)
 
 </details>
 
@@ -4117,12 +4117,12 @@ Which parameters should you use? To answer, select the appropriate options in th
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q176_image584.png)
+![Question Image](images/q176_image584.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q176_ans_image585.png)
+![Suggested Answer Image](images/q176_ans_image585.png)
 
 </details>
 
@@ -4147,7 +4147,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -4165,20 +4165,20 @@ You plan to use WS1 to train two models named model1 and model2. For model1, you
 
 You need to determine the compute targets you should use to train each model. Your solution must ensure the following:
 
-•	The compute target for model1 supports auto-shutdown/auto-start based on a schedule.
+• The compute target for model1 supports auto-shutdown/auto-start based on a schedule.
 
-•	The compute target for model2 supports the use of low-priority Azure Virtual Machines.
+• The compute target for model2 supports the use of low-priority Azure Virtual Machines.
 
 Which compute targets should you use? To answer, move the appropriate compute targets to the correct model. You may use each compute target once, more than once, or not at all. You may need to move the split bar between panes or scroll to view content.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q178_image586.png)
+![Question Image](images/q178_image586.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q178_ans_image587.png)
+![Suggested Answer Image](images/q178_ans_image587.png)
 
 </details>
 
@@ -4197,7 +4197,7 @@ Which authorization method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -4219,12 +4219,12 @@ How should you complete the provided code? To answer, select the appropriate opt
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q180_image592.png)
+![Question Image](images/q180_image592.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q180_ans_image593.png)
+![Suggested Answer Image](images/q180_ans_image593.png)
 
 </details>
 
@@ -4245,7 +4245,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AD
+AD
 
 </details>
 
@@ -4261,7 +4261,7 @@ You are using Azure Machine Learning to run an experiment that trains a classifi
 
 You want to use Hyperdrive to find parameters that optimize the AUC metric for the model. You configure a HyperDriveConfig for the experiment by running the following code:
 
-![Question Image](images\q182_0014400001.png)
+![Question Image](images/q182_0014400001.png)
 
 You plan to use this configuration to run a script that trains a random forest model and then tests it with validation data. The label values for the validation data are stored in a variable named y_test variable, and the predicted probabilities from the model are stored in a variable named y_predicted.
 
@@ -4269,14 +4269,14 @@ You need to add logging to the script to allow Hyperdrive to optimize hyperparam
 
 Solution: Run the following code:
 
-![Question Image](images\q182_0014400002.png)
+![Question Image](images/q182_0014400002.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4292,7 +4292,7 @@ You are using Azure Machine Learning to run an experiment that trains a classifi
 
 You want to use Hyperdrive to find parameters that optimize the AUC metric for the model. You configure a HyperDriveConfig for the experiment by running the following code:
 
-![Question Image](images\q183_0014500001.png)
+![Question Image](images/q183_0014500001.png)
 
 You plan to use this configuration to run a script that trains a random forest model and then tests it with validation data. The label values for the validation data are stored in a variable named y_test variable, and the predicted probabilities from the model are stored in a variable named y_predicted.
 
@@ -4300,14 +4300,14 @@ You need to add logging to the script to allow Hyperdrive to optimize hyperparam
 
 Solution: Run the following code:
 
-![Question Image](images\q183_0014600001.png)
+![Question Image](images/q183_0014600001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4323,7 +4323,7 @@ You are using Azure Machine Learning to run an experiment that trains a classifi
 
 You want to use Hyperdrive to find parameters that optimize the AUC metric for the model. You configure a HyperDriveConfig for the experiment by running the following code:
 
-![Question Image](images\q184_0014700001.png)
+![Question Image](images/q184_0014700001.png)
 
 You plan to use this configuration to run a script that trains a random forest model and then tests it with validation data. The label values for the validation data are stored in a variable named y_test variable, and the predicted probabilities from the model are stored in a variable named y_predicted.
 
@@ -4331,14 +4331,14 @@ You need to add logging to the script to allow Hyperdrive to optimize hyperparam
 
 Solution: Run the following code:
 
-![Question Image](images\q184_0014700002.png)
+![Question Image](images/q184_0014700002.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4348,7 +4348,7 @@ Does the solution meet the goal?
 
 You use the following code to run a script as an experiment in Azure Machine Learning:
 
-![Question Image](images\q185_0014800001.png)
+![Question Image](images/q185_0014800001.png)
 
 You must identify the output files that are generated by the experiment run.
 
@@ -4359,7 +4359,7 @@ Which code segment should you add to the script?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4371,7 +4371,7 @@ You write five Python scripts that must be processed in the order specified in E
 
 You must create an Azure Machine Learning pipeline using the Python SDK, because you want to script to create the pipeline to be tracked in your version control system. You have created five PythonScriptSteps and have named the variables to match the module names.
 
-![Question Image](images\q186_0014900001.png)
+![Question Image](images/q186_0014900001.png)
 
 You need to create the pipeline shown. Assume all relevant imports have been done.
 
@@ -4379,24 +4379,24 @@ Which Python code segment should you use?
 
 A.
 
-![Question Image](images\q186_0014900002.png)
+![Question Image](images/q186_0014900002.png)
 
 B.
 
-![Question Image](images\q186_0015000001.png)
+![Question Image](images/q186_0015000001.png)
 
 C.
 
-![Question Image](images\q186_0015000002.png)
+![Question Image](images/q186_0015000002.png)
 
 D.
 
-![Question Image](images\q186_0015000003.png)
+![Question Image](images/q186_0015000003.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -4408,11 +4408,11 @@ You create a datastore named training_data that references a blob container in a
 
 You have a script named train.py in a local folder named ./script that you plan to run as an experiment using an estimator. The script includes the following code to read data from the csv_files folder:
 
-![Question Image](images\q187_0015100001.png)
+![Question Image](images/q187_0015100001.png)
 
 You have the following script.
 
-![Question Image](images\q187_0015100002.png)
+![Question Image](images/q187_0015100002.png)
 
 You need to configure the estimator for the experiment so that the script can read the data from a data reference named data_ref that references the csv_files folder in the training_data datastore.
 
@@ -4420,28 +4420,28 @@ Which code should you use to configure the estimator?
 
 A.
 
-![Question Image](images\q187_0015200001.png)
+![Question Image](images/q187_0015200001.png)
 
 B.
 
-![Question Image](images\q187_0015200002.png)
+![Question Image](images/q187_0015200002.png)
 
 C.
 
-![Question Image](images\q187_0015200003.png)
+![Question Image](images/q187_0015200003.png)
 
 D.
 
-![Question Image](images\q187_0015200004.png)
+![Question Image](images/q187_0015200004.png)
 
 E.
 
-![Question Image](images\q187_0015200005.png)
+![Question Image](images/q187_0015200005.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4459,12 +4459,12 @@ Which three pipeline steps should you run in sequence? To answer, move the appro
 
 Select and Place:
 
-![Question Image](images\q188_0015400001.png)
+![Question Image](images/q188_0015400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q188_ans_0015500001.png)
+![Suggested Answer Image](images/q188_ans_0015500001.png)
 
 </details>
 
@@ -4478,7 +4478,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 An IT department creates the following Azure resource groups and resources:
 
-![Question Image](images\q189_0015600001.png)
+![Question Image](images/q189_0015600001.png)
 
 The IT department creates an Azure Kubernetes Service (AKS)-based inference compute target named aks-cluster in the Azure Machine Learning workspace.
 
@@ -4495,7 +4495,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -4509,7 +4509,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 An IT department creates the following Azure resource groups and resources:
 
-![Question Image](images\q190_0015700001.png)
+![Question Image](images/q190_0015700001.png)
 
 The IT department creates an Azure Kubernetes Service (AKS)-based inference compute target named aks-cluster in the Azure Machine Learning workspace.
 
@@ -4524,7 +4524,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -4538,7 +4538,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 An IT department creates the following Azure resource groups and resources:
 
-![Question Image](images\q191_0015800001.png)
+![Question Image](images/q191_0015800001.png)
 
 The IT department creates an Azure Kubernetes Service (AKS)-based inference compute target named aks-cluster in the Azure Machine Learning workspace.
 
@@ -4553,7 +4553,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4565,7 +4565,7 @@ HOTSPOT -
 
 You plan to use Hyperdrive to optimize the hyperparameters selected when training a model. You create the following code to define options for the hyperparameter experiment:
 
-![Question Image](images\q192_0016000001.png)
+![Question Image](images/q192_0016000001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -4573,12 +4573,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q192_0016000002.png)
+![Question Image](images/q192_0016000002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q192_ans_image604.png)
+![Suggested Answer Image](images/q192_ans_image604.png)
 
 </details>
 
@@ -4592,7 +4592,7 @@ You are using Azure Machine Learning to train machine learning models. You need 
 
 You run the following Python code:
 
-![Question Image](images\q193_0016200001.png)
+![Question Image](images/q193_0016200001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -4600,12 +4600,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q193_0016200002.png)
+![Question Image](images/q193_0016200002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q193_ans_0016300001.png)
+![Suggested Answer Image](images/q193_ans_0016300001.png)
 
 </details>
 
@@ -4621,7 +4621,7 @@ You plan to aggregate data for all of the TSV files together and then register t
 
 You run the following code.
 
-![Question Image](images\q194_0016500001.png)
+![Question Image](images/q194_0016500001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -4629,12 +4629,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q194_0016500002.png)
+![Question Image](images/q194_0016500002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q194_ans_0016600001.png)
+![Suggested Answer Image](images/q194_ans_0016600001.png)
 
 </details>
 
@@ -4644,7 +4644,7 @@ Hot Area:
 
 You create a batch inference pipeline by using the Azure ML SDK. You configure the pipeline parameters by executing the following code:
 
-![Question Image](images\q195_0016700001.png)
+![Question Image](images/q195_0016700001.png)
 
 You need to obtain the output from the pipeline execution.
 
@@ -4653,7 +4653,7 @@ Where will you find the output?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  E
+E
 
 </details>
 
@@ -4673,12 +4673,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images\q196_0016800001.png)
+![Question Image](images/q196_0016800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q196_ans_0016900001.png)
+![Suggested Answer Image](images/q196_ans_0016900001.png)
 
 </details>
 
@@ -4692,7 +4692,7 @@ You create a script for training a machine learning model in Azure Machine Learn
 
 You create an estimator by running the following code:
 
-![Question Image](images\q197_0017000001.png)
+![Question Image](images/q197_0017000001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -4700,12 +4700,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q197_0017100001.png)
+![Question Image](images/q197_0017100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q197_ans_0017100002.png)
+![Suggested Answer Image](images/q197_ans_0017100002.png)
 
 </details>
 
@@ -4717,11 +4717,11 @@ HOTSPOT -
 
 You have a Python data frame named salesData in the following format:
 
-![Question Image](images\q198_0017200001.png)
+![Question Image](images/q198_0017200001.png)
 
 The data frame must be unpivoted to a long data format as follows:
 
-![Question Image](images\q198_0017200002.png)
+![Question Image](images/q198_0017200002.png)
 
 You need to use the pandas.melt() function in Python to perform the transformation.
 
@@ -4731,12 +4731,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q198_0017300001.png)
+![Question Image](images/q198_0017300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q198_ans_image605.png)
+![Suggested Answer Image](images/q198_ans_image605.png)
 
 </details>
 
@@ -4748,7 +4748,7 @@ HOTSPOT -
 
 You are working on a classification task. You have a dataset indicating whether a student would like to play soccer and associated attributes. The dataset includes the following columns:
 
-![Question Image](images\q199_0017400001.png)
+![Question Image](images/q199_0017400001.png)
 
 You need to classify variables by type.
 
@@ -4758,12 +4758,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q199_0017500001.png)
+![Question Image](images/q199_0017500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q199_ans_0017600001.png)
+![Suggested Answer Image](images/q199_ans_0017600001.png)
 
 </details>
 
@@ -4783,7 +4783,7 @@ You need to configure the Preprocess Text module to meet the following requireme
 
 Remove words to optimize information retrieval.
 
-![Question Image](images\q200_0017600004.png)
+![Question Image](images/q200_0017600004.png)
 
 Which three options should you select? To answer, select the appropriate options in the answer area.
 
@@ -4791,12 +4791,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q200_0017800001.png)
+![Question Image](images/q200_0017800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q200_ans_0018000001.png)
+![Suggested Answer Image](images/q200_ans_0018000001.png)
 
 </details>
 
@@ -4815,7 +4815,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -4829,7 +4829,7 @@ You plan to run this script as an Azure Machine Learning experiment.
 
 The script loads the data and determines the number of rows it contains using the following code:
 
-![Question Image](images\q202_0018200001.png)
+![Question Image](images/q202_0018200001.png)
 
 You need to record the row count as a metric named row_count that can be returned using the get_metrics method of the Run object after the experiment run completes.
 
@@ -4838,7 +4838,7 @@ Which code should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4863,7 +4863,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -4888,7 +4888,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -4907,7 +4907,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BE
+BE
 
 </details>
 
@@ -4924,7 +4924,7 @@ Which visualization should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -4945,7 +4945,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ADF
+ADF
 
 </details>
 
@@ -4963,12 +4963,12 @@ In which order should you perform the actions? To answer, move all actions from 
 
 Select and Place:
 
-![Question Image](images\q208_0018800001.png)
+![Question Image](images/q208_0018800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q208_ans_image606.png)
+![Suggested Answer Image](images/q208_ans_image606.png)
 
 </details>
 
@@ -4982,7 +4982,7 @@ You are using the Hyperdrive feature in Azure Machine Learning to train a model.
 
 You configure the Hyperdrive experiment by running the following code:
 
-![Question Image](images\q209_0018900001.png)
+![Question Image](images/q209_0018900001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -4990,12 +4990,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q209_0019000001.png)
+![Question Image](images/q209_0019000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q209_ans_image607.png)
+![Suggested Answer Image](images/q209_ans_image607.png)
 
 </details>
 
@@ -5014,7 +5014,7 @@ Which method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -5034,12 +5034,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q211_0019300001.png)
+![Question Image](images/q211_0019300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q211_ans_0019400001.png)
+![Suggested Answer Image](images/q211_ans_0019400001.png)
 
 </details>
 
@@ -5067,12 +5067,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q212_0019600001.png)
+![Question Image](images/q212_0019600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q212_ans_0019700001.png)
+![Suggested Answer Image](images/q212_ans_0019700001.png)
 
 </details>
 
@@ -5089,7 +5089,7 @@ Which parameter and value pair should you use in the AutoMLConfig class?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -5117,12 +5117,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q214_0020000001.png)
+![Question Image](images/q214_0020000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q214_ans_image608.png)
+![Suggested Answer Image](images/q214_ans_image608.png)
 
 </details>
 
@@ -5141,7 +5141,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BD
+BD
 
 </details>
 
@@ -5166,7 +5166,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -5185,7 +5185,7 @@ Which Azure Machine Learning Studio module should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -5202,7 +5202,7 @@ Which visualization should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -5221,7 +5221,7 @@ Which value should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -5237,7 +5237,7 @@ You use 75 percent of the data points for training and 25 percent for testing. Y
 
 You create the following Python data frames:
 
-![Question Image](images\q220_0020600001.png)
+![Question Image](images/q220_0020600001.png)
 
 You need to apply the Principal Component Analysis (PCA) method to reduce the dimensionality of the feature set to 10 features in both training and testing sets.
 
@@ -5247,12 +5247,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q220_0020700001.png)
+![Question Image](images/q220_0020700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q220_ans_0020800001.png)
+![Suggested Answer Image](images/q220_ans_0020800001.png)
 
 </details>
 
@@ -5266,7 +5266,7 @@ You have a feature set containing the following numerical features: X, Y, and Z.
 
 The Poisson correlation coefficient (r-value) of X, Y, and Z features is shown in the following image:
 
-![Question Image](images\q221_0020900001.png)
+![Question Image](images/q221_0020900001.png)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the graphic.
 
@@ -5274,12 +5274,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q221_0021000001.png)
+![Question Image](images/q221_0021000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q221_ans_0021000002.png)
+![Suggested Answer Image](images/q221_ans_0021000002.png)
 
 </details>
 
@@ -5317,12 +5317,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q222_0021200001.png)
+![Question Image](images/q222_0021200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q222_ans_0021300001.png)
+![Suggested Answer Image](images/q222_ans_0021300001.png)
 
 </details>
 
@@ -5343,7 +5343,7 @@ Which property should you set?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -5355,11 +5355,11 @@ You register a file dataset named csv_folder that references a folder. The folde
 
 You plan to use the following code to run a script that loads data from the file dataset. You create and instantiate the following variables:
 
-![Question Image](images\q224_0021500001.png)
+![Question Image](images/q224_0021500001.png)
 
 You have the following code:
 
-![Question Image](images\q224_0021500002.png)
+![Question Image](images/q224_0021500002.png)
 
 You need to pass the dataset to ensure that the script can read the files it references.
 
@@ -5368,7 +5368,7 @@ Which code segment should you insert to replace the code comment?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -5387,7 +5387,7 @@ Which module should you add to the pipeline in Designer?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -5403,7 +5403,7 @@ You plan to train the model by using the Azure Machine Learning SDK to run an ex
 
 You define a DataReference object by running the following code:
 
-![Question Image](images\q226_0021700001.png)
+![Question Image](images/q226_0021700001.png)
 
 You need to load the training data.
 
@@ -5411,28 +5411,28 @@ Which code segment should you use?
 
 A.
 
-![Question Image](images\q226_0021800001.png)
+![Question Image](images/q226_0021800001.png)
 
 B.
 
-![Question Image](images\q226_0021800002.png)
+![Question Image](images/q226_0021800002.png)
 
 C.
 
-![Question Image](images\q226_0021800003.png)
+![Question Image](images/q226_0021800003.png)
 
 D.
 
-![Question Image](images\q226_0021800004.png)
+![Question Image](images/q226_0021800004.png)
 
 E.
 
-![Question Image](images\q226_0021800005.png)
+![Question Image](images/q226_0021800005.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  E
+E
 
 </details>
 
@@ -5470,22 +5470,22 @@ id,f1,f2,I
 
 You run the following code:
 
-![Question Image](images\q227_0022000001.png)
+![Question Image](images/q227_0022000001.png)
 
 You need to create a dataset named training_data and load the data from all files into a single data frame by using the following code:
 
-![Question Image](images\q227_0022000002.png)
+![Question Image](images/q227_0022000002.png)
 
 Solution: Run the following code:
 
-![Question Image](images\q227_0022000003.png)
+![Question Image](images/q227_0022000003.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -5523,22 +5523,22 @@ id,f1,f2,I
 
 You run the following code:
 
-![Question Image](images\q228_0022100006.png)
+![Question Image](images/q228_0022100006.png)
 
 You need to create a dataset named training_data and load the data from all files into a single data frame by using the following code:
 
-![Question Image](images\q228_0022100007.png)
+![Question Image](images/q228_0022100007.png)
 
 Solution: Run the following code:
 
-![Question Image](images\q228_0022100008.png)
+![Question Image](images/q228_0022100008.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -5576,22 +5576,22 @@ id,f1,f2,I
 
 You run the following code:
 
-![Question Image](images\q229_0022300001.png)
+![Question Image](images/q229_0022300001.png)
 
 You need to create a dataset named training_data and load the data from all files into a single data frame by using the following code:
 
-![Question Image](images\q229_0022300002.png)
+![Question Image](images/q229_0022300002.png)
 
 Solution: Run the following code:
 
-![Question Image](images\q229_0022300003.png)
+![Question Image](images/q229_0022300003.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -5616,7 +5616,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BD
+BD
 
 </details>
 
@@ -5628,7 +5628,7 @@ HOTSPOT -
 
 Your Azure Machine Learning workspace has a dataset named real_estate_data. A sample of the data in the dataset follows.
 
-![Question Image](images\q231_0022500003.png)
+![Question Image](images/q231_0022500003.png)
 
 You want to use automated machine learning to find the best regression model for predicting the price column.
 
@@ -5640,12 +5640,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q231_0022600001.png)
+![Question Image](images/q231_0022600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q231_ans_0022700001.png)
+![Suggested Answer Image](images/q231_ans_0022700001.png)
 
 </details>
 
@@ -5657,7 +5657,7 @@ HOTSPOT -
 
 You have a multi-class image classification deep learning model that uses a set of labeled photographs. You create the following code to select hyperparameter values when training the model.
 
-![Question Image](images\q232_0022900001.png)
+![Question Image](images/q232_0022900001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -5665,12 +5665,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q232_0023000001.png)
+![Question Image](images/q232_0023000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q232_ans_0023000002.png)
+![Suggested Answer Image](images/q232_ans_0023000002.png)
 
 </details>
 
@@ -5680,7 +5680,7 @@ Hot Area:
 
 You run an automated machine learning experiment in an Azure Machine Learning workspace. Information about the run is listed in the table below:
 
-![Question Image](images\q233_0023100001.png)
+![Question Image](images/q233_0023100001.png)
 
 You need to write a script that uses the Azure Machine Learning SDK to retrieve the best iteration of the experiment run.
 
@@ -5688,28 +5688,28 @@ Which Python code segment should you use?
 
 A.
 
-![Question Image](images\q233_0023100002.png)
+![Question Image](images/q233_0023100002.png)
 
 B.
 
-![Question Image](images\q233_0023100003.png)
+![Question Image](images/q233_0023100003.png)
 
 C.
 
-![Question Image](images\q233_0023100004.png)
+![Question Image](images/q233_0023100004.png)
 
 D.
 
-![Question Image](images\q233_0023200001.png)
+![Question Image](images/q233_0023200001.png)
 
 E.
 
-![Question Image](images\q233_0023200002.png)
+![Question Image](images/q233_0023200002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -5728,7 +5728,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -5742,7 +5742,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You plan to use a Python script to run an Azure Machine Learning experiment. The script creates a reference to the experiment run context, loads data from a file, identifies the set of unique values for the label column, and completes the experiment run:
 
-![Question Image](images\q235_0023300001.png)
+![Question Image](images/q235_0023300001.png)
 
 The experiment must record the unique labels in the data as metrics for the run that can be reviewed later.
 
@@ -5757,7 +5757,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -5771,7 +5771,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You plan to use a Python script to run an Azure Machine Learning experiment. The script creates a reference to the experiment run context, loads data from a file, identifies the set of unique values for the label column, and completes the experiment run:
 
-![Question Image](images\q236_0023500001.png)
+![Question Image](images/q236_0023500001.png)
 
 The experiment must record the unique labels in the data as metrics for the run that can be reviewed later.
 
@@ -5786,7 +5786,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -5800,7 +5800,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You plan to use a Python script to run an Azure Machine Learning experiment. The script creates a reference to the experiment run context, loads data from a file, identifies the set of unique values for the label column, and completes the experiment run:
 
-![Question Image](images\q237_0023600001.png)
+![Question Image](images/q237_0023600001.png)
 
 The experiment must record the unique labels in the data as metrics for the run that can be reviewed later.
 
@@ -5817,7 +5817,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -5839,12 +5839,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q238_0023800001.png)
+![Question Image](images/q238_0023800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q238_ans_0023900001.png)
+![Suggested Answer Image](images/q238_ans_0023900001.png)
 
 </details>
 
@@ -5870,12 +5870,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q239_0024100001.png)
+![Question Image](images/q239_0024100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q239_ans_0024200001.png)
+![Suggested Answer Image](images/q239_ans_0024200001.png)
 
 </details>
 
@@ -5894,7 +5894,7 @@ Which value should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -5914,12 +5914,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q241_0024500001.png)
+![Question Image](images/q241_0024500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q241_ans_0024600001.png)
+![Suggested Answer Image](images/q241_ans_0024600001.png)
 
 </details>
 
@@ -5939,12 +5939,12 @@ Which five actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images\q242_0024800001.png)
+![Question Image](images/q242_0024800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q242_ans_0024800002.png)
+![Suggested Answer Image](images/q242_ans_0024800002.png)
 
 </details>
 
@@ -5956,18 +5956,18 @@ HOTSPOT -
 
 You are tuning a hyperparameter for an algorithm. The following table shows a data set with different hyperparameter, training error, and validation errors.
 
-![Question Image](images\q243_0024900001.png)
+![Question Image](images/q243_0024900001.png)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the graphic.
 
 Hot Area:
 
-![Question Image](images\q243_0025000001.png)
+![Question Image](images/q243_0025000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q243_ans_0025100001.png)
+![Suggested Answer Image](images/q243_ans_0025100001.png)
 
 </details>
 
@@ -5985,14 +5985,14 @@ You need to create a pipeline that runs a processing script to load data from a 
 
 Solution: Run the following code:
 
-![Question Image](images\q244_0025200001.png)
+![Question Image](images/q244_0025200001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6010,14 +6010,14 @@ You need to create a pipeline that runs a processing script to load data from a 
 
 Solution: Run the following code:
 
-![Question Image](images\q245_0025400001.png)
+![Question Image](images/q245_0025400001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6035,14 +6035,14 @@ You need to create a pipeline that runs a processing script to load data from a 
 
 Solution: Run the following code:
 
-![Question Image](images\q246_0025500001.png)
+![Question Image](images/q246_0025500001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6062,14 +6062,14 @@ You need to configure the run to ensure that the environment includes the requir
 
 Solution: Run the following code:
 
-![Question Image](images\q247_0025600001.png)
+![Question Image](images/q247_0025600001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6089,14 +6089,14 @@ You need to configure the run to ensure that the environment includes the requir
 
 Solution: Run the following code:
 
-![Question Image](images\q248_0025800001.png)
+![Question Image](images/q248_0025800001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6116,14 +6116,14 @@ You need to configure the run to ensure that the environment includes the requir
 
 Solution: Run the following code:
 
-![Question Image](images\q249_0025900001.png)
+![Question Image](images/q249_0025900001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6145,12 +6145,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q250_0026000001.png)
+![Question Image](images/q250_0026000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q250_ans_0026100001.png)
+![Suggested Answer Image](images/q250_ans_0026100001.png)
 
 </details>
 
@@ -6170,12 +6170,12 @@ Which three modules should you use in sequence? To answer, move the appropriate 
 
 Select and Place:
 
-![Question Image](images\q251_0026200001.png)
+![Question Image](images/q251_0026200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q251_ans_0026300001.png)
+![Suggested Answer Image](images/q251_ans_0026300001.png)
 
 </details>
 
@@ -6196,7 +6196,7 @@ Which estimator type should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6212,13 +6212,13 @@ The training pipeline is shown in the exhibit. (Click the Training pipeline tab.
 
 Training pipeline -
 
-![Question Image](images\q253_0026700001.png)
+![Question Image](images/q253_0026700001.png)
 
 You create a real-time inference pipeline from the training pipeline, as shown in the exhibit. (Click the Real-time pipeline tab.)
 
 Real-time pipeline -
 
-![Question Image](images\q253_0026800001.jpg)
+![Question Image](images/q253_0026800001.jpg)
 
 You need to modify the inference pipeline to ensure that the web service returns the exponential of the scored label as the predicted automobile price and that client applications are not required to include a price value in the input values.
 
@@ -6229,7 +6229,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ACE
+ACE
 
 </details>
 
@@ -6241,13 +6241,13 @@ HOTSPOT -
 
 You register the following versions of a model.
 
-![Question Image](images\q254_0026900001.png)
+![Question Image](images/q254_0026900001.png)
 
 You use the Azure ML Python SDK to run a training experiment. You use a variable named run to reference the experiment run.
 
 After the run has been submitted and completed, you run the following code:
 
-![Question Image](images\q254_0026900002.png)
+![Question Image](images/q254_0026900002.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -6255,12 +6255,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q254_0027000001.png)
+![Question Image](images/q254_0027000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q254_ans_0027000002.png)
+![Suggested Answer Image](images/q254_ans_0027000002.png)
 
 </details>
 
@@ -6281,7 +6281,7 @@ Which primary metric should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6302,7 +6302,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  CE
+CE
 
 </details>
 
@@ -6314,7 +6314,7 @@ HOTSPOT -
 
 You collect data from a nearby weather station. You have a pandas dataframe named weather_df that includes the following data:
 
-![Question Image](images\q257_0027200001.png)
+![Question Image](images/q257_0027200001.png)
 
 The data is collected every 12 hours: noon and midnight.
 
@@ -6330,12 +6330,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q257_0027400001.png)
+![Question Image](images/q257_0027400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q257_ans_image609.png)
+![Suggested Answer Image](images/q257_ans_image609.png)
 
 </details>
 
@@ -6353,14 +6353,14 @@ You need to create a pipeline that runs a processing script to load data from a 
 
 Solution: Run the following code:
 
-![Question Image](images\q258_0027700001.png)
+![Question Image](images/q258_0027700001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -6372,7 +6372,7 @@ You run an experiment that uses an AutoMLConfig class to define an automated mac
 
 You submit the experiment with the following code:
 
-![Question Image](images\q259_0027800001.png)
+![Question Image](images/q259_0027800001.png)
 
 You need to create Python code that returns the best model that is generated by the automated machine learning task.
 
@@ -6381,7 +6381,7 @@ Which code segment should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -6406,7 +6406,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  CD
+CD
 
 </details>
 
@@ -6422,7 +6422,7 @@ You need to select an early termination policy that meets the following requirem
 
 ✑ accounts for the performance of all previous runs when evaluating the current run avoids comparing the current run with only the best performing run to date
 
-![Question Image](images\q261_0028000002.png)
+![Question Image](images/q261_0028000002.png)
 
 Which two early termination policies should you use? Each correct answer presents part of the solution.
 
@@ -6431,7 +6431,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AD
+AD
 
 </details>
 
@@ -6451,12 +6451,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q262_0028200001.png)
+![Question Image](images/q262_0028200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q262_ans_0028300001.png)
+![Suggested Answer Image](images/q262_ans_0028300001.png)
 
 </details>
 
@@ -6468,7 +6468,7 @@ HOTSPOT -
 
 You have a dataset that includes home sales data for a city. The dataset includes the following columns.
 
-![Question Image](images\q263_0028400001.png)
+![Question Image](images/q263_0028400001.png)
 
 Each row in the dataset corresponds to an individual home sales transaction.
 
@@ -6480,12 +6480,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q263_0028500001.png)
+![Question Image](images/q263_0028500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q263_ans_0028600001.png)
+![Suggested Answer Image](images/q263_ans_0028600001.png)
 
 </details>
 
@@ -6504,7 +6504,7 @@ What are two possible ways to achieve this goal? Each correct answer presents a 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BD
+BD
 
 </details>
 
@@ -6522,12 +6522,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images\q265_0028800001.png)
+![Question Image](images/q265_0028800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q265_ans_image610.png)
+![Suggested Answer Image](images/q265_ans_image610.png)
 
 </details>
 
@@ -6548,7 +6548,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BD
+BD
 
 </details>
 
@@ -6572,12 +6572,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q267_0029100001.png)
+![Question Image](images/q267_0029100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q267_ans_0029200001.png)
+![Suggested Answer Image](images/q267_ans_0029200001.png)
 
 </details>
 
@@ -6600,7 +6600,7 @@ Which parameter sweep mode should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -6621,7 +6621,7 @@ Which of the following is correct?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6641,14 +6641,14 @@ You need to configure the run to ensure that the environment includes the requir
 
 Solution: Run the following code:
 
-![Question Image](images\q270_0029500001.png)
+![Question Image](images/q270_0029500001.png)
 
 Does the solution meet the goal?
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6667,7 +6667,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ACD
+ACD
 
 </details>
 
@@ -6681,7 +6681,7 @@ You are using C-Support Vector classification to do a multi-class classification
 
 Python code shown below:
 
-![Question Image](images\q272_0029700001.png)
+![Question Image](images/q272_0029700001.png)
 
 You need to evaluate the C-Support Vector classification code.
 
@@ -6691,12 +6691,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q272_0029800001.png)
+![Question Image](images/q272_0029800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q272_ans_0029800002.png)
+![Suggested Answer Image](images/q272_ans_0029800002.png)
 
 </details>
 
@@ -6713,7 +6713,7 @@ Which type of neural network should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -6732,7 +6732,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BC
+BC
 
 </details>
 
@@ -6751,7 +6751,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  E
+E
 
 </details>
 
@@ -6770,7 +6770,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -6791,7 +6791,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -6810,7 +6810,7 @@ Which class object should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -6831,7 +6831,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  DE
+DE
 
 </details>
 
@@ -6841,7 +6841,7 @@ NOTE: Each correct selection is worth one point.
 
 You have the following code. The code prepares an experiment to run a script:
 
-![Question Image](images\q280_0030400001.png)
+![Question Image](images/q280_0030400001.png)
 
 The experiment must be run on local computer using the default environment.
 
@@ -6852,7 +6852,7 @@ Which code segment should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -6879,7 +6879,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  CD
+CD
 
 </details>
 
@@ -6899,12 +6899,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q282_0030700001.png)
+![Question Image](images/q282_0030700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q282_ans_image611.png)
+![Suggested Answer Image](images/q282_ans_image611.png)
 
 </details>
 
@@ -6923,7 +6923,7 @@ Which class should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -6945,12 +6945,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q284_0030900001.png)
+![Question Image](images/q284_0030900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q284_ans_image612.png)
+![Suggested Answer Image](images/q284_ans_image612.png)
 
 </details>
 
@@ -6962,7 +6962,7 @@ You plan to run a Python script as an Azure Machine Learning experiment.
 
 The script contains the following code:
 
-![Question Image](images\q285_0031000001.png)
+![Question Image](images/q285_0031000001.png)
 
 You must specify a file dataset as an input to the script. The dataset consists of multiple large image files and must be streamed directly from its source.
 
@@ -6973,7 +6973,7 @@ Which code segment should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -6992,7 +6992,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AC
+AC
 
 </details>
 
@@ -7006,7 +7006,7 @@ You use an Azure Machine Learning workspace.
 
 You create the following Python code:
 
-![Question Image](images\q287_0031300001.png)
+![Question Image](images/q287_0031300001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -7014,12 +7014,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q287_0031300002.png)
+![Question Image](images/q287_0031300002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q287_ans_0031400001.png)
+![Suggested Answer Image](images/q287_ans_0031400001.png)
 
 </details>
 
@@ -7041,12 +7041,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q288_0031600001.png)
+![Question Image](images/q288_0031600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q288_ans_0031700001.png)
+![Suggested Answer Image](images/q288_ans_0031700001.png)
 
 </details>
 
@@ -7060,7 +7060,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You plan to use a Python script to run an Azure Machine Learning experiment. The script creates a reference to the experiment run context, loads data from a file, identifies the set of unique values for the label column, and completes the experiment run:
 
-![Question Image](images\q289_0031800001.png)
+![Question Image](images/q289_0031800001.png)
 
 The experiment must record the unique labels in the data as metrics for the run that can be reviewed later.
 
@@ -7075,7 +7075,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -7085,7 +7085,7 @@ Does the solution meet the goal?
 
 You use the Azure Machine Learning SDK for Python to create a pipeline that includes the following step:
 
-![Question Image](images\q290_image406.png)
+![Question Image](images/q290_image406.png)
 
 The output of the step run must be cached and reused on subsequent runs when the source_directory value has not changed.
 
@@ -7096,7 +7096,7 @@ What should you include in the step definition?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -7113,7 +7113,7 @@ What should you implement?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -7129,18 +7129,18 @@ You build a data pipeline in an Azure Machine Learning workspace by using the Az
 
 You create the following code fragment in Python:
 
-![Question Image](images\q292_image407.png)
+![Question Image](images/q292_image407.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q292_image408.png)
+![Question Image](images/q292_image408.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q292_ans_image409.png)
+![Suggested Answer Image](images/q292_ans_image409.png)
 
 </details>
 
@@ -7162,12 +7162,12 @@ Which values should you use? To answer, select the appropriate options in the an
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q293_image410.png)
+![Question Image](images/q293_image410.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q293_ans_image411.png)
+![Suggested Answer Image](images/q293_ans_image411.png)
 
 </details>
 
@@ -7188,7 +7188,7 @@ What should you select?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -7208,12 +7208,12 @@ You need to complete the identification.
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q295_image412.png)
+![Question Image](images/q295_image412.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q295_ans_image413.png)
+![Suggested Answer Image](images/q295_ans_image413.png)
 
 </details>
 
@@ -7235,12 +7235,12 @@ Which code segments should you use? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q296_image414.png)
+![Question Image](images/q296_image414.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q296_ans_image415.png)
+![Suggested Answer Image](images/q296_ans_image415.png)
 
 </details>
 
@@ -7262,12 +7262,12 @@ Which values should you use? To answer, select the appropriate options in the an
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q297_image416.png)
+![Question Image](images/q297_image416.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q297_ans_image417.png)
+![Suggested Answer Image](images/q297_ans_image417.png)
 
 </details>
 
@@ -7284,7 +7284,7 @@ Which statistic should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -7306,12 +7306,12 @@ What should you evaluate? To answer, select the appropriate options in the answe
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q299_image418.png)
+![Question Image](images/q299_image418.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q299_ans_image419.png)
+![Suggested Answer Image](images/q299_ans_image419.png)
 
 </details>
 
@@ -7327,7 +7327,7 @@ You train a machine learning model by using Azure Machine Learning.
 
 You use the following training script in Python to log an accuracy value:
 
-![Question Image](images\q300_image420.png)
+![Question Image](images/q300_image420.png)
 
 You must use a Python script to define a sweep job.
 
@@ -7337,12 +7337,12 @@ How should you complete the Python script? To answer, select the appropriate opt
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q300_image421.png)
+![Question Image](images/q300_image421.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q300_ans_image422.png)
+![Suggested Answer Image](images/q300_ans_image422.png)
 
 </details>
 
@@ -7364,12 +7364,12 @@ How should you complete the script? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q301_image423.png)
+![Question Image](images/q301_image423.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q301_ans_image424.png)
+![Suggested Answer Image](images/q301_ans_image424.png)
 
 </details>
 
@@ -7388,7 +7388,7 @@ Which type of test should you perform?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -7407,7 +7407,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -7426,7 +7426,7 @@ What should you do first?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -7438,11 +7438,11 @@ You are developing a machine learning model by using Azure Machine Learning. You
 
 You have the following requirements:
 
-•	You must use AutoMLjobs to train the model.
+• You must use AutoMLjobs to train the model.
 
-•	You must use data from specified columns.
+• You must use data from specified columns.
 
-•	The data concept must support lazy evaluation.
+• The data concept must support lazy evaluation.
 
 You need to load data into a Pandas dataframe.
 
@@ -7451,7 +7451,7 @@ Which data concept should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -7470,7 +7470,7 @@ Which epsilon value should you accept for your data?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -7487,7 +7487,7 @@ Which data format should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -7506,7 +7506,7 @@ Which sampling method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -7524,12 +7524,12 @@ You need to use MLflow Tracking to store metrics and artifacts from your local e
 
 In which order should you perform the actions? To answer, move all actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q309_image425.png)
+![Question Image](images/q309_image425.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q309_ans_image426.png)
+![Suggested Answer Image](images/q309_ans_image426.png)
 
 </details>
 
@@ -7551,12 +7551,12 @@ Which code segments should you use? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q310_image427.png)
+![Question Image](images/q310_image427.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q310_ans_image428.png)
+![Suggested Answer Image](images/q310_ans_image428.png)
 
 </details>
 
@@ -7575,7 +7575,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  CD
+CD
 
 </details>
 
@@ -7597,12 +7597,12 @@ Which configurations should you use? To answer, select the appropriate options i
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q312_image429.png)
+![Question Image](images/q312_image429.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q312_ans_image430.png)
+![Suggested Answer Image](images/q312_ans_image430.png)
 
 </details>
 
@@ -7622,12 +7622,12 @@ Which code values should you use? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q313_image431.png)
+![Question Image](images/q313_image431.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q313_ans_image613.png)
+![Suggested Answer Image](images/q313_ans_image613.png)
 
 </details>
 
@@ -7649,12 +7649,12 @@ What should you use? To answer, select the appropriate options in the answer are
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q314_image433.png)
+![Question Image](images/q314_image433.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q314_ans_image434.png)
+![Suggested Answer Image](images/q314_ans_image434.png)
 
 </details>
 
@@ -7676,12 +7676,12 @@ How should you complete the script? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q315_image435.png)
+![Question Image](images/q315_image435.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q315_ans_image436.png)
+![Suggested Answer Image](images/q315_ans_image436.png)
 
 </details>
 
@@ -7701,12 +7701,12 @@ Which code segments should you use? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q316_image458.png)
+![Question Image](images/q316_image458.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q316_ans_image614.png)
+![Suggested Answer Image](images/q316_ans_image614.png)
 
 </details>
 
@@ -7716,7 +7716,7 @@ NOTE: Each correct selection is worth one point.
 
 You register a model in an Azure Machine Learning workspace by running the following code:
 
-![Question Image](images\q317_image460.png)
+![Question Image](images/q317_image460.png)
 
 You are creating a scoring script to use in a real-time service for the model.
 
@@ -7727,7 +7727,7 @@ Which code segment should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -7746,7 +7746,7 @@ Which code segment should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -7765,7 +7765,7 @@ Which event should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -7787,12 +7787,12 @@ Which configurations should you use? To answer, select the appropriate options i
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q320_image465.png)
+![Question Image](images/q320_image465.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q320_ans_image466.png)
+![Suggested Answer Image](images/q320_ans_image466.png)
 
 </details>
 
@@ -7808,9 +7808,9 @@ You use Azure Machine Learning and SmartNoise Python libraries to implement a di
 
 The solution has the following requirements:
 
-•	Allow for multiple queries targeting the mean and variance of the citizen’s age.
+• Allow for multiple queries targeting the mean and variance of the citizen’s age.
 
-•	Ensure full plausible deniability.
+• Ensure full plausible deniability.
 
 You need to define the query rate limit to minimize the risk of re-identification.
 
@@ -7818,12 +7818,12 @@ What should you configure? To answer, select the appropriate options in the answ
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q321_image467.png)
+![Question Image](images/q321_image467.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q321_ans_image468.png)
+![Suggested Answer Image](images/q321_ans_image468.png)
 
 </details>
 
@@ -7842,7 +7842,7 @@ Which hyperparameter sampling approach should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -7863,7 +7863,7 @@ What should you identify?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -7883,12 +7883,12 @@ What should you define? To answer, select the appropriate options in the answer 
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q324_image469.png)
+![Question Image](images/q324_image469.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q324_ans_image470.png)
+![Suggested Answer Image](images/q324_ans_image470.png)
 
 </details>
 
@@ -7903,7 +7903,7 @@ What does an epsilon value greater than one represent?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -7937,12 +7937,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q326_image502.png)
+![Question Image](images/q326_image502.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q326_ans_image503.png)
+![Suggested Answer Image](images/q326_ans_image503.png)
 
 </details>
 
@@ -7960,12 +7960,12 @@ You need to ensure that you can use MLflow Tracking with Azure Machine Learning 
 
 In which order should you perform the actions? To answer, move all actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q327_image504.png)
+![Question Image](images/q327_image504.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q327_ans_image505.png)
+![Suggested Answer Image](images/q327_ans_image505.png)
 
 </details>
 
@@ -7984,7 +7984,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -8006,12 +8006,12 @@ Which configuration values should you use? To answer, select the appropriate opt
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q329_image506.png)
+![Question Image](images/q329_image506.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q329_ans_image507.png)
+![Suggested Answer Image](images/q329_ans_image507.png)
 
 </details>
 
@@ -8028,7 +8028,7 @@ What should you provision first?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -8058,12 +8058,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q331_image508.png)
+![Question Image](images/q331_image508.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q331_ans_image509.png)
+![Suggested Answer Image](images/q331_ans_image509.png)
 
 </details>
 
@@ -8082,7 +8082,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -8101,7 +8101,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AB
+AB
 
 </details>
 
@@ -8120,7 +8120,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -8141,7 +8141,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AB
+AB
 
 </details>
 
@@ -8161,12 +8161,12 @@ You need to implement the Python SDK v2 code to store metrics and artifacts in w
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q336_image510.png)
+![Question Image](images/q336_image510.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q336_ans_image511.png)
+![Suggested Answer Image](images/q336_ans_image511.png)
 
 </details>
 
@@ -8185,7 +8185,7 @@ Which class should you import?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -8209,12 +8209,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q338_image512.png)
+![Question Image](images/q338_image512.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q338_ans_image513.png)
+![Suggested Answer Image](images/q338_ans_image513.png)
 
 </details>
 
@@ -8236,12 +8236,12 @@ How should you complete the code segment? To answer, select the appropriate opti
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q339_image514.png)
+![Question Image](images/q339_image514.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q339_ans_image515.png)
+![Suggested Answer Image](images/q339_ans_image515.png)
 
 </details>
 
@@ -8260,7 +8260,7 @@ Which epsilon value should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -8274,16 +8274,16 @@ You manage an Azure Machine Learning workspace. You configure an automated machi
 
 You configure the regression job by using the following script:
 
-![Question Image](images\q341_image516.png)
+![Question Image](images/q341_image516.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
-![Question Image](images\q341_image517.png)
+![Question Image](images/q341_image517.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q341_ans_image615.png)
+![Suggested Answer Image](images/q341_ans_image615.png)
 
 </details>
 
@@ -8303,12 +8303,12 @@ You need to configure the Responsible AI (RAI) dashboard for model1.
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q342_image519.png)
+![Question Image](images/q342_image519.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q342_ans_image520.png)
+![Suggested Answer Image](images/q342_ans_image520.png)
 
 </details>
 
@@ -8322,18 +8322,18 @@ You are using hyperparameter tuning in Azure Machine Learning Python SDK v2 to t
 
 You configure the hyperparameter tuning experiment by running the following code:
 
-![Question Image](images\q343_image521.png)
+![Question Image](images/q343_image521.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q343_image522.png)
+![Question Image](images/q343_image522.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q343_ans_image616.png)
+![Suggested Answer Image](images/q343_ans_image616.png)
 
 </details>
 
@@ -8361,12 +8361,12 @@ How should you complete the Python script? To answer, select the appropriate opt
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q344_image524.png)
+![Question Image](images/q344_image524.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q344_ans_image525.png)
+![Suggested Answer Image](images/q344_ans_image525.png)
 
 </details>
 
@@ -8387,7 +8387,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BCE
+BCE
 
 </details>
 
@@ -8408,7 +8408,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AB
+AB
 
 </details>
 
@@ -8428,12 +8428,12 @@ Which metrics should you configure? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q347_image543.png)
+![Question Image](images/q347_image543.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q347_ans_image544.png)
+![Suggested Answer Image](images/q347_ans_image544.png)
 
 </details>
 
@@ -8457,12 +8457,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q348_image545.png)
+![Question Image](images/q348_image545.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q348_ans_image546.png)
+![Suggested Answer Image](images/q348_ans_image546.png)
 
 </details>
 
@@ -8478,16 +8478,16 @@ You perform hyperparameter tuning with Azure Machine Learning.
 
 You create the following Python code:
 
-![Question Image](images\q349_image547.png)
+![Question Image](images/q349_image547.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
-![Question Image](images\q349_image548.png)
+![Question Image](images/q349_image548.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q349_ans_image549.png)
+![Suggested Answer Image](images/q349_ans_image549.png)
 
 </details>
 
@@ -8503,15 +8503,15 @@ You download a .csv file from a notebook in an Azure Machine Learning workspace 
 
 You must generate the summary statistics for the data in the file. The statistics must include the following for each numerical column:
 
-•	number of non-empty values
+• number of non-empty values
 
-•	average value
+• average value
 
-•	standard deviation
+• standard deviation
 
-•	minimum and maximum values
+• minimum and maximum values
 
-•	25th, 50th, and 75th percentiles
+• 25th, 50th, and 75th percentiles
 
 You need to complete the Python code that will generate the summary statistics.
 
@@ -8519,12 +8519,12 @@ Which code segments should you use? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q350_image550.png)
+![Question Image](images/q350_image550.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q350_ans_image551.png)
+![Suggested Answer Image](images/q350_ans_image551.png)
 
 </details>
 
@@ -8540,9 +8540,9 @@ You are designing an Azure Machine Learning solution by using the Python SDK v2.
 
 You must train and deploy the solution by using a compute target. The compute target must meet the following requirements:
 
-•	Enable the use of on-premises compute resources.
+• Enable the use of on-premises compute resources.
 
-•	Support autoscaling.
+• Support autoscaling.
 
 You need to configure a compute target for training and inference.
 
@@ -8552,12 +8552,12 @@ To answer, select the appropriate options in the answer area.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q351_image560.png)
+![Question Image](images/q351_image560.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q351_ans_image561.png)
+![Suggested Answer Image](images/q351_ans_image561.png)
 
 </details>
 
@@ -8579,12 +8579,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q352_image562.png)
+![Question Image](images/q352_image562.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q352_ans_image563.png)
+![Suggested Answer Image](images/q352_ans_image563.png)
 
 </details>
 
@@ -8603,7 +8603,7 @@ Which parameter should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -8622,7 +8622,7 @@ Which library should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -8641,7 +8641,7 @@ Which primary metric should you choose?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -8666,7 +8666,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -8691,7 +8691,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -8716,7 +8716,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -8735,7 +8735,7 @@ Which primary metric should you choose?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -8754,7 +8754,7 @@ Which syntax should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -8773,7 +8773,7 @@ Which syntax should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -8798,7 +8798,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -8823,7 +8823,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -8848,7 +8848,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -8870,12 +8870,12 @@ Which configuration values should you use? To answer, select the appropriate opt
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q365_image572.png)
+![Question Image](images/q365_image572.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q365_ans_image573.png)
+![Suggested Answer Image](images/q365_ans_image573.png)
 
 </details>
 
@@ -8891,18 +8891,18 @@ You manage an Azure Machine Learning workspace. The development environment is c
 
 You perform interactive data wrangling to clean up the Titanic dataset and store it as a new dataset. (Line numbers are used for reference only.)
 
-![Question Image](images\q366_image574.png)
+![Question Image](images/q366_image574.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q366_image575.png)
+![Question Image](images/q366_image575.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q366_ans_image576.png)
+![Suggested Answer Image](images/q366_ans_image576.png)
 
 </details>
 
@@ -8921,7 +8921,7 @@ Which mode should you define?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -8946,7 +8946,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -8971,7 +8971,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -8990,7 +8990,7 @@ Which syntax should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9009,7 +9009,7 @@ Which authorization method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -9037,12 +9037,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q372_0037200001.png)
+![Question Image](images/q372_0037200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q372_ans_image617.png)
+![Suggested Answer Image](images/q372_ans_image617.png)
 
 </details>
 
@@ -9061,7 +9061,7 @@ Which compute type should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9080,7 +9080,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  DE
+DE
 
 </details>
 
@@ -9101,7 +9101,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AD
+AD
 
 </details>
 
@@ -9111,7 +9111,7 @@ NOTE: Each correct selection is worth one point.
 
 You deploy a model as an Azure Machine Learning real-time web service using the following code.
 
-![Question Image](images\q376_0037600001.png)
+![Question Image](images/q376_0037600001.png)
 
 The deployment fails.
 
@@ -9122,7 +9122,7 @@ Which code segment should you run?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9144,12 +9144,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q377_0037800001.png)
+![Question Image](images/q377_0037800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q377_ans_0037900001.png)
+![Suggested Answer Image](images/q377_ans_0037900001.png)
 
 </details>
 
@@ -9168,7 +9168,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -9185,7 +9185,7 @@ Which compute target should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9204,7 +9204,7 @@ Which configuration setting should you specify in the ParallelRunConfig object f
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -9223,7 +9223,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9249,12 +9249,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q382_0038500001.png)
+![Question Image](images/q382_0038500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q382_ans_0038600001.png)
+![Suggested Answer Image](images/q382_ans_0038600001.png)
 
 </details>
 
@@ -9273,7 +9273,7 @@ What should you advise the IT Operations team to do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9292,7 +9292,7 @@ Which compute type should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9323,7 +9323,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9354,7 +9354,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9387,7 +9387,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9406,7 +9406,7 @@ Which code segment should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9427,7 +9427,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BC
+BC
 
 </details>
 
@@ -9446,7 +9446,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -9463,7 +9463,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9480,7 +9480,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9503,7 +9503,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  DE
+DE
 
 </details>
 
@@ -9522,7 +9522,7 @@ What should the entry script do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -9542,12 +9542,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q395_0039800001.png)
+![Question Image](images/q395_0039800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q395_ans_0039800002.png)
+![Suggested Answer Image](images/q395_ans_0039800002.png)
 
 </details>
 
@@ -9566,7 +9566,7 @@ Which deployment compute option should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -9585,7 +9585,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9602,7 +9602,7 @@ What must you do before you deploy the real-time inference pipeline?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9621,7 +9621,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9641,12 +9641,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q400_0040300001.png)
+![Question Image](images/q400_0040300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q400_ans_0040400001.png)
+![Suggested Answer Image](images/q400_ans_0040400001.png)
 
 </details>
 
@@ -9665,7 +9665,7 @@ Which parameter should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -9684,7 +9684,7 @@ Which code segment should you add to the test script?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9703,7 +9703,7 @@ Which compute target should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -9723,12 +9723,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images\q404_0040700001.jpg)
+![Question Image](images/q404_0040700001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q404_ans_0040800001.jpg)
+![Suggested Answer Image](images/q404_ans_0040800001.jpg)
 
 </details>
 
@@ -9748,12 +9748,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images\q405_0040900002.png)
+![Question Image](images/q405_0040900002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q405_ans_0041000001.png)
+![Suggested Answer Image](images/q405_ans_0041000001.png)
 
 </details>
 
@@ -9772,7 +9772,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9788,11 +9788,11 @@ You create an Azure Machine Learning model to include model files and a scoring 
 
 You must deploy the model. The deployment solution must meet the following requirements:
 
-•	Provide near real-time inferencing.
+• Provide near real-time inferencing.
 
-•	Enable endpoint and deployment level cost estimates.
+• Enable endpoint and deployment level cost estimates.
 
-•	Support logging to Azure Log Analytics.
+• Support logging to Azure Log Analytics.
 
 You need to configure the deployment solution.
 
@@ -9800,12 +9800,12 @@ What should you configure? To answer, select the appropriate options in the answ
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q407_image437.png)
+![Question Image](images/q407_image437.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q407_ans_image438.png)
+![Suggested Answer Image](images/q407_ans_image438.png)
 
 </details>
 
@@ -9826,7 +9826,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  DE
+DE
 
 </details>
 
@@ -9843,7 +9843,7 @@ What should you configure?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -9862,7 +9862,7 @@ Which Azure service should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9884,12 +9884,12 @@ Which configurations should you use? To answer, select the appropriate options i
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q411_image439.png)
+![Question Image](images/q411_image439.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q411_ans_image440.png)
+![Suggested Answer Image](images/q411_ans_image440.png)
 
 </details>
 
@@ -9911,12 +9911,12 @@ Which functions should you use? To answer, select the appropriate options in the
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q412_image441.png)
+![Question Image](images/q412_image441.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q412_ans_image442.png)
+![Suggested Answer Image](images/q412_ans_image442.png)
 
 </details>
 
@@ -9941,7 +9941,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9966,7 +9966,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -9991,7 +9991,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10011,12 +10011,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q416_image443.png)
+![Question Image](images/q416_image443.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q416_ans_image444.png)
+![Suggested Answer Image](images/q416_ans_image444.png)
 
 </details>
 
@@ -10036,12 +10036,12 @@ You need to ensure that client applications can submit data as HTTP requests and
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q417_image445.png)
+![Question Image](images/q417_image445.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q417_ans_image446.png)
+![Suggested Answer Image](images/q417_ans_image446.png)
 
 </details>
 
@@ -10062,7 +10062,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BE
+BE
 
 </details>
 
@@ -10076,7 +10076,7 @@ You must create a two-stage pipeline that will prepare data in the dataset and t
 
 The first stage of the pipeline contains the following code:
 
-![Question Image](images\q419_image447.png)
+![Question Image](images/q419_image447.png)
 
 You need to identify the location containing the output of the first stage of the script that you can use as input for the second stage.
 
@@ -10085,7 +10085,7 @@ Which storage location should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10103,12 +10103,12 @@ You need to create a web service that applications can use to submit data featur
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q420_image471.png)
+![Question Image](images/q420_image471.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q420_ans_image472.png)
+![Suggested Answer Image](images/q420_ans_image472.png)
 
 </details>
 
@@ -10128,12 +10128,12 @@ Which method should you use? To answer, select the appropriate options in the an
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q421_image473.png)
+![Question Image](images/q421_image473.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q421_ans_image474.png)
+![Suggested Answer Image](images/q421_ans_image474.png)
 
 </details>
 
@@ -10153,12 +10153,12 @@ You need to train the model.
 
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q422_image475.png)
+![Question Image](images/q422_image475.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q422_ans_image476.png)
+![Suggested Answer Image](images/q422_ans_image476.png)
 
 </details>
 
@@ -10175,7 +10175,7 @@ What should you do first?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10197,12 +10197,12 @@ How should you complete the script? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q424_image526.png)
+![Question Image](images/q424_image526.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q424_ans_image527.png)
+![Suggested Answer Image](images/q424_ans_image527.png)
 
 </details>
 
@@ -10222,12 +10222,12 @@ mlflow.autolog(log_models=False, exclusive=True)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
-![Question Image](images\q425_image528.png)
+![Question Image](images/q425_image528.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q425_ans_image618.png)
+![Suggested Answer Image](images/q425_ans_image618.png)
 
 </details>
 
@@ -10252,7 +10252,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10277,7 +10277,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10302,7 +10302,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10319,7 +10319,7 @@ Which class should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -10331,13 +10331,13 @@ You manage an Azure Machine Learning workspace.
 
 You build a custom model you must log with MLflow. The custom model includes the following:
 
-•	The model is not natively supported by MLflow.
+• The model is not natively supported by MLflow.
 
-•	The model cannot be serialized in Pickle format.
+• The model cannot be serialized in Pickle format.
 
-•	The model source code is complex.
+• The model source code is complex.
 
-•	The Python library for the model must be packaged with the model.
+• The Python library for the model must be packaged with the model.
 
 You need to create a custom model flavor to enable logging with MLflow.
 
@@ -10346,7 +10346,7 @@ What should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10365,7 +10365,7 @@ Which method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -10384,7 +10384,7 @@ Which compute target should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10404,12 +10404,12 @@ How should you configure the workflow? To answer, select the appropriate options
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q433_image530.png)
+![Question Image](images/q433_image530.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q433_ans_image531.png)
+![Suggested Answer Image](images/q433_ans_image531.png)
 
 </details>
 
@@ -10429,12 +10429,12 @@ You need to debug the service on the local workstation before deploying the serv
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q434_image532.png)
+![Question Image](images/q434_image532.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q434_ans_image533.png)
+![Suggested Answer Image](images/q434_ans_image533.png)
 
 </details>
 
@@ -10454,12 +10454,12 @@ You need to use the Azure Machine Learning Python SDK v2 to configure the schedu
 
 Which three classes should you instantiate in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q435_image534.png)
+![Question Image](images/q435_image534.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q435_ans_image535.png)
+![Suggested Answer Image](images/q435_ans_image535.png)
 
 </details>
 
@@ -10484,7 +10484,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10503,7 +10503,7 @@ Which dashboard component should you configure?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -10522,7 +10522,7 @@ Which method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10544,12 +10544,12 @@ Which code segments should you use? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q439_image552.png)
+![Question Image](images/q439_image552.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q439_ans_image553.png)
+![Suggested Answer Image](images/q439_ans_image553.png)
 
 </details>
 
@@ -10568,7 +10568,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10587,7 +10587,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AC
+AC
 
 </details>
 
@@ -10608,7 +10608,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ACE
+ACE
 
 </details>
 
@@ -10633,7 +10633,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10658,7 +10658,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10683,7 +10683,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10702,7 +10702,7 @@ What should the entry script do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -10727,7 +10727,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10747,12 +10747,12 @@ You need to start interactive data wrangling with the user identity passthrough.
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images\q448_image569.png)
+![Question Image](images/q448_image569.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q448_ans_image570.png)
+![Suggested Answer Image](images/q448_ans_image570.png)
 
 </details>
 
@@ -10770,7 +10770,7 @@ You plan to deploy model1 to an online endpoint named endpoint1 without egress c
 
 You have the following code:
 
-![Question Image](images\q449_image571.png)
+![Question Image](images/q449_image571.png)
 
 You need to add a parameter to the ManagedOnlineDeployment object to ensure the model deploys successfully.
 
@@ -10781,7 +10781,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10799,7 +10799,7 @@ You plan to deploy model1 to an online endpoint named endpoint1 without egress c
 
 You have the following code:
 
-![Question Image](images\q450_image571.png)
+![Question Image](images/q450_image571.png)
 
 You need to add a parameter to the ManagedOnlineDeployment object to ensure the model deploys successfully.
 
@@ -10810,7 +10810,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10828,7 +10828,7 @@ You plan to deploy model1 to an online endpoint named endpoint1 without egress c
 
 You have the following code:
 
-![Question Image](images\q451_image571.png)
+![Question Image](images/q451_image571.png)
 
 You need to add a parameter to the ManagedOnlineDeployment object to ensure the model deploys successfully.
 
@@ -10839,7 +10839,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -10858,7 +10858,7 @@ What should you create first?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -10877,7 +10877,7 @@ Which compute should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10896,7 +10896,7 @@ Which method of the TextClassificationJob class should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -10918,12 +10918,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 NOTE: More than one order of answer choices is correct. You will receive credit for any of the correct orders you select.
 
-![Question Image](images\q455_image588.png)
+![Question Image](images/q455_image588.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q455_ans_image589.png)
+![Suggested Answer Image](images/q455_ans_image589.png)
 
 </details>
 
@@ -10945,12 +10945,12 @@ Which compute options should you select for training and deployment? To answer, 
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q456_image594.png)
+![Question Image](images/q456_image594.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q456_ans_image595.png)
+![Suggested Answer Image](images/q456_ans_image595.png)
 
 </details>
 
@@ -10969,7 +10969,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  AE
+AE
 
 </details>
 
@@ -10988,7 +10988,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -11006,7 +11006,7 @@ Business managers in your organization want to see the importance of the feature
 
 You need to print out the model features and their relative importance in an output that looks similar to the following.
 
-![Question Image](images\q459_0041500001.png)
+![Question Image](images/q459_0041500001.png)
 
 How should you complete the code? To answer, select the appropriate options in the answer area.
 
@@ -11014,12 +11014,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q459_0041600001.png)
+![Question Image](images/q459_0041600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q459_ans_image619.png)
+![Suggested Answer Image](images/q459_ans_image619.png)
 
 </details>
 
@@ -11044,7 +11044,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -11069,7 +11069,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -11094,7 +11094,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -11108,7 +11108,7 @@ You are performing feature scaling by using the scikit-learn Python library for 
 
 Original and scaled data is shown in the following image.
 
-![Question Image](images\q463_0042200001.jpg)
+![Question Image](images/q463_0042200001.jpg)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the graphic.
 
@@ -11116,12 +11116,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q463_0042300001.png)
+![Question Image](images/q463_0042300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q463_ans_0042400001.png)
+![Suggested Answer Image](images/q463_ans_0042400001.png)
 
 </details>
 
@@ -11142,7 +11142,7 @@ Which type of distribution should you produce?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -11162,12 +11162,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images\q465_0042900001.png)
+![Question Image](images/q465_0042900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q465_ans_0043000001.png)
+![Suggested Answer Image](images/q465_ans_0043000001.png)
 
 </details>
 
@@ -11186,7 +11186,7 @@ Which Azure Machine Learning Studio module should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -11213,7 +11213,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -11238,7 +11238,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -11263,7 +11263,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -11280,7 +11280,7 @@ Which metric should you review?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -11297,7 +11297,7 @@ Which evaluation metric should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -11311,7 +11311,7 @@ You are developing a linear regression model in Azure Machine Learning Studio. Y
 
 The following image displays the results dataset output:
 
-![Question Image](images\q472_0043600001.png)
+![Question Image](images/q472_0043600001.png)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the image.
 
@@ -11319,12 +11319,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q472_0043700001.png)
+![Question Image](images/q472_0043700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q472_ans_0043800001.jpg)
+![Suggested Answer Image](images/q472_ans_0043800001.jpg)
 
 </details>
 
@@ -11342,12 +11342,12 @@ Which properties should you select for each tree depth? To answer, select the ap
 
 Hot Area:
 
-![Question Image](images\q473_0043900001.png)
+![Question Image](images/q473_0043900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q473_ans_0044000001.png)
+![Suggested Answer Image](images/q473_ans_0044000001.png)
 
 </details>
 
@@ -11369,12 +11369,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images\q474_0044100001.png)
+![Question Image](images/q474_0044100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q474_ans_0044100002.png)
+![Suggested Answer Image](images/q474_ans_0044100002.png)
 
 </details>
 
@@ -11388,7 +11388,7 @@ You are analyzing the asymmetry in a statistical distribution.
 
 The following image contains two density curves that show the probability distribution of two datasets.
 
-![Question Image](images\q475_0044300001.png)
+![Question Image](images/q475_0044300001.png)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the graphic.
 
@@ -11396,12 +11396,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q475_0044300002.png)
+![Question Image](images/q475_0044300002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q475_ans_0044400001.png)
+![Suggested Answer Image](images/q475_ans_0044400001.png)
 
 </details>
 
@@ -11422,7 +11422,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BC
+BC
 
 </details>
 
@@ -11447,7 +11447,7 @@ Does the solution meet the goal?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -11468,7 +11468,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ABD
+ABD
 
 </details>
 
@@ -11490,12 +11490,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q479_0044800001.png)
+![Question Image](images/q479_0044800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q479_ans_image620.png)
+![Suggested Answer Image](images/q479_ans_image620.png)
 
 </details>
 
@@ -11513,12 +11513,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images\q480_0044900001.png)
+![Question Image](images/q480_0044900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q480_ans_0045000001.png)
+![Suggested Answer Image](images/q480_ans_0045000001.png)
 
 </details>
 
@@ -11544,12 +11544,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q481_0045100001.jpg)
+![Question Image](images/q481_0045100001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q481_ans_0045200001.jpg)
+![Suggested Answer Image](images/q481_ans_0045200001.jpg)
 
 </details>
 
@@ -11568,7 +11568,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -11587,7 +11587,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -11601,7 +11601,7 @@ You create an Azure Machine Learning workspace and load a Python training script
 
 You run the following script to train the model:
 
-![Question Image](images\q484_0045500001.jpg)
+![Question Image](images/q484_0045500001.jpg)
 
 Instructions: For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -11609,12 +11609,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q484_0045600001.jpg)
+![Question Image](images/q484_0045600001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q484_ans_0045600002.jpg)
+![Suggested Answer Image](images/q484_ans_0045600002.jpg)
 
 </details>
 
@@ -11635,7 +11635,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BD
+BD
 
 </details>
 
@@ -11654,7 +11654,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ABE
+ABE
 
 </details>
 
@@ -11676,12 +11676,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q487_0045800001.jpg)
+![Question Image](images/q487_0045800001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q487_ans_0045900001.jpg)
+![Suggested Answer Image](images/q487_ans_0045900001.jpg)
 
 </details>
 
@@ -11699,12 +11699,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images\q488_0046000001.jpg)
+![Question Image](images/q488_0046000001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q488_ans_0046000002.jpg)
+![Suggested Answer Image](images/q488_ans_0046000002.jpg)
 
 </details>
 
@@ -11723,7 +11723,7 @@ Which algorithm should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -11742,7 +11742,7 @@ Which authentication method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -11761,7 +11761,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -11780,7 +11780,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -11798,20 +11798,20 @@ The classifier exhibits a high degree of disparity between the age groups.
 
 You need to modify the output of the classifier to maximize its degree of fairness across the age groups and meet the following requirements:
 
-•	Eliminate the need to retrain the model on which the classifier is based.
+• Eliminate the need to retrain the model on which the classifier is based.
 
-•	Minimize the disparity between true positive rates and false positive rates across age groups.
+• Minimize the disparity between true positive rates and false positive rates across age groups.
 
 Which algorithm and parity constraint should you use? To answer, select the appropriate options in the answer area.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q493_image448.png)
+![Question Image](images/q493_image448.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q493_ans_image449.png)
+![Suggested Answer Image](images/q493_ans_image449.png)
 
 </details>
 
@@ -11823,9 +11823,9 @@ You manage an Azure Machine Learning workspace. You build a model for which you 
 
 Based on what you learn from the dashboard, you must perform the following activities:
 
-•	Determine what must be done to get a desirable outcome from the model.
+• Determine what must be done to get a desirable outcome from the model.
 
-•	Identify the features that have the most direct effect on your outcome of interest.
+• Identify the features that have the most direct effect on your outcome of interest.
 
 You need to select the components to use for the Responsible AI dashboard configuration.
 
@@ -11836,7 +11836,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  BD
+BD
 
 </details>
 
@@ -11851,7 +11851,7 @@ Which normalization type should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -11870,7 +11870,7 @@ Which Azure service should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -11886,9 +11886,9 @@ You plan to implement an Azure Machine Learning solution.
 
 You have the following requirements:
 
-•	Run a Jupyter notebook to interactively train a machine learning model.
+• Run a Jupyter notebook to interactively train a machine learning model.
 
-•	Deploy assets and workflows for machine learning proof of concept by using scripting rather than custom programming.
+• Deploy assets and workflows for machine learning proof of concept by using scripting rather than custom programming.
 
 You need to select a development technique for each requirement.
 
@@ -11896,12 +11896,12 @@ Which development technique should you use? To answer, select the appropriate op
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images\q497_image536.png)
+![Question Image](images/q497_image536.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q497_ans_image537.png)
+![Suggested Answer Image](images/q497_ans_image537.png)
 
 </details>
 
@@ -11919,12 +11919,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q498_0032400001.png)
+![Question Image](images/q498_0032400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q498_ans_0032500001.png)
+![Suggested Answer Image](images/q498_ans_0032500001.png)
 
 </details>
 
@@ -11941,7 +11941,7 @@ What should you do first?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  B
+B
 
 </details>
 
@@ -11957,12 +11957,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images\q500_0032700001.png)
+![Question Image](images/q500_0032700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q500_ans_0032700002.png)
+![Suggested Answer Image](images/q500_ans_0032700002.png)
 
 </details>
 
@@ -11977,7 +11977,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -11996,7 +11996,7 @@ What should you do?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -12015,7 +12015,7 @@ Which Azure service should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -12031,12 +12031,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images\q504_0033000001.png)
+![Question Image](images/q504_0033000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q504_ans_0033000002.png)
+![Suggested Answer Image](images/q504_ans_0033000002.png)
 
 </details>
 
@@ -12052,12 +12052,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images\q505_0033200001.png)
+![Question Image](images/q505_0033200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q505_ans_0033200002.png)
+![Suggested Answer Image](images/q505_ans_0033200002.png)
 
 </details>
 
@@ -12076,7 +12076,7 @@ Which Azure Machine Learning compute target should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  D
+D
 
 </details>
 
@@ -12091,7 +12091,7 @@ Which technique should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -12106,7 +12106,7 @@ Which technique should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  A
+A
 
 </details>
 
@@ -12124,12 +12124,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q509_0033900001.png)
+![Question Image](images/q509_0033900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q509_ans_0034100001.png)
+![Suggested Answer Image](images/q509_ans_0034100001.png)
 
 </details>
 
@@ -12145,12 +12145,12 @@ Which three modules should you recommend be used in sequence? To answer, move th
 
 Select and Place:
 
-![Question Image](images\q510_0034300001.png)
+![Question Image](images/q510_0034300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q510_ans_0034400001.png)
+![Suggested Answer Image](images/q510_ans_0034400001.png)
 
 </details>
 
@@ -12167,7 +12167,7 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ABC
+ABC
 
 </details>
 
@@ -12185,12 +12185,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q512_0034700001.png)
+![Question Image](images/q512_0034700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q512_ans_0034900001.png)
+![Suggested Answer Image](images/q512_ans_0034900001.png)
 
 </details>
 
@@ -12208,12 +12208,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q513_0035100001.png)
+![Question Image](images/q513_0035100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q513_ans_image621.png)
+![Suggested Answer Image](images/q513_ans_image621.png)
 
 </details>
 
@@ -12231,12 +12231,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q514_0035500001.jpg)
+![Question Image](images/q514_0035500001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q514_ans_0035600001.jpg)
+![Suggested Answer Image](images/q514_ans_0035600001.jpg)
 
 </details>
 
@@ -12251,7 +12251,7 @@ Which method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -12269,12 +12269,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q516_0035900001.png)
+![Question Image](images/q516_0035900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q516_ans_0036000001.png)
+![Suggested Answer Image](images/q516_ans_0036000001.png)
 
 </details>
 
@@ -12292,12 +12292,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images\q517_0036200001.png)
+![Question Image](images/q517_0036200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q517_ans_0036300001.png)
+![Suggested Answer Image](images/q517_ans_0036300001.png)
 
 </details>
 
@@ -12312,7 +12312,7 @@ Which method should you use?
 <details>
   <summary>Show Suggested Answer</summary>
 
-  C
+C
 
 </details>
 
@@ -12330,12 +12330,12 @@ NOTE: More than one order of answer choices is correct. You will receive credit 
 
 Select and Place:
 
-![Question Image](images\q519_0036500001.png)
+![Question Image](images/q519_0036500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q519_ans_0036600001.png)
+![Suggested Answer Image](images/q519_ans_0036600001.png)
 
 </details>
 
@@ -12353,12 +12353,12 @@ NOTE: More than one order of answer choices is correct. You will receive the cre
 
 Select and Place:
 
-![Question Image](images\q520_0036800001.png)
+![Question Image](images/q520_0036800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q520_ans_0036900001.png)
+![Suggested Answer Image](images/q520_ans_0036900001.png)
 
 </details>
 
@@ -12374,14 +12374,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images\q521_0046700001.png)
+![Question Image](images/q521_0046700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  ![Suggested Answer Image](images\q521_ans_0046800001.png)
+![Suggested Answer Image](images/q521_ans_0046800001.png)
 
 </details>
 
 ---
-
