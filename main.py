@@ -125,7 +125,7 @@ def create_question_bank(url, output_file='question_bank.md', image_dir='images'
         return 0
 
 if __name__ == '__main__':
-    output_filename = 'question_bank.md'
+    output_filename = 'index.md'
     image_directory = 'images'
     
     try:
