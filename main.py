@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 from urllib.parse import urljoin
+import time
 
 def create_question_bank(url, output_file='question_bank.md', image_dir='images', is_first_run=True, question_start_index=1):
     """
@@ -46,7 +47,7 @@ def create_question_bank(url, output_file='question_bank.md', image_dir='images'
                 f.write("# Question Bank\n\n")
 
             for i, container in enumerate(question_containers, question_start_index):
-                f.write(f"## Question {i}\n\n")
+                f.write(f"## Question {i} | [Link]({url}){{:target=\"_blank\"}}\n\n")
 
                 # --- Extract and process question text and images ---
                 question_p = container.find('p', class_='card-text')
@@ -65,7 +66,7 @@ def create_question_bank(url, output_file='question_bank.md', image_dir='images'
                                     img_response.raise_for_status()
                                     with open(local_img_path, 'wb') as img_f:
                                         img_f.write(img_response.content)
-                                    f.write(f"![Question Image]({local_img_path})\n\n")
+                                    f.write(f"![Question Image]({image_dir}/{unique_img_filename})\n\n")
                                 except requests.exceptions.RequestException as img_e:
                                     print(f"❌ Failed to download image {full_img_url}: {img_e}")
                                     f.write(f"![Image failed to download]({full_img_url})\n\n")
@@ -75,6 +76,16 @@ def create_question_bank(url, output_file='question_bank.md', image_dir='images'
                             if clean_text.strip():
                                 f.write(f"{clean_text.strip()}\n\n")
                 
+                # --- Extract and process MCQ choices ---
+                choices_container = container.find('div', class_='question-choices-container')
+                if choices_container:
+                    choices = choices_container.find_all('li', class_='multi-choice-item')
+                    for choice in choices:
+                        choice_text = choice.get_text(strip=True)
+                        if choice_text:
+                            f.write(f"* {choice_text}\n")
+                    f.write("\n")
+
                 # --- Extract and process answer text and images ---
                 answer_div = container.find('div', class_='question-answer')
                 answer_content = ""
@@ -95,10 +106,10 @@ def create_question_bank(url, output_file='question_bank.md', image_dir='images'
                                         img_response.raise_for_status()
                                         with open(local_img_path, 'wb') as img_f:
                                             img_f.write(img_response.content)
-                                        answer_content += f"<img src=\"{local_img_path}\" alt=\"Answer Image\" />\n"
+                                        answer_content += f"<img src=\"{image_dir}/{unique_img_filename}\" alt=\"Answer Image\" />\n"
                                     except requests.exceptions.RequestException as img_e:
                                         print(f"❌ Failed to download image {full_img_url}: {img_e}")
-                                        answer_content += f"< img src=\"{full_img_url}\" alt=\"Image failed to download\" />\n"
+                                        answer_content += f"<img src=\"{full_img_url}\" alt=\"Image failed to download\" />\n"
                             else:
                                 text = str(content)
                                 clean_text = BeautifulSoup(text, 'html.parser').get_text()

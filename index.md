@@ -1,6 +1,6 @@
 # Question Bank
 
-## Question 1
+## Question 1 | [Link](https://www.examtopics.com/discussions/microsoft/view/78115-exam-dp-100-topic-1-question-1-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -17,13 +17,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q1_ans_0000400001.jpg" />
+  <img src="images/q1_ans_0000400001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 2
+## Question 2 | [Link](https://www.examtopics.com/discussions/microsoft/view/70565-exam-dp-100-topic-1-question-2-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -36,28 +36,33 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q2_ans_0000600002.jpg" />
+  <img src="images/q2_ans_0000600002.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 3
+## Question 3 | [Link](https://www.examtopics.com/discussions/microsoft/view/72897-exam-dp-100-topic-1-question-3-discussion/){:target="_blank"}
 
 You need to implement a Data Science Virtual Machine (DSVM) that supports the Caffe2 deep learning framework.
 
 Which of the following DSVM should you create?
 
+* A.Windows Server 2012 DSVM
+* B.Windows Server 2016 DSVM
+* C.Ubuntu 16.04 DSVM
+* D.CentOS 7.4 DSVM
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 4
+## Question 4 | [Link](https://www.examtopics.com/discussions/microsoft/view/63900-exam-dp-100-topic-1-question-4-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -71,16 +76,19 @@ Recommendation: You make use of a Geo AI Data Science Virtual Machine (Geo-DSVM)
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 5
+## Question 5 | [Link](https://www.examtopics.com/discussions/microsoft/view/64078-exam-dp-100-topic-1-question-5-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -94,16 +102,19 @@ Recommendation: You make use of a Deep Learning Virtual Machine (DLVM) Windows e
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 6
+## Question 6 | [Link](https://www.examtopics.com/discussions/microsoft/view/70838-exam-dp-100-topic-1-question-6-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -117,16 +128,19 @@ Recommendation: You make use of a Data Science Virtual Machine (DSVM) Windows ed
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 7
+## Question 7 | [Link](https://www.examtopics.com/discussions/microsoft/view/76818-exam-dp-100-topic-1-question-7-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -141,13 +155,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q7_ans_0001200001.jpg" />
+  <img src="images/q7_ans_0001200001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 8
+## Question 8 | [Link](https://www.examtopics.com/discussions/microsoft/view/71955-exam-dp-100-topic-1-question-8-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -160,13 +174,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q8_ans_0001400002.jpg" />
+  <img src="images/q8_ans_0001400002.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 9
+## Question 9 | [Link](https://www.examtopics.com/discussions/microsoft/view/78116-exam-dp-100-topic-1-question-9-discussion/){:target="_blank"}
 
 You have been tasked with designing a deep learning model, which accommodates the most recent edition of Python, to recognize language.
 
@@ -174,16 +188,21 @@ You have to include a suitable deep learning framework in the Data Science Virtu
 
 Which of the following actions should you take?
 
+* A.You should consider including Rattle.
+* B.You should consider including TensorFlow.
+* C.You should consider including Theano.
+* D.You should consider including Chainer.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 10
+## Question 10 | [Link](https://www.examtopics.com/discussions/microsoft/view/57134-exam-dp-100-topic-1-question-10-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -195,16 +214,19 @@ Recommendation: You configure the use of the value k=3.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 11
+## Question 11 | [Link](https://www.examtopics.com/discussions/microsoft/view/68001-exam-dp-100-topic-1-question-11-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -216,16 +238,19 @@ Recommendation: You configure the use of the value k=10.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 12
+## Question 12 | [Link](https://www.examtopics.com/discussions/microsoft/view/69015-exam-dp-100-topic-1-question-12-discussion/){:target="_blank"}
 
 You construct a machine learning experiment via Azure Machine Learning Studio.
 
@@ -233,16 +258,21 @@ You would like to split data into two separate datasets.
 
 Which of the following actions should you take?
 
+* A.You should make use of the Split Data module.
+* B.You should make use of the Group Categorical Values module.
+* C.You should make use of the Clip Values module.
+* D.You should make use of the Group Data into Bins module.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 13
+## Question 13 | [Link](https://www.examtopics.com/discussions/microsoft/view/70173-exam-dp-100-topic-1-question-13-discussion/){:target="_blank"}
 
 You have been tasked with creating a new Azure pipeline via the Machine Learning designer.
 
@@ -252,16 +282,21 @@ Data from the CSV file must be ingested into the designer pipeline with the leas
 
 Which of the following actions should you take?
 
+* A.You should make use of the Convert to TXT module.
+* B.You should add the Copy Data object to the pipeline.
+* C.You should add the Import Data object to the pipeline.
+* D.You should add the Dataset object to the pipeline.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 14
+## Question 14 | [Link](https://www.examtopics.com/discussions/microsoft/view/68987-exam-dp-100-topic-1-question-14-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -273,16 +308,19 @@ Recommendation: You make use of the Replace with median option.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 15
+## Question 15 | [Link](https://www.examtopics.com/discussions/microsoft/view/70839-exam-dp-100-topic-1-question-15-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -294,16 +332,19 @@ Recommendation: You make use of the Custom substitution value option.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 16
+## Question 16 | [Link](https://www.examtopics.com/discussions/microsoft/view/70840-exam-dp-100-topic-1-question-16-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -315,16 +356,19 @@ Recommendation: You make use of the Remove entire row option.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 17
+## Question 17 | [Link](https://www.examtopics.com/discussions/microsoft/view/72694-exam-dp-100-topic-1-question-17-discussion/){:target="_blank"}
 
 You need to consider the underlined segment to establish whether it is accurate.
 
@@ -332,16 +376,21 @@ To transform a categorical feature into a binary indicator, you should make use 
 
 Select `No adjustment required` if the underlined segment is accurate. If the underlined segment is inaccurate, select the accurate option.
 
+* A.No adjustment required.
+* B.Convert to Indicator Values
+* C.Apply SQL Transformation
+* D.Group Categorical Values
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 18
+## Question 18 | [Link](https://www.examtopics.com/discussions/microsoft/view/73624-exam-dp-100-topic-1-question-18-discussion/){:target="_blank"}
 
 You need to consider the underlined segment to establish whether it is accurate.
 
@@ -349,16 +398,21 @@ To improve the amount of low incidence cases in a dataset, you should make use o
 
 Select `No adjustment required` if the underlined segment is accurate. If the underlined segment is inaccurate, select the accurate option.
 
+* A.No adjustment required.
+* B.Remove Duplicate Rows
+* C.Join Data
+* D.Edit Metadata
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 19
+## Question 19 | [Link](https://www.examtopics.com/discussions/microsoft/view/69927-exam-dp-100-topic-1-question-19-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -371,13 +425,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q19_ans_0002500001.jpg" />
+  <img src="images/q19_ans_0002500001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 20
+## Question 20 | [Link](https://www.examtopics.com/discussions/microsoft/view/69928-exam-dp-100-topic-1-question-20-discussion/){:target="_blank"}
 
 You are planning to host practical training to acquaint learners with data visualization creation using Python. Learner devices are able to connect to the internet.
 
@@ -387,16 +441,21 @@ It is imperative that learners are able to execute Python-based data visualizati
 
 Which of the following actions should you take?
 
+* A.You should consider configuring the use of Azure Container Instance.
+* B.You should consider configuring the use of Azure BatchAI.
+* C.You should consider configuring the use of Azure Notebooks.
+* D.You should consider configuring the use of Azure Kubernetes Service.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 21
+## Question 21 | [Link](https://www.examtopics.com/discussions/microsoft/view/70841-exam-dp-100-topic-1-question-21-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -409,13 +468,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q21_ans_0002700001.jpg" />
+  <img src="images/q21_ans_0002700001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 22
+## Question 22 | [Link](https://www.examtopics.com/discussions/microsoft/view/59576-exam-dp-100-topic-1-question-22-discussion/){:target="_blank"}
 
 You have recently concluded the construction of a binary classification machine learning model.
 
@@ -423,16 +482,21 @@ You are currently assessing the model. You want to make use of a visualization t
 
 Which of the following actions should you take?
 
+* A.You should consider using Venn diagram visualization.
+* B.You should consider using Receiver Operating Characteristic (ROC) curve visualization.
+* C.You should consider using Box plot visualization.
+* D.You should consider using the Binary classification confusion matrix visualization.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 23
+## Question 23 | [Link](https://www.examtopics.com/discussions/microsoft/view/58964-exam-dp-100-topic-1-question-23-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -444,16 +508,19 @@ Recommendation: You configure the use of the value k=1.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 24
+## Question 24 | [Link](https://www.examtopics.com/discussions/microsoft/view/73625-exam-dp-100-topic-1-question-24-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -470,13 +537,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q24_ans_0003000001.jpg" />
+  <img src="images/q24_ans_0003000001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 25
+## Question 25 | [Link](https://www.examtopics.com/discussions/microsoft/view/65938-exam-dp-100-topic-1-question-25-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -488,16 +555,19 @@ Recommendation: You must make use of the Group Categorical Values Azure Machine 
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 26
+## Question 26 | [Link](https://www.examtopics.com/discussions/microsoft/view/66320-exam-dp-100-topic-1-question-26-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -509,16 +579,19 @@ Recommendation: You must make use of the Join Data Azure Machine Learning Studio
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 27
+## Question 27 | [Link](https://www.examtopics.com/discussions/microsoft/view/57137-exam-dp-100-topic-1-question-27-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -530,16 +603,19 @@ Recommendation: You must make use of the Edit Metadata Azure Machine Learning St
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 28
+## Question 28 | [Link](https://www.examtopics.com/discussions/microsoft/view/70106-exam-dp-100-topic-1-question-28-discussion/){:target="_blank"}
 
 You have been tasked with ascertaining if two sets of data differ considerably. You will make use of Azure Machine Learning Studio to complete your task.
 
@@ -547,16 +623,21 @@ You plan to perform a paired t-test.
 
 Which of the following are conditions that must apply to use a paired t-test? (Choose all that apply.)
 
+* A.All scores are independent from each other.
+* B.You have a matched pairs of scores.
+* C.The sampling distribution of d is normal.
+* D.The sampling distribution of x1- x2 is normal.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BC
+  BC
 
 </details>
 
 ---
 
-## Question 29
+## Question 29 | [Link](https://www.examtopics.com/discussions/microsoft/view/57139-exam-dp-100-topic-1-question-29-discussion/){:target="_blank"}
 
 You want to train a classification model using data located in a comma-separated values (CSV) file.
 
@@ -566,16 +647,21 @@ You have been informed that only linear models need to be assessed by the Automa
 
 Which of the following actions should you take?
 
+* A.You should disable deep learning.
+* B.You should enable automatic featurization.
+* C.You should disable automatic featurization.
+* D.You should set the task type to Forecasting.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 30
+## Question 30 | [Link](https://www.examtopics.com/discussions/microsoft/view/73626-exam-dp-100-topic-1-question-30-discussion/){:target="_blank"}
 
 You are preparing to train a regression model via automated machine learning. The data available to you has features with missing values, as well as categorical features with little discrete values.
 
@@ -587,31 +673,41 @@ You want to make sure that automated machine learning is configured as follows:
 
 Which of the following actions should you take?
 
+* A.You should make use of the featurization parameter with the 'auto' value pair.
+* B.You should make use of the featurization parameter with the 'off' value pair.
+* C.You should make use of the featurization parameter with the 'on' value pair.
+* D.You should make use of the featurization parameter with the 'FeaturizationConfig' value pair.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 31
+## Question 31 | [Link](https://www.examtopics.com/discussions/microsoft/view/56853-exam-dp-100-topic-1-question-31-discussion/){:target="_blank"}
 
 You make use of Azure Machine Learning Studio to develop a linear regression model. You perform an experiment to assess various algorithms.
 
 Which of the following is an algorithm that reduces the variances between actual and predicted values?
 
+* A.Fast Forest Quantile Regression
+* B.Poisson Regression
+* C.Boosted Decision Tree Regression
+* D.Linear Regression
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 32
+## Question 32 | [Link](https://www.examtopics.com/discussions/microsoft/view/59850-exam-dp-100-topic-1-question-32-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -623,16 +719,19 @@ Recommendation: You make use of Convolutional Neural Networks (CNNs).
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 33
+## Question 33 | [Link](https://www.examtopics.com/discussions/microsoft/view/70607-exam-dp-100-topic-1-question-33-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -644,16 +743,19 @@ Recommendation: You make use of Generative Adversarial Networks (GANs).
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 34
+## Question 34 | [Link](https://www.examtopics.com/discussions/microsoft/view/78122-exam-dp-100-topic-1-question-34-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -665,16 +767,19 @@ Recommendation: You make use of Recurrent Neural Networks (RNNs).
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 35
+## Question 35 | [Link](https://www.examtopics.com/discussions/microsoft/view/73627-exam-dp-100-topic-1-question-35-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -691,13 +796,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q35_ans_0004100001.jpg" />
+  <img src="images/q35_ans_0004100001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 36
+## Question 36 | [Link](https://www.examtopics.com/discussions/microsoft/view/76882-exam-dp-100-topic-1-question-36-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -714,13 +819,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q36_ans_0004400001.jpg" />
+  <img src="images/q36_ans_0004400001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 37
+## Question 37 | [Link](https://www.examtopics.com/discussions/microsoft/view/57147-exam-dp-100-topic-1-question-37-discussion/){:target="_blank"}
 
 You make use of Azure Machine Learning Studio to create a binary classification model.
 
@@ -728,16 +833,21 @@ You are preparing to carry out a parameter sweep of the model to tune hyperparam
 
 Which of the following actions should you take?
 
+* A.You should consider making use of the Selective grid sweep mode.
+* B.You should consider making use of the Measured grid sweep mode.
+* C.You should consider making use of the Entire grid sweep mode.
+* D.You should consider making use of the Random grid sweep mode.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 38
+## Question 38 | [Link](https://www.examtopics.com/discussions/microsoft/view/57154-exam-dp-100-topic-1-question-38-discussion/){:target="_blank"}
 
 You are in the process of constructing a deep convolutional neural network (CNN). The CNN will be used for image classification.
 
@@ -747,16 +857,22 @@ You want to make sure that overfitting is minimized, and that the model is conve
 
 Which of the following is TRUE with regards to achieving your goal?
 
+* A.You have to add an additional dense layer with 512 input units, and reduce the amount of training data.
+* B.You have to add L1/L2 regularization, and reduce the amount of training data.
+* C.You have to reduce the amount of training data and make use of training data augmentation.
+* D.You have to add L1/L2 regularization, and make use of training data augmentation.
+* E.You have to add an additional dense layer with 512 input units, and add L1/L2 regularization.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 39
+## Question 39 | [Link](https://www.examtopics.com/discussions/microsoft/view/61020-exam-dp-100-topic-1-question-39-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -768,16 +884,19 @@ Recommendation: You choose Attached compute.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 40
+## Question 40 | [Link](https://www.examtopics.com/discussions/microsoft/view/59016-exam-dp-100-topic-1-question-40-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -789,16 +908,19 @@ Recommendation: You choose Inference cluster.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 41
+## Question 41 | [Link](https://www.examtopics.com/discussions/microsoft/view/57729-exam-dp-100-topic-1-question-41-discussion/){:target="_blank"}
 
 This question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the recommendation satisfies the requirements.
 
@@ -810,16 +932,19 @@ Recommendation: You choose Compute cluster.
 
 Will the requirements be satisfied?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 42
+## Question 42 | [Link](https://www.examtopics.com/discussions/microsoft/view/72690-exam-dp-100-topic-1-question-42-discussion/){:target="_blank"}
 
 You are making use of the Azure Machine Learning to designer construct an experiment.
 
@@ -829,16 +954,21 @@ You are preparing to ascertain the Area Under the Curve (AUC).
 
 Which of the following is a sequential combination of the models required to achieve your goal?
 
+* A.Train, Score, Evaluate.
+* B.Score, Evaluate, Train.
+* C.Evaluate, Export Data, Train.
+* D.Train, Score, Export Data.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 43
+## Question 43 | [Link](https://www.examtopics.com/discussions/microsoft/view/103563-exam-dp-100-topic-1-question-43-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -857,13 +987,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q43_ans_image376.png" />
+  <img src="images/q43_ans_image376.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 44
+## Question 44 | [Link](https://www.examtopics.com/discussions/microsoft/view/21184-exam-dp-100-topic-2-question-1-discussion/){:target="_blank"}
 
 You are developing a hands-on workshop to introduce Docker for Windows to attendees.
 
@@ -873,16 +1003,22 @@ Which two prerequisite components should attendees install on the devices? Each 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Microsoft Hardware-Assisted Virtualization Detection Tool
+* B.Kitematic
+* C.BIOS-enabled virtualization
+* D.VirtualBox
+* E.Windows 10 64-bit Professional
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-CE
+  CE
 
 </details>
 
 ---
 
-## Question 45
+## Question 45 | [Link](https://www.examtopics.com/discussions/microsoft/view/23701-exam-dp-100-topic-2-question-2-discussion/){:target="_blank"}
 
 Your team is building a data engineering and data science development environment.
 
@@ -902,16 +1038,21 @@ You need to create the environment.
 
 What should you do?
 
+* A.Build the environment in Apache Hive for HDInsight and use Azure Data Factory for orchestration.
+* B.Build the environment in Azure Databricks and use Azure Data Factory for orchestration.
+* C.Build the environment in Apache Spark for HDInsight and use Azure Container Instances for orchestration.
+* D.Build the environment in Azure Databricks and use Azure Container Instances for orchestration.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 46
+## Question 46 | [Link](https://www.examtopics.com/discussions/microsoft/view/31300-exam-dp-100-topic-2-question-3-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -938,13 +1079,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q46_ans_image596.png" />
+  <img src="images/q46_ans_image596.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 47
+## Question 47 | [Link](https://www.examtopics.com/discussions/microsoft/view/11094-exam-dp-100-topic-2-question-4-discussion/){:target="_blank"}
 
 You plan to build a team data science environment. Data for training models in machine learning pipelines will be over 20 GB in size.
 
@@ -960,16 +1101,21 @@ You need to select a data science environment.
 
 Which environment should you use?
 
+* A.Azure Machine Learning Service
+* B.Azure Machine Learning Studio
+* C.Azure Databricks
+* D.Azure Kubernetes Service (AKS)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 48
+## Question 48 | [Link](https://www.examtopics.com/discussions/microsoft/view/34397-exam-dp-100-topic-2-question-5-discussion/){:target="_blank"}
 
 You are implementing a machine learning model to predict stock prices.
 
@@ -979,16 +1125,21 @@ You need to create a virtual machine that is pre-configured with the required to
 
 What should you do?
 
+* A.Create a Data Science Virtual Machine (DSVM) Windows edition.
+* B.Create a Geo Al Data Science Virtual Machine (Geo-DSVM) Windows edition.
+* C.Create a Deep Learning Virtual Machine (DLVM) Linux edition.
+* D.Create a Deep Learning Virtual Machine (DLVM) Windows edition.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 49
+## Question 49 | [Link](https://www.examtopics.com/discussions/microsoft/view/11936-exam-dp-100-topic-2-question-6-discussion/){:target="_blank"}
 
 You are developing deep learning models to analyze semi-structured, unstructured, and structured data types.
 
@@ -1004,16 +1155,21 @@ You need to select an environment for creating the model.
 
 Which environment should you use?
 
+* A.Azure Cognitive Services
+* B.Azure Data Lake Analytics
+* C.Azure HDInsight with Spark MLib
+* D.Azure Machine Learning Studio
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 50
+## Question 50 | [Link](https://www.examtopics.com/discussions/microsoft/view/36483-exam-dp-100-topic-2-question-7-discussion/){:target="_blank"}
 
 You must store data in Azure Blob Storage to support Azure Machine Learning.
 
@@ -1023,16 +1179,22 @@ What are three possible ways to achieve the goal? Each correct answer presents a
 
 NOTE: Each correct selection is worth one point.
 
+* A.Bulk Insert SQL Query
+* B.AzCopy
+* C.Python script
+* D.Azure Storage Explorer
+* E.Bulk Copy Program (BCP)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BCD
+  BCD
 
 </details>
 
 ---
 
-## Question 51
+## Question 51 | [Link](https://www.examtopics.com/discussions/microsoft/view/36484-exam-dp-100-topic-2-question-8-discussion/){:target="_blank"}
 
 You are moving a large dataset from Azure Machine Learning Studio to a Weka environment.
 
@@ -1040,16 +1202,21 @@ You need to format the data for the Weka environment.
 
 Which module should you use?
 
+* A.Convert to CSV
+* B.Convert to Dataset
+* C.Convert to ARFF
+* D.Convert to SVMLight
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 52
+## Question 52 | [Link](https://www.examtopics.com/discussions/microsoft/view/36485-exam-dp-100-topic-2-question-9-discussion/){:target="_blank"}
 
 You plan to create a speech recognition deep learning model.
 
@@ -1059,16 +1226,21 @@ You need to recommend a deep learning framework for speech recognition to includ
 
 What should you recommend?
 
+* A.Rattle
+* B.TensorFlow
+* C.Weka
+* D.Scikit-learn
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 53
+## Question 53 | [Link](https://www.examtopics.com/discussions/microsoft/view/36486-exam-dp-100-topic-2-question-10-discussion/){:target="_blank"}
 
 You plan to use a Deep Learning Virtual Machine (DLVM) to train deep learning models using Compute Unified Device Architecture (CUDA) computations.
 
@@ -1076,16 +1248,22 @@ You need to configure the DLVM to support CUDA.
 
 What should you implement?
 
+* A.Solid State Drives (SSD)
+* B.Computer Processing Unit (CPU) speed increase by using overclocking
+* C.Graphic Processing Unit (GPU)
+* D.High Random Access Memory (RAM) configuration
+* E.Intel Software Guard Extensions (Intel SGX) technology
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 54
+## Question 54 | [Link](https://www.examtopics.com/discussions/microsoft/view/20634-exam-dp-100-topic-2-question-11-discussion/){:target="_blank"}
 
 You plan to use a Data Science Virtual Machine (DSVM) with the open source deep learning frameworks Caffe2 and PyTorch.
 
@@ -1093,16 +1271,22 @@ You need to select a pre-configured DSVM to support the frameworks.
 
 What should you create?
 
+* A.Data Science Virtual Machine for Windows 2012
+* B.Data Science Virtual Machine for Linux (CentOS)
+* C.Geo AI Data Science Virtual Machine with ArcGIS
+* D.Data Science Virtual Machine for Windows 2016
+* E.Data Science Virtual Machine for Linux (Ubuntu)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-E
+  E
 
 </details>
 
 ---
 
-## Question 55
+## Question 55 | [Link](https://www.examtopics.com/discussions/microsoft/view/57095-exam-dp-100-topic-2-question-12-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1123,13 +1307,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q55_ans_0006400001.jpg" />
+  <img src="images/q55_ans_0006400001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 56
+## Question 56 | [Link](https://www.examtopics.com/discussions/microsoft/view/23269-exam-dp-100-topic-2-question-13-discussion/){:target="_blank"}
 
 You are developing a data science workspace that uses an Azure Machine Learning service.
 
@@ -1137,16 +1321,21 @@ You need to select a compute target to deploy the workspace.
 
 What should you use?
 
+* A.Azure Data Lake Analytics
+* B.Azure Databricks
+* C.Azure Container Service
+* D.Apache Spark for HDInsight
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 57
+## Question 57 | [Link](https://www.examtopics.com/discussions/microsoft/view/36488-exam-dp-100-topic-2-question-14-discussion/){:target="_blank"}
 
 You are solving a classification task.
 
@@ -1156,16 +1345,21 @@ You need to select an Azure Machine Learning Studio module to improve the classi
 
 Which module should you use?
 
+* A.Permutation Feature Importance
+* B.Filter Based Feature Selection
+* C.Fisher Linear Discriminant Analysis
+* D.Synthetic Minority Oversampling Technique (SMOTE)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 58
+## Question 58 | [Link](https://www.examtopics.com/discussions/microsoft/view/20564-exam-dp-100-topic-2-question-15-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -1188,13 +1382,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q58_ans_image597.png" />
+  <img src="images/q58_ans_image597.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 59
+## Question 59 | [Link](https://www.examtopics.com/discussions/microsoft/view/13041-exam-dp-100-topic-2-question-16-discussion/){:target="_blank"}
 
 You use Azure Machine Learning Studio to build a machine learning experiment.
 
@@ -1202,16 +1396,21 @@ You need to divide data into two distinct datasets.
 
 Which module should you use?
 
+* A.Assign Data to Clusters
+* B.Load Trained Model
+* C.Partition and Sample
+* D.Tune Model-Hyperparameters
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 60
+## Question 60 | [Link](https://www.examtopics.com/discussions/microsoft/view/57096-exam-dp-100-topic-2-question-17-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -1232,13 +1431,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q60_ans_0007000001.png" />
+  <img src="images/q60_ans_0007000001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 61
+## Question 61 | [Link](https://www.examtopics.com/discussions/microsoft/view/39901-exam-dp-100-topic-2-question-18-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1261,13 +1460,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q61_ans_0007300001.png" />
+  <img src="images/q61_ans_0007300001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 62
+## Question 62 | [Link](https://www.examtopics.com/discussions/microsoft/view/42388-exam-dp-100-topic-2-question-19-discussion/){:target="_blank"}
 
 You are creating a machine learning model. You have a dataset that contains null rows.
 
@@ -1275,16 +1474,23 @@ You need to use the Clean Missing Data module in Azure Machine Learning Studio t
 
 Which parameter should you use?
 
+* A.Replace with mean
+* B.Remove entire column
+* C.Remove entire row
+* D.Hot Deck
+* E.Custom substitution value
+* F.Replace with mode
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 63
+## Question 63 | [Link](https://www.examtopics.com/discussions/microsoft/view/46837-exam-dp-100-topic-2-question-20-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1303,13 +1509,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q63_ans_0007600001.png" />
+  <img src="images/q63_ans_0007600001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 64
+## Question 64 | [Link](https://www.examtopics.com/discussions/microsoft/view/44571-exam-dp-100-topic-2-question-21-discussion/){:target="_blank"}
 
 You plan to provision an Azure Machine Learning Basic edition workspace for a data science project.
 
@@ -1319,16 +1525,22 @@ Which three tasks will you be able to perform? Each correct answer presents a co
 
 NOTE: Each correct selection is worth one point.
 
+* A.Create a Compute Instance and use it to run code in Jupyter notebooks.
+* B.Create an Azure Kubernetes Service (AKS) inference cluster.
+* C.Use the designer to train a model by dragging and dropping pre-defined modules.
+* D.Create a tabular dataset that supports versioning.
+* E.Use the Automated Machine Learning user interface to train a model.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ACE
+  ACE
 
 </details>
 
 ---
 
-## Question 65
+## Question 65 | [Link](https://www.examtopics.com/discussions/microsoft/view/52696-exam-dp-100-topic-2-question-22-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1349,13 +1561,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q65_ans_0007800002.png" />
+  <img src="images/q65_ans_0007800002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 66
+## Question 66 | [Link](https://www.examtopics.com/discussions/microsoft/view/47144-exam-dp-100-topic-2-question-23-discussion/){:target="_blank"}
 
 A set of CSV files contains sales records. All the CSV files have the same data schema.
 
@@ -1377,16 +1589,21 @@ You need to register the sales data as a dataset in Azure Machine Learning servi
 
 What should you do?
 
+* A.Create a tabular dataset that references the datastore and explicitly specifies each 'sales/mm-yyyy/sales.csv' file every month. Register the dataset with the name sales_dataset each month, replacing the existing dataset and specifying a tag named month indicating the month and year it was registered. Use this dataset for all experiments.
+* B.Create a tabular dataset that references the datastore and specifies the path 'sales/*/sales.csv', register the dataset with the name sales_dataset and a tag named month indicating the month and year it was registered, and use this dataset for all experiments.
+* C.Create a new tabular dataset that references the datastore and explicitly specifies each 'sales/mm-yyyy/sales.csv' file every month. Register the dataset with the name sales_dataset_MM-YYYY each month with appropriate MM and YYYY values for the month and year. Use the appropriate month-specific dataset for experiments.
+* D.Create a tabular dataset that references the datastore and explicitly specifies each 'sales/mm-yyyy/sales.csv' file. Register the dataset with the name sales_dataset each month as a new version and with a tag named month indicating the month and year it was registered. Use this dataset for all experiments, identifying the version to be used based on the month tag as necessary.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 67
+## Question 67 | [Link](https://www.examtopics.com/discussions/microsoft/view/47309-exam-dp-100-topic-2-question-24-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -1409,13 +1626,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q67_ans_0008100003.png" />
+  <img src="images/q67_ans_0008100003.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 68
+## Question 68 | [Link](https://www.examtopics.com/discussions/microsoft/view/47149-exam-dp-100-topic-2-question-25-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1438,13 +1655,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q68_ans_image598.png" />
+  <img src="images/q68_ans_image598.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 69
+## Question 69 | [Link](https://www.examtopics.com/discussions/microsoft/view/51785-exam-dp-100-topic-2-question-26-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1465,13 +1682,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q69_ans_0008500002.png" />
+  <img src="images/q69_ans_0008500002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 70
+## Question 70 | [Link](https://www.examtopics.com/discussions/microsoft/view/55965-exam-dp-100-topic-2-question-27-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -1494,13 +1711,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q70_ans_0008700002.png" />
+  <img src="images/q70_ans_0008700002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 71
+## Question 71 | [Link](https://www.examtopics.com/discussions/microsoft/view/18957-exam-dp-100-topic-2-question-28-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1514,16 +1731,19 @@ Solution: Apply an Entropy Minimum Description Length (MDL) binning mode.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 72
+## Question 72 | [Link](https://www.examtopics.com/discussions/microsoft/view/51107-exam-dp-100-topic-2-question-29-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1542,13 +1762,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q72_ans_image599.png" />
+  <img src="images/q72_ans_image599.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 73
+## Question 73 | [Link](https://www.examtopics.com/discussions/microsoft/view/40807-exam-dp-100-topic-2-question-30-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1562,16 +1782,19 @@ Solution: Apply a Quantiles normalization with a QuantileIndex normalization.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 74
+## Question 74 | [Link](https://www.examtopics.com/discussions/microsoft/view/55967-exam-dp-100-topic-2-question-31-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1587,16 +1810,19 @@ Solution: You use the Scale and Reduce sampling mode.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 75
+## Question 75 | [Link](https://www.examtopics.com/discussions/microsoft/view/24662-exam-dp-100-topic-2-question-32-discussion/){:target="_blank"}
 
 You are analyzing a dataset by using Azure Machine Learning Studio.
 
@@ -1606,16 +1832,22 @@ Which two modules can you use? Each correct answer presents a complete solution.
 
 NOTE: Each correct selection is worth one point.
 
+* A.Computer Linear Correlation
+* B.Export Count Table
+* C.Execute Python Script
+* D.Convert to Indicator Values
+* E.Summarize Data
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-CE
+  CE
 
 </details>
 
 ---
 
-## Question 76
+## Question 76 | [Link](https://www.examtopics.com/discussions/microsoft/view/48586-exam-dp-100-topic-2-question-33-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1631,16 +1863,19 @@ Solution: Use the Last Observation Carried Forward (LOCF) method to impute the m
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 77
+## Question 77 | [Link](https://www.examtopics.com/discussions/microsoft/view/20099-exam-dp-100-topic-2-question-34-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1669,13 +1904,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q77_ans_image600.png" />
+  <img src="images/q77_ans_image600.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 78
+## Question 78 | [Link](https://www.examtopics.com/discussions/microsoft/view/33887-exam-dp-100-topic-2-question-35-discussion/){:target="_blank"}
 
 You plan to deliver a hands-on workshop to several students. The workshop will focus on creating data visualizations using Python. Each student will use a device that has internet access.
 
@@ -1685,16 +1920,21 @@ You need to ensure that students can run Python-based data visualization code.
 
 Which Azure tool should you use?
 
+* A.Anaconda Data Science Platform
+* B.Azure BatchAI
+* C.Azure Notebooks
+* D.Azure Machine Learning Service
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 79
+## Question 79 | [Link](https://www.examtopics.com/discussions/microsoft/view/11937-exam-dp-100-topic-2-question-36-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1710,16 +1950,19 @@ Solution: Replace each missing value using the Multiple Imputation by Chained Eq
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 80
+## Question 80 | [Link](https://www.examtopics.com/discussions/microsoft/view/55504-exam-dp-100-topic-2-question-37-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1735,16 +1978,19 @@ Solution: Remove the entire column that contains the missing data point.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 81
+## Question 81 | [Link](https://www.examtopics.com/discussions/microsoft/view/36891-exam-dp-100-topic-2-question-38-discussion/){:target="_blank"}
 
 You are creating a new experiment in Azure Machine Learning Studio. You have a small dataset that has missing values in many columns. The data does not require the application of predictors for each column. You plan to use the Clean Missing Data.
 
@@ -1752,16 +1998,21 @@ You need to select a data cleaning method.
 
 Which method should you use?
 
+* A.Replace using Probabilistic PCA
+* B.Normalization
+* C.Synthetic Minority Oversampling Technique (SMOTE)
+* D.Replace using MICE
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 82
+## Question 82 | [Link](https://www.examtopics.com/discussions/microsoft/view/20021-exam-dp-100-topic-2-question-39-discussion/){:target="_blank"}
 
 You use Azure Machine Learning Studio to build a machine learning experiment.
 
@@ -1769,16 +2020,21 @@ You need to divide data into two distinct datasets.
 
 Which module should you use?
 
+* A.Split Data
+* B.Load Trained Model
+* C.Assign Data to Clusters
+* D.Group Data into Bins
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 83
+## Question 83 | [Link](https://www.examtopics.com/discussions/microsoft/view/51418-exam-dp-100-topic-2-question-40-discussion/){:target="_blank"}
 
 You are a lead data scientist for a project that tracks the health and migration of birds. You create a multi-class image classification deep learning model that uses a set of labeled bird photographs collected by experts.
 
@@ -1788,16 +2044,22 @@ You need to access the bird photograph files in the Azure blob container from th
 
 What should you do?
 
+* A.Create an Azure Data Lake store and move the bird photographs to the store.
+* B.Create an Azure Cosmos DB database and attach the Azure Blob containing bird photographs storage to the database.
+* C.Create and register a dataset by using TabularDataset class that references the Azure blob storage containing bird photographs.
+* D.Register the Azure blob storage containing the bird photographs as a datastore in Azure Machine Learning service.
+* E.Copy the bird photographs to the blob datastore that was created with your Azure Machine Learning service workspace.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 84
+## Question 84 | [Link](https://www.examtopics.com/discussions/microsoft/view/3117-exam-dp-100-topic-2-question-41-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1813,16 +2075,19 @@ Solution: Calculate the column median value and use the median value as the repl
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 85
+## Question 85 | [Link](https://www.examtopics.com/discussions/microsoft/view/57615-exam-dp-100-topic-2-question-42-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace.
 
@@ -1859,13 +2124,13 @@ D.
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 86
+## Question 86 | [Link](https://www.examtopics.com/discussions/microsoft/view/12362-exam-dp-100-topic-2-question-43-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1879,16 +2144,19 @@ Solution: Apply an Equal Width with Custom Start and Stop binning mode.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 87
+## Question 87 | [Link](https://www.examtopics.com/discussions/microsoft/view/11997-exam-dp-100-topic-2-question-44-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -1902,16 +2170,19 @@ Solution: Apply a Quantiles binning mode with a PQuantile normalization.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 88
+## Question 88 | [Link](https://www.examtopics.com/discussions/microsoft/view/25511-exam-dp-100-topic-2-question-45-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1932,13 +2203,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q88_ans_0010900001.png" />
+  <img src="images/q88_ans_0010900001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 89
+## Question 89 | [Link](https://www.examtopics.com/discussions/microsoft/view/20577-exam-dp-100-topic-2-question-46-discussion/){:target="_blank"}
 
 You are with a time series dataset in Azure Machine Learning Studio.
 
@@ -1946,16 +2217,21 @@ You need to split your dataset into training and testing subsets by using the Sp
 
 Which splitting mode should you use?
 
+* A.Recommender Split
+* B.Regular Expression Split
+* C.Relative Expression Split
+* D.Split Rows with the Randomized split parameter set to true
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 90
+## Question 90 | [Link](https://www.examtopics.com/discussions/microsoft/view/47461-exam-dp-100-topic-2-question-47-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -1986,13 +2262,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q90_ans_0011300001.png" />
+  <img src="images/q90_ans_0011300001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 91
+## Question 91 | [Link](https://www.examtopics.com/discussions/microsoft/view/61108-exam-dp-100-topic-2-question-48-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace. You are preparing a local Python environment on a laptop computer. You want to use the laptop to connect to the workspace and run experiments.
 
@@ -2012,16 +2288,22 @@ Which two additional parameters must you add to the config.json file in order to
 
 NOTE: Each correct selection is worth one point.
 
+* A.login
+* B.resource_group
+* C.subscription_id
+* D.key
+* E.region
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BC
+  BC
 
 </details>
 
 ---
 
-## Question 92
+## Question 92 | [Link](https://www.examtopics.com/discussions/microsoft/view/20993-exam-dp-100-topic-2-question-49-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -2042,13 +2324,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q92_ans_0011700001.png" />
+  <img src="images/q92_ans_0011700001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 93
+## Question 93 | [Link](https://www.examtopics.com/discussions/microsoft/view/47462-exam-dp-100-topic-2-question-50-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning compute resource to train models. The compute resource is configured as follows:
 
@@ -2068,16 +2350,22 @@ What are three possible ways to achieve this goal? Each correct answer presents 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Use the Azure Machine Learning studio.
+* B.Run the update method of the AmlCompute class in the Python SDK.
+* C.Use the Azure portal.
+* D.Use the Azure Machine Learning designer.
+* E.Run the refresh_state() method of the BatchCompute class in the Python SDK.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ABC
+  ABC
 
 </details>
 
 ---
 
-## Question 94
+## Question 94 | [Link](https://www.examtopics.com/discussions/microsoft/view/29889-exam-dp-100-topic-2-question-51-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -2104,13 +2392,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q94_ans_0012000002.png" />
+  <img src="images/q94_ans_0012000002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 95
+## Question 95 | [Link](https://www.examtopics.com/discussions/microsoft/view/47774-exam-dp-100-topic-2-question-52-discussion/){:target="_blank"}
 
 You create a new Azure subscription. No resources are provisioned in the subscription.
 
@@ -2120,16 +2408,22 @@ What are three possible ways to achieve this goal? Each correct answer presents 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Run Python code that uses the Azure ML SDK library and calls the Workspace.create method with name, subscription_id, and resource_group parameters.
+* B.Navigate to Azure Machine Learning studio and create a workspace.
+* C.Use the Azure Command Line Interface (CLI) with the Azure Machine Learning extension to call the az group create function with --name and --location parameters, and then the az ml workspace create function, specifying ג€"w and ג€"g parameters for the workspace name and resource group.
+* D.Navigate to Azure Machine Learning studio and create a workspace.
+* E.Run Python code that uses the Azure ML SDK library and calls the Workspace.get method with name, subscription_id, and resource_group parameters.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ABC
+  ABC
 
 </details>
 
 ---
 
-## Question 96
+## Question 96 | [Link](https://www.examtopics.com/discussions/microsoft/view/67382-exam-dp-100-topic-2-question-53-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -2152,13 +2446,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q96_ans_0012500001.png" />
+  <img src="images/q96_ans_0012500001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 97
+## Question 97 | [Link](https://www.examtopics.com/discussions/microsoft/view/71787-exam-dp-100-topic-2-question-54-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -2179,13 +2473,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q97_ans_image601.png" />
+  <img src="images/q97_ans_image601.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 98
+## Question 98 | [Link](https://www.examtopics.com/discussions/microsoft/view/79046-exam-dp-100-topic-2-question-55-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -2206,13 +2500,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q98_ans_0013000001.png" />
+  <img src="images/q98_ans_0013000001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 99
+## Question 99 | [Link](https://www.examtopics.com/discussions/microsoft/view/81365-exam-dp-100-topic-2-question-56-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -2229,13 +2523,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q99_ans_0013200001.png" />
+  <img src="images/q99_ans_0013200001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 100
+## Question 100 | [Link](https://www.examtopics.com/discussions/microsoft/view/79513-exam-dp-100-topic-2-question-57-discussion/){:target="_blank"}
 
 You use Azure Machine Learning to train a model based on a dataset named dataset1.
 
@@ -2245,16 +2539,21 @@ You need to compare dataset1 and dataset2 by using the Azure Machine Learning SD
 
 Which method of the DataDriftDetector class should you use?
 
+* A.run
+* B.get
+* C.backfill
+* D.update
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 101
+## Question 101 | [Link](https://www.examtopics.com/discussions/microsoft/view/79514-exam-dp-100-topic-2-question-58-discussion/){:target="_blank"}
 
 You use an Azure Machine Learning workspace.
 
@@ -2262,16 +2561,21 @@ You have a trained model that must be deployed as a web service. Users must auth
 
 What should you do?
 
+* A.Deploy the model to Azure Kubernetes Service (AKS). During deployment, set the token_auth_enabled parameter of the target configuration object to true
+* B.Deploy the model to Azure Container Instances. During deployment, set the auth_enabled parameter of the target configuration object to true
+* C.Deploy the model to Azure Container Instances. During deployment, set the token_auth_enabled parameter of the target configuration object to true
+* D.Deploy the model to Azure Kubernetes Service (AKS). During deployment, set the auth.enabled parameter of the target configuration object to true
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 102
+## Question 102 | [Link](https://www.examtopics.com/discussions/microsoft/view/79518-exam-dp-100-topic-2-question-59-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -2292,13 +2596,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q102_ans_0013600001.png" />
+  <img src="images/q102_ans_0013600001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 103
+## Question 103 | [Link](https://www.examtopics.com/discussions/microsoft/view/87873-exam-dp-100-topic-2-question-60-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -2319,13 +2623,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q103_ans_0013800002.png" />
+  <img src="images/q103_ans_0013800002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 104
+## Question 104 | [Link](https://www.examtopics.com/discussions/microsoft/view/89935-exam-dp-100-topic-2-question-61-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -2346,13 +2650,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q104_ans_0014100002.jpg" />
+  <img src="images/q104_ans_0014100002.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 105
+## Question 105 | [Link](https://www.examtopics.com/discussions/microsoft/view/105028-exam-dp-100-topic-2-question-62-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2371,13 +2675,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q105_ans_image378.png" />
+  <img src="images/q105_ans_image378.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 106
+## Question 106 | [Link](https://www.examtopics.com/discussions/microsoft/view/109787-exam-dp-100-topic-2-question-63-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2396,13 +2700,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q106_ans_image380.png" />
+  <img src="images/q106_ans_image380.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 107
+## Question 107 | [Link](https://www.examtopics.com/discussions/microsoft/view/103579-exam-dp-100-topic-2-question-64-discussion/){:target="_blank"}
 
 You are profiling data by using Azure Machine Learning studio.
 
@@ -2410,16 +2714,21 @@ You need to detect columns with odd or missing values.
 
 Which statistic should you analyze?
 
+* A.Profile
+* B.Std deviation
+* C.Error count
+* D.Type
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 108
+## Question 108 | [Link](https://www.examtopics.com/discussions/microsoft/view/103339-exam-dp-100-topic-2-question-65-discussion/){:target="_blank"}
 
 You are authoring a notebook in Azure Machine Learning studio.
 
@@ -2429,16 +2738,21 @@ You need to install the packages.
 
 Which magic function should you use?
 
+* A.!pip
+* B.%pip
+* C.!conda
+* D.%load
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 109
+## Question 109 | [Link](https://www.examtopics.com/discussions/microsoft/view/103581-exam-dp-100-topic-2-question-66-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -2457,13 +2771,13 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q109_ans_image382.png" />
+  <img src="images/q109_ans_image382.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 110
+## Question 110 | [Link](https://www.examtopics.com/discussions/microsoft/view/103995-exam-dp-100-topic-2-question-67-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -2485,16 +2799,19 @@ Solution: Use the Add Rows module.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 111
+## Question 111 | [Link](https://www.examtopics.com/discussions/microsoft/view/110110-exam-dp-100-topic-2-question-68-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -2516,16 +2833,19 @@ Solution: Use the Apply Transformation module.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 112
+## Question 112 | [Link](https://www.examtopics.com/discussions/microsoft/view/103577-exam-dp-100-topic-2-question-69-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -2547,16 +2867,19 @@ Solution: Use the Execute Python Script module.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 113
+## Question 113 | [Link](https://www.examtopics.com/discussions/microsoft/view/103566-exam-dp-100-topic-2-question-70-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2575,13 +2898,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q113_ans_image386.png" />
+  <img src="images/q113_ans_image386.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 114
+## Question 114 | [Link](https://www.examtopics.com/discussions/microsoft/view/103997-exam-dp-100-topic-2-question-71-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2602,13 +2925,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q114_ans_image389.png" />
+  <img src="images/q114_ans_image389.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 115
+## Question 115 | [Link](https://www.examtopics.com/discussions/microsoft/view/107214-exam-dp-100-topic-2-question-72-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -2625,13 +2948,13 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q115_ans_image391.png" />
+  <img src="images/q115_ans_image391.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 116
+## Question 116 | [Link](https://www.examtopics.com/discussions/microsoft/view/107215-exam-dp-100-topic-2-question-73-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -2650,13 +2973,13 @@ NOTE: More than one order of answer choices is correct. You will receive credit 
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q116_ans_image393.png" />
+  <img src="images/q116_ans_image393.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 117
+## Question 117 | [Link](https://www.examtopics.com/discussions/microsoft/view/105879-exam-dp-100-topic-2-question-74-discussion/){:target="_blank"}
 
 You are creating a compute target to train a machine learning experiment.
 
@@ -2666,16 +2989,21 @@ You need to configure the compute target.
 
 Which option should you use?
 
+* A.Azure HDInsight
+* B.Azure Machine Learning compute cluster
+* C.Azure Batch
+* D.Remote VM
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 118
+## Question 118 | [Link](https://www.examtopics.com/discussions/microsoft/view/107218-exam-dp-100-topic-2-question-75-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace by using the Azure CLI ml extension v2.
 
@@ -2683,16 +3011,21 @@ You need to define a YAML schema to create a compute cluster.
 
 Which schema should you use?
 
+* A.https://azuremlschemas.azureedge.net/latest/computeInstance.schema.json
+* B.https://azuremlschemas.azureedge.net/latest/amlCompute.schema.json
+* C.https://azuremlschemas.azureedge.net/latest/vmCompute.schema.json
+* D.https://azuremlschemas.azureedge.net/latest/kubernetesCompute.schema.json
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 119
+## Question 119 | [Link](https://www.examtopics.com/discussions/microsoft/view/103677-exam-dp-100-topic-2-question-76-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -2710,16 +3043,19 @@ Solution: Run the following Python code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 120
+## Question 120 | [Link](https://www.examtopics.com/discussions/microsoft/view/107926-exam-dp-100-topic-2-question-77-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -2737,16 +3073,19 @@ Solution: Run the following Python code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 121
+## Question 121 | [Link](https://www.examtopics.com/discussions/microsoft/view/103578-exam-dp-100-topic-2-question-78-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -2764,16 +3103,19 @@ Solution: Run the following Python code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 122
+## Question 122 | [Link](https://www.examtopics.com/discussions/microsoft/view/104950-exam-dp-100-topic-2-question-79-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2794,13 +3136,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q122_ans_image399.png" />
+  <img src="images/q122_ans_image399.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 123
+## Question 123 | [Link](https://www.examtopics.com/discussions/microsoft/view/107223-exam-dp-100-topic-2-question-80-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2821,13 +3163,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q123_ans_image401.png" />
+  <img src="images/q123_ans_image401.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 124
+## Question 124 | [Link](https://www.examtopics.com/discussions/microsoft/view/105043-exam-dp-100-topic-2-question-81-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2848,13 +3190,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q124_ans_image403.png" />
+  <img src="images/q124_ans_image403.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 125
+## Question 125 | [Link](https://www.examtopics.com/discussions/microsoft/view/103650-exam-dp-100-topic-2-question-82-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2875,13 +3217,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q125_ans_image405.png" />
+  <img src="images/q125_ans_image405.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 126
+## Question 126 | [Link](https://www.examtopics.com/discussions/microsoft/view/106960-exam-dp-100-topic-2-question-83-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning SDK for Python v1 and notebooks to train a model. You create a compute target, an environment, and a training script by using Python code.
 
@@ -2889,16 +3231,21 @@ You need to prepare information to submit a training run.
 
 Which class should you use?
 
+* A.ScriptRun
+* B.ScriptRunConfig
+* C.RunConfiguration
+* D.Run
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 127
+## Question 127 | [Link](https://www.examtopics.com/discussions/microsoft/view/106242-exam-dp-100-topic-2-question-84-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2917,13 +3264,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q127_ans_image451.png" />
+  <img src="images/q127_ans_image451.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 128
+## Question 128 | [Link](https://www.examtopics.com/discussions/microsoft/view/106369-exam-dp-100-topic-2-question-85-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2942,13 +3289,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q128_ans_image453.png" />
+  <img src="images/q128_ans_image453.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 129
+## Question 129 | [Link](https://www.examtopics.com/discussions/microsoft/view/106238-exam-dp-100-topic-2-question-86-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace. You are connecting an Azure Data Lake Storage Gen2 account to the workspace as a data store.
 
@@ -2956,16 +3303,21 @@ You need to authorize access from the workspace to the Azure Data Lake Storage G
 
 What should you use?
 
+* A.Service principal
+* B.SAS token
+* C.Managed identity
+* D.Account key
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 130
+## Question 130 | [Link](https://www.examtopics.com/discussions/microsoft/view/106177-exam-dp-100-topic-2-question-87-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -2982,13 +3334,13 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q130_ans_image455.png" />
+  <img src="images/q130_ans_image455.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 131
+## Question 131 | [Link](https://www.examtopics.com/discussions/microsoft/view/107243-exam-dp-100-topic-2-question-88-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -2998,9 +3350,9 @@ You are designing a machine learning solution.
 
 You have the following requirements:
 
-• Use a training script to train a machine learning model.
+•	Use a training script to train a machine learning model.
 
-• Build a machine learning proof of concept without the use of code or script.
+•	Build a machine learning proof of concept without the use of code or script.
 
 You need to select a development tool for each requirement.
 
@@ -3013,13 +3365,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q131_ans_image457.png" />
+  <img src="images/q131_ans_image457.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 132
+## Question 132 | [Link](https://www.examtopics.com/discussions/microsoft/view/112700-exam-dp-100-topic-2-question-89-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace named workspace1.
 
@@ -3029,16 +3381,21 @@ You need to invoke the constructor.
 
 What should you use?
 
+* A.Synapse workspace web URL and Spark pool name
+* B.resource ID of the Synapse Spark pool and a user-defined name
+* C.pool URL of the Synapse Spark pool and a system-assigned name
+* D.Synapse workspace name and workspace web URL
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 133
+## Question 133 | [Link](https://www.examtopics.com/discussions/microsoft/view/114979-exam-dp-100-topic-2-question-90-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3050,15 +3407,15 @@ You must create a compute cluster in the workspace. The compute cluster must run
 
 The cluster definition includes the following properties and values:
 
-• names=“mlcluster”
+•	names=“mlcluster”
 
-• size=“STANDARD_DS3_v2”
+•	size=“STANDARD_DS3_v2”
 
-• min_instances=1
+•	min_instances=1
 
-• max_instances=4
+•	max_instances=4
 
-• tier=“dedicated“
+•	tier=“dedicated“
 
 The cost of the compute resources must be minimized when a workload is active or idle. Cluster property changes must not affect the maximum amount of compute resources available to the workloads run on the cluster.
 
@@ -3073,13 +3430,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q133_ans_image478.png" />
+  <img src="images/q133_ans_image478.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 134
+## Question 134 | [Link](https://www.examtopics.com/discussions/microsoft/view/112705-exam-dp-100-topic-2-question-91-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3098,13 +3455,13 @@ For each of the following statements, select Yes if the statement is true. Other
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q134_ans_image481.png" />
+  <img src="images/q134_ans_image481.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 135
+## Question 135 | [Link](https://www.examtopics.com/discussions/microsoft/view/112706-exam-dp-100-topic-2-question-92-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace. You have an environment for training jobs which uses an existing Docker image.
 
@@ -3114,16 +3471,21 @@ You need to use the latest version of the Docker image for the environment confi
 
 What should you do?
 
+* A.Modify the conda_file to specify the new version of the Docker image.
+* B.Use the Environment class to create a new version of the environment.
+* C.Use the create_or_update method to change the tag of the image.
+* D.Change the description parameter of the environment configuration.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 136
+## Question 136 | [Link](https://www.examtopics.com/discussions/microsoft/view/112708-exam-dp-100-topic-2-question-93-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3146,13 +3508,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q136_ans_image483.png" />
+  <img src="images/q136_ans_image483.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 137
+## Question 137 | [Link](https://www.examtopics.com/discussions/microsoft/view/112710-exam-dp-100-topic-2-question-94-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3173,13 +3535,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q137_ans_image485.png" />
+  <img src="images/q137_ans_image485.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 138
+## Question 138 | [Link](https://www.examtopics.com/discussions/microsoft/view/112720-exam-dp-100-topic-2-question-95-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace. The workspace includes an Azure Machine Learning Kubernetes compute target configured as an Azure Kubernetes Service (AKS) cluster named AKS1. AKS1 is configured to enable the targeting of different nodes to train workloads.
 
@@ -3189,16 +3551,21 @@ You need to configure the command parameter.
 
 Which parameter should you use?
 
+* A.environment
+* B.compute
+* C.limits
+* D.instance_type
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 139
+## Question 139 | [Link](https://www.examtopics.com/discussions/microsoft/view/114990-exam-dp-100-topic-2-question-96-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3217,13 +3584,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q139_ans_image487.png" />
+  <img src="images/q139_ans_image487.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 140
+## Question 140 | [Link](https://www.examtopics.com/discussions/microsoft/view/112721-exam-dp-100-topic-2-question-97-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -3233,9 +3600,9 @@ You manage an Azure Machine Learning workspace named workspace1 by using the Pyt
 
 You must register datastores in workspace1 for Azure Blob storage and Azure Files storage to meet the following requirements:
 
-• Azure Active Directory (Azure AD) authentication must be used for access to storage when possible.
+•	Azure Active Directory (Azure AD) authentication must be used for access to storage when possible.
 
-• Credentials and secrets stored in workspace1 must be valid for a specified time period when accessing Azure Files storage.
+•	Credentials and secrets stored in workspace1 must be valid for a specified time period when accessing Azure Files storage.
 
 You need to configure a security access method used to register the Azure Blob and Azure Files storage in workspace1.
 
@@ -3248,13 +3615,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q140_ans_image489.png" />
+  <img src="images/q140_ans_image489.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 141
+## Question 141 | [Link](https://www.examtopics.com/discussions/microsoft/view/112722-exam-dp-100-topic-2-question-98-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace named workspace1.
 
@@ -3264,16 +3631,21 @@ You need to add the instantiated compute instance to workspace1.
 
 What should you use?
 
+* A.constructor of the azure.ai.ml.ComputeSchedule class
+* B.constructor of the azure.ai.ml.ComputePowerAction enum
+* C.begin_create_or_update method of an instance of the azure.ai.ml.MLCIient class
+* D.set_resources method of an instance of the azure.ai.ml.Command class
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 142
+## Question 142 | [Link](https://www.examtopics.com/discussions/microsoft/view/112725-exam-dp-100-topic-2-question-99-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3294,13 +3666,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q142_ans_image491.png" />
+  <img src="images/q142_ans_image491.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 143
+## Question 143 | [Link](https://www.examtopics.com/discussions/microsoft/view/112726-exam-dp-100-topic-2-question-100-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3321,13 +3693,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q143_ans_image493.png" />
+  <img src="images/q143_ans_image493.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 144
+## Question 144 | [Link](https://www.examtopics.com/discussions/microsoft/view/112727-exam-dp-100-topic-2-question-101-discussion/){:target="_blank"}
 
 You create a workspace to include a compute instance by using Azure Machine Learning Studio. You are developing a Python SDK v2 notebook in the workspace.
 
@@ -3335,16 +3707,21 @@ You need to use Intellisense in the notebook.
 
 What should you do?
 
+* A.Stop the compute instance.
+* B.Start the compute instance.
+* C.Run a %pip magic function on the compute instance.
+* D.Run a !pip magic function on the compute instance.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 145
+## Question 145 | [Link](https://www.examtopics.com/discussions/microsoft/view/112729-exam-dp-100-topic-2-question-102-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -3361,13 +3738,13 @@ Which four commands should you use? To answer, move the appropriate actions from
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q145_ans_image495.png" />
+  <img src="images/q145_ans_image495.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 146
+## Question 146 | [Link](https://www.examtopics.com/discussions/microsoft/view/112731-exam-dp-100-topic-2-question-103-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3388,13 +3765,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q146_ans_image497.png" />
+  <img src="images/q146_ans_image497.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 147
+## Question 147 | [Link](https://www.examtopics.com/discussions/microsoft/view/112733-exam-dp-100-topic-2-question-104-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3404,9 +3781,9 @@ You manage an Azure Machine Learning workspace named workspace1 by using the Pyt
 
 You must register datastores in workspace1 for Azure Blob and Azure Data Lake Gen2 storage to meet the following requirements:
 
-• Data scientists accessing the datastore must have the same level of access.
+•	Data scientists accessing the datastore must have the same level of access.
 
-• Access must be restricted to specified containers or folders.
+•	Access must be restricted to specified containers or folders.
 
 You need to configure a security access method used to register the Azure Blob and Azure Data Lake Gen2 storage in workspace1.
 
@@ -3419,13 +3796,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q147_ans_image499.png" />
+  <img src="images/q147_ans_image499.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 148
+## Question 148 | [Link](https://www.examtopics.com/discussions/microsoft/view/117174-exam-dp-100-topic-2-question-105-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -3444,13 +3821,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q148_ans_image501.png" />
+  <img src="images/q148_ans_image501.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 149
+## Question 149 | [Link](https://www.examtopics.com/discussions/microsoft/view/114993-exam-dp-100-topic-2-question-106-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -3458,28 +3835,33 @@ You need to define an environment from a Docker image by using the Azure Machine
 
 Which parameter should you use?
 
+* A.properties
+* B.image
+* C.build
+* D.conda_file
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 150
+## Question 150 | [Link](https://www.examtopics.com/discussions/microsoft/view/114632-exam-dp-100-topic-2-question-107-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning managed compute resource. The compute resource is configured as follows:
 
-• Minimum nodes: 2
+•	Minimum nodes: 2
 
-• Maximum nodes: 4
+•	Maximum nodes: 4
 
 You must decrease the minimum number of nodes and increase the maximum number of nodes to the following values:
 
-• Minimum nodes: 0
+•	Minimum nodes: 0
 
-• Maximum nodes: 8
+•	Maximum nodes: 8
 
 You need to reconfigure the compute resource.
 
@@ -3487,16 +3869,22 @@ Which three methods can you use? Each correct answer presents a complete solutio
 
 NOTE: Each correct selection is worth one point.
 
+* A.Azure Machine Learning designer
+* B.MLClient class in Python SDK v2
+* C.Azure Machine Learning studio
+* D.Azure CLI ml extension v2
+* E.BuildContext class in Python SDK v2
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BCD
+  BCD
 
 </details>
 
 ---
 
-## Question 151
+## Question 151 | [Link](https://www.examtopics.com/discussions/microsoft/view/117175-exam-dp-100-topic-2-question-108-discussion/){:target="_blank"}
 
 You plan to use automated machine learning by using Azure Machine Learning Python SDK v2 to train a regression model. You have data that has features with missing values, and categorical features with few distinct values.
 
@@ -3504,16 +3892,21 @@ You need to control whether automated machine learning automatically imputes mis
 
 Which enum of the automl package should you use?
 
+* A.ForecastHorizonMode
+* B.RegressionModels
+* C.FeaturizationMode
+* D.RegressionPrimaryMetrics
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 152
+## Question 152 | [Link](https://www.examtopics.com/discussions/microsoft/view/114636-exam-dp-100-topic-2-question-109-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3535,16 +3928,19 @@ Solution: Use the Join Data module.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 153
+## Question 153 | [Link](https://www.examtopics.com/discussions/microsoft/view/114651-exam-dp-100-topic-2-question-110-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -3569,13 +3965,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q153_ans_image602.png" />
+  <img src="images/q153_ans_image602.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 154
+## Question 154 | [Link](https://www.examtopics.com/discussions/microsoft/view/134107-exam-dp-100-topic-2-question-111-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3593,16 +3989,19 @@ Solution: Run the following Python code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 155
+## Question 155 | [Link](https://www.examtopics.com/discussions/microsoft/view/133601-exam-dp-100-topic-2-question-112-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3620,16 +4019,19 @@ Solution: Run the following Python code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 156
+## Question 156 | [Link](https://www.examtopics.com/discussions/microsoft/view/133925-exam-dp-100-topic-2-question-113-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3647,16 +4049,19 @@ Solution: Run the following Python code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 157
+## Question 157 | [Link](https://www.examtopics.com/discussions/microsoft/view/133615-exam-dp-100-topic-2-question-114-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3677,13 +4082,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q157_ans_image559.png" />
+  <img src="images/q157_ans_image559.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 158
+## Question 158 | [Link](https://www.examtopics.com/discussions/microsoft/view/134658-exam-dp-100-topic-2-question-115-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -3693,16 +4098,21 @@ You need to build a URI that represents the storage location.
 
 Which protocol should you use?
 
+* A.https
+* B.adl
+* C.abfss
+* D.wasbs
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 159
+## Question 159 | [Link](https://www.examtopics.com/discussions/microsoft/view/135771-exam-dp-100-topic-2-question-116-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace. You have a folder that contains a CSV file. The folder is registered as a folder data asset.
 
@@ -3712,16 +4122,21 @@ You need to access and load the folder data asset into a Pandas data frame.
 
 Which method should you use to achieve this goal?
 
+* A.mltable.from_parquet_files()
+* B.mltable.from_delimited_files()
+* C.mltable.from_data_lake()
+* D.mltable.load()
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 160
+## Question 160 | [Link](https://www.examtopics.com/discussions/microsoft/view/147297-exam-dp-100-topic-2-question-117-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace named proj1.
 
@@ -3731,16 +4146,21 @@ You need to set the Registry name filter to display only the list of assets defi
 
 What should you set the Registry name filter to?
 
+* A.proj1
+* B.azureml-meta
+* C.azureml
+* D.workspace
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 161
+## Question 161 | [Link](https://www.examtopics.com/discussions/microsoft/view/142644-exam-dp-100-topic-2-question-118-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -3757,13 +4177,13 @@ Which four actions should you perform in sequence?
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q161_ans_image565.png" />
+  <img src="images/q161_ans_image565.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 162
+## Question 162 | [Link](https://www.examtopics.com/discussions/microsoft/view/148421-exam-dp-100-topic-2-question-119-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace. You design a training job that is configured with a serverless compute.
 
@@ -3773,16 +4193,21 @@ You need to configure the serverless compute by using Azure Machine Learning Pyt
 
 What should you do?
 
+* A.Specify the compute name by using the compute parameter of the command job.
+* B.Configure the tier parameter to Dedicated VM.
+* C.Initialize and specify the ResourceConfiguration class.
+* D.Initialize AmiCompute class with size and type specification.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 163
+## Question 163 | [Link](https://www.examtopics.com/discussions/microsoft/view/149361-exam-dp-100-topic-2-question-120-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -3805,13 +4230,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q163_ans_image568.png" />
+  <img src="images/q163_ans_image568.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 164
+## Question 164 | [Link](https://www.examtopics.com/discussions/microsoft/view/148760-exam-dp-100-topic-2-question-121-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -3823,16 +4248,22 @@ Which two properties should you define? Each correct answer presents part of the
 
 NOTE: Each correct selection is worth one point.
 
+* A.size
+* B.win_instances
+* C.type
+* D.name
+* E.max_instances
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AE
+  AE
 
 </details>
 
 ---
 
-## Question 165
+## Question 165 | [Link](https://www.examtopics.com/discussions/microsoft/view/148761-exam-dp-100-topic-2-question-122-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace named Workspace1.
 
@@ -3842,16 +4273,22 @@ You need to ensure the custom component can be used in the pipeline.
 
 What should you do first?
 
+* A.Create a pipeline endpoint.
+* B.Add a linked service to Workspace1.
+* C.Upload a .json file to Workspace1.
+* D.Create a datastore.
+* E.Upload a .yaml file to Workspace1.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-E
+  E
 
 </details>
 
 ---
 
-## Question 166
+## Question 166 | [Link](https://www.examtopics.com/discussions/microsoft/view/151181-exam-dp-100-topic-2-question-123-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace and a serverless Spark compute resource.
 
@@ -3863,16 +4300,21 @@ You need to reduce the delay to less than 1 minute.
 
 What should you do?
 
+* A.Configure the session timeout to be 25 minutes.
+* B.Increase the number of nodes to 16.
+* C.Enable dynamically allocated executors.
+* D.Enable an isolated compute.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 167
+## Question 167 | [Link](https://www.examtopics.com/discussions/microsoft/view/150797-exam-dp-100-topic-2-question-124-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3888,16 +4330,19 @@ Solution: Create an instance of the MLClient class.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 168
+## Question 168 | [Link](https://www.examtopics.com/discussions/microsoft/view/151507-exam-dp-100-topic-2-question-125-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3913,16 +4358,19 @@ Solution: Initialize the DefaultAzureCredential class.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 169
+## Question 169 | [Link](https://www.examtopics.com/discussions/microsoft/view/151564-exam-dp-100-topic-2-question-126-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3938,16 +4386,19 @@ Solution: Configure the IdentityConfiguration class with the appropriate identit
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 170
+## Question 170 | [Link](https://www.examtopics.com/discussions/microsoft/view/150333-exam-dp-100-topic-2-question-127-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3963,16 +4414,19 @@ Solution: Add a compute resource to the workspace.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 171
+## Question 171 | [Link](https://www.examtopics.com/discussions/microsoft/view/149364-exam-dp-100-topic-2-question-128-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -3988,16 +4442,19 @@ Solution: Register the model in the workspace.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 172
+## Question 172 | [Link](https://www.examtopics.com/discussions/microsoft/view/304239-exam-dp-100-topic-2-question-129-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4013,16 +4470,19 @@ Solution: Create a datastore in the workspace.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 173
+## Question 173 | [Link](https://www.examtopics.com/discussions/microsoft/view/149365-exam-dp-100-topic-2-question-130-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -4045,13 +4505,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q173_ans_image578.png" />
+  <img src="images/q173_ans_image578.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 174
+## Question 174 | [Link](https://www.examtopics.com/discussions/microsoft/view/149366-exam-dp-100-topic-2-question-131-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -4070,13 +4530,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q174_ans_image603.png" />
+  <img src="images/q174_ans_image603.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 175
+## Question 175 | [Link](https://www.examtopics.com/discussions/microsoft/view/149367-exam-dp-100-topic-2-question-132-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -4095,13 +4555,13 @@ In which order should you perform the actions? To answer, move all actions from 
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q175_ans_image583.png" />
+  <img src="images/q175_ans_image583.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 176
+## Question 176 | [Link](https://www.examtopics.com/discussions/microsoft/view/150799-exam-dp-100-topic-2-question-133-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -4122,13 +4582,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q176_ans_image585.png" />
+  <img src="images/q176_ans_image585.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 177
+## Question 177 | [Link](https://www.examtopics.com/discussions/microsoft/view/150337-exam-dp-100-topic-2-question-134-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4144,16 +4604,19 @@ Solution: Pass the UserAssignedIdentity class object to the SynapseSparkCompute 
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 178
+## Question 178 | [Link](https://www.examtopics.com/discussions/microsoft/view/150338-exam-dp-100-topic-2-question-135-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -4165,9 +4628,9 @@ You plan to use WS1 to train two models named model1 and model2. For model1, you
 
 You need to determine the compute targets you should use to train each model. Your solution must ensure the following:
 
-• The compute target for model1 supports auto-shutdown/auto-start based on a schedule.
+•	The compute target for model1 supports auto-shutdown/auto-start based on a schedule.
 
-• The compute target for model2 supports the use of low-priority Azure Virtual Machines.
+•	The compute target for model2 supports the use of low-priority Azure Virtual Machines.
 
 Which compute targets should you use? To answer, move the appropriate compute targets to the correct model. You may use each compute target once, more than once, or not at all. You may need to move the split bar between panes or scroll to view content.
 
@@ -4178,13 +4641,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q178_ans_image587.png" />
+  <img src="images/q178_ans_image587.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 179
+## Question 179 | [Link](https://www.examtopics.com/discussions/microsoft/view/149368-exam-dp-100-topic-2-question-136-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning Workspace named Workspase1 and an Azure Files share named Share1.
 
@@ -4194,16 +4657,21 @@ You need to configure permanent access to Share1 from the Azure Files datastore.
 
 Which authorization method should you use?
 
+* A.Secondary access key
+* B.Anonymous access
+* C.Account SAS key
+* D.Service SAS key
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 180
+## Question 180 | [Link](https://www.examtopics.com/discussions/microsoft/view/305046-exam-dp-100-topic-2-question-139-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -4224,13 +4692,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q180_ans_image593.png" />
+  <img src="images/q180_ans_image593.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 181
+## Question 181 | [Link](https://www.examtopics.com/discussions/microsoft/view/36489-exam-dp-100-topic-3-question-1-discussion/){:target="_blank"}
 
 You are analyzing a dataset containing historical data from a local taxi company. You are developing a regression model.
 
@@ -4242,16 +4710,23 @@ Which two metrics can you use? Each correct answer presents a complete solution?
 
 NOTE: Each correct selection is worth one point.
 
+* A.a Root Mean Square Error value that is low
+* B.an R-Squared value close to 0
+* C.an F1 score that is low
+* D.an R-Squared value close to 1
+* E.an F1 score that is high
+* F.a Root Mean Square Error value that is high
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AD
+  AD
 
 </details>
 
 ---
 
-## Question 182
+## Question 182 | [Link](https://www.examtopics.com/discussions/microsoft/view/46833-exam-dp-100-topic-3-question-2-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4273,16 +4748,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 183
+## Question 183 | [Link](https://www.examtopics.com/discussions/microsoft/view/51172-exam-dp-100-topic-3-question-3-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4304,16 +4782,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 184
+## Question 184 | [Link](https://www.examtopics.com/discussions/microsoft/view/46834-exam-dp-100-topic-3-question-4-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4335,16 +4816,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 185
+## Question 185 | [Link](https://www.examtopics.com/discussions/microsoft/view/54859-exam-dp-100-topic-3-question-5-discussion/){:target="_blank"}
 
 You use the following code to run a script as an experiment in Azure Machine Learning:
 
@@ -4356,16 +4840,22 @@ You need to add code to retrieve the output file names.
 
 Which code segment should you add to the script?
 
+* A.files = run.get_properties()
+* B.files= run.get_file_names()
+* C.files = run.get_details_with_logs()
+* D.files = run.get_metrics()
+* E.files = run.get_details()
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 186
+## Question 186 | [Link](https://www.examtopics.com/discussions/microsoft/view/50510-exam-dp-100-topic-3-question-6-discussion/){:target="_blank"}
 
 You write five Python scripts that must be processed in the order specified in Exhibit A `" which allows the same modules to run in parallel, but will wait for modules with dependencies.
 
@@ -4396,13 +4886,13 @@ D.
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 187
+## Question 187 | [Link](https://www.examtopics.com/discussions/microsoft/view/51412-exam-dp-100-topic-3-question-7-discussion/){:target="_blank"}
 
 You create a datastore named training_data that references a blob container in an Azure Storage account. The blob container contains a folder named csv_files in which multiple comma-separated values (CSV) files are stored.
 
@@ -4441,13 +4931,13 @@ E.
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 188
+## Question 188 | [Link](https://www.examtopics.com/discussions/microsoft/view/51798-exam-dp-100-topic-3-question-8-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -4464,13 +4954,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q188_ans_0015500001.png" />
+  <img src="images/q188_ans_0015500001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 189
+## Question 189 | [Link](https://www.examtopics.com/discussions/microsoft/view/55368-exam-dp-100-topic-3-question-9-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4492,16 +4982,19 @@ Python code to connect to the workspace. Run the training script as an experimen
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 190
+## Question 190 | [Link](https://www.examtopics.com/discussions/microsoft/view/47460-exam-dp-100-topic-3-question-10-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4521,16 +5014,19 @@ Solution: Install the Azure ML SDK on the Surface Book. Run Python code to conne
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 191
+## Question 191 | [Link](https://www.examtopics.com/discussions/microsoft/view/50581-exam-dp-100-topic-3-question-11-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4550,16 +5046,19 @@ Solution: Install the Azure ML SDK on the Surface Book. Run Python code to conne
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 192
+## Question 192 | [Link](https://www.examtopics.com/discussions/microsoft/view/46917-exam-dp-100-topic-3-question-12-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -4578,13 +5077,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q192_ans_image604.png" />
+  <img src="images/q192_ans_image604.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 193
+## Question 193 | [Link](https://www.examtopics.com/discussions/microsoft/view/50883-exam-dp-100-topic-3-question-13-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -4605,13 +5104,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q193_ans_0016300001.png" />
+  <img src="images/q193_ans_0016300001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 194
+## Question 194 | [Link](https://www.examtopics.com/discussions/microsoft/view/54939-exam-dp-100-topic-3-question-14-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -4634,13 +5133,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q194_ans_0016600001.png" />
+  <img src="images/q194_ans_0016600001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 195
+## Question 195 | [Link](https://www.examtopics.com/discussions/microsoft/view/57617-exam-dp-100-topic-3-question-15-discussion/){:target="_blank"}
 
 You create a batch inference pipeline by using the Azure ML SDK. You configure the pipeline parameters by executing the following code:
 
@@ -4650,16 +5149,22 @@ You need to obtain the output from the pipeline execution.
 
 Where will you find the output?
 
+* A.the digit_identification.py script
+* B.the debug log
+* C.the Activity Log in the Azure portal for the Machine Learning workspace
+* D.the Inference Clusters tab in Machine Learning studio
+* E.a file named parallel_run_step.txt located in the output folder
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-E
+  E
 
 </details>
 
 ---
 
-## Question 196
+## Question 196 | [Link](https://www.examtopics.com/discussions/microsoft/view/48363-exam-dp-100-topic-3-question-16-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -4678,13 +5183,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q196_ans_0016900001.png" />
+  <img src="images/q196_ans_0016900001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 197
+## Question 197 | [Link](https://www.examtopics.com/discussions/microsoft/view/48083-exam-dp-100-topic-3-question-17-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -4705,13 +5210,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q197_ans_0017100002.png" />
+  <img src="images/q197_ans_0017100002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 198
+## Question 198 | [Link](https://www.examtopics.com/discussions/microsoft/view/20058-exam-dp-100-topic-3-question-18-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -4736,13 +5241,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q198_ans_image605.png" />
+  <img src="images/q198_ans_image605.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 199
+## Question 199 | [Link](https://www.examtopics.com/discussions/microsoft/view/54856-exam-dp-100-topic-3-question-19-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -4763,13 +5268,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q199_ans_0017600001.png" />
+  <img src="images/q199_ans_0017600001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 200
+## Question 200 | [Link](https://www.examtopics.com/discussions/microsoft/view/23931-exam-dp-100-topic-3-question-20-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -4796,13 +5301,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q200_ans_0018000001.png" />
+  <img src="images/q200_ans_0018000001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 201
+## Question 201 | [Link](https://www.examtopics.com/discussions/microsoft/view/47466-exam-dp-100-topic-3-question-21-discussion/){:target="_blank"}
 
 You plan to run a script as an experiment using a Script Run Configuration. The script uses modules from the scipy library as well as several Python packages that are not typically installed in a default conda environment.
 
@@ -4812,16 +5317,22 @@ You need to ensure that the experiment runs successfully on local and remote com
 
 What should you do?
 
+* A.Do not specify an environment in the run configuration for the experiment. Run the experiment by using the default environment.
+* B.Create a virtual machine (VM) with the required Python configuration and attach the VM as a compute target. Use this compute target for all experiment runs.
+* C.Create and register an Environment that includes the required packages. Use this Environment for all experiment runs.
+* D.Create a config.yaml file defining the conda packages that are required and save the file in the experiment folder.
+* E.Always run the experiment with an Estimator by using the default packages.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 202
+## Question 202 | [Link](https://www.examtopics.com/discussions/microsoft/view/59105-exam-dp-100-topic-3-question-22-discussion/){:target="_blank"}
 
 You write a Python script that processes data in a comma-separated values (CSV) file.
 
@@ -4835,16 +5346,22 @@ You need to record the row count as a metric named row_count that can be returne
 
 Which code should you use?
 
+* A.run.upload_file(T3 row_count', './data.csv')
+* B.run.log('row_count', rows)
+* C.run.tag('row_count', rows)
+* D.run.log_table('row_count', rows)
+* E.run.log_row('row_count', rows)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 203
+## Question 203 | [Link](https://www.examtopics.com/discussions/microsoft/view/55875-exam-dp-100-topic-3-question-23-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4860,16 +5377,19 @@ Solution: You use the Synthetic Minority Oversampling Technique (SMOTE) sampling
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 204
+## Question 204 | [Link](https://www.examtopics.com/discussions/microsoft/view/25612-exam-dp-100-topic-3-question-24-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -4885,16 +5405,19 @@ Solution: You use the Stratified split for the sampling mode.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 205
+## Question 205 | [Link](https://www.examtopics.com/discussions/microsoft/view/40809-exam-dp-100-topic-3-question-25-discussion/){:target="_blank"}
 
 You are creating a machine learning model.
 
@@ -4904,16 +5427,22 @@ Which two visualizations can you use? Each correct answer presents a complete so
 
 NOTE: Each correct selection is worth one point.
 
+* A.Venn diagram
+* B.Box plot
+* C.ROC curve
+* D.Random forest diagram
+* E.Scatter plot
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BE
+  BE
 
 </details>
 
 ---
 
-## Question 206
+## Question 206 | [Link](https://www.examtopics.com/discussions/microsoft/view/40810-exam-dp-100-topic-3-question-26-discussion/){:target="_blank"}
 
 You are evaluating a completed binary classification machine learning model.
 
@@ -4921,16 +5450,21 @@ You need to use the precision as the evaluation metric.
 
 Which visualization should you use?
 
+* A.Violin plot
+* B.Gradient descent
+* C.Box plot
+* D.Binary classification confusion matrix
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 207
+## Question 207 | [Link](https://www.examtopics.com/discussions/microsoft/view/51900-exam-dp-100-topic-3-question-27-discussion/){:target="_blank"}
 
 You create a multi-class image classification deep learning model that uses the PyTorch deep learning framework.
 
@@ -4942,16 +5476,23 @@ Which three actions must you perform? Each correct answer presents part of the s
 
 NOTE: Each correct selection is worth one point.
 
+* A.Set the primary_metric_goal of the estimator used to run the bird_classifier_train.py script to maximize.
+* B.Add code to the bird_classifier_train.py script to calculate the validation loss of the model and log it as a float value with the key loss.
+* C.Set the primary_metric_goal of the estimator used to run the bird_classifier_train.py script to minimize.
+* D.Set the primary_metric_name of the estimator used to run the bird_classifier_train.py script to accuracy.
+* E.Set the primary_metric_name of the estimator used to run the bird_classifier_train.py script to loss.
+* F.Add code to the bird_classifier_train.py script to calculate the validation accuracy of the model and log it as a float value with the key accuracy.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ADF
+  ADF
 
 </details>
 
 ---
 
-## Question 208
+## Question 208 | [Link](https://www.examtopics.com/discussions/microsoft/view/57618-exam-dp-100-topic-3-question-28-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -4968,13 +5509,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q208_ans_image606.png" />
+  <img src="images/q208_ans_image606.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 209
+## Question 209 | [Link](https://www.examtopics.com/discussions/microsoft/view/46907-exam-dp-100-topic-3-question-29-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -4995,13 +5536,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q209_ans_image607.png" />
+  <img src="images/q209_ans_image607.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 210
+## Question 210 | [Link](https://www.examtopics.com/discussions/microsoft/view/20349-exam-dp-100-topic-3-question-30-discussion/){:target="_blank"}
 
 You are performing a filter-based feature selection for a dataset to build a multi-class classifier by using Azure Machine Learning Studio.
 
@@ -5011,16 +5552,21 @@ You need to select the appropriate feature scoring statistical method to identif
 
 Which method should you use?
 
+* A.Kendall correlation
+* B.Spearman correlation
+* C.Chi-squared
+* D.Pearson correlation
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 211
+## Question 211 | [Link](https://www.examtopics.com/discussions/microsoft/view/28550-exam-dp-100-topic-3-question-31-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5039,13 +5585,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q211_ans_0019400001.png" />
+  <img src="images/q211_ans_0019400001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 212
+## Question 212 | [Link](https://www.examtopics.com/discussions/microsoft/view/33195-exam-dp-100-topic-3-question-32-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5072,13 +5618,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q212_ans_0019700001.png" />
+  <img src="images/q212_ans_0019700001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 213
+## Question 213 | [Link](https://www.examtopics.com/discussions/microsoft/view/57619-exam-dp-100-topic-3-question-33-discussion/){:target="_blank"}
 
 You plan to use automated machine learning to train a regression model. You have data that has features which have missing values, and categorical features with few distinct values.
 
@@ -5086,16 +5632,22 @@ You need to configure automated machine learning to automatically impute missing
 
 Which parameter and value pair should you use in the AutoMLConfig class?
 
+* A.featurization = 'auto'
+* B.enable_voting_ensemble = True
+* C.task = 'classification'
+* D.exclude_nan_labels = True
+* E.enable_tf = True
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 214
+## Question 214 | [Link](https://www.examtopics.com/discussions/microsoft/view/47068-exam-dp-100-topic-3-question-34-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -5122,13 +5674,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q214_ans_image608.png" />
+  <img src="images/q214_ans_image608.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 215
+## Question 215 | [Link](https://www.examtopics.com/discussions/microsoft/view/19375-exam-dp-100-topic-3-question-35-discussion/){:target="_blank"}
 
 You are building a regression model for estimating the number of calls during an event.
 
@@ -5138,16 +5690,22 @@ Which two conditions must the feature set contain? Each correct answer presents 
 
 NOTE: Each correct selection is worth one point.
 
+* A.The label data must be a negative value.
+* B.The label data must be whole numbers.
+* C.The label data must be non-discrete.
+* D.The label data must be a positive value.
+* E.The label data can be positive or negative.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BD
+  BD
 
 </details>
 
 ---
 
-## Question 216
+## Question 216 | [Link](https://www.examtopics.com/discussions/microsoft/view/55882-exam-dp-100-topic-3-question-36-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -5163,16 +5721,19 @@ Solution: You use the Principal Components Analysis (PCA) sampling mode.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 217
+## Question 217 | [Link](https://www.examtopics.com/discussions/microsoft/view/11186-exam-dp-100-topic-3-question-37-discussion/){:target="_blank"}
 
 You are performing feature engineering on a dataset.
 
@@ -5182,16 +5743,21 @@ You need to add the new feature to the dataset.
 
 Which Azure Machine Learning Studio module should you use?
 
+* A.Edit Metadata
+* B.Filter Based Feature Selection
+* C.Execute Python Script
+* D.Latent Dirichlet Allocation
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 218
+## Question 218 | [Link](https://www.examtopics.com/discussions/microsoft/view/55505-exam-dp-100-topic-3-question-38-discussion/){:target="_blank"}
 
 You are evaluating a completed binary classification machine learning model.
 
@@ -5199,16 +5765,21 @@ You need to use the precision as the evaluation metric.
 
 Which visualization should you use?
 
+* A.violin plot
+* B.Gradient descent
+* C.Scatter plot
+* D.Receiver Operating Characteristic (ROC) curve
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 219
+## Question 219 | [Link](https://www.examtopics.com/discussions/microsoft/view/31069-exam-dp-100-topic-3-question-39-discussion/){:target="_blank"}
 
 You are solving a classification task.
 
@@ -5218,16 +5789,21 @@ You need to configure the k parameter for the cross-validation.
 
 Which value should you use?
 
+* A.k=1
+* B.k=10
+* C.k=0.5
+* D.k=0.9
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 220
+## Question 220 | [Link](https://www.examtopics.com/discussions/microsoft/view/20991-exam-dp-100-topic-3-question-40-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5252,13 +5828,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q220_ans_0020800001.png" />
+  <img src="images/q220_ans_0020800001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 221
+## Question 221 | [Link](https://www.examtopics.com/discussions/microsoft/view/25506-exam-dp-100-topic-3-question-41-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5279,13 +5855,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q221_ans_0021000002.png" />
+  <img src="images/q221_ans_0021000002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 222
+## Question 222 | [Link](https://www.examtopics.com/discussions/microsoft/view/53610-exam-dp-100-topic-3-question-42-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -5322,13 +5898,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q222_ans_0021300001.png" />
+  <img src="images/q222_ans_0021300001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 223
+## Question 223 | [Link](https://www.examtopics.com/discussions/microsoft/view/24303-exam-dp-100-topic-3-question-43-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning service to create a tabular dataset named training_data. You plan to use this dataset in a training script.
 
@@ -5340,16 +5916,21 @@ You need to set the correct property of the estimator to ensure that your script
 
 Which property should you set?
 
+* A.environment_definition = {"training_data":training_ds}
+* B.inputs = [training_ds.as_named_input('training_ds')]
+* C.script_params = {"--training_ds":training_ds}
+* D.source_directory = training_ds
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 224
+## Question 224 | [Link](https://www.examtopics.com/discussions/microsoft/view/50594-exam-dp-100-topic-3-question-44-discussion/){:target="_blank"}
 
 You register a file dataset named csv_folder that references a folder. The folder includes multiple comma-separated values (CSV) files in an Azure storage blob container.
 
@@ -5365,16 +5946,21 @@ You need to pass the dataset to ensure that the script can read the files it ref
 
 Which code segment should you insert to replace the code comment?
 
+* A.inputs=[file_dataset.as_named_input('training_files')],
+* B.inputs=[file_dataset.as_named_input('training_files').as_mount()],
+* C.inputs=[file_dataset.as_named_input('training_files').to_pandas_dataframe()],
+* D.script_params={'--training_files': file_dataset},
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 225
+## Question 225 | [Link](https://www.examtopics.com/discussions/microsoft/view/24014-exam-dp-100-topic-3-question-45-discussion/){:target="_blank"}
 
 You are creating a new Azure Machine Learning pipeline using the designer.
 
@@ -5384,16 +5970,21 @@ You need to ingest the data from the CSV file into the designer pipeline using t
 
 Which module should you add to the pipeline in Designer?
 
+* A.Convert to CSV
+* B.Enter Data Manually
+* C.Import Data
+* D.Dataset
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 226
+## Question 226 | [Link](https://www.examtopics.com/discussions/microsoft/view/54036-exam-dp-100-topic-3-question-46-discussion/){:target="_blank"}
 
 You define a datastore named ml-data for an Azure Storage blob container. In the container, you have a folder named train that contains a file named data.csv.
 
@@ -5432,13 +6023,13 @@ E.
 <details>
   <summary>Show Suggested Answer</summary>
 
-E
+  E
 
 </details>
 
 ---
 
-## Question 227
+## Question 227 | [Link](https://www.examtopics.com/discussions/microsoft/view/47487-exam-dp-100-topic-3-question-47-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -5482,16 +6073,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 228
+## Question 228 | [Link](https://www.examtopics.com/discussions/microsoft/view/57350-exam-dp-100-topic-3-question-48-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -5535,16 +6129,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 229
+## Question 229 | [Link](https://www.examtopics.com/discussions/microsoft/view/48339-exam-dp-100-topic-3-question-49-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -5588,16 +6185,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 230
+## Question 230 | [Link](https://www.examtopics.com/discussions/microsoft/view/58997-exam-dp-100-topic-3-question-50-discussion/){:target="_blank"}
 
 You plan to use the Hyperdrive feature of Azure Machine Learning to determine the optimal hyperparameter values when training a model.
 
@@ -5613,16 +6213,22 @@ Which two parameter expressions should you use? Each correct answer presents par
 
 NOTE: Each correct selection is worth one point.
 
+* A.a choice expression for learning_rate
+* B.a uniform expression for learning_rate
+* C.a normal expression for batch_size
+* D.a choice expression for batch_size
+* E.a uniform expression for batch_size
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BD
+  BD
 
 </details>
 
 ---
 
-## Question 231
+## Question 231 | [Link](https://www.examtopics.com/discussions/microsoft/view/55646-exam-dp-100-topic-3-question-51-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5645,13 +6251,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q231_ans_0022700001.png" />
+  <img src="images/q231_ans_0022700001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 232
+## Question 232 | [Link](https://www.examtopics.com/discussions/microsoft/view/47785-exam-dp-100-topic-3-question-52-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5670,13 +6276,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q232_ans_0023000002.png" />
+  <img src="images/q232_ans_0023000002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 233
+## Question 233 | [Link](https://www.examtopics.com/discussions/microsoft/view/47786-exam-dp-100-topic-3-question-53-discussion/){:target="_blank"}
 
 You run an automated machine learning experiment in an Azure Machine Learning workspace. Information about the run is listed in the table below:
 
@@ -5709,13 +6315,13 @@ E.
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 234
+## Question 234 | [Link](https://www.examtopics.com/discussions/microsoft/view/24013-exam-dp-100-topic-3-question-54-discussion/){:target="_blank"}
 
 You have a comma-separated values (CSV) file containing data from which you want to train a classification model.
 
@@ -5725,16 +6331,22 @@ You need to ensure that the Automated Machine Learning process evaluates only li
 
 What should you do?
 
+* A.Add all algorithms other than linear ones to the blocked algorithms list.
+* B.Set the Exit criterion option to a metric score threshold.
+* C.Clear the option to perform automatic featurization.
+* D.Clear the option to enable deep learning.
+* E.Set the task type to Regression.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 235
+## Question 235 | [Link](https://www.examtopics.com/discussions/microsoft/view/70206-exam-dp-100-topic-3-question-55-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -5754,16 +6366,19 @@ run.upload_file('outputs/labels.csv', './data.csv')
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 236
+## Question 236 | [Link](https://www.examtopics.com/discussions/microsoft/view/70208-exam-dp-100-topic-3-question-56-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -5783,16 +6398,19 @@ run.log_table('Label Values', label_vals)
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 237
+## Question 237 | [Link](https://www.examtopics.com/discussions/microsoft/view/70210-exam-dp-100-topic-3-question-57-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -5814,16 +6432,19 @@ run.log('Label Values', label_val)
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 238
+## Question 238 | [Link](https://www.examtopics.com/discussions/microsoft/view/57620-exam-dp-100-topic-3-question-58-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5844,13 +6465,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q238_ans_0023900001.png" />
+  <img src="images/q238_ans_0023900001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 239
+## Question 239 | [Link](https://www.examtopics.com/discussions/microsoft/view/56113-exam-dp-100-topic-3-question-59-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5875,13 +6496,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q239_ans_0024200001.png" />
+  <img src="images/q239_ans_0024200001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 240
+## Question 240 | [Link](https://www.examtopics.com/discussions/microsoft/view/11184-exam-dp-100-topic-3-question-60-discussion/){:target="_blank"}
 
 You are solving a classification task.
 
@@ -5891,16 +6512,21 @@ You need to configure the k parameter for the cross-validation.
 
 Which value should you use?
 
+* A.k=0.5
+* B.k=0.01
+* C.k=5
+* D.k=1
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 241
+## Question 241 | [Link](https://www.examtopics.com/discussions/microsoft/view/47628-exam-dp-100-topic-3-question-61-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5919,13 +6545,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q241_ans_0024600001.png" />
+  <img src="images/q241_ans_0024600001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 242
+## Question 242 | [Link](https://www.examtopics.com/discussions/microsoft/view/46433-exam-dp-100-topic-3-question-62-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -5944,13 +6570,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q242_ans_0024800002.png" />
+  <img src="images/q242_ans_0024800002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 243
+## Question 243 | [Link](https://www.examtopics.com/discussions/microsoft/view/20676-exam-dp-100-topic-3-question-63-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -5967,13 +6593,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q243_ans_0025100001.png" />
+  <img src="images/q243_ans_0025100001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 244
+## Question 244 | [Link](https://www.examtopics.com/discussions/microsoft/view/47680-exam-dp-100-topic-3-question-64-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -5989,16 +6615,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 245
+## Question 245 | [Link](https://www.examtopics.com/discussions/microsoft/view/71231-exam-dp-100-topic-3-question-65-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -6014,16 +6643,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 246
+## Question 246 | [Link](https://www.examtopics.com/discussions/microsoft/view/54696-exam-dp-100-topic-3-question-66-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -6039,16 +6671,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 247
+## Question 247 | [Link](https://www.examtopics.com/discussions/microsoft/view/48804-exam-dp-100-topic-3-question-67-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -6066,16 +6701,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 248
+## Question 248 | [Link](https://www.examtopics.com/discussions/microsoft/view/47794-exam-dp-100-topic-3-question-68-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -6093,16 +6731,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 249
+## Question 249 | [Link](https://www.examtopics.com/discussions/microsoft/view/47062-exam-dp-100-topic-3-question-69-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -6120,16 +6761,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 250
+## Question 250 | [Link](https://www.examtopics.com/discussions/microsoft/view/49548-exam-dp-100-topic-3-question-70-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -6150,13 +6794,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q250_ans_0026100001.png" />
+  <img src="images/q250_ans_0026100001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 251
+## Question 251 | [Link](https://www.examtopics.com/discussions/microsoft/view/49549-exam-dp-100-topic-3-question-71-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -6175,13 +6819,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q251_ans_0026300001.png" />
+  <img src="images/q251_ans_0026300001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 252
+## Question 252 | [Link](https://www.examtopics.com/discussions/microsoft/view/48284-exam-dp-100-topic-3-question-72-discussion/){:target="_blank"}
 
 You create a multi-class image classification deep learning model that uses a set of labeled images. You create a script file named train.py that uses the PyTorch
 
@@ -6193,16 +6837,21 @@ You need to define the estimator that will be used to run the script.
 
 Which estimator type should you use?
 
+* A.TensorFlow
+* B.PyTorch
+* C.SKLearn
+* D.Estimator
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 253
+## Question 253 | [Link](https://www.examtopics.com/discussions/microsoft/view/47699-exam-dp-100-topic-3-question-73-discussion/){:target="_blank"}
 
 You create a pipeline in designer to train a model that predicts automobile prices.
 
@@ -6226,16 +6875,23 @@ Which three modifications must you make to the inference pipeline? Each correct 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Connect the output of the Apply SQL Transformation to the Web Service Output module.
+* B.Replace the Web Service Input module with a data input that does not include the price column.
+* C.Add a Select Columns module before the Score Model module to select all columns other than price.
+* D.Replace the training dataset module with a data input that does not include the price column.
+* E.Remove the Apply Math Operation module that replaces price with its natural log from the data flow.
+* F.Remove the Apply SQL Transformation module from the data flow.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ACE
+  ACE
 
 </details>
 
 ---
 
-## Question 254
+## Question 254 | [Link](https://www.examtopics.com/discussions/microsoft/view/49550-exam-dp-100-topic-3-question-74-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -6260,13 +6916,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q254_ans_0027000002.png" />
+  <img src="images/q254_ans_0027000002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 255
+## Question 255 | [Link](https://www.examtopics.com/discussions/microsoft/view/49551-exam-dp-100-topic-3-question-75-discussion/){:target="_blank"}
 
 You are creating a classification model for a banking company to identify possible instances of credit card fraud. You plan to create the model in Azure Machine
 
@@ -6278,16 +6934,22 @@ You need to evaluate the classification model.
 
 Which primary metric should you use?
 
+* A.normalized_mean_absolute_error
+* B.AUC_weighted
+* C.accuracy
+* D.normalized_root_mean_squared_error
+* E.spearman_correlation
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 256
+## Question 256 | [Link](https://www.examtopics.com/discussions/microsoft/view/49552-exam-dp-100-topic-3-question-76-discussion/){:target="_blank"}
 
 You create a machine learning model by using the Azure Machine Learning designer. You publish the model as a real-time service on an Azure Kubernetes
 
@@ -6299,16 +6961,22 @@ Which two values should you provide to application developers? Each correct answ
 
 NOTE: Each correct selection is worth one point.
 
+* A.The name of the AKS cluster where the endpoint is hosted.
+* B.The name of the inference pipeline for the endpoint.
+* C.The URL of the endpoint.
+* D.The run ID of the inference pipeline experiment for the endpoint.
+* E.The key for the endpoint.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-CE
+  CE
 
 </details>
 
 ---
 
-## Question 257
+## Question 257 | [Link](https://www.examtopics.com/discussions/microsoft/view/47184-exam-dp-100-topic-3-question-77-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -6335,13 +7003,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q257_ans_image609.png" />
+  <img src="images/q257_ans_image609.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 258
+## Question 258 | [Link](https://www.examtopics.com/discussions/microsoft/view/47700-exam-dp-100-topic-3-question-78-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -6357,16 +7025,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 259
+## Question 259 | [Link](https://www.examtopics.com/discussions/microsoft/view/46625-exam-dp-100-topic-3-question-79-discussion/){:target="_blank"}
 
 You run an experiment that uses an AutoMLConfig class to define an automated machine learning task with a maximum of ten model training iterations. The task will attempt to find the best performing model based on a metric named accuracy.
 
@@ -6378,16 +7049,21 @@ You need to create Python code that returns the best model that is generated by 
 
 Which code segment should you use?
 
+* A.best_model = automl_run.get_details()
+* B.best_model = automl_run.get_metrics()
+* C.best_model = automl_run.get_file_names()[1]
+* D.best_model = automl_run.get_output()[1]
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 260
+## Question 260 | [Link](https://www.examtopics.com/discussions/microsoft/view/43145-exam-dp-100-topic-3-question-80-discussion/){:target="_blank"}
 
 You plan to use the Hyperdrive feature of Azure Machine Learning to determine the optimal hyperparameter values when training a model.
 
@@ -6403,16 +7079,21 @@ Which two sampling methods can you use? Each correct answer is a complete soluti
 
 NOTE: Each correct selection is worth one point.
 
+* A.No sampling
+* B.Grid sampling
+* C.Bayesian sampling
+* D.Random sampling
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-CD
+  CD
 
 </details>
 
 ---
 
-## Question 261
+## Question 261 | [Link](https://www.examtopics.com/discussions/microsoft/view/57763-exam-dp-100-topic-3-question-81-discussion/){:target="_blank"}
 
 You are training machine learning models in Azure Machine Learning. You use Hyperdrive to tune the hyperparameters.
 
@@ -6428,16 +7109,21 @@ Which two early termination policies should you use? Each correct answer present
 
 NOTE: Each correct selection is worth one point.
 
+* A.Median stopping
+* B.Bandit
+* C.Default
+* D.Truncation selection
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AD
+  AD
 
 </details>
 
 ---
 
-## Question 262
+## Question 262 | [Link](https://www.examtopics.com/discussions/microsoft/view/60085-exam-dp-100-topic-3-question-82-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -6456,13 +7142,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q262_ans_0028300001.png" />
+  <img src="images/q262_ans_0028300001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 263
+## Question 263 | [Link](https://www.examtopics.com/discussions/microsoft/view/57623-exam-dp-100-topic-3-question-83-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -6485,13 +7171,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q263_ans_0028600001.png" />
+  <img src="images/q263_ans_0028600001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 264
+## Question 264 | [Link](https://www.examtopics.com/discussions/microsoft/view/43146-exam-dp-100-topic-3-question-84-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning SDK in a notebook to run an experiment using a script file in an experiment folder.
 
@@ -6501,16 +7187,22 @@ You need to troubleshoot the failed experiment.
 
 What are two possible ways to achieve this goal? Each correct answer presents a complete solution.
 
+* A.Use the get_metrics() method of the run object to retrieve the experiment run logs.
+* B.Use the get_details_with_logs() method of the run object to display the experiment run logs.
+* C.View the log files for the experiment run in the experiment folder.
+* D.View the logs for the experiment run in Azure Machine Learning studio.
+* E.Use the get_output() method of the run object to retrieve the experiment run logs.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BD
+  BD
 
 </details>
 
 ---
 
-## Question 265
+## Question 265 | [Link](https://www.examtopics.com/discussions/microsoft/view/46676-exam-dp-100-topic-3-question-85-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -6527,13 +7219,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q265_ans_image610.png" />
+  <img src="images/q265_ans_image610.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 266
+## Question 266 | [Link](https://www.examtopics.com/discussions/microsoft/view/20748-exam-dp-100-topic-3-question-86-discussion/){:target="_blank"}
 
 You use the Two-Class Neural Network module in Azure Machine Learning Studio to build a binary classification model. You use the Tune Model
 
@@ -6545,16 +7237,22 @@ Which two values should you use? Each correct answer presents part of the soluti
 
 NOTE: Each correct selection is worth one point.
 
+* A.Number of hidden nodes
+* B.Learning Rate
+* C.The type of the normalizer
+* D.Number of learning iterations
+* E.Hidden layer specification
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BD
+  BD
 
 </details>
 
 ---
 
-## Question 267
+## Question 267 | [Link](https://www.examtopics.com/discussions/microsoft/view/47800-exam-dp-100-topic-3-question-87-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -6577,13 +7275,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q267_ans_0029200001.png" />
+  <img src="images/q267_ans_0029200001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 268
+## Question 268 | [Link](https://www.examtopics.com/discussions/microsoft/view/21503-exam-dp-100-topic-3-question-88-discussion/){:target="_blank"}
 
 You create a binary classification model by using Azure Machine Learning Studio.
 
@@ -6597,16 +7295,21 @@ You need to perform a parameter sweep of the model.
 
 Which parameter sweep mode should you use?
 
+* A.Random sweep
+* B.Sweep clustering
+* C.Entire grid
+* D.Random grid
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 269
+## Question 269 | [Link](https://www.examtopics.com/discussions/microsoft/view/21181-exam-dp-100-topic-3-question-89-discussion/){:target="_blank"}
 
 You are building a recurrent neural network to perform a binary classification.
 
@@ -6618,16 +7321,21 @@ You need to identify whether the classification model is overfitted.
 
 Which of the following is correct?
 
+* A.The training loss stays constant and the validation loss stays on a constant value and close to the training loss value when training the model.
+* B.The training loss decreases while the validation loss increases when training the model.
+* C.The training loss stays constant and the validation loss decreases when training the model.
+* D.The training loss increases while the validation loss decreases when training the model.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 270
+## Question 270 | [Link](https://www.examtopics.com/discussions/microsoft/view/53684-exam-dp-100-topic-3-question-90-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -6645,16 +7353,19 @@ Solution: Run the following code:
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 271
+## Question 271 | [Link](https://www.examtopics.com/discussions/microsoft/view/44809-exam-dp-100-topic-3-question-91-discussion/){:target="_blank"}
 
 You are performing clustering by using the K-means algorithm.
 
@@ -6664,16 +7375,22 @@ Which three conditions can you use? Each correct answer presents a complete solu
 
 NOTE: Each correct selection is worth one point.
 
+* A.Centroids do not change between iterations.
+* B.The residual sum of squares (RSS) rises above a threshold.
+* C.The residual sum of squares (RSS) falls below a threshold.
+* D.A fixed number of iterations is executed.
+* E.The sum of distances between centroids reaches a maximum.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ACD
+  ACD
 
 </details>
 
 ---
 
-## Question 272
+## Question 272 | [Link](https://www.examtopics.com/discussions/microsoft/view/64517-exam-dp-100-topic-3-question-92-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -6696,13 +7413,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q272_ans_0029800002.png" />
+  <img src="images/q272_ans_0029800002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 273
+## Question 273 | [Link](https://www.examtopics.com/discussions/microsoft/view/11187-exam-dp-100-topic-3-question-93-discussion/){:target="_blank"}
 
 You are building a machine learning model for translating English language textual content into French language textual content.
 
@@ -6710,16 +7427,21 @@ You need to build and train the machine learning model to learn the sequence of 
 
 Which type of neural network should you use?
 
+* A.Multilayer Perceptions (MLPs)
+* B.Convolutional Neural Networks (CNNs)
+* C.Recurrent Neural Networks (RNNs)
+* D.Generative Adversarial Networks (GANs)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 274
+## Question 274 | [Link](https://www.examtopics.com/discussions/microsoft/view/57714-exam-dp-100-topic-3-question-94-discussion/){:target="_blank"}
 
 You create a binary classification model.
 
@@ -6729,16 +7451,22 @@ Which two metrics can you use? Each correct answer presents a complete solution.
 
 NOTE: Each correct selection is worth one point.
 
+* A.relative absolute error
+* B.precision
+* C.accuracy
+* D.mean absolute error
+* E.coefficient of determination
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BC
+  BC
 
 </details>
 
 ---
 
-## Question 275
+## Question 275 | [Link](https://www.examtopics.com/discussions/microsoft/view/63884-exam-dp-100-topic-3-question-95-discussion/){:target="_blank"}
 
 You create a script that trains a convolutional neural network model over multiple epochs and logs the validation loss after each epoch. The script includes arguments for batch size and learning rate.
 
@@ -6748,16 +7476,22 @@ You need to use Azure Machine Learning to find the combination of batch size and
 
 What should you do?
 
+* A.Run the script in an experiment based on an AutoMLConfig object
+* B.Create a PythonScriptStep object for the script and run it in a pipeline
+* C.Use the Automated Machine Learning interface in Azure Machine Learning studio
+* D.Run the script in an experiment based on a ScriptRunConfig object
+* E.Run the script in an experiment based on a HyperDriveConfig object
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-E
+  E
 
 </details>
 
 ---
 
-## Question 276
+## Question 276 | [Link](https://www.examtopics.com/discussions/microsoft/view/57569-exam-dp-100-topic-3-question-96-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning Python SDK to define a pipeline to train a model.
 
@@ -6767,16 +7501,21 @@ You need to ensure the pipeline runs automatically whenever the data in the fold
 
 What should you do?
 
+* A.Set the regenerate_outputs property of the pipeline to True
+* B.Create a ScheduleRecurrance object with a Frequency of auto. Use the object to create a Schedule for the pipeline
+* C.Create a PipelineParameter with a default value that references the location where the training data is stored
+* D.Create a Schedule for the pipeline. Specify the datastore in the datastore property, and the folder containing the training data in the path_on_datastore property
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 277
+## Question 277 | [Link](https://www.examtopics.com/discussions/microsoft/view/56897-exam-dp-100-topic-3-question-97-discussion/){:target="_blank"}
 
 You plan to run a Python script as an Azure Machine Learning experiment.
 
@@ -6788,16 +7527,21 @@ Which two modes can you use? Each correct answer presents a complete solution.
 
 NOTE: Each correct selection is worth one point.
 
+* A.to_pandas_dataframe()
+* B.as_download()
+* C.as_upload()
+* D.as_mount()
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 278
+## Question 278 | [Link](https://www.examtopics.com/discussions/microsoft/view/70305-exam-dp-100-topic-3-question-98-discussion/){:target="_blank"}
 
 You create a Python script that runs a training experiment in Azure Machine Learning. The script uses the Azure Machine Learning SDK for Python.
 
@@ -6807,16 +7551,21 @@ You need to reference a Python class object from the SDK for the statement.
 
 Which class object should you use?
 
+* A.Run
+* B.ScriptRunConfig
+* C.Workspace
+* D.Experiment
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 279
+## Question 279 | [Link](https://www.examtopics.com/discussions/microsoft/view/69632-exam-dp-100-topic-3-question-99-discussion/){:target="_blank"}
 
 You run a script as an experiment in Azure Machine Learning.
 
@@ -6828,16 +7577,22 @@ Which two code segments can you run to achieve this goal? Each correct answer pr
 
 NOTE: Each correct selection is worth one point.
 
+* A.run.get_details()
+* B.run.get_file_names()
+* C.run.get_metrics()
+* D.run.download_files(output_directory='./runfiles')
+* E.run.get_all_logs(destination='./runlogs')
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-DE
+  DE
 
 </details>
 
 ---
 
-## Question 280
+## Question 280 | [Link](https://www.examtopics.com/discussions/microsoft/view/70306-exam-dp-100-topic-3-question-100-discussion/){:target="_blank"}
 
 You have the following code. The code prepares an experiment to run a script:
 
@@ -6849,16 +7604,21 @@ You need to add code to start the experiment and run the script.
 
 Which code segment should you use?
 
+* A.run = script_experiment.start_logging()
+* B.run = Run(experiment=script_experiment)
+* C.ws.get_run(run_id=experiment.id)
+* D.run = script_experiment.submit(config=script_config)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 281
+## Question 281 | [Link](https://www.examtopics.com/discussions/microsoft/view/70307-exam-dp-100-topic-3-question-101-discussion/){:target="_blank"}
 
 You use the following code to define the steps for a pipeline: from azureml.core import Workspace, Experiment, Run from azureml.pipeline.core import Pipeline from azureml.pipeline.steps import PythonScriptStep ws = Workspace.from_config()
 
@@ -6876,16 +7636,21 @@ Which two code segments can you use to achieve this goal? Each correct answer pr
 
 NOTE: Each correct selection is worth one point.
 
+* A.experiment = Experiment(workspace=ws, name='pipeline-experiment') run = experiment.submit(config=pipeline_steps)
+* B.run = Run(pipeline_steps)
+* C.pipeline = Pipeline(workspace=ws, steps=pipeline_steps) experiment = Experiment(workspace=ws, name='pipeline-experiment') run = experiment.submit(pipeline)
+* D.pipeline = Pipeline(workspace=ws, steps=pipeline_steps) run = pipeline.submit(experiment_name='pipeline-experiment')
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-CD
+  CD
 
 </details>
 
 ---
 
-## Question 282
+## Question 282 | [Link](https://www.examtopics.com/discussions/microsoft/view/68896-exam-dp-100-topic-3-question-102-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -6904,13 +7669,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q282_ans_image611.png" />
+  <img src="images/q282_ans_image611.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 283
+## Question 283 | [Link](https://www.examtopics.com/discussions/microsoft/view/69088-exam-dp-100-topic-3-question-103-discussion/){:target="_blank"}
 
 You create and register a model in an Azure Machine Learning workspace.
 
@@ -6920,16 +7685,21 @@ You need to create the compute target.
 
 Which class should you use?
 
+* A.BatchCompute
+* B.AdlaCompute
+* C.AmlCompute
+* D.AksCompute
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 284
+## Question 284 | [Link](https://www.examtopics.com/discussions/microsoft/view/69193-exam-dp-100-topic-3-question-104-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -6950,13 +7720,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q284_ans_image612.png" />
+  <img src="images/q284_ans_image612.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 285
+## Question 285 | [Link](https://www.examtopics.com/discussions/microsoft/view/69001-exam-dp-100-topic-3-question-105-discussion/){:target="_blank"}
 
 You plan to run a Python script as an Azure Machine Learning experiment.
 
@@ -6970,16 +7740,21 @@ You need to write code to define a ScriptRunConfig object for the experiment and
 
 Which code segment should you use?
 
+* A.arguments = ['--input-data', ds.to_pandas_dataframe()]
+* B.arguments = ['--input-data', ds.as_mount()]
+* C.arguments = ['--data-data', ds]
+* D.arguments = ['--input-data', ds.as_download()]
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 286
+## Question 286 | [Link](https://www.examtopics.com/discussions/microsoft/view/79221-exam-dp-100-topic-3-question-106-discussion/){:target="_blank"}
 
 You have a Jupyter Notebook that contains Python code that is used to train a model.
 
@@ -6989,16 +7764,21 @@ Which two actions should you perform? Each correct answer presents part of the s
 
 NOTE: Each correct selection is worth one point.
 
+* A.Refactor the Jupyter Notebook code into functions
+* B.Save each function to a separate Python file
+* C.Define a main() function in the Python script
+* D.Remove all comments and functions from the Python script
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AC
+  AC
 
 </details>
 
 ---
 
-## Question 287
+## Question 287 | [Link](https://www.examtopics.com/discussions/microsoft/view/80890-exam-dp-100-topic-3-question-107-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -7019,13 +7799,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q287_ans_0031400001.png" />
+  <img src="images/q287_ans_0031400001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 288
+## Question 288 | [Link](https://www.examtopics.com/discussions/microsoft/view/86092-exam-dp-100-topic-3-question-108-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -7046,13 +7826,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q288_ans_0031700001.png" />
+  <img src="images/q288_ans_0031700001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 289
+## Question 289 | [Link](https://www.examtopics.com/discussions/microsoft/view/81370-exam-dp-100-topic-3-question-109-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -7072,16 +7852,19 @@ run.log_list('Label Values', label_vals)
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 290
+## Question 290 | [Link](https://www.examtopics.com/discussions/microsoft/view/104677-exam-dp-100-topic-3-question-110-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning SDK for Python to create a pipeline that includes the following step:
 
@@ -7093,16 +7876,21 @@ You need to define the step.
 
 What should you include in the step definition?
 
+* A.allow_reuse
+* B.version
+* C.data.as_input(name=…)
+* D.hash_paths
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 291
+## Question 291 | [Link](https://www.examtopics.com/discussions/microsoft/view/103469-exam-dp-100-topic-3-question-111-discussion/){:target="_blank"}
 
 You are developing a two-step Azure Machine Learning pipeline by using the Azure Machine Learning SDK for Python.
 
@@ -7110,16 +7898,21 @@ You need to register the output of the pipeline as a new version of a named data
 
 What should you implement?
 
+* A.the as_input method of the OutputDatasetConfig class
+* B.the register_on_complete method of the OutputDatasetConfig class
+* C.the as_mount method of the DatasetConsumptionConfig class
+* D.the as_download method of the DatasetConsumptionConfig class
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 292
+## Question 292 | [Link](https://www.examtopics.com/discussions/microsoft/view/103661-exam-dp-100-topic-3-question-112-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7140,13 +7933,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q292_ans_image409.png" />
+  <img src="images/q292_ans_image409.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 293
+## Question 293 | [Link](https://www.examtopics.com/discussions/microsoft/view/103470-exam-dp-100-topic-3-question-113-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7167,13 +7960,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q293_ans_image411.png" />
+  <img src="images/q293_ans_image411.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 294
+## Question 294 | [Link](https://www.examtopics.com/discussions/microsoft/view/103471-exam-dp-100-topic-3-question-114-discussion/){:target="_blank"}
 
 You are implementing hyperparameter tuning by using Bayesian sampling for a model training from a notebook. The notebook is in an Azure Machine Learning workspace that uses a compute cluster with 20 nodes.
 
@@ -7185,16 +7978,21 @@ You need to select which sampling convergence to use.
 
 What should you select?
 
+* A.Set the value of slack factor of early_termination_policy to 09.
+* B.Set the value of max_concurrent_runs of HyperDriveConfig to 4.
+* C.Set the value of slack factor of early_termination_policy to 0.1.
+* D.Set the value of max_concurrent_runs of HyperDriveConfig to 20.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 295
+## Question 295 | [Link](https://www.examtopics.com/discussions/microsoft/view/104032-exam-dp-100-topic-3-question-115-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -7213,13 +8011,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q295_ans_image413.png" />
+  <img src="images/q295_ans_image413.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 296
+## Question 296 | [Link](https://www.examtopics.com/discussions/microsoft/view/103618-exam-dp-100-topic-3-question-116-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7240,13 +8038,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q296_ans_image415.png" />
+  <img src="images/q296_ans_image415.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 297
+## Question 297 | [Link](https://www.examtopics.com/discussions/microsoft/view/117445-exam-dp-100-topic-3-question-117-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7267,13 +8065,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q297_ans_image417.png" />
+  <img src="images/q297_ans_image417.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 298
+## Question 298 | [Link](https://www.examtopics.com/discussions/microsoft/view/109768-exam-dp-100-topic-3-question-118-discussion/){:target="_blank"}
 
 You use Azure Machine Learning studio to analyze a dataset containing a decimal column named column1.
 
@@ -7281,16 +8079,21 @@ You need to verify that the column1 values are normally distributed.
 
 Which statistic should you use?
 
+* A.Max
+* B.Type
+* C.Profile
+* D.Mean
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 299
+## Question 299 | [Link](https://www.examtopics.com/discussions/microsoft/view/103707-exam-dp-100-topic-3-question-119-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7311,13 +8114,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q299_ans_image419.png" />
+  <img src="images/q299_ans_image419.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 300
+## Question 300 | [Link](https://www.examtopics.com/discussions/microsoft/view/109769-exam-dp-100-topic-3-question-120-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7342,13 +8145,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q300_ans_image422.png" />
+  <img src="images/q300_ans_image422.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 301
+## Question 301 | [Link](https://www.examtopics.com/discussions/microsoft/view/117446-exam-dp-100-topic-3-question-121-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7369,13 +8172,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q301_ans_image424.png" />
+  <img src="images/q301_ans_image424.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 302
+## Question 302 | [Link](https://www.examtopics.com/discussions/microsoft/view/103693-exam-dp-100-topic-3-question-122-discussion/){:target="_blank"}
 
 You have a dataset that is stored in an Azure Machine Learning workspace.
 
@@ -7385,16 +8188,21 @@ You need to measure the distribution of reports for repeated queries to ensure t
 
 Which type of test should you perform?
 
+* A.Bias
+* B.Privacy
+* C.Accuracy
+* D.Utility
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 303
+## Question 303 | [Link](https://www.examtopics.com/discussions/microsoft/view/104099-exam-dp-100-topic-3-question-123-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning Python SDK to create a batch inference pipeline.
 
@@ -7404,16 +8212,21 @@ You need to publish the pipeline.
 
 What should you do?
 
+* A.Create multiple endpoints for the published pipeline service and have each business group submit jobs to its own endpoint.
+* B.Define a PipelineParameter object for the pipeline and use it to specify the business group-specific input dataset for each pipeline run.
+* C.Define a OutputFileDatasetConfig object for the pipeline and use the object to specify the business group-specific input dataset for each pipeline run.
+* D.Have each business group run the pipeline on local compute and use a local file for the input data.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 304
+## Question 304 | [Link](https://www.examtopics.com/discussions/microsoft/view/109770-exam-dp-100-topic-3-question-124-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace. You train an MLflow-formatted regression model by using tabular structured data.
 
@@ -7423,41 +8236,51 @@ You need to use the Azure Machine Learning studio UI to generate the Responsible
 
 What should you do first?
 
+* A.Deploy the model to a managed online endpoint.
+* B.Register the model with the workspace.
+* C.Create the model explanations.
+* D.Convert the model from the MLflow format to a custom format.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 305
+## Question 305 | [Link](https://www.examtopics.com/discussions/microsoft/view/104098-exam-dp-100-topic-3-question-125-discussion/){:target="_blank"}
 
 You are developing a machine learning model by using Azure Machine Learning. You are using multiple text files in tabular format for model data.
 
 You have the following requirements:
 
-• You must use AutoMLjobs to train the model.
+•	You must use AutoMLjobs to train the model.
 
-• You must use data from specified columns.
+•	You must use data from specified columns.
 
-• The data concept must support lazy evaluation.
+•	The data concept must support lazy evaluation.
 
 You need to load data into a Pandas dataframe.
 
 Which data concept should you use?
 
+* A.Data asset
+* B.URI
+* C.Datastore
+* D.MLTable
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 306
+## Question 306 | [Link](https://www.examtopics.com/discussions/microsoft/view/103473-exam-dp-100-topic-3-question-126-discussion/){:target="_blank"}
 
 You use differential privacy to ensure your reports are private.
 
@@ -7467,16 +8290,21 @@ You need to modify your data to ensure your reports are private.
 
 Which epsilon value should you accept for your data?
 
+* A.between 0 and 1
+* B.between 2 and 3
+* C.between 3 and 10
+* D.more than 10
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 307
+## Question 307 | [Link](https://www.examtopics.com/discussions/microsoft/view/103616-exam-dp-100-topic-3-question-127-discussion/){:target="_blank"}
 
 You create a multi-class image classification model with automated machine learning in Azure Machine Learning.
 
@@ -7484,16 +8312,21 @@ You need to prepare labeled image data as input for model training in the form o
 
 Which data format should you use?
 
+* A.COCO
+* B.JSONL
+* C.JSON
+* D.Pascal VOC
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 308
+## Question 308 | [Link](https://www.examtopics.com/discussions/microsoft/view/103617-exam-dp-100-topic-3-question-128-discussion/){:target="_blank"}
 
 You use Azure Machine Learning to train a model.
 
@@ -7503,16 +8336,20 @@ You need to select a sampling method.
 
 Which sampling method should you use?
 
+* A.Grid
+* B.Bayesian
+* C.Random
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 309
+## Question 309 | [Link](https://www.examtopics.com/discussions/microsoft/view/104101-exam-dp-100-topic-3-question-129-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -7529,13 +8366,13 @@ In which order should you perform the actions? To answer, move all actions from 
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q309_ans_image426.png" />
+  <img src="images/q309_ans_image426.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 310
+## Question 310 | [Link](https://www.examtopics.com/discussions/microsoft/view/111310-exam-dp-100-topic-3-question-130-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7556,13 +8393,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q310_ans_image428.png" />
+  <img src="images/q310_ans_image428.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 311
+## Question 311 | [Link](https://www.examtopics.com/discussions/microsoft/view/103613-exam-dp-100-topic-3-question-131-discussion/){:target="_blank"}
 
 You create a training pipeline by using the Azure Machine Learning designer.
 
@@ -7572,16 +8409,22 @@ Which two data sources could you use? Each correct answer presents a complete so
 
 NOTE: Each correct selection is worth one point.
 
+* A.Azure SQL Database
+* B.Registered dataset
+* C.URL via HTTP
+* D.Azure Blob storage container through a registered datastore
+* E.Azure Data Lake Storage Gen2
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-CD
+  CD
 
 </details>
 
 ---
 
-## Question 312
+## Question 312 | [Link](https://www.examtopics.com/discussions/microsoft/view/103612-exam-dp-100-topic-3-question-132-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7602,13 +8445,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q312_ans_image430.png" />
+  <img src="images/q312_ans_image430.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 313
+## Question 313 | [Link](https://www.examtopics.com/discussions/microsoft/view/109179-exam-dp-100-topic-3-question-133-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -7627,13 +8470,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q313_ans_image613.png" />
+  <img src="images/q313_ans_image613.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 314
+## Question 314 | [Link](https://www.examtopics.com/discussions/microsoft/view/103611-exam-dp-100-topic-3-question-134-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7654,13 +8497,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q314_ans_image434.png" />
+  <img src="images/q314_ans_image434.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 315
+## Question 315 | [Link](https://www.examtopics.com/discussions/microsoft/view/111308-exam-dp-100-topic-3-question-135-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7681,13 +8524,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q315_ans_image436.png" />
+  <img src="images/q315_ans_image436.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 316
+## Question 316 | [Link](https://www.examtopics.com/discussions/microsoft/view/106560-exam-dp-100-topic-3-question-136-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -7706,13 +8549,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q316_ans_image614.png" />
+  <img src="images/q316_ans_image614.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 317
+## Question 317 | [Link](https://www.examtopics.com/discussions/microsoft/view/111307-exam-dp-100-topic-3-question-137-discussion/){:target="_blank"}
 
 You register a model in an Azure Machine Learning workspace by running the following code:
 
@@ -7724,16 +8567,21 @@ You need to write code in the scoring script to set the path of the registered m
 
 Which code segment should you use?
 
+* A.path = Model.get_model_path(‘loan_model’)
+* B.path = ‘model.pkl’
+* C.path = ws.models(‘loan_model’)
+* D.path = ‘outputs/model.pkl’
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 318
+## Question 318 | [Link](https://www.examtopics.com/discussions/microsoft/view/110992-exam-dp-100-topic-3-question-138-discussion/){:target="_blank"}
 
 You are using a ScriptRunConfig object to configure an experiment that uses a script to train a machine learning model.
 
@@ -7743,16 +8591,21 @@ You need to pass the regularization rate in a variable named reg_rate to the scr
 
 Which code segment should you use?
 
+* A.
+* B.
+* C.
+* D.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 319
+## Question 319 | [Link](https://www.examtopics.com/discussions/microsoft/view/109812-exam-dp-100-topic-3-question-139-discussion/){:target="_blank"}
 
 You are using Azure Machine Learning to monitor a trained and deployed model. You implement Event Grid to respond to Azure Machine Learning events.
 
@@ -7762,16 +8615,21 @@ You need to trigger a remediation ML pipeline based on an Azure Machine Learning
 
 Which event should you use?
 
+* A.RunStatusChanged
+* B.RunCompleted
+* C.DatasetDriftDetected
+* D.ModelDeployed
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 320
+## Question 320 | [Link](https://www.examtopics.com/discussions/microsoft/view/110994-exam-dp-100-topic-3-question-140-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7792,13 +8650,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q320_ans_image466.png" />
+  <img src="images/q320_ans_image466.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 321
+## Question 321 | [Link](https://www.examtopics.com/discussions/microsoft/view/113377-exam-dp-100-topic-3-question-141-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7808,9 +8666,9 @@ You use Azure Machine Learning and SmartNoise Python libraries to implement a di
 
 The solution has the following requirements:
 
-• Allow for multiple queries targeting the mean and variance of the citizen’s age.
+•	Allow for multiple queries targeting the mean and variance of the citizen’s age.
 
-• Ensure full plausible deniability.
+•	Ensure full plausible deniability.
 
 You need to define the query rate limit to minimize the risk of re-identification.
 
@@ -7823,13 +8681,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q321_ans_image468.png" />
+  <img src="images/q321_ans_image468.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 322
+## Question 322 | [Link](https://www.examtopics.com/discussions/microsoft/view/106669-exam-dp-100-topic-3-question-142-discussion/){:target="_blank"}
 
 You are implementing hyperparameter tuning for a model training from a notebook. The notebook is in an Azure Machine Learning workspace.
 
@@ -7839,16 +8697,21 @@ You need to identify the hyperparameters for the grid sampling.
 
 Which hyperparameter sampling approach should you use?
 
+* A.uniform
+* B.qlognormal
+* C.choice
+* D.normal
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 323
+## Question 323 | [Link](https://www.examtopics.com/discussions/microsoft/view/107703-exam-dp-100-topic-3-question-143-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace. You are implementing hyperparameter tuning for a model training from a notebook.
 
@@ -7860,16 +8723,21 @@ You need to identify which Bandit termination policy configuration to use.
 
 What should you identify?
 
+* A.Set slack_amount to 0.2.
+* B.Set slack_factor to 0.1.
+* C.Set slack_factor to 0.2.
+* D.Set slack_amount to 0.1.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 324
+## Question 324 | [Link](https://www.examtopics.com/discussions/microsoft/view/117484-exam-dp-100-topic-3-question-144-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7888,28 +8756,32 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q324_ans_image470.png" />
+  <img src="images/q324_ans_image470.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 325
+## Question 325 | [Link](https://www.examtopics.com/discussions/microsoft/view/109170-exam-dp-100-topic-3-question-145-discussion/){:target="_blank"}
 
 You need to evaluate the potential risk of exposing personal information based on the values of epsilon and delta for differential privacy. You create a privacy report.
 
 What does an epsilon value greater than one represent?
 
+* A.The privacy of data is preserved and there is limited impact on data accuracy.
+* B.There is a high risk of exposing the actual data that is uses to generate the report.
+* C.The data used in the report is very noisy.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 326
+## Question 326 | [Link](https://www.examtopics.com/discussions/microsoft/view/115189-exam-dp-100-topic-3-question-146-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -7942,13 +8814,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q326_ans_image503.png" />
+  <img src="images/q326_ans_image503.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 327
+## Question 327 | [Link](https://www.examtopics.com/discussions/microsoft/view/116504-exam-dp-100-topic-3-question-147-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -7965,13 +8837,13 @@ In which order should you perform the actions? To answer, move all actions from 
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q327_ans_image505.png" />
+  <img src="images/q327_ans_image505.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 328
+## Question 328 | [Link](https://www.examtopics.com/discussions/microsoft/view/116507-exam-dp-100-topic-3-question-148-discussion/){:target="_blank"}
 
 You create a workspace by using Azure Machine Learning Studio.
 
@@ -7981,16 +8853,21 @@ You need to maintain the state of the notebook.
 
 What should you do?
 
+* A.Change the compute.
+* B.Change the current kernel.
+* C.Stop the compute.
+* D.Stop the current kernel.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 329
+## Question 329 | [Link](https://www.examtopics.com/discussions/microsoft/view/117494-exam-dp-100-topic-3-question-149-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8011,13 +8888,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q329_ans_image507.png" />
+  <img src="images/q329_ans_image507.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 330
+## Question 330 | [Link](https://www.examtopics.com/discussions/microsoft/view/117051-exam-dp-100-topic-3-question-150-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace named workspaces. You create a Python SDK v2 notebook to perform custom model training in workspaces.
 
@@ -8025,16 +8902,21 @@ You need to run the notebook from Azure Machine Learning Studio in workspaces.
 
 What should you provision first?
 
+* A.default storage account
+* B.real-time endpoint
+* C.Azure Machine Learning compute cluster
+* D.Azure Machine Learning compute instance
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 331
+## Question 331 | [Link](https://www.examtopics.com/discussions/microsoft/view/118318-exam-dp-100-topic-3-question-151-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8063,13 +8945,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q331_ans_image509.png" />
+  <img src="images/q331_ans_image509.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 332
+## Question 332 | [Link](https://www.examtopics.com/discussions/microsoft/view/117495-exam-dp-100-topic-3-question-152-discussion/){:target="_blank"}
 
 You plan to run a script as an experiment. The script uses modules from the SciPy library and several Python packages that are not typically installed in a default conda environment.
 
@@ -8079,16 +8961,21 @@ You need to ensure that the experiment runs successfully on local and remote com
 
 What should you do?
 
+* A.Leave the environment unspecified for the experiment. Run the expenment by using the default environment.
+* B.Create a config.yaml file that defines the required conda packages and save the file in the experiment folder.
+* C.Create and register an environment that includes the required packages. Use this environment for all experiment jobs.
+* D.Create a virtual machine (VM) by using the required Python configuration and attach the VM as a compute target. Use this compute target for all experiment runs.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 333
+## Question 333 | [Link](https://www.examtopics.com/discussions/microsoft/view/112416-exam-dp-100-topic-3-question-153-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace. You build a deep learning model.
 
@@ -8098,16 +8985,21 @@ Which two compute targets can you use? Each correct answer presents a complete s
 
 NOTE: Each correct selection is worth one point.
 
+* A.Azure Kubernetes Service (AKS)
+* B.Azure Container Instances (ACI)
+* C.Local web service
+* D.Azure Machine Learning compute clusters
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AB
+  AB
 
 </details>
 
 ---
 
-## Question 334
+## Question 334 | [Link](https://www.examtopics.com/discussions/microsoft/view/117496-exam-dp-100-topic-3-question-154-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace named workspace1. The workspace contains a Python SDK v2 notebook that uses MLflow to collect model training metrics and artifacts from your local computer.
 
@@ -8117,16 +9009,21 @@ You need to continue to log metrics and artifacts from your data science code.
 
 What should you do?
 
+* A.Instantiate the job class.
+* B.Instantiate the MLCIient class.
+* C.Log in to workspace1.
+* D.Configure the tracking URL.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 335
+## Question 335 | [Link](https://www.examtopics.com/discussions/microsoft/view/114204-exam-dp-100-topic-3-question-155-discussion/){:target="_blank"}
 
 You use Azure Machine Learning to train a model.
 
@@ -8138,16 +9035,22 @@ Which two distributions can you use? Each correct answer presents a complete sol
 
 NOTE: Each correct selection is worth one point.
 
+* A.Uniform
+* B.Choice
+* C.QNormal
+* D.Normal
+* E.LogUniform
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AB
+  AB
 
 </details>
 
 ---
 
-## Question 336
+## Question 336 | [Link](https://www.examtopics.com/discussions/microsoft/view/113384-exam-dp-100-topic-3-question-156-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -8166,13 +9069,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q336_ans_image511.png" />
+  <img src="images/q336_ans_image511.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 337
+## Question 337 | [Link](https://www.examtopics.com/discussions/microsoft/view/114206-exam-dp-100-topic-3-question-157-discussion/){:target="_blank"}
 
 You create an Azure Machine learning workspace.
 
@@ -8182,16 +9085,21 @@ You need to import the class from the azure.ai.ml.sweep package used to create t
 
 Which class should you import?
 
+* A.Choice
+* B.Randint
+* C.Uniform
+* D.Normal
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 338
+## Question 338 | [Link](https://www.examtopics.com/discussions/microsoft/view/114210-exam-dp-100-topic-3-question-158-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8214,13 +9122,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q338_ans_image513.png" />
+  <img src="images/q338_ans_image513.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 339
+## Question 339 | [Link](https://www.examtopics.com/discussions/microsoft/view/114212-exam-dp-100-topic-3-question-159-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8241,13 +9149,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q339_ans_image515.png" />
+  <img src="images/q339_ans_image515.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 340
+## Question 340 | [Link](https://www.examtopics.com/discussions/microsoft/view/114214-exam-dp-100-topic-3-question-160-discussion/){:target="_blank"}
 
 You have a dataset that contains records of patients tested for diabetes. The dataset includes the patient's age.
 
@@ -8257,16 +9165,21 @@ You need to identify the epsilon value to use in the analysis that minimizes the
 
 Which epsilon value should you use?
 
+* A.-1.5
+* B.-0.5
+* C.0.5
+* D.1.5
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 341
+## Question 341 | [Link](https://www.examtopics.com/discussions/microsoft/view/117555-exam-dp-100-topic-3-question-161-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -8283,13 +9196,13 @@ For each of the following statements, select Yes if the statement is true. Other
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q341_ans_image615.png" />
+  <img src="images/q341_ans_image615.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 342
+## Question 342 | [Link](https://www.examtopics.com/discussions/microsoft/view/114215-exam-dp-100-topic-3-question-162-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -8308,13 +9221,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q342_ans_image520.png" />
+  <img src="images/q342_ans_image520.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 343
+## Question 343 | [Link](https://www.examtopics.com/discussions/microsoft/view/113387-exam-dp-100-topic-3-question-163-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -8333,13 +9246,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q343_ans_image616.png" />
+  <img src="images/q343_ans_image616.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 344
+## Question 344 | [Link](https://www.examtopics.com/discussions/microsoft/view/114216-exam-dp-100-topic-3-question-164-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8366,13 +9279,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q344_ans_image525.png" />
+  <img src="images/q344_ans_image525.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 345
+## Question 345 | [Link](https://www.examtopics.com/discussions/microsoft/view/114217-exam-dp-100-topic-3-question-165-discussion/){:target="_blank"}
 
 You create a workspace by using Azure Machine Learning Studio.
 
@@ -8384,16 +9297,22 @@ Which three actions should you use? Each correct answer presents a complete solu
 
 NOTE: Each correct selection is worth one point.
 
+* A.Stop the current kernel.
+* B.Change the compute.
+* C.Reset the compute.
+* D.Navigate to another section of the workspace.
+* E.Change the current kernel.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BCE
+  BCE
 
 </details>
 
 ---
 
-## Question 346
+## Question 346 | [Link](https://www.examtopics.com/discussions/microsoft/view/116530-exam-dp-100-topic-3-question-166-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -8405,16 +9324,21 @@ What are two possible ways to achieve this goal? Each correct answer presents a 
 
 NOTE: Each correct selection is worth one point.
 
+* A.MLflowClient.log_batch
+* B.mlflow.log_metrics
+* C.mlflow.log_metric
+* D.mlflow.log_param
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AB
+  AB
 
 </details>
 
 ---
 
-## Question 347
+## Question 347 | [Link](https://www.examtopics.com/discussions/microsoft/view/124121-exam-dp-100-topic-3-question-167-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8433,13 +9357,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q347_ans_image544.png" />
+  <img src="images/q347_ans_image544.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 348
+## Question 348 | [Link](https://www.examtopics.com/discussions/microsoft/view/117528-exam-dp-100-topic-3-question-168-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8462,13 +9386,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q348_ans_image546.png" />
+  <img src="images/q348_ans_image546.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 349
+## Question 349 | [Link](https://www.examtopics.com/discussions/microsoft/view/116531-exam-dp-100-topic-3-question-169-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8487,13 +9411,13 @@ For each of the following statements, select Yes if the statement is true. Other
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q349_ans_image549.png" />
+  <img src="images/q349_ans_image549.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 350
+## Question 350 | [Link](https://www.examtopics.com/discussions/microsoft/view/117529-exam-dp-100-topic-3-question-170-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8503,15 +9427,15 @@ You download a .csv file from a notebook in an Azure Machine Learning workspace 
 
 You must generate the summary statistics for the data in the file. The statistics must include the following for each numerical column:
 
-• number of non-empty values
+•	number of non-empty values
 
-• average value
+•	average value
 
-• standard deviation
+•	standard deviation
 
-• minimum and maximum values
+•	minimum and maximum values
 
-• 25th, 50th, and 75th percentiles
+•	25th, 50th, and 75th percentiles
 
 You need to complete the Python code that will generate the summary statistics.
 
@@ -8524,13 +9448,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q350_ans_image551.png" />
+  <img src="images/q350_ans_image551.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 351
+## Question 351 | [Link](https://www.examtopics.com/discussions/microsoft/view/305355-exam-dp-100-topic-3-question-171-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -8540,9 +9464,9 @@ You are designing an Azure Machine Learning solution by using the Python SDK v2.
 
 You must train and deploy the solution by using a compute target. The compute target must meet the following requirements:
 
-• Enable the use of on-premises compute resources.
+•	Enable the use of on-premises compute resources.
 
-• Support autoscaling.
+•	Support autoscaling.
 
 You need to configure a compute target for training and inference.
 
@@ -8557,13 +9481,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q351_ans_image561.png" />
+  <img src="images/q351_ans_image561.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 352
+## Question 352 | [Link](https://www.examtopics.com/discussions/microsoft/view/134183-exam-dp-100-topic-3-question-172-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8584,13 +9508,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q352_ans_image563.png" />
+  <img src="images/q352_ans_image563.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 353
+## Question 353 | [Link](https://www.examtopics.com/discussions/microsoft/view/135134-exam-dp-100-topic-3-question-173-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace.
 
@@ -8600,16 +9524,21 @@ You need to define a search space that returns a normally distributed value.
 
 Which parameter should you use?
 
+* A.QUniform
+* B.LogUniform
+* C.Uniform
+* D.LogNormal
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 354
+## Question 354 | [Link](https://www.examtopics.com/discussions/microsoft/view/133561-exam-dp-100-topic-3-question-174-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace named WS1.
 
@@ -8619,16 +9548,21 @@ You need to identify the library you should use to register the MLflow models.
 
 Which library should you use?
 
+* A.PyTorch
+* B.mlpy
+* C.TensorFlow
+* D.scikit-learn
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 355
+## Question 355 | [Link](https://www.examtopics.com/discussions/microsoft/view/134854-exam-dp-100-topic-3-question-175-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace.
 
@@ -8638,16 +9572,21 @@ You need to choose the primary metric to optimize the model training.
 
 Which primary metric should you choose?
 
+* A.r2_score
+* B.mean_absolute_error
+* C.accuracy
+* D.root_mean_squared_log_error
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 356
+## Question 356 | [Link](https://www.examtopics.com/discussions/microsoft/view/150107-exam-dp-100-topic-3-question-177-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -8663,16 +9602,19 @@ Solution: Use the random sampling method over the hyperparameter space.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 357
+## Question 357 | [Link](https://www.examtopics.com/discussions/microsoft/view/152415-exam-dp-100-topic-3-question-178-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -8688,16 +9630,19 @@ Solution: Use the Bayesian sampling method over the hyperparameter space.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 358
+## Question 358 | [Link](https://www.examtopics.com/discussions/microsoft/view/142712-exam-dp-100-topic-3-question-179-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -8713,16 +9658,19 @@ Solution: Use the grid sampling method over the hyperparameter space.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 359
+## Question 359 | [Link](https://www.examtopics.com/discussions/microsoft/view/142976-exam-dp-100-topic-3-question-180-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace.
 
@@ -8732,16 +9680,21 @@ You need to choose the primary metric to optimize the model training.
 
 Which primary metric should you choose?
 
+* A.r2_score
+* B.mean_absolute_error
+* C.iou
+* D.median_absolute_error
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 360
+## Question 360 | [Link](https://www.examtopics.com/discussions/microsoft/view/142840-exam-dp-100-topic-3-question-181-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace named WS1.
 
@@ -8751,16 +9704,21 @@ You need to identify the syntax of the path to reference the model when you regi
 
 Which syntax should you use?
 
+* A.t//model/
+* B.azureml://registries
+* C.mlflow-model/
+* D.azureml://jobs/
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 361
+## Question 361 | [Link](https://www.examtopics.com/discussions/microsoft/view/149098-exam-dp-100-topic-3-question-182-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -8770,16 +9728,21 @@ You need to log dictionary type artifacts of the experiments in Azure Machine Le
 
 Which syntax should you use?
 
+* A.mlflow.log_input(my_dict)
+* B.mlflow.log_metric("my_metric", my_dict)
+* C.mlflow.log_metrics(my_dict)
+* D.mlflow.log_text("my_metric", my_dict)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 362
+## Question 362 | [Link](https://www.examtopics.com/discussions/microsoft/view/150109-exam-dp-100-topic-3-question-183-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -8795,16 +9758,19 @@ Solution: python train.py --training_data training_data
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 363
+## Question 363 | [Link](https://www.examtopics.com/discussions/microsoft/view/150110-exam-dp-100-topic-3-question-184-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -8820,16 +9786,19 @@ Solution: python script.py dataset1.csv
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 364
+## Question 364 | [Link](https://www.examtopics.com/discussions/microsoft/view/152885-exam-dp-100-topic-3-question-185-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -8845,16 +9814,19 @@ Solution: python script.py --training_data ${{inputs.training_data}}
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 365
+## Question 365 | [Link](https://www.examtopics.com/discussions/microsoft/view/150111-exam-dp-100-topic-3-question-186-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8875,13 +9847,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q365_ans_image573.png" />
+  <img src="images/q365_ans_image573.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 366
+## Question 366 | [Link](https://www.examtopics.com/discussions/microsoft/view/150509-exam-dp-100-topic-3-question-187-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -8902,13 +9874,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q366_ans_image576.png" />
+  <img src="images/q366_ans_image576.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 367
+## Question 367 | [Link](https://www.examtopics.com/discussions/microsoft/view/149099-exam-dp-100-topic-3-question-190-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -8918,16 +9890,21 @@ You need to define the data access mode that is supported by your configuration.
 
 Which mode should you define?
 
+* A.eval_upload
+* B.rw_mount
+* C.download
+* D.ro_mount
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 368
+## Question 368 | [Link](https://www.examtopics.com/discussions/microsoft/view/150113-exam-dp-100-topic-3-question-191-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -8943,16 +9920,19 @@ Solution: python script.py --training_data dataset1.csv
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 369
+## Question 369 | [Link](https://www.examtopics.com/discussions/microsoft/view/305730-exam-dp-100-topic-3-question-192-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -8968,16 +9948,19 @@ Solution: Use the Sobol sampling method over the hyperparameter space.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 370
+## Question 370 | [Link](https://www.examtopics.com/discussions/microsoft/view/305370-exam-dp-100-topic-3-question-193-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -8987,16 +9970,21 @@ You need to log dictionary type artifacts of the experiments in Azure Machine Le
 
 Which syntax should you use?
 
+* A.mlflow.log_artifact(my_dict)
+* B.mlflow.log_metric("my_metric", my_dict)
+* C.mlflow.log_metrics(my_dict)
+* D.mlflow.log_artifacts(my_dict)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 371
+## Question 371 | [Link](https://www.examtopics.com/discussions/microsoft/view/303500-exam-dp-100-topic-3-question-194-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning Workspace named Workspase1 and an Azure Files share named Share1.
 
@@ -9006,16 +9994,21 @@ You need to configure permanent access to Share1 from the Azure Files datastore.
 
 Which authorization method should you use?
 
+* A.Primary access key
+* B.Anonymous access
+* C.Account SAS key
+* D.User delegation SAS key
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 372
+## Question 372 | [Link](https://www.examtopics.com/discussions/microsoft/view/50502-exam-dp-100-topic-4-question-1-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -9042,13 +10035,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q372_ans_image617.png" />
+  <img src="images/q372_ans_image617.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 373
+## Question 373 | [Link](https://www.examtopics.com/discussions/microsoft/view/48292-exam-dp-100-topic-4-question-2-discussion/){:target="_blank"}
 
 You create a deep learning model for image recognition on Azure Machine Learning service using GPU-based training.
 
@@ -9058,16 +10051,21 @@ You need to configure compute resources for model inferencing.
 
 Which compute type should you use?
 
+* A.Azure Container Instance
+* B.Azure Kubernetes Service
+* C.Field Programmable Gate Array
+* D.Machine Learning Compute
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 374
+## Question 374 | [Link](https://www.examtopics.com/discussions/microsoft/view/86095-exam-dp-100-topic-4-question-3-discussion/){:target="_blank"}
 
 You create a batch inference pipeline by using the Azure ML SDK. You run the pipeline by using the following code: from azureml.pipeline.core import Pipeline from azureml.core.experiment import Experiment pipeline = Pipeline(workspace=ws, steps=[parallelrun_step]) pipeline_run = Experiment(ws, 'batch_pipeline').submit(pipeline)
 
@@ -9077,16 +10075,22 @@ What are two possible ways to achieve this goal? Each correct answer presents a 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Run the following code in a notebook:
+* B.Use the Inference Clusters tab in Machine Learning Studio.
+* C.Use the Activity log in the Azure portal for the Machine Learning workspace.
+* D.Run the following code in a notebook:
+* E.Run the following code and monitor the console output from the PipelineRun object:
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-DE
+  DE
 
 </details>
 
 ---
 
-## Question 375
+## Question 375 | [Link](https://www.examtopics.com/discussions/microsoft/view/51800-exam-dp-100-topic-4-question-4-discussion/){:target="_blank"}
 
 You train and register a model in your Azure Machine Learning workspace.
 
@@ -9098,16 +10102,22 @@ Which two functions should you include? Each correct answer presents part of the
 
 NOTE: Each correct selection is worth one point.
 
+* A.run(mini_batch)
+* B.main()
+* C.batch()
+* D.init()
+* E.score(mini_batch)
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AD
+  AD
 
 </details>
 
 ---
 
-## Question 376
+## Question 376 | [Link](https://www.examtopics.com/discussions/microsoft/view/54863-exam-dp-100-topic-4-question-5-discussion/){:target="_blank"}
 
 You deploy a model as an Azure Machine Learning real-time web service using the following code.
 
@@ -9119,16 +10129,21 @@ You need to troubleshoot the deployment failure by determining the actions that 
 
 Which code segment should you run?
 
+* A.service.get_logs()
+* B.service.state
+* C.service.serialize()
+* D.service.update_deployment_state()
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 377
+## Question 377 | [Link](https://www.examtopics.com/discussions/microsoft/view/54789-exam-dp-100-topic-4-question-6-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -9149,13 +10164,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q377_ans_0037900001.png" />
+  <img src="images/q377_ans_0037900001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 378
+## Question 378 | [Link](https://www.examtopics.com/discussions/microsoft/view/47455-exam-dp-100-topic-4-question-7-discussion/){:target="_blank"}
 
 You create a multi-class image classification deep learning model.
 
@@ -9165,16 +10180,21 @@ You need to ensure that the correct version of PyTorch can be identified for the
 
 What should you do?
 
+* A.Save the model locally as a.pt file, and deploy the model as a local web service.
+* B.Deploy the model on computer that is configured to use the default Azure Machine Learning conda environment.
+* C.Register the model with a .pt file extension and the default version property.
+* D.Register the model, specifying the model_framework and model_framework_version properties.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 379
+## Question 379 | [Link](https://www.examtopics.com/discussions/microsoft/view/50649-exam-dp-100-topic-4-question-8-discussion/){:target="_blank"}
 
 You train a machine learning model.
 
@@ -9182,16 +10202,21 @@ You must deploy the model as a real-time inference service for testing. The serv
 
 Which compute target should you use?
 
+* A.Azure Container Instance (ACI)
+* B.attached Azure Databricks cluster
+* C.Azure Kubernetes Service (AKS) inference cluster
+* D.Azure Machine Learning compute cluster
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 380
+## Question 380 | [Link](https://www.examtopics.com/discussions/microsoft/view/37001-exam-dp-100-topic-4-question-9-discussion/){:target="_blank"}
 
 You register a model that you plan to use in a batch inference pipeline.
 
@@ -9201,16 +10226,21 @@ You need to configure the pipeline.
 
 Which configuration setting should you specify in the ParallelRunConfig object for the PrallelRunStep step?
 
+* A.process_count_per_node= "6"
+* B.node_count= "6"
+* C.mini_batch_size= "6"
+* D.error_threshold= "6"
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 381
+## Question 381 | [Link](https://www.examtopics.com/discussions/microsoft/view/47169-exam-dp-100-topic-4-question-10-discussion/){:target="_blank"}
 
 You deploy a real-time inference service for a trained model.
 
@@ -9220,16 +10250,21 @@ You need to implement a monitoring solution for the deployed model using minimal
 
 What should you do?
 
+* A.View the explanations for the registered model in Azure ML studio.
+* B.Enable Azure Application Insights for the service endpoint and view logged data in the Azure portal.
+* C.View the log files generated by the experiment used to train the model.
+* D.Create an ML Flow tracking URI that references the endpoint, and view the data logged by ML Flow.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 382
+## Question 382 | [Link](https://www.examtopics.com/discussions/microsoft/view/54940-exam-dp-100-topic-4-question-11-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -9254,13 +10289,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q382_ans_0038600001.png" />
+  <img src="images/q382_ans_0038600001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 383
+## Question 383 | [Link](https://www.examtopics.com/discussions/microsoft/view/55870-exam-dp-100-topic-4-question-12-discussion/){:target="_blank"}
 
 An organization creates and deploys a multi-class image classification deep learning model that uses a set of labeled photographs.
 
@@ -9270,16 +10305,21 @@ You need to improve performance of the image classification web service with min
 
 What should you advise the IT Operations team to do?
 
+* A.Create a new compute cluster by using larger VM sizes for the nodes, redeploy the web service to that cluster, and update the DNS registration for the service endpoint to point to the new cluster.
+* B.Increase the node count of the compute cluster where the web service is deployed.
+* C.Increase the minimum node count of the compute cluster where the web service is deployed.
+* D.Increase the VM size of nodes in the compute cluster where the web service is deployed.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 384
+## Question 384 | [Link](https://www.examtopics.com/discussions/microsoft/view/44452-exam-dp-100-topic-4-question-13-discussion/){:target="_blank"}
 
 You use Azure Machine Learning designer to create a real-time service endpoint. You have a single Azure Machine Learning service compute resource.
 
@@ -9289,16 +10329,22 @@ You need to publish the inference pipeline as a web service.
 
 Which compute type should you use?
 
+* A.a new Machine Learning Compute resource
+* B.Azure Kubernetes Services
+* C.HDInsight
+* D.the existing Machine Learning Compute resource
+* E.Azure Databricks
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 385
+## Question 385 | [Link](https://www.examtopics.com/discussions/microsoft/view/55874-exam-dp-100-topic-4-question-14-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -9320,16 +10366,19 @@ Deploy the model to the service.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 386
+## Question 386 | [Link](https://www.examtopics.com/discussions/microsoft/view/53427-exam-dp-100-topic-4-question-15-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -9351,16 +10400,19 @@ Deploy the model to the service.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 387
+## Question 387 | [Link](https://www.examtopics.com/discussions/microsoft/view/56150-exam-dp-100-topic-4-question-16-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -9384,16 +10436,19 @@ Deploy the model to the service.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 388
+## Question 388 | [Link](https://www.examtopics.com/discussions/microsoft/view/64159-exam-dp-100-topic-4-question-17-discussion/){:target="_blank"}
 
 You use the following Python code in a notebook to deploy a model as a web service: from azureml.core.webservice import AciWebservice from azureml.core.model import InferenceConfig inference_config = InferenceConfig(runtime='python', source_directory='model_files', entry_script='score.py', conda_file='env.yml') deployment_config = AciWebservice.deploy_configuration(cpu_cores=1, memory_gb=1) service = Model.deploy(ws, 'my-service', [model], inference_config, deployment_config) service.wait_for_deployment(True)
 
@@ -9403,16 +10458,21 @@ You need to use the Python SDK in the notebook to determine the events that occu
 
 Which code segment should you use?
 
+* A.service.state
+* B.service.get_logs()
+* C.service.serialize()
+* D.service.environment
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 389
+## Question 389 | [Link](https://www.examtopics.com/discussions/microsoft/view/55752-exam-dp-100-topic-4-question-18-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning Python SDK to define a pipeline that consists of multiple steps.
 
@@ -9424,16 +10484,22 @@ What are two possible ways to achieve this goal? Each correct answer presents a 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Use a PipelineData object that references a datastore other than the default datastore.
+* B.Set the regenerate_outputs property of the pipeline to True.
+* C.Set the allow_reuse property of each step in the pipeline to False.
+* D.Restart the compute cluster where the pipeline experiment is configured to run.
+* E.Set the outputs property of each step in the pipeline to True.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BC
+  BC
 
 </details>
 
 ---
 
-## Question 390
+## Question 390 | [Link](https://www.examtopics.com/discussions/microsoft/view/27447-exam-dp-100-topic-4-question-19-discussion/){:target="_blank"}
 
 You train a model and register it in your Azure Machine Learning workspace. You are ready to deploy the model as a real-time web service.
 
@@ -9443,16 +10509,22 @@ You need to debug the error by iteratively modifying the code and reloading the 
 
 What should you do?
 
+* A.Modify the AKS service deployment configuration to enable application insights and re-deploy to AKS.
+* B.Create an Azure Container Instances (ACI) web service deployment configuration and deploy the model on ACI.
+* C.Add a breakpoint to the first line of the entry script and redeploy the service to AKS.
+* D.Create a local web service deployment configuration and deploy the model to a local Docker container.
+* E.Register a new version of the model and update the entry script to load the new version of the model from its registered path.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 391
+## Question 391 | [Link](https://www.examtopics.com/discussions/microsoft/view/35978-exam-dp-100-topic-4-question-20-discussion/){:target="_blank"}
 
 You use Azure Machine Learning designer to create a training pipeline for a regression model.
 
@@ -9460,16 +10532,21 @@ You need to prepare the pipeline for deployment as an endpoint that generates pr
 
 What should you do?
 
+* A.Clone the training pipeline.
+* B.Create a batch inference pipeline from the training pipeline.
+* C.Create a real-time inference pipeline from the training pipeline.
+* D.Replace the dataset in the training pipeline with an Enter Data Manually module.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 392
+## Question 392 | [Link](https://www.examtopics.com/discussions/microsoft/view/43144-exam-dp-100-topic-4-question-21-discussion/){:target="_blank"}
 
 You retrain an existing model.
 
@@ -9477,16 +10554,21 @@ You need to register the new version of a model while keeping the current versio
 
 What should you do?
 
+* A.Register a model with a different name from the existing model and a custom property named version with the value 2.
+* B.Register the model with the same name as the existing model.
+* C.Save the new model in the default datastore with the same name as the existing model. Do not register the new model.
+* D.Delete the existing model and register the new one with the same name.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 393
+## Question 393 | [Link](https://www.examtopics.com/discussions/microsoft/view/36440-exam-dp-100-topic-4-question-22-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning SDK to run a training experiment that trains a classification model and calculates its accuracy metric.
 
@@ -9500,16 +10582,22 @@ What are two possible ways to achieve this goal? Each correct answer presents a 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Specify a different name for the model each time you register it.
+* B.Register the model with the same name each time regardless of accuracy, and always use the latest version of the model in the batch inferencing pipeline.
+* C.Specify the model framework version when registering the model, and only register subsequent models if this value is higher.
+* D.Specify a property named accuracy with the accuracy metric as a value when registering the model, and only register subsequent models if their accuracy is  higher than the accuracy property value of the currently registered model.
+* E.Specify a tag named accuracy with the accuracy metric as a value when registering the model, and only register subsequent models if their accuracy is higher than the accuracy tag value of the currently registered model.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-DE
+  DE
 
 </details>
 
 ---
 
-## Question 394
+## Question 394 | [Link](https://www.examtopics.com/discussions/microsoft/view/57625-exam-dp-100-topic-4-question-23-discussion/){:target="_blank"}
 
 You are a data scientist working for a hotel booking website company. You use the Azure Machine Learning service to train a model that identifies fraudulent transactions.
 
@@ -9519,16 +10607,22 @@ You need to create the script that is specified as the entry_script parameter fo
 
 What should the entry script do?
 
+* A.Register the model with appropriate tags and properties.
+* B.Create a Conda environment for the web service compute and install the necessary Python packages.
+* C.Load the model and use it to predict labels from input data.
+* D.Start a node on the inference cluster where the web service is deployed.
+* E.Specify the number of cores and the amount of memory required for the inference compute.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 395
+## Question 395 | [Link](https://www.examtopics.com/discussions/microsoft/view/49618-exam-dp-100-topic-4-question-24-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -9547,13 +10641,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q395_ans_0039800002.png" />
+  <img src="images/q395_ans_0039800002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 396
+## Question 396 | [Link](https://www.examtopics.com/discussions/microsoft/view/36439-exam-dp-100-topic-4-question-25-discussion/){:target="_blank"}
 
 You develop and train a machine learning model to predict fraudulent transactions for a hotel booking website.
 
@@ -9563,16 +10657,22 @@ You need to deploy the model as an Azure Machine Learning real-time web service 
 
 Which deployment compute option should you use?
 
+* A.attached Azure Databricks cluster
+* B.Azure Container Instance (ACI)
+* C.Azure Kubernetes Service (AKS) inference cluster
+* D.Azure Machine Learning Compute Instance
+* E.attached virtual machine in a different region
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 397
+## Question 397 | [Link](https://www.examtopics.com/discussions/microsoft/view/70548-exam-dp-100-topic-4-question-26-discussion/){:target="_blank"}
 
 You use the designer to create a training pipeline for a classification model. The pipeline uses a dataset that includes the features and labels required for model training.
 
@@ -9582,16 +10682,21 @@ You need to modify the inference pipeline to meet the requirement.
 
 What should you do?
 
+* A.Add a Select Columns in Dataset module to the inference pipeline after the dataset and use it to select all columns other than the label.
+* B.Delete the dataset from the training pipeline and recreate the real-time inference pipeline.
+* C.Delete the Web Service Input module from the inference pipeline.
+* D.Replace the dataset in the inference pipeline with an Enter Data Manually module that includes data for the feature columns but not the label column.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 398
+## Question 398 | [Link](https://www.examtopics.com/discussions/microsoft/view/70550-exam-dp-100-topic-4-question-27-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning designer to create and run a training pipeline. You then create a real-time inference pipeline.
 
@@ -9599,16 +10704,21 @@ You must deploy the real-time inference pipeline as a web service.
 
 What must you do before you deploy the real-time inference pipeline?
 
+* A.Run the real-time inference pipeline.
+* B.Create a batch inference pipeline.
+* C.Clone the training pipeline.
+* D.Create an Azure Machine Learning compute cluster.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 399
+## Question 399 | [Link](https://www.examtopics.com/discussions/microsoft/view/72267-exam-dp-100-topic-4-question-28-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace named ML-workspace. You also create an Azure Databricks workspace named DB-workspace. DB-workspace contains a cluster named DB-cluster.
 
@@ -9618,16 +10728,21 @@ You need to use ML-workspace to track MLflow metrics and artifacts generated by 
 
 What should you do?
 
+* A.From DB-cluster, configure the Advanced Logging option.
+* B.From DB-workspace, configure the Link Azure ML workspace option.
+* C.From ML-workspace, create an attached compute.
+* D.From ML-workspace, create a compute cluster.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 400
+## Question 400 | [Link](https://www.examtopics.com/discussions/microsoft/view/70054-exam-dp-100-topic-4-question-29-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -9646,13 +10761,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q400_ans_0040400001.png" />
+  <img src="images/q400_ans_0040400001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 401
+## Question 401 | [Link](https://www.examtopics.com/discussions/microsoft/view/69010-exam-dp-100-topic-4-question-30-discussion/){:target="_blank"}
 
 You are planning to register a trained model in an Azure Machine Learning workspace.
 
@@ -9662,16 +10777,21 @@ You need to register the model.
 
 Which parameter should you use?
 
+* A.description
+* B.model_framework
+* C.tags
+* D.properties
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 402
+## Question 402 | [Link](https://www.examtopics.com/discussions/microsoft/view/70056-exam-dp-100-topic-4-question-31-discussion/){:target="_blank"}
 
 You have a Python script that executes a pipeline. The script includes the following code: from azureml.core import Experiment pipeline_run = Experiment(ws, 'pipeline_test').submit(pipeline)
 
@@ -9681,16 +10801,21 @@ You need to display the pipeline run details written to the STDOUT output when t
 
 Which code segment should you add to the test script?
 
+* A.pipeline_run.get.metrics()
+* B.pipeline_run.wait_for_completion(show_output=True)
+* C.pipeline_param = PipelineParameter(name="stdout", default_value="console")
+* D.pipeline_run.get_status()
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 403
+## Question 403 | [Link](https://www.examtopics.com/discussions/microsoft/view/81322-exam-dp-100-topic-4-question-32-discussion/){:target="_blank"}
 
 You train and register a machine learning model. You create a batch inference pipeline that uses the model to generate predictions from multiple data files.
 
@@ -9700,16 +10825,21 @@ You need to select an appropriate compute target for the inference service.
 
 Which compute target should you use?
 
+* A.Azure Machine Learning compute instance
+* B.Azure Machine Learning compute cluster
+* C.Azure Kubernetes Service (AKS)-based inference cluster
+* D.Azure Container Instance (ACI) compute target
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 404
+## Question 404 | [Link](https://www.examtopics.com/discussions/microsoft/view/81061-exam-dp-100-topic-4-question-33-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -9728,13 +10858,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q404_ans_0040800001.jpg" />
+  <img src="images/q404_ans_0040800001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 405
+## Question 405 | [Link](https://www.examtopics.com/discussions/microsoft/view/80913-exam-dp-100-topic-4-question-34-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -9753,13 +10883,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q405_ans_0041000001.png" />
+  <img src="images/q405_ans_0041000001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 406
+## Question 406 | [Link](https://www.examtopics.com/discussions/microsoft/view/86307-exam-dp-100-topic-4-question-35-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning designer to create and run a training pipeline.
 
@@ -9769,16 +10899,21 @@ You need to publish the pipeline as a REST service that can be used for the nigh
 
 What should you do?
 
+* A.Create a batch inference pipeline
+* B.Set the compute target for the pipeline to an inference cluster
+* C.Create a real-time inference pipeline
+* D.Clone the pipeline
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 407
+## Question 407 | [Link](https://www.examtopics.com/discussions/microsoft/view/104052-exam-dp-100-topic-4-question-36-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -9788,11 +10923,11 @@ You create an Azure Machine Learning model to include model files and a scoring 
 
 You must deploy the model. The deployment solution must meet the following requirements:
 
-• Provide near real-time inferencing.
+•	Provide near real-time inferencing.
 
-• Enable endpoint and deployment level cost estimates.
+•	Enable endpoint and deployment level cost estimates.
 
-• Support logging to Azure Log Analytics.
+•	Support logging to Azure Log Analytics.
 
 You need to configure the deployment solution.
 
@@ -9805,13 +10940,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q407_ans_image438.png" />
+  <img src="images/q407_ans_image438.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 408
+## Question 408 | [Link](https://www.examtopics.com/discussions/microsoft/view/104684-exam-dp-100-topic-4-question-37-discussion/){:target="_blank"}
 
 You are developing a machine learning model.
 
@@ -9823,16 +10958,22 @@ Which two compute targets should you use? Each correct answer presents a complet
 
 NOTE: Each correct selection is worth one point.
 
+* A.Azure Machine Learning Kubernetes
+* B.Azure Databricks
+* C.Remote VM
+* D.Local web service
+* E.Azure Container Instances
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-DE
+  DE
 
 </details>
 
 ---
 
-## Question 409
+## Question 409 | [Link](https://www.examtopics.com/discussions/microsoft/view/104114-exam-dp-100-topic-4-question-38-discussion/){:target="_blank"}
 
 You train and publish a machine learning model.
 
@@ -9840,16 +10981,20 @@ You need to run a pipeline that retrains the model based on a trigger from an ex
 
 What should you configure?
 
+* A.Azure Data Catalog
+* B.Azure Batch
+* C.Azure Logic App
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 410
+## Question 410 | [Link](https://www.examtopics.com/discussions/microsoft/view/106001-exam-dp-100-topic-4-question-39-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace.
 
@@ -9859,16 +11004,21 @@ You need to configure an Azure service to send the notification.
 
 Which Azure service should you use?
 
+* A.Azure Logic Apps
+* B.Azure Automation runbook
+* C.Azure Function apps
+* D.Azure DevOps pipeline
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 411
+## Question 411 | [Link](https://www.examtopics.com/discussions/microsoft/view/109154-exam-dp-100-topic-4-question-40-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -9889,13 +11039,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q411_ans_image440.png" />
+  <img src="images/q411_ans_image440.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 412
+## Question 412 | [Link](https://www.examtopics.com/discussions/microsoft/view/103425-exam-dp-100-topic-4-question-41-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -9916,13 +11066,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q412_ans_image442.png" />
+  <img src="images/q412_ans_image442.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 413
+## Question 413 | [Link](https://www.examtopics.com/discussions/microsoft/view/104054-exam-dp-100-topic-4-question-42-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -9938,16 +11088,19 @@ Solution: Set the allow_reuse parameter of the PythonScriptStep object of both s
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 414
+## Question 414 | [Link](https://www.examtopics.com/discussions/microsoft/view/104300-exam-dp-100-topic-4-question-43-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -9963,16 +11116,19 @@ Solution: Set the regenerate_outputs parameter of the pipeline1 experiment’s r
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 415
+## Question 415 | [Link](https://www.examtopics.com/discussions/microsoft/view/104301-exam-dp-100-topic-4-question-44-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -9988,16 +11144,19 @@ Solution: Change the value of the compute_target parameter of the PythonScriptSt
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 416
+## Question 416 | [Link](https://www.examtopics.com/discussions/microsoft/view/103680-exam-dp-100-topic-4-question-45-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -10016,13 +11175,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q416_ans_image444.png" />
+  <img src="images/q416_ans_image444.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 417
+## Question 417 | [Link](https://www.examtopics.com/discussions/microsoft/view/104302-exam-dp-100-topic-4-question-46-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -10041,13 +11200,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q417_ans_image446.png" />
+  <img src="images/q417_ans_image446.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 418
+## Question 418 | [Link](https://www.examtopics.com/discussions/microsoft/view/104161-exam-dp-100-topic-4-question-47-discussion/){:target="_blank"}
 
 You create an MLflow model.
 
@@ -10059,16 +11218,22 @@ Which two components should you use? Each correct answer presents a complete sol
 
 NOTE: Each correct selection is worth one point.
 
+* A.Environment
+* B.Model files
+* C.Online endpoint
+* D.Kubernetes online endpoint
+* E.Compute target
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BE
+  BE
 
 </details>
 
 ---
 
-## Question 419
+## Question 419 | [Link](https://www.examtopics.com/discussions/microsoft/view/103319-exam-dp-100-topic-4-question-48-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace. The workspace contains a dataset named sample_dataset, a compute instance, and a compute cluster.
 
@@ -10082,16 +11247,21 @@ You need to identify the location containing the output of the first stage of th
 
 Which storage location should you use?
 
+* A.workspaceblobstore datastore
+* B.workspacefilestore datastore
+* C.compute instance
+* D.compute_cluster
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 420
+## Question 420 | [Link](https://www.examtopics.com/discussions/microsoft/view/106795-exam-dp-100-topic-4-question-49-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -10108,13 +11278,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q420_ans_image472.png" />
+  <img src="images/q420_ans_image472.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 421
+## Question 421 | [Link](https://www.examtopics.com/discussions/microsoft/view/107558-exam-dp-100-topic-4-question-50-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -10133,13 +11303,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q421_ans_image474.png" />
+  <img src="images/q421_ans_image474.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 422
+## Question 422 | [Link](https://www.examtopics.com/discussions/microsoft/view/107559-exam-dp-100-topic-4-question-51-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -10158,13 +11328,13 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q422_ans_image476.png" />
+  <img src="images/q422_ans_image476.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 423
+## Question 423 | [Link](https://www.examtopics.com/discussions/microsoft/view/106796-exam-dp-100-topic-4-question-52-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace. You use Azure Machine Learning designer to create a pipeline within the workspace.
 
@@ -10172,16 +11342,21 @@ You need to submit a pipeline run from the designer.
 
 What should you do first?
 
+* A.Create an experiment.
+* B.Create an attached compute resource.
+* C.Create a compute cluster.
+* D.Select a model.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 424
+## Question 424 | [Link](https://www.examtopics.com/discussions/microsoft/view/114441-exam-dp-100-topic-4-question-53-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -10202,13 +11377,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q424_ans_image527.png" />
+  <img src="images/q424_ans_image527.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 425
+## Question 425 | [Link](https://www.examtopics.com/discussions/microsoft/view/116613-exam-dp-100-topic-4-question-54-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -10227,13 +11402,13 @@ For each of the following statements, select Yes if the statement is true. Other
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q425_ans_image618.png" />
+  <img src="images/q425_ans_image618.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 426
+## Question 426 | [Link](https://www.examtopics.com/discussions/microsoft/view/114444-exam-dp-100-topic-4-question-55-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10249,16 +11424,19 @@ Solution: Create a managed online endpoint and set the value of its auth_mode pa
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 427
+## Question 427 | [Link](https://www.examtopics.com/discussions/microsoft/view/114445-exam-dp-100-topic-4-question-56-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10274,16 +11452,19 @@ Solution: Create a managed online endpoint and set the value of its auth_mode pa
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 428
+## Question 428 | [Link](https://www.examtopics.com/discussions/microsoft/view/114194-exam-dp-100-topic-4-question-57-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10299,16 +11480,19 @@ Solution: Create a managed online endpoint with the default authentication setti
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 429
+## Question 429 | [Link](https://www.examtopics.com/discussions/microsoft/view/114446-exam-dp-100-topic-4-question-58-discussion/){:target="_blank"}
 
 You use the Azure Machine Learning SDK v2 for Python and notebooks to train a model. You use Python code to create a compute target, an environment, and a training script.
 
@@ -10316,43 +11500,53 @@ You need to prepare information to submit a training job.
 
 Which class should you use?
 
+* A.MLClient
+* B.BuildContext
+* C.EndpointConnection
+* D.command
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 430
+## Question 430 | [Link](https://www.examtopics.com/discussions/microsoft/view/114447-exam-dp-100-topic-4-question-59-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
 You build a custom model you must log with MLflow. The custom model includes the following:
 
-• The model is not natively supported by MLflow.
+•	The model is not natively supported by MLflow.
 
-• The model cannot be serialized in Pickle format.
+•	The model cannot be serialized in Pickle format.
 
-• The model source code is complex.
+•	The model source code is complex.
 
-• The Python library for the model must be packaged with the model.
+•	The Python library for the model must be packaged with the model.
 
 You need to create a custom model flavor to enable logging with MLflow.
 
 What should you use?
 
+* A.model loader
+* B.artifacts
+* C.model wrapper
+* D.custom signatures
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 431
+## Question 431 | [Link](https://www.examtopics.com/discussions/microsoft/view/114448-exam-dp-100-topic-4-question-60-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace.
 
@@ -10362,16 +11556,21 @@ You need to implement the method to log the string metrics.
 
 Which method should you use?
 
+* A.mlflow.log_artifact()
+* B.mlflow.log.dict()
+* C.mlflow.log_metric()
+* D.mlflow.log_text()
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 432
+## Question 432 | [Link](https://www.examtopics.com/discussions/microsoft/view/114449-exam-dp-100-topic-4-question-61-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace. You develop a machine learning model.
 
@@ -10381,16 +11580,21 @@ You need to deploy the model.
 
 Which compute target should you use?
 
+* A.Azure Kubernetes Service (AKS)
+* B.Azure Machine Learning compute clusters
+* C.Azure Container Instances (ACI)
+* D.Local deployment
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 433
+## Question 433 | [Link](https://www.examtopics.com/discussions/microsoft/view/114450-exam-dp-100-topic-4-question-62-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -10409,13 +11613,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q433_ans_image531.png" />
+  <img src="images/q433_ans_image531.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 434
+## Question 434 | [Link](https://www.examtopics.com/discussions/microsoft/view/114451-exam-dp-100-topic-4-question-63-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -10434,13 +11638,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q434_ans_image533.png" />
+  <img src="images/q434_ans_image533.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 435
+## Question 435 | [Link](https://www.examtopics.com/discussions/microsoft/view/114454-exam-dp-100-topic-4-question-64-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -10459,13 +11663,13 @@ Which three classes should you instantiate in sequence? To answer, move the appr
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q435_ans_image535.png" />
+  <img src="images/q435_ans_image535.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 436
+## Question 436 | [Link](https://www.examtopics.com/discussions/microsoft/view/114455-exam-dp-100-topic-4-question-65-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10481,16 +11685,19 @@ Solution: Create a Kubernetes online endpoint and set the value of its auth_mode
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 437
+## Question 437 | [Link](https://www.examtopics.com/discussions/microsoft/view/118485-exam-dp-100-topic-4-question-66-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -10500,16 +11707,21 @@ You need to configure a Responsible AI dashboard in Azure Machine Learning.
 
 Which dashboard component should you configure?
 
+* A.Counterfactual what-if
+* B.Casual inference
+* C.Fairness assessment
+* D.Interpretability
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 438
+## Question 438 | [Link](https://www.examtopics.com/discussions/microsoft/view/114456-exam-dp-100-topic-4-question-67-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace.
 
@@ -10519,16 +11731,21 @@ You need to implement a method to log a list of numeral metrics.
 
 Which method should you use?
 
+* A.mlflow.log_metric()
+* B.mlflow.log.batch()
+* C.mlflow.log_image()
+* D.mlflow.log_artifact()
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 439
+## Question 439 | [Link](https://www.examtopics.com/discussions/microsoft/view/114458-exam-dp-100-topic-4-question-68-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -10549,13 +11766,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q439_ans_image553.png" />
+  <img src="images/q439_ans_image553.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 440
+## Question 440 | [Link](https://www.examtopics.com/discussions/microsoft/view/123918-exam-dp-100-topic-4-question-69-discussion/){:target="_blank"}
 
 You run Azure Machine Learning training experiments. The training scripts directory contains 100 files that includes a file named .amlignore. The directory also contains subdirectories named ./outputs and ./logs.
 
@@ -10565,16 +11782,21 @@ You need to exclude the 20 files.
 
 What should you do?
 
+* A.Copy the contents of the file named .gitignore to the file named .amlignore.
+* B.Move the file named .gitignore to the ./outputs directory.
+* C.Move the file named .gitignore to the ./logs directory.
+* D.Add the contents of the file named .amlignore to the file named .gitignore.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 441
+## Question 441 | [Link](https://www.examtopics.com/discussions/microsoft/view/114459-exam-dp-100-topic-4-question-70-discussion/){:target="_blank"}
 
 You build a data pipeline in an Azure Machine Learning workspace by using the Azure Machine Learning SDK for Python.
 
@@ -10584,16 +11806,21 @@ Which two classes could you use? Each correct answer presents a complete solutio
 
 NOTE: Each correct selection is worth one point.
 
+* A.PythonScriptStep
+* B.AutoMLStep
+* C.CommandStep
+* D.StepRun
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AC
+  AC
 
 </details>
 
 ---
 
-## Question 442
+## Question 442 | [Link](https://www.examtopics.com/discussions/microsoft/view/134694-exam-dp-100-topic-4-question-71-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace.
 
@@ -10605,16 +11832,22 @@ Which three modes can you specify? Each correct answer presents a complete solut
 
 NOTE: Each correct selection is worth one point.
 
+* A.rw_mount
+* B.ro_mount
+* C.upload
+* D.download
+* E.direct
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ACE
+  ACE
 
 </details>
 
 ---
 
-## Question 443
+## Question 443 | [Link](https://www.examtopics.com/discussions/microsoft/view/136605-exam-dp-100-topic-4-question-72-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10630,16 +11863,19 @@ Solution: Create an environment.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 444
+## Question 444 | [Link](https://www.examtopics.com/discussions/microsoft/view/136606-exam-dp-100-topic-4-question-73-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10655,16 +11891,19 @@ Solution: Delete the Python 3.6 – AzureML kernel.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 445
+## Question 445 | [Link](https://www.examtopics.com/discussions/microsoft/view/136607-exam-dp-100-topic-4-question-74-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10680,16 +11919,19 @@ Solution: Delete the Python 3.8 – AzureML kernel.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 446
+## Question 446 | [Link](https://www.examtopics.com/discussions/microsoft/view/140810-exam-dp-100-topic-4-question-75-discussion/){:target="_blank"}
 
 You are a data scientist working for a hotel booking website company. You use the Azure Machine Learning service to train a model that identifies fraudulent transactions.
 
@@ -10699,16 +11941,22 @@ You need to create the script that is specified as the scoring_script parameter 
 
 What should the entry script do?
 
+* A.Register the model with appropriate tags and properties.
+* B.Create a Conda environment for the online endpoint compute and install the necessary Python packages.
+* C.Load the model and use it to predict labels from input data.
+* D.Start a node on the inference cluster where the model is deployed.
+* E.Specify the number of cores and the amount of memory required for the online endpoint compute.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 447
+## Question 447 | [Link](https://www.examtopics.com/discussions/microsoft/view/140809-exam-dp-100-topic-4-question-76-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10724,16 +11972,19 @@ Solution: Create a compute instance.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 448
+## Question 448 | [Link](https://www.examtopics.com/discussions/microsoft/view/143014-exam-dp-100-topic-4-question-77-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -10752,13 +12003,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q448_ans_image570.png" />
+  <img src="images/q448_ans_image570.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 449
+## Question 449 | [Link](https://www.examtopics.com/discussions/microsoft/view/142588-exam-dp-100-topic-4-question-78-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10778,16 +12029,19 @@ Solution: Add the scoring_script parameter.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 450
+## Question 450 | [Link](https://www.examtopics.com/discussions/microsoft/view/142587-exam-dp-100-topic-4-question-79-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10807,16 +12061,19 @@ Solution: Add the environment parameter.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 451
+## Question 451 | [Link](https://www.examtopics.com/discussions/microsoft/view/142586-exam-dp-100-topic-4-question-80-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -10836,16 +12093,19 @@ Solution: Add the with_package parameter.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 452
+## Question 452 | [Link](https://www.examtopics.com/discussions/microsoft/view/150488-exam-dp-100-topic-4-question-81-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -10855,16 +12115,21 @@ You need to deploy the MLflow model to a batch endpoint for batch inferencing.
 
 What should you create first?
 
+* A.scoring script
+* B.deployment
+* C.environment
+* D.deployment definition
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 453
+## Question 453 | [Link](https://www.examtopics.com/discussions/microsoft/view/151240-exam-dp-100-topic-4-question-82-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace that includes a batch endpoint.
 
@@ -10874,16 +12139,21 @@ You need to configure compute for the deployment.
 
 Which compute should you use?
 
+* A.Remote VM
+* B.AmlCompute instance
+* C.Azure Batch
+* D.Kubernetes cluster
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 454
+## Question 454 | [Link](https://www.examtopics.com/discussions/microsoft/view/149191-exam-dp-100-topic-4-question-83-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -10893,16 +12163,21 @@ You need to configure the language of the text classification job by using autom
 
 Which method of the TextClassificationJob class should you use?
 
+* A.set_data
+* B.set_featurization
+* C.set_sweep
+* D.set_training_parameters
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 455
+## Question 455 | [Link](https://www.examtopics.com/discussions/microsoft/view/151107-exam-dp-100-topic-4-question-84-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -10923,13 +12198,13 @@ NOTE: More than one order of answer choices is correct. You will receive credit 
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q455_ans_image589.png" />
+  <img src="images/q455_ans_image589.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 456
+## Question 456 | [Link](https://www.examtopics.com/discussions/microsoft/view/305406-exam-dp-100-topic-4-question-86-discussion/){:target="_blank"}
 
 DRAG DROP
 
@@ -10950,13 +12225,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q456_ans_image595.png" />
+  <img src="images/q456_ans_image595.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 457
+## Question 457 | [Link](https://www.examtopics.com/discussions/microsoft/view/305407-exam-dp-100-topic-4-question-87-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace. You use Azure Machine Learning Python SDK v2 to configure a trigger to schedule a pipeline job.
 
@@ -10966,16 +12241,22 @@ Which two properties must you use to successfully configure the trigger? Each co
 
 NOTE: Each correct selection is worth one point.
 
+* A.interval
+* B.start_time
+* C.schedule
+* D.time_zone
+* E.frequency
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-AE
+  AE
 
 </details>
 
 ---
 
-## Question 458
+## Question 458 | [Link](https://www.examtopics.com/discussions/microsoft/view/51975-exam-dp-100-topic-5-question-1-discussion/){:target="_blank"}
 
 You are a data scientist working for a bank and have used Azure ML to train and register a machine learning model that predicts whether a customer is likely to repay a loan.
 
@@ -10985,16 +12266,22 @@ You need to determine the extent to which each feature in the customer data is i
 
 What should you do?
 
+* A.Enable data drift monitoring for the model and its training dataset.
+* B.Score the model against some test data with known label values and use the results to calculate a confusion matrix.
+* C.Use the Hyperdrive library to test the model with multiple hyperparameter values.
+* D.Use the interpretability package to generate an explainer for the model.
+* E.Add tags to the model registration indicating the names of the features in the training dataset.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 459
+## Question 459 | [Link](https://www.examtopics.com/discussions/microsoft/view/46440-exam-dp-100-topic-5-question-2-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11019,13 +12306,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q459_ans_image619.png" />
+  <img src="images/q459_ans_image619.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 460
+## Question 460 | [Link](https://www.examtopics.com/discussions/microsoft/view/36685-exam-dp-100-topic-5-question-3-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -11041,16 +12328,19 @@ Solution: Create a MimicExplainer.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 461
+## Question 461 | [Link](https://www.examtopics.com/discussions/microsoft/view/47071-exam-dp-100-topic-5-question-4-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -11066,16 +12356,19 @@ Solution: Create a TabularExplainer.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 462
+## Question 462 | [Link](https://www.examtopics.com/discussions/microsoft/view/37044-exam-dp-100-topic-5-question-5-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -11091,16 +12384,19 @@ Solution: Create a PFIExplainer.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 463
+## Question 463 | [Link](https://www.examtopics.com/discussions/microsoft/view/20989-exam-dp-100-topic-5-question-6-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11121,13 +12417,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q463_ans_0042400001.png" />
+  <img src="images/q463_ans_0042400001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 464
+## Question 464 | [Link](https://www.examtopics.com/discussions/microsoft/view/21282-exam-dp-100-topic-5-question-7-discussion/){:target="_blank"}
 
 You are determining if two sets of data are significantly different from one another by using Azure Machine Learning Studio.
 
@@ -11139,16 +12435,21 @@ You need to produce the distribution.
 
 Which type of distribution should you produce?
 
+* A.Unpaired t-test with a two-tail option
+* B.Unpaired t-test with a one-tail option
+* C.Paired t-test with a one-tail option
+* D.Paired t-test with a two-tail option
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 465
+## Question 465 | [Link](https://www.examtopics.com/discussions/microsoft/view/20990-exam-dp-100-topic-5-question-8-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -11167,13 +12468,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q465_ans_0043000001.png" />
+  <img src="images/q465_ans_0043000001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 466
+## Question 466 | [Link](https://www.examtopics.com/discussions/microsoft/view/20314-exam-dp-100-topic-5-question-9-discussion/){:target="_blank"}
 
 You are performing feature engineering on a dataset.
 
@@ -11183,16 +12484,21 @@ You need to add the new feature to the dataset.
 
 Which Azure Machine Learning Studio module should you use?
 
+* A.Extract N-Gram Features from Text
+* B.Edit Metadata
+* C.Preprocess Text
+* D.Apply SQL Transformation
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 467
+## Question 467 | [Link](https://www.examtopics.com/discussions/microsoft/view/60523-exam-dp-100-topic-5-question-10-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -11210,16 +12516,19 @@ Determination.
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 468
+## Question 468 | [Link](https://www.examtopics.com/discussions/microsoft/view/73429-exam-dp-100-topic-5-question-11-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -11235,16 +12544,19 @@ Solution: Use the following metrics: Accuracy, Precision, Recall, F1 score, and 
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 469
+## Question 469 | [Link](https://www.examtopics.com/discussions/microsoft/view/133329-exam-dp-100-topic-5-question-12-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -11260,16 +12572,19 @@ Solution: Use the following metrics: Relative Squared Error, Coefficient of Dete
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 470
+## Question 470 | [Link](https://www.examtopics.com/discussions/microsoft/view/48290-exam-dp-100-topic-5-question-13-discussion/){:target="_blank"}
 
 You are a data scientist creating a linear regression model.
 
@@ -11277,16 +12592,22 @@ You need to determine how closely the data fits the regression line.
 
 Which metric should you review?
 
+* A.Root Mean Square Error
+* B.Coefficient of determination
+* C.Recall
+* D.Precision
+* E.Mean absolute error
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 471
+## Question 471 | [Link](https://www.examtopics.com/discussions/microsoft/view/40844-exam-dp-100-topic-5-question-14-discussion/){:target="_blank"}
 
 You are creating a binary classification by using a two-class logistic regression model.
 
@@ -11294,16 +12615,23 @@ You need to evaluate the model results for imbalance.
 
 Which evaluation metric should you use?
 
+* A.Relative Absolute Error
+* B.AUC Curve
+* C.Mean Absolute Error
+* D.Relative Squared Error
+* E.Accuracy
+* F.Root Mean Square Error
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 472
+## Question 472 | [Link](https://www.examtopics.com/discussions/microsoft/view/57626-exam-dp-100-topic-5-question-15-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11324,13 +12652,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q472_ans_0043800001.jpg" />
+  <img src="images/q472_ans_0043800001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 473
+## Question 473 | [Link](https://www.examtopics.com/discussions/microsoft/view/30979-exam-dp-100-topic-5-question-16-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11347,13 +12675,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q473_ans_0044000001.png" />
+  <img src="images/q473_ans_0044000001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 474
+## Question 474 | [Link](https://www.examtopics.com/discussions/microsoft/view/20351-exam-dp-100-topic-5-question-17-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -11374,13 +12702,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q474_ans_0044100002.png" />
+  <img src="images/q474_ans_0044100002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 475
+## Question 475 | [Link](https://www.examtopics.com/discussions/microsoft/view/20376-exam-dp-100-topic-5-question-18-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11401,13 +12729,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q475_ans_0044400001.png" />
+  <img src="images/q475_ans_0044400001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 476
+## Question 476 | [Link](https://www.examtopics.com/discussions/microsoft/view/20352-exam-dp-100-topic-5-question-19-discussion/){:target="_blank"}
 
 You are a data scientist building a deep convolutional neural network (CNN) for image classification.
 
@@ -11419,16 +12747,22 @@ Which two actions should you perform? Each correct answer presents a complete so
 
 NOTE: Each correct selection is worth one point.
 
+* A.Add an additional dense layer with 512 input units.
+* B.Add L1/L2 regularization.
+* C.Use training data augmentation.
+* D.Reduce the amount of training data.
+* E.Add an additional dense layer with 64 input units.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BC
+  BC
 
 </details>
 
 ---
 
-## Question 477
+## Question 477 | [Link](https://www.examtopics.com/discussions/microsoft/view/33239-exam-dp-100-topic-5-question-20-discussion/){:target="_blank"}
 
 Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.
 
@@ -11444,16 +12778,19 @@ Solution: Use the following metrics: Mean Absolute Error, Root Mean Absolute Err
 
 Does the solution meet the goal?
 
+* A.Yes
+* B.No
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 478
+## Question 478 | [Link](https://www.examtopics.com/discussions/microsoft/view/57627-exam-dp-100-topic-5-question-21-discussion/){:target="_blank"}
 
 You are building a binary classification model by using a supplied training set.
 
@@ -11465,16 +12802,22 @@ What are three possible ways to achieve this goal? Each correct answer presents 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Penalize the classification
+* B.Resample the dataset using undersampling or oversampling
+* C.Normalize the training feature set
+* D.Generate synthetic samples in the minority class
+* E.Use accuracy as the evaluation metric of the model
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ABD
+  ABD
 
 </details>
 
 ---
 
-## Question 479
+## Question 479 | [Link](https://www.examtopics.com/discussions/microsoft/view/57101-exam-dp-100-topic-5-question-22-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11495,13 +12838,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q479_ans_image620.png" />
+  <img src="images/q479_ans_image620.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 480
+## Question 480 | [Link](https://www.examtopics.com/discussions/microsoft/view/70563-exam-dp-100-topic-5-question-23-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -11518,13 +12861,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q480_ans_0045000001.png" />
+  <img src="images/q480_ans_0045000001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 481
+## Question 481 | [Link](https://www.examtopics.com/discussions/microsoft/view/70564-exam-dp-100-topic-5-question-24-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11549,13 +12892,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q481_ans_0045200001.jpg" />
+  <img src="images/q481_ans_0045200001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 482
+## Question 482 | [Link](https://www.examtopics.com/discussions/microsoft/view/85978-exam-dp-100-topic-5-question-25-discussion/){:target="_blank"}
 
 You create a binary classification model. The model is registered in an Azure Machine Learning workspace. You use the Azure Machine Learning Fairness SDK to assess the model fairness.
 
@@ -11565,16 +12908,21 @@ You need to load the model fairness metrics into Azure Machine Learning studio.
 
 What should you do?
 
+* A.Implement the download_dashboard_by_upload_id function
+* B.Implement the create_group_metric_set function
+* C.Implement the upload_dashboard_dictionary function
+* D.Upload the training script
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 483
+## Question 483 | [Link](https://www.examtopics.com/discussions/microsoft/view/78863-exam-dp-100-topic-5-question-26-discussion/){:target="_blank"}
 
 You have a dataset that includes confidential data. You use the dataset to train a model.
 
@@ -11584,16 +12932,21 @@ You need to reduce the effect of user data on aggregated results.
 
 What should you do?
 
+* A.Decrease the value of the epsilon parameter to reduce the amount of noise added to the data
+* B.Increase the value of the epsilon parameter to decrease privacy and increase accuracy
+* C.Decrease the value of the epsilon parameter to increase privacy and reduce accuracy
+* D.Set the value of the epsilon parameter to 1 to ensure maximum privacy
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 484
+## Question 484 | [Link](https://www.examtopics.com/discussions/microsoft/view/81374-exam-dp-100-topic-5-question-27-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11614,13 +12967,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q484_ans_0045600002.jpg" />
+  <img src="images/q484_ans_0045600002.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 485
+## Question 485 | [Link](https://www.examtopics.com/discussions/microsoft/view/79813-exam-dp-100-topic-5-question-28-discussion/){:target="_blank"}
 
 You develop a machine learning project on a local machine. The project uses the Azure Machine Learning SDK for Python. You use Git as version control for scripts.
 
@@ -11632,16 +12985,21 @@ Which two code segments should you use? Each correct answer presents part of the
 
 NOTE: Each correct selection is worth one point.
 
+* A.details = run.get_environment()
+* B.details.properties['azureml.git.branch']
+* C.details.properties['azureml.git.commit']
+* D.details = run.get_details()
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BD
+  BD
 
 </details>
 
 ---
 
-## Question 486
+## Question 486 | [Link](https://www.examtopics.com/discussions/microsoft/view/78891-exam-dp-100-topic-5-question-29-discussion/){:target="_blank"}
 
 You are attaching an Azure Databricks-based compute resource to an Azure Machine Learning development workspace.
 
@@ -11651,16 +13009,22 @@ Which three parameters should you use? Each correct answer presents part of the 
 
 NOTE: Each correct selection is worth one point.
 
+* A.Workspace name
+* B.Compute name
+* C.Workspace user credentials
+* D.Workspace resource ID
+* E.Access token
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ABE
+  ABE
 
 </details>
 
 ---
 
-## Question 487
+## Question 487 | [Link](https://www.examtopics.com/discussions/microsoft/view/80936-exam-dp-100-topic-5-question-30-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11681,13 +13045,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q487_ans_0045900001.jpg" />
+  <img src="images/q487_ans_0045900001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 488
+## Question 488 | [Link](https://www.examtopics.com/discussions/microsoft/view/78885-exam-dp-100-topic-5-question-31-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -11704,13 +13068,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q488_ans_0046000002.jpg" />
+  <img src="images/q488_ans_0046000002.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 489
+## Question 489 | [Link](https://www.examtopics.com/discussions/microsoft/view/78890-exam-dp-100-topic-5-question-32-discussion/){:target="_blank"}
 
 You create a binary classification model. You use the Fairlearn package to assess model fairness.
 
@@ -11720,16 +13084,21 @@ You need to implement the Fairlearn package.
 
 Which algorithm should you use?
 
+* A.fairlearn.reductions.ExponentiatedGradient
+* B.fairlearn.postprocessing.ThresholdOptimizer
+* C.fairlearnpreprocessing.CorrelationRemover
+* D.fairlearn.reductions.GridSearch
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 490
+## Question 490 | [Link](https://www.examtopics.com/discussions/microsoft/view/81149-exam-dp-100-topic-5-question-33-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning workspace named workspace1.
 
@@ -11739,16 +13108,21 @@ You need to configure authentication.
 
 Which authentication method should you use?
 
+* A.Service principal
+* B.Account key
+* C.SAS token
+* D.Managed identity
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 491
+## Question 491 | [Link](https://www.examtopics.com/discussions/microsoft/view/81124-exam-dp-100-topic-5-question-34-discussion/){:target="_blank"}
 
 You plan to create a compute instance as part of an Azure Machine Learning development workspace.
 
@@ -11758,16 +13132,21 @@ You need to provision the compute instance.
 
 What should you do?
 
+* A.Enable Remote Desktop Protocol (RDP) access.
+* B.Modify role-based access control (RBAC) settings at the workspace level.
+* C.Enable Secure Shell Protocol (SSH) access.
+* D.Modify role-based access control (RBAC) settings at the compute instance level.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 492
+## Question 492 | [Link](https://www.examtopics.com/discussions/microsoft/view/78898-exam-dp-100-topic-5-question-35-discussion/){:target="_blank"}
 
 You have a dataset that contains salary information for users. You plan to generate an aggregate salary report that shows average salaries by city.
 
@@ -11777,16 +13156,21 @@ You need to apply a differential privacy approach.
 
 What should you do?
 
+* A.Add noise to the salary data during the analysis
+* B.Encrypt the salary data before analysis
+* C.Remove the salary data
+* D.Convert the salary data to the average column value
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 493
+## Question 493 | [Link](https://www.examtopics.com/discussions/microsoft/view/104304-exam-dp-100-topic-5-question-36-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -11798,9 +13182,9 @@ The classifier exhibits a high degree of disparity between the age groups.
 
 You need to modify the output of the classifier to maximize its degree of fairness across the age groups and meet the following requirements:
 
-• Eliminate the need to retrain the model on which the classifier is based.
+•	Eliminate the need to retrain the model on which the classifier is based.
 
-• Minimize the disparity between true positive rates and false positive rates across age groups.
+•	Minimize the disparity between true positive rates and false positive rates across age groups.
 
 Which algorithm and parity constraint should you use? To answer, select the appropriate options in the answer area.
 
@@ -11811,21 +13195,21 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q493_ans_image449.png" />
+  <img src="images/q493_ans_image449.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 494
+## Question 494 | [Link](https://www.examtopics.com/discussions/microsoft/view/150036-exam-dp-100-topic-5-question-37-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace. You build a model for which you must configure a Responsible AI dashboard.
 
 Based on what you learn from the dashboard, you must perform the following activities:
 
-• Determine what must be done to get a desirable outcome from the model.
+•	Determine what must be done to get a desirable outcome from the model.
 
-• Identify the features that have the most direct effect on your outcome of interest.
+•	Identify the features that have the most direct effect on your outcome of interest.
 
 You need to select the components to use for the Responsible AI dashboard configuration.
 
@@ -11833,31 +13217,41 @@ Which two components should you add? Each correct answer presents part of the so
 
 NOTE: Each correct selection is worth one point.
 
+* A.error analysis
+* B.counterfactuals
+* C.explanation
+* D.causal
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-BD
+  BD
 
 </details>
 
 ---
 
-## Question 495
+## Question 495 | [Link](https://www.examtopics.com/discussions/microsoft/view/12106-exam-dp-100-topic-6-question-1-discussion/){:target="_blank"}
 
 You need to implement a scaling strategy for the local penalty detection data.
 
 Which normalization type should you use?
 
+* A.Streaming
+* B.Weight
+* C.Batch
+* D.Cosine
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 496
+## Question 496 | [Link](https://www.examtopics.com/discussions/microsoft/view/103348-exam-dp-100-topic-6-question-1-discussion/){:target="_blank"}
 
 You create an Azure Machine Learning workspace.
 
@@ -11867,16 +13261,21 @@ You need to configure an Azure service to automatically trigger the workflow.
 
 Which Azure service should you use?
 
+* A.Event Grid subscription
+* B.Azure Automation runbook
+* C.Event Hubs Capture
+* D.Event Hubs consumer
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 497
+## Question 497 | [Link](https://www.examtopics.com/discussions/microsoft/view/120693-exam-dp-100-topic-6-question-2-discussion/){:target="_blank"}
 
 HOTSPOT
 
@@ -11886,9 +13285,9 @@ You plan to implement an Azure Machine Learning solution.
 
 You have the following requirements:
 
-• Run a Jupyter notebook to interactively train a machine learning model.
+•	Run a Jupyter notebook to interactively train a machine learning model.
 
-• Deploy assets and workflows for machine learning proof of concept by using scripting rather than custom programming.
+•	Deploy assets and workflows for machine learning proof of concept by using scripting rather than custom programming.
 
 You need to select a development technique for each requirement.
 
@@ -11901,13 +13300,13 @@ NOTE: Each correct selection is worth one point.
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q497_ans_image537.png" />
+  <img src="images/q497_ans_image537.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 498
+## Question 498 | [Link](https://www.examtopics.com/discussions/microsoft/view/36794-exam-dp-100-topic-6-question-2-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -11924,13 +13323,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q498_ans_0032500001.png" />
+  <img src="images/q498_ans_0032500001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 499
+## Question 499 | [Link](https://www.examtopics.com/discussions/microsoft/view/114741-exam-dp-100-topic-6-question-3-discussion/){:target="_blank"}
 
 You have an Azure Machine Learning (ML) model deployed to an online endpoint.
 
@@ -11938,16 +13337,21 @@ You need to review container logs from the endpoint by using Azure ML Python SDK
 
 What should you do first?
 
+* A.Connect by using SSH to the inference server.
+* B.Create an instance of the MLCIient class.
+* C.Connect by using Docker tools to the inference server.
+* D.Create an instance of the OnlineDeploymentOperations class.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-B
+  B
 
 </details>
 
 ---
 
-## Question 500
+## Question 500 | [Link](https://www.examtopics.com/discussions/microsoft/view/30866-exam-dp-100-topic-6-question-3-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -11962,28 +13366,33 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q500_ans_0032700002.png" />
+  <img src="images/q500_ans_0032700002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 501
+## Question 501 | [Link](https://www.examtopics.com/discussions/microsoft/view/53725-exam-dp-100-topic-6-question-4-discussion/){:target="_blank"}
 
 You need to implement a feature engineering strategy for the crowd sentiment local models.
 
 What should you do?
 
+* A.Apply an analysis of variance (ANOVA).
+* B.Apply a Pearson correlation coefficient.
+* C.Apply a Spearman correlation coefficient.
+* D.Apply a linear discriminant analysis.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 502
+## Question 502 | [Link](https://www.examtopics.com/discussions/microsoft/view/143021-exam-dp-100-topic-6-question-4-discussion/){:target="_blank"}
 
 You use an Azure Machine Learning workspace.
 
@@ -11993,16 +13402,21 @@ You have a trained model that must be deployed as an online endpoint. Users must
 
 What should you do?
 
+* A.Deploy the model to Azure Kubernetes Service (AKS). During deployment, set the token_auth_mode parameter of the target configuration object to true.
+* B.Deploy the model to Azure Kubernetes Service (AKS). During deployment, set the auth_mode parameter to configure the authentication type.
+* C.Deploy the model to a managed online endpoint. During deployment, set the auth_mode parameter to configure the authentication type.
+* D.Deploy the model to a managed online endpoint. During deployment, set the token_auth_mode parameter of the target configuration object to true.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 503
+## Question 503 | [Link](https://www.examtopics.com/discussions/microsoft/view/157744-exam-dp-100-topic-6-question-5-discussion/){:target="_blank"}
 
 You manage an Azure Machine Learning workspace.
 
@@ -12012,16 +13426,21 @@ You need to configure an Azure service that will trigger a retraining pipeline i
 
 Which Azure service should you use?
 
+* A.Event Grid
+* B.Azure Functions
+* C.Event Hubs
+* D.Logic Apps
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 504
+## Question 504 | [Link](https://www.examtopics.com/discussions/microsoft/view/37583-exam-dp-100-topic-6-question-5-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -12036,13 +13455,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q504_ans_0033000002.png" />
+  <img src="images/q504_ans_0033000002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 505
+## Question 505 | [Link](https://www.examtopics.com/discussions/microsoft/view/40935-exam-dp-100-topic-6-question-6-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -12057,13 +13476,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q505_ans_0033200002.png" />
+  <img src="images/q505_ans_0033200002.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 506
+## Question 506 | [Link](https://www.examtopics.com/discussions/microsoft/view/306397-exam-dp-100-topic-6-question-6-discussion/){:target="_blank"}
 
 You are designing a training job in an Azure Machine Learning workspace by using Automated ML.
 
@@ -12073,46 +13492,61 @@ You need to select the compute resource that has a multi-node cluster that autom
 
 Which Azure Machine Learning compute target should you use?
 
+* A.Compute instance
+* B.Endpoints
+* C.Kubernetes cluster
+* D.Serverless compute
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-D
+  D
 
 </details>
 
 ---
 
-## Question 507
+## Question 507 | [Link](https://www.examtopics.com/discussions/microsoft/view/18924-exam-dp-100-topic-6-question-7-discussion/){:target="_blank"}
 
 You need to implement a model development strategy to determine a user's tendency to respond to an ad.
 
 Which technique should you use?
 
+* A.Use a Relative Expression Split module to partition the data based on centroid distance.
+* B.Use a Relative Expression Split module to partition the data based on distance travelled to the event.
+* C.Use a Split Rows module to partition the data based on distance travelled to the event.
+* D.Use a Split Rows module to partition the data based on centroid distance.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 508
+## Question 508 | [Link](https://www.examtopics.com/discussions/microsoft/view/76903-exam-dp-100-topic-6-question-8-discussion/){:target="_blank"}
 
 You need to implement a new cost factor scenario for the ad response models as illustrated in the performance curve exhibit.
 
 Which technique should you use?
 
+* A.Set the threshold to 0.5 and retrain if weighted Kappa deviates +/- 5% from 0.45.
+* B.Set the threshold to 0.05 and retrain if weighted Kappa deviates +/- 5% from 0.5.
+* C.Set the threshold to 0.2 and retrain if weighted Kappa deviates +/- 5% from 0.6.
+* D.Set the threshold to 0.75 and retrain if weighted Kappa deviates +/- 5% from 0.15.
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-A
+  A
 
 </details>
 
 ---
 
-## Question 509
+## Question 509 | [Link](https://www.examtopics.com/discussions/microsoft/view/29410-exam-dp-100-topic-7-question-1-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -12129,13 +13563,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q509_ans_0034100001.png" />
+  <img src="images/q509_ans_0034100001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 510
+## Question 510 | [Link](https://www.examtopics.com/discussions/microsoft/view/20907-exam-dp-100-topic-7-question-2-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -12150,13 +13584,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q510_ans_0034400001.png" />
+  <img src="images/q510_ans_0034400001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 511
+## Question 511 | [Link](https://www.examtopics.com/discussions/microsoft/view/25731-exam-dp-100-topic-7-question-3-discussion/){:target="_blank"}
 
 You need to visually identify whether outliers exist in the Age column and quantify the outliers before the outliers are removed.
 
@@ -12164,16 +13598,22 @@ Which three Azure Machine Learning Studio modules should you use? Each correct a
 
 NOTE: Each correct selection is worth one point.
 
+* A.Create Scatterplot
+* B.Summarize Data
+* C.Clip Values
+* D.Replace Discrete Values
+* E.Build Counting Transform
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-ABC
+  ABC
 
 </details>
 
 ---
 
-## Question 512
+## Question 512 | [Link](https://www.examtopics.com/discussions/microsoft/view/73872-exam-dp-100-topic-7-question-4-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -12190,13 +13630,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q512_ans_0034900001.png" />
+  <img src="images/q512_ans_0034900001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 513
+## Question 513 | [Link](https://www.examtopics.com/discussions/microsoft/view/20896-exam-dp-100-topic-7-question-5-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -12213,13 +13653,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q513_ans_image621.png" />
+  <img src="images/q513_ans_image621.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 514
+## Question 514 | [Link](https://www.examtopics.com/discussions/microsoft/view/20778-exam-dp-100-topic-7-question-6-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -12236,28 +13676,33 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q514_ans_0035600001.jpg" />
+  <img src="images/q514_ans_0035600001.jpg" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 515
+## Question 515 | [Link](https://www.examtopics.com/discussions/microsoft/view/41151-exam-dp-100-topic-7-question-7-discussion/){:target="_blank"}
 
 You need to select a feature extraction method.
 
 Which method should you use?
 
+* A.Mutual information
+* B.Pearson's correlation
+* C.Spearman correlation
+* D.Fisher Linear Discriminant Analysis
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 516
+## Question 516 | [Link](https://www.examtopics.com/discussions/microsoft/view/22676-exam-dp-100-topic-7-question-8-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -12274,13 +13719,13 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q516_ans_0036000001.png" />
+  <img src="images/q516_ans_0036000001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 517
+## Question 517 | [Link](https://www.examtopics.com/discussions/microsoft/view/30225-exam-dp-100-topic-7-question-9-discussion/){:target="_blank"}
 
 HOTSPOT -
 
@@ -12297,28 +13742,33 @@ Hot Area:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q517_ans_0036300001.png" />
+  <img src="images/q517_ans_0036300001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 518
+## Question 518 | [Link](https://www.examtopics.com/discussions/microsoft/view/37579-exam-dp-100-topic-7-question-10-discussion/){:target="_blank"}
 
 You need to select a feature extraction method.
 
 Which method should you use?
 
+* A.Mutual information
+* B.Mood's median test
+* C.Kendall correlation
+* D.Permutation Feature Importance
+
 <details>
   <summary>Show Suggested Answer</summary>
 
-C
+  C
 
 </details>
 
 ---
 
-## Question 519
+## Question 519 | [Link](https://www.examtopics.com/discussions/microsoft/view/53079-exam-dp-100-topic-7-question-11-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -12335,13 +13785,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q519_ans_0036600001.png" />
+  <img src="images/q519_ans_0036600001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 520
+## Question 520 | [Link](https://www.examtopics.com/discussions/microsoft/view/46080-exam-dp-100-topic-7-question-12-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -12358,13 +13808,13 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q520_ans_0036900001.png" />
+  <img src="images/q520_ans_0036900001.png" alt="Answer Image" />
 
 </details>
 
 ---
 
-## Question 521
+## Question 521 | [Link](https://www.examtopics.com/discussions/microsoft/view/59352-exam-dp-100-topic-8-question-1-discussion/){:target="_blank"}
 
 DRAG DROP -
 
@@ -12379,8 +13829,9 @@ Select and Place:
 <details>
   <summary>Show Suggested Answer</summary>
 
-<img src="images/q521_ans_0046800001.png" />
+  <img src="images/q521_ans_0046800001.png" alt="Answer Image" />
 
 </details>
 
 ---
+
