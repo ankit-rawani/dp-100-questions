@@ -95,10 +95,10 @@ def create_question_bank(url, output_file='question_bank.md', image_dir='images'
                                         img_response.raise_for_status()
                                         with open(local_img_path, 'wb') as img_f:
                                             img_f.write(img_response.content)
-                                        answer_content += f"![Suggested Answer Image]({local_img_path})\n"
+                                        answer_content += f"<img src=\"{local_img_path}\" alt=\"Answer Image\" />\n"
                                     except requests.exceptions.RequestException as img_e:
                                         print(f"❌ Failed to download image {full_img_url}: {img_e}")
-                                        answer_content += f"![Image failed to download]({full_img_url})\n"
+                                        answer_content += f"< img src=\"{full_img_url}\" alt=\"Image failed to download\" />\n"
                             else:
                                 text = str(content)
                                 clean_text = BeautifulSoup(text, 'html.parser').get_text()
