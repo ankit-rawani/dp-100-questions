@@ -20,13 +20,13 @@ Deploy the model to the service.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -53,4 +53,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.webservice
 
 ---
 
-[<< Previous Question](question_387.md) | [Home](/index.md) | [Next Question >>](question_389.md)
+[<< Previous Question](question_387.md) | [Home](../index.md) | [Next Question >>](question_389.md)

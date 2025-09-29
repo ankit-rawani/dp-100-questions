@@ -88,4 +88,4 @@ Create an Azure DevOps project is not necessary since you have already created a
 
 ---
 
-[<< Previous Question](question_406.md) | [Home](/index.md) | [Next Question >>](question_408.md)
+[<< Previous Question](question_406.md) | [Home](../index.md) | [Next Question >>](question_408.md)

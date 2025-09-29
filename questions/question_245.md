@@ -40,4 +40,4 @@ then add prepped_data  to the arguments parameter</p></blockquote>
 
 ---
 
-[<< Previous Question](question_244.md) | [Home](/index.md) | [Next Question >>](question_246.md)
+[<< Previous Question](question_244.md) | [Home](../index.md) | [Next Question >>](question_246.md)

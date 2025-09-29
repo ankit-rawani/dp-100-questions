@@ -10,16 +10,16 @@ Which two distributions can you use? Each correct answer presents a complete sol
 
 NOTE: Each correct selection is worth one point.
 
-* A.Uniform
-* B.Choice
-* C.QNormal
-* D.Normal
-* E.LogUniform
+- A.Uniform
+- B.Choice
+- C.QNormal
+- D.Normal
+- E.LogUniform
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>AB</strong><br>
+<strong>AB</strong><br>
 
 </details>
 
@@ -34,4 +34,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparame
 
 ---
 
-[<< Previous Question](question_336.md) | [Home](/index.md) | [Next Question >>](question_338.md)
+[<< Previous Question](question_336.md) | [Home](../index.md) | [Next Question >>](question_338.md)

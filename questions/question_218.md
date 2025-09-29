@@ -60,4 +60,4 @@ Name: y_train should be y_test. Description: testing class labels</p></blockquot
 
 ---
 
-[<< Previous Question](question_217.md) | [Home](/index.md) | [Next Question >>](question_219.md)
+[<< Previous Question](question_217.md) | [Home](../index.md) | [Next Question >>](question_219.md)

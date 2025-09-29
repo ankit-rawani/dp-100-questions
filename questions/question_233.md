@@ -69,4 +69,4 @@ https://learn.microsoft.com/en-us/python/api/azure-ai-ml/azure.ai.ml.automl.trai
 
 ---
 
-[<< Previous Question](question_232.md) | [Home](/index.md) | [Next Question >>](question_234.md)
+[<< Previous Question](question_232.md) | [Home](../index.md) | [Next Question >>](question_234.md)

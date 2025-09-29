@@ -6,15 +6,16 @@ You need to divide data into two distinct datasets.
 
 Which module should you use?
 
-* A.Assign Data to Clusters
-* B.Load Trained Model
-* C.Partition and Sample
-* D.Tune Model-Hyperparameters
+- A.Assign Data to Clusters
+- B.Load Trained Model
+- C.Partition and Sample
+- D.Tune Model-Hyperparameters
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
+
 <p>Partition and Sample with the Stratified split option outputs multiple datasets, partitioned using the rules you specified.</p>
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/partition-and-sample</p>
@@ -33,4 +34,4 @@ Which module should you use?
 
 ---
 
-[<< Previous Question](question_55.md) | [Home](/index.md) | [Next Question >>](question_57.md)
+[<< Previous Question](question_55.md) | [Home](../index.md) | [Next Question >>](question_57.md)

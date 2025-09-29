@@ -91,4 +91,4 @@ Even this question is really very badly written to promote misunderstanding and 
 
 ---
 
-[<< Previous Question](question_70.md) | [Home](/index.md) | [Next Question >>](question_72.md)
+[<< Previous Question](question_70.md) | [Home](../index.md) | [Next Question >>](question_72.md)

@@ -8,15 +8,15 @@ You need to identify the hyperparameters for the grid sampling.
 
 Which hyperparameter sampling approach should you use?
 
-* A.uniform
-* B.qlognormal
-* C.choice
-* D.normal
+- A.uniform
+- B.qlognormal
+- C.choice
+- D.normal
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -34,13 +34,15 @@ The &quot;choice&quot; sampling approach allows you to specify a list of discret
 So, the correct option is:
 
 C. choice</p></blockquote>
+
 <blockquote><p><strong>BR_CS</strong> <code>(Sat 17 Feb 2024 11:49)</code> - <em>Upvotes: 1</em></p><p>Choice</p></blockquote>
 <blockquote><p><strong>abcd9999</strong> <code>(Fri 02 Feb 2024 07:58)</code> - <em>Upvotes: 1</em></p><p>from azureml.train.hyperdrive import choice, GridParameterSampling
 
 param_sampling = GridParameterSampling({
-    &#x27;num_hidden_layers&#x27;: choice([16, 32, 64]),
-    &#x27;batch_size&#x27;: choice([32, 64, 128])
+&#x27;num_hidden_layers&#x27;: choice([16, 32, 64]),
+&#x27;batch_size&#x27;: choice([32, 64, 128])
 })</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Fri 26 Jan 2024 14:52)</code> - <em>Upvotes: 1</em></p><p>c) 
 Choice
 https://learn.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hyperdrive.gridparametersampling?view=azure-ml-py</p></blockquote>
@@ -50,4 +52,4 @@ https://learn.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hy
 
 ---
 
-[<< Previous Question](question_325.md) | [Home](/index.md) | [Next Question >>](question_327.md)
+[<< Previous Question](question_325.md) | [Home](../index.md) | [Next Question >>](question_327.md)

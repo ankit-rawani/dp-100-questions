@@ -41,4 +41,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-log-view-metrics
 
 ---
 
-[<< Previous Question](question_420.md) | [Home](/index.md) | [Next Question >>](question_422.md)
+[<< Previous Question](question_420.md) | [Home](../index.md) | [Next Question >>](question_422.md)

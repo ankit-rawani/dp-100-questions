@@ -85,4 +85,4 @@ The config file should be inside `.azureml` folder, not the root of python scrip
 
 ---
 
-[<< Previous Question](question_118.md) | [Home](/index.md) | [Next Question >>](question_120.md)
+[<< Previous Question](question_118.md) | [Home](../index.md) | [Next Question >>](question_120.md)

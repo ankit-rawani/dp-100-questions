@@ -8,16 +8,16 @@ Which two properties must you use to successfully configure the trigger? Each co
 
 NOTE: Each correct selection is worth one point.
 
-* A.interval
-* B.start_time
-* C.schedule
-* D.time_zone
-* E.frequency
+- A.interval
+- B.start_time
+- C.schedule
+- D.time_zone
+- E.frequency
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>AE</strong><br>
+<strong>AE</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_456.md) | [Home](/index.md) | [Next Question >>](question_458.md)
+[<< Previous Question](question_456.md) | [Home](../index.md) | [Next Question >>](question_458.md)

@@ -75,4 +75,4 @@ In this case, batch_size one of the values [16, 32, 64, 128] and number_of_hidde
 
 ---
 
-[<< Previous Question](question_207.md) | [Home](/index.md) | [Next Question >>](question_209.md)
+[<< Previous Question](question_207.md) | [Home](../index.md) | [Next Question >>](question_209.md)

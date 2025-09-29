@@ -56,4 +56,4 @@ Example: run.log_image(&quot;ROC&quot;, path)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_233.md) | [Home](/index.md) | [Next Question >>](question_235.md)
+[<< Previous Question](question_233.md) | [Home](../index.md) | [Next Question >>](question_235.md)

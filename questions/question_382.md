@@ -85,4 +85,4 @@ token_auth_enabled: Whether or not to enable Token auth for this Webservice. If 
 
 ---
 
-[<< Previous Question](question_381.md) | [Home](/index.md) | [Next Question >>](question_383.md)
+[<< Previous Question](question_381.md) | [Home](../index.md) | [Next Question >>](question_383.md)

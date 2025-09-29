@@ -10,16 +10,17 @@ Which two values should you provide to application developers? Each correct answ
 
 NOTE: Each correct selection is worth one point.
 
-* A.The name of the AKS cluster where the endpoint is hosted.
-* B.The name of the inference pipeline for the endpoint.
-* C.The URL of the endpoint.
-* D.The run ID of the inference pipeline experiment for the endpoint.
-* E.The key for the endpoint.
+- A.The name of the AKS cluster where the endpoint is hosted.
+- B.The name of the inference pipeline for the endpoint.
+- C.The URL of the endpoint.
+- D.The run ID of the inference pipeline experiment for the endpoint.
+- E.The key for the endpoint.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>CE</strong><br>
+<strong>CE</strong><br>
+
 <p>Deploying an Azure Machine Learning model as a web service creates a REST API endpoint. You can send data to this endpoint and receive the prediction returned by the model.</p>
 <p>You create a web service when you deploy a model to your local environment, Azure Container Instances, Azure Kubernetes Service, or field-programmable gate arrays (FPGA). You retrieve the URI used to access the web service by using the Azure Machine Learning SDK. If authentication is enabled, you can also use the</p>
 <p>SDK to get the authentication keys or tokens.</p>
@@ -49,4 +50,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_255.md) | [Home](/index.md) | [Next Question >>](question_257.md)
+[<< Previous Question](question_255.md) | [Home](../index.md) | [Next Question >>](question_257.md)

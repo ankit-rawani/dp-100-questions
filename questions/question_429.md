@@ -4,27 +4,27 @@ You manage an Azure Machine Learning workspace.
 
 You build a custom model you must log with MLflow. The custom model includes the following:
 
-•	The model is not natively supported by MLflow.
+• The model is not natively supported by MLflow.
 
-•	The model cannot be serialized in Pickle format.
+• The model cannot be serialized in Pickle format.
 
-•	The model source code is complex.
+• The model source code is complex.
 
-•	The Python library for the model must be packaged with the model.
+• The Python library for the model must be packaged with the model.
 
 You need to create a custom model flavor to enable logging with MLflow.
 
 What should you use?
 
-* A.model loader
-* B.artifacts
-* C.model wrapper
-* D.custom signatures
+- A.model loader
+- B.artifacts
+- C.model wrapper
+- D.custom signatures
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -53,4 +53,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-log-mlflow-model
 
 ---
 
-[<< Previous Question](question_428.md) | [Home](/index.md) | [Next Question >>](question_430.md)
+[<< Previous Question](question_428.md) | [Home](../index.md) | [Next Question >>](question_430.md)

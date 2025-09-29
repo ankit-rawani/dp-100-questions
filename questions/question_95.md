@@ -8,16 +8,16 @@ What are three possible ways to achieve this goal? Each correct answer presents 
 
 NOTE: Each correct selection is worth one point.
 
-* A.Run Python code that uses the Azure ML SDK library and calls the Workspace.create method with name, subscription_id, and resource_group parameters.
-* B.Navigate to Azure Machine Learning studio and create a workspace.
-* C.Use the Azure Command Line Interface (CLI) with the Azure Machine Learning extension to call the az group create function with --name and --location parameters, and then the az ml workspace create function, specifying ג€"w and ג€"g parameters for the workspace name and resource group.
-* D.Navigate to Azure Machine Learning studio and create a workspace.
-* E.Run Python code that uses the Azure ML SDK library and calls the Workspace.get method with name, subscription_id, and resource_group parameters.
+- A.Run Python code that uses the Azure ML SDK library and calls the Workspace.create method with name, subscription_id, and resource_group parameters.
+- B.Navigate to Azure Machine Learning studio and create a workspace.
+- C.Use the Azure Command Line Interface (CLI) with the Azure Machine Learning extension to call the az group create function with --name and --location parameters, and then the az ml workspace create function, specifying ג€"w and ג€"g parameters for the workspace name and resource group.
+- D.Navigate to Azure Machine Learning studio and create a workspace.
+- E.Run Python code that uses the Azure ML SDK library and calls the Workspace.get method with name, subscription_id, and resource_group parameters.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>ABC</strong><br>
+<strong>ABC</strong><br>
 
 </details>
 
@@ -33,6 +33,7 @@ B . Use an Azure Resource Management template that includes a Microsoft.MachineL
 C . Use the Azure Command Line Interface (CLI) with the Azure Machine Learning extension to call the az group create function with –name and –location parameters, and then the az ml workspace create function, specifying Cw and Cg parameters for the workspace name and resource group.
 D . Navigate to Azure Machine Learning studio and create a workspace.
 E . Run Python code that uses the Azure ML SDK library and calls the Workspace.get method with name, subscription_id, and resource_group parameters.</p></blockquote>
+
 <blockquote><p><strong>JTWang</strong> <code>(Fri 14 Apr 2023 08:37)</code> - <em>Upvotes: 7</em></p><p>My Answer:BCD
 A is wrong at 2022/10
 The  subscription_id and resource_group is not needed.
@@ -40,17 +41,19 @@ D is correct. You can go to http://ml.azure.com to create a new workspace!
 
 python code:
 ws_basic = Workspace(
-    name=basic_workspace_name,
-    location=&quot;eastus&quot;,
-    display_name=&quot;Basic workspace-example&quot;,
-    description=&quot;This example shows how to create a basic workspace&quot;,
-    hbi_workspace=False,
-    tags=dict(purpose=&quot;demo&quot;),
+name=basic_workspace_name,
+location=&quot;eastus&quot;,
+display_name=&quot;Basic workspace-example&quot;,
+description=&quot;This example shows how to create a basic workspace&quot;,
+hbi_workspace=False,
+tags=dict(purpose=&quot;demo&quot;),
 )
 ml_client.workspaces.begin_create(ws_basic)</p></blockquote>
-<blockquote><p><strong>PI_Team</strong> <code>(Fri 12 Jan 2024 17:44)</code> - <em>Upvotes: 1</em></p><p>if there are no resources provisioned in the subscription, you cannot directly use Python code that calls Workspace.create method with the resource_group parameter. The resource_group parameter requires an existing resource group to be specified. So we can&#x27;t use the &quot;A&quot; option. 
+
+<blockquote><p><strong>PI_Team</strong> <code>(Fri 12 Jan 2024 17:44)</code> - <em>Upvotes: 1</em></p><p>if there are no resources provisioned in the subscription, you cannot directly use Python code that calls Workspace.create method with the resource_group parameter. The resource_group parameter requires an existing resource group to be specified. So we can&#x27;t use the &quot;A&quot; option.
 
 My Answer:BCD</p></blockquote>
+
 <blockquote><p><strong>allanm</strong> <code>(Mon 15 Nov 2021 19:47)</code> - <em>Upvotes: 14</em></p><p>I&#x27;m confused - Why is B and D the same answer option?</p></blockquote>
 <blockquote><p><strong>andre999</strong> <code>(Mon 20 Dec 2021 19:48)</code> - <em>Upvotes: 11</em></p><p>The D option should be : Navigate to the Azure portal and create a workspace.</p></blockquote>
 <blockquote><p><strong>ppchar</strong> <code>(Thu 23 Dec 2021 15:33)</code> - <em>Upvotes: 2</em></p><p>then answer is: CD</p></blockquote>
@@ -71,6 +74,7 @@ az group create --name &lt;resource-group-name&gt; --location &lt;location&gt;
 
 ws_basic = ml_client.workspaces.begin_create(ws_basic).result()
 print(ws_basic)</p></blockquote>
+
 <blockquote><p><strong>krishna1818</strong> <code>(Wed 29 Nov 2023 10:31)</code> - <em>Upvotes: 1</em></p><p>C is a definite option, and B also seems right</p></blockquote>
 <blockquote><p><strong>Dilesha</strong> <code>(Sat 19 Aug 2023 00:38)</code> - <em>Upvotes: 6</em></p><p>On Exam 17 Feb 2023</p></blockquote>
 <blockquote><p><strong>AzureJobsTillRetire</strong> <code>(Sun 20 Aug 2023 23:37)</code> - <em>Upvotes: 3</em></p><p>Thanks Dilesha. If by any chance you come back again, do you remember the differences between option B and D?</p></blockquote>
@@ -85,21 +89,23 @@ example: ml_client.workspaces.begin_create(ws)
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace?tabs=python</p></blockquote>
 <blockquote><p><strong>AzureJobsTillRetire</strong> <code>(Fri 04 Aug 2023 01:06)</code> - <em>Upvotes: 3</em></p><p>Sorry my bad. Workspace.create is correct.
 
-   from azureml.core import Workspace
-   ws = Workspace.create(name=&#x27;myworkspace&#x27;,
-               subscription_id=&#x27;&lt;azure-subscription-id&gt;&#x27;,
-               resource_group=&#x27;myresourcegroup&#x27;,
-               create_resource_group=True,
-               location=&#x27;eastus2&#x27;
-               )
+from azureml.core import Workspace
+ws = Workspace.create(name=&#x27;myworkspace&#x27;,
+subscription_id=&#x27;&lt;azure-subscription-id&gt;&#x27;,
+resource_group=&#x27;myresourcegroup&#x27;,
+create_resource_group=True,
+location=&#x27;eastus2&#x27;
+)
 
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.workspace.workspace?view=azure-ml-py#azureml-core-workspace-workspace-create</p></blockquote>
+
 <blockquote><p><strong>AzureJobsTillRetire</strong> <code>(Fri 04 Aug 2023 01:08)</code> - <em>Upvotes: 1</em></p><p>It seems that ABCD are all correct.</p></blockquote>
 <blockquote><p><strong>MansoorDataScientist</strong> <code>(Wed 02 Aug 2023 14:29)</code> - <em>Upvotes: 1</em></p><p>A cannot consider before creating a workspace, yes we can create through different methods of CICD but it&#x27;s not considered here</p></blockquote>
 <blockquote><p><strong>JTWang</strong> <code>(Fri 14 Apr 2023 08:28)</code> - <em>Upvotes: 2</em></p><p>If D is create workspace by Azure Machine Learning Studio, it is true!
 
 https://ml.azure.com/
-You can go to https://ml.azure.com/  to create  a new workspace.</p></blockquote>
+You can go to https://ml.azure.com/ to create a new workspace.</p></blockquote>
+
 <blockquote><p><strong>gursimran_s</strong> <code>(Wed 30 Nov 2022 16:10)</code> - <em>Upvotes: 2</em></p><p>Why not ACD?</p></blockquote>
 <blockquote><p><strong>zb99</strong> <code>(Sun 20 Nov 2022 18:21)</code> - <em>Upvotes: 2</em></p><p>A is wrong:  Cannot create a workspace this way because resource group does not yet exist.</p></blockquote>
 <blockquote><p><strong>casiopa</strong> <code>(Thu 08 Jun 2023 10:17)</code> - <em>Upvotes: 1</em></p><p>You can create a Workspace this way, but you need to include this argument: create_resource_group=True.
@@ -112,11 +118,12 @@ Python SDK or Azure CLI
 Use Resource Manager template
 
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace?tabs=python</p></blockquote>
+
 <blockquote><p><strong>Thornehead</strong> <code>(Tue 27 Sep 2022 23:24)</code> - <em>Upvotes: 1</em></p><p>Use Azure portal or Python SDK
 Use Azure CLI
 Use Resource Manager template
 
-This is from the 
+This is from the
 
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace?tabs=python</p></blockquote>
 
@@ -124,4 +131,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace?
 
 ---
 
-[<< Previous Question](question_94.md) | [Home](/index.md) | [Next Question >>](question_96.md)
+[<< Previous Question](question_94.md) | [Home](../index.md) | [Next Question >>](question_96.md)

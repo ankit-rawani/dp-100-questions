@@ -69,4 +69,4 @@ https://docs.microsoft.com/en-us/learn/modules/detect-mitigate-unfairness-models
 
 ---
 
-[<< Previous Question](question_480.md) | [Home](/index.md) | [Next Question >>](question_482.md)
+[<< Previous Question](question_480.md) | [Home](../index.md) | [Next Question >>](question_482.md)

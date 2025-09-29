@@ -10,16 +10,17 @@ What are two possible ways to achieve this goal? Each correct answer presents a 
 
 NOTE: Each correct selection is worth one point.
 
-* A.Use a PipelineData object that references a datastore other than the default datastore.
-* B.Set the regenerate_outputs property of the pipeline to True.
-* C.Set the allow_reuse property of each step in the pipeline to False.
-* D.Restart the compute cluster where the pipeline experiment is configured to run.
-* E.Set the outputs property of each step in the pipeline to True.
+- A.Use a PipelineData object that references a datastore other than the default datastore.
+- B.Set the regenerate_outputs property of the pipeline to True.
+- C.Set the allow_reuse property of each step in the pipeline to False.
+- D.Restart the compute cluster where the pipeline experiment is configured to run.
+- E.Set the outputs property of each step in the pipeline to True.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>BC</strong><br>
+<strong>BC</strong><br>
+
 <p>B: If regenerate_outputs is set to True, a new submit will always force generation of all step outputs, and disallow data reuse for any step of this run. Once this run is complete, however, subsequent runs may reuse the results of this run.</p>
 <p>C: Keep the following in mind when working with pipeline steps, input/output data, and step reuse.</p>
 <p>✑ If data used in a step is in a datastore and allow_reuse is True, then changes to the data change won&#x27;t be detected. If the data is uploaded as part of the snapshot (under the step&#x27;s source_directory), though this is not recommended, then the hash will change and will trigger a rerun.</p>
@@ -43,4 +44,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_389.md) | [Home](/index.md) | [Next Question >>](question_391.md)
+[<< Previous Question](question_389.md) | [Home](../index.md) | [Next Question >>](question_391.md)

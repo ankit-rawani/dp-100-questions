@@ -8,15 +8,15 @@ You need to configure the k parameter for the cross-validation.
 
 Which value should you use?
 
-* A.k=0.5
-* B.k=0.01
-* C.k=5
-* D.k=1
+- A.k=0.5
+- B.k=0.01
+- C.k=5
+- D.k=1
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -36,7 +36,8 @@ K cannot be less than 1, thus 0.9, 0.5
 K= 1 meaning does experiment only 1 time which shouldn&#x27;t do fo k fold validation
 Thus k =10 is possible correct answer
 
-In the choice number of K, there is not formal value that should do.  https://machinelearningmastery.com/k-fold-cross-validation/</p></blockquote>
+In the choice number of K, there is not formal value that should do. https://machinelearningmastery.com/k-fold-cross-validation/</p></blockquote>
+
 <blockquote><p><strong>levm39</strong> <code>(Tue 14 Dec 2021 14:36)</code> - <em>Upvotes: 1</em></p><p>k=5, answer is missing</p></blockquote>
 <blockquote><p><strong>ATT</strong> <code>(Tue 16 Mar 2021 04:53)</code> - <em>Upvotes: 2</em></p><p>https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/cross-validate-model</p></blockquote>
 
@@ -44,4 +45,4 @@ In the choice number of K, there is not formal value that should do.  https://ma
 
 ---
 
-[<< Previous Question](question_238.md) | [Home](/index.md) | [Next Question >>](question_240.md)
+[<< Previous Question](question_238.md) | [Home](../index.md) | [Next Question >>](question_240.md)

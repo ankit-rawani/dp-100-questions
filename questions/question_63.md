@@ -69,4 +69,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.datastore(
 
 ---
 
-[<< Previous Question](question_62.md) | [Home](/index.md) | [Next Question >>](question_64.md)
+[<< Previous Question](question_62.md) | [Home](../index.md) | [Next Question >>](question_64.md)

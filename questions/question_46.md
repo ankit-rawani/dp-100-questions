@@ -8,16 +8,16 @@ What are three possible ways to achieve the goal? Each correct answer presents a
 
 NOTE: Each correct selection is worth one point.
 
-* A.Bulk Insert SQL Query
-* B.AzCopy
-* C.Python script
-* D.Azure Storage Explorer
-* E.Bulk Copy Program (BCP)
+- A.Bulk Insert SQL Query
+- B.AzCopy
+- C.Python script
+- D.Azure Storage Explorer
+- E.Bulk Copy Program (BCP)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>BCD</strong><br>
+<strong>BCD</strong><br>
 
 </details>
 
@@ -39,6 +39,7 @@ B. AzCopy is a command-line utility that is used to transfer data to and from Az
 C. A Python script can be written to transfer data to Azure Blob Storage using the Azure Blob Storage API.
 
 D. Azure Storage Explorer is a graphical user interface tool that can be used to transfer data to and from Azure Blob Storage.</p></blockquote>
+
 <blockquote><p><strong>phylogenetics</strong> <code>(Fri 15 Apr 2022 01:21)</code> - <em>Upvotes: 4</em></p><p>BCD are correct!</p></blockquote>
 <blockquote><p><strong>duytran216</strong> <code>(Tue 07 Sep 2021 01:53)</code> - <em>Upvotes: 4</em></p><p>Correct! A &amp; E is for SQL</p></blockquote>
 
@@ -46,4 +47,4 @@ D. Azure Storage Explorer is a graphical user interface tool that can be used to
 
 ---
 
-[<< Previous Question](question_45.md) | [Home](/index.md) | [Next Question >>](question_47.md)
+[<< Previous Question](question_45.md) | [Home](../index.md) | [Next Question >>](question_47.md)

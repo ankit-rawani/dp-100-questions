@@ -8,15 +8,15 @@ You are preparing to ascertain the Area Under the Curve (AUC).
 
 Which of the following is a sequential combination of the models required to achieve your goal?
 
-* A.Train, Score, Evaluate.
-* B.Score, Evaluate, Train.
-* C.Evaluate, Export Data, Train.
-* D.Train, Score, Export Data.
+- A.Train, Score, Evaluate.
+- B.Score, Evaluate, Train.
+- C.Evaluate, Export Data, Train.
+- D.Train, Score, Export Data.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -36,4 +36,4 @@ Resposta: A</p></blockquote>
 
 ---
 
-[<< Previous Question](question_41.md) | [Home](/index.md) | [Next Question >>](question_43.md)
+[<< Previous Question](question_41.md) | [Home](../index.md) | [Next Question >>](question_43.md)

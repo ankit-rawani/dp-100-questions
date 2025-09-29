@@ -57,4 +57,4 @@ For a conservative policy that provides savings without terminating promising jo
 
 ---
 
-[<< Previous Question](question_519.md) | [Home](/index.md) | [Next Question >>](question_521.md)
+[<< Previous Question](question_519.md) | [Home](../index.md) | [Next Question >>](question_521.md)

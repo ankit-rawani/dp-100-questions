@@ -119,4 +119,4 @@ Select to deploy the model to Azure Kubernetes Service or Azure Container Instan
 
 ---
 
-[<< Previous Question](question_251.md) | [Home](/index.md) | [Next Question >>](question_253.md)
+[<< Previous Question](question_251.md) | [Home](../index.md) | [Next Question >>](question_253.md)

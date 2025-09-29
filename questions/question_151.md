@@ -2,15 +2,15 @@
 
 You create an Azure Machine Learning managed compute resource. The compute resource is configured as follows:
 
-•	Minimum nodes: 2
+• Minimum nodes: 2
 
-•	Maximum nodes: 4
+• Maximum nodes: 4
 
 You must decrease the minimum number of nodes and increase the maximum number of nodes to the following values:
 
-•	Minimum nodes: 0
+• Minimum nodes: 0
 
-•	Maximum nodes: 8
+• Maximum nodes: 8
 
 You need to reconfigure the compute resource.
 
@@ -18,16 +18,16 @@ Which three methods can you use? Each correct answer presents a complete solutio
 
 NOTE: Each correct selection is worth one point.
 
-* A.Azure Machine Learning designer
-* B.MLClient class in Python SDK v2
-* C.Azure Machine Learning studio
-* D.Azure CLI ml extension v2
-* E.BuildContext class in Python SDK v2
+- A.Azure Machine Learning designer
+- B.MLClient class in Python SDK v2
+- C.Azure Machine Learning studio
+- D.Azure CLI ml extension v2
+- E.BuildContext class in Python SDK v2
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>BCD</strong><br>
+<strong>BCD</strong><br>
 
 </details>
 
@@ -44,16 +44,18 @@ NOTE: Each correct selection is worth one point.
 - Studio
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-create-attach-compute-cluster?view=azureml-api-2&amp;tabs=python#create</p></blockquote>
+
 <blockquote><p><strong>cyberfriends</strong> <code>(Sat 20 Apr 2024 20:22)</code> - <em>Upvotes: 1</em></p><p>ABD is the answer</p></blockquote>
 <blockquote><p><strong>ABosco</strong> <code>(Sun 18 Feb 2024 12:40)</code> - <em>Upvotes: 2</em></p><p>BCD is correct</p></blockquote>
 <blockquote><p><strong>PI_Team</strong> <code>(Fri 26 Jan 2024 17:25)</code> - <em>Upvotes: 1</em></p><p>I presume Azure ML studio is correct as well, however, since we have only 3 choices, maybe we need to choose the closet ones! :)</p></blockquote>
-<blockquote><p><strong>PI_Team</strong> <code>(Tue 28 May 2024 11:08)</code> - <em>Upvotes: 2</em></p><p>wrong answer... BCD is correct sorry... 
+<blockquote><p><strong>PI_Team</strong> <code>(Tue 28 May 2024 11:08)</code> - <em>Upvotes: 2</em></p><p>wrong answer... BCD is correct sorry...
 
 I tested it, you can&#x27;t change it with designer</p></blockquote>
+
 <blockquote><p><strong>damaldon</strong> <code>(Fri 12 Jan 2024 20:23)</code> - <em>Upvotes: 1</em></p><p>ACD is correct</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_150.md) | [Home](/index.md) | [Next Question >>](question_152.md)
+[<< Previous Question](question_150.md) | [Home](../index.md) | [Next Question >>](question_152.md)

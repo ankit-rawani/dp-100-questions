@@ -48,4 +48,4 @@ The value is passed from process to train. How its being used depends on the scr
 
 ---
 
-[<< Previous Question](question_245.md) | [Home](/index.md) | [Next Question >>](question_247.md)
+[<< Previous Question](question_245.md) | [Home](../index.md) | [Next Question >>](question_247.md)

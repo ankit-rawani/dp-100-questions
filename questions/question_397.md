@@ -39,4 +39,4 @@ What should you do?
 
 ---
 
-[<< Previous Question](question_396.md) | [Home](/index.md) | [Next Question >>](question_398.md)
+[<< Previous Question](question_396.md) | [Home](../index.md) | [Next Question >>](question_398.md)

@@ -8,15 +8,15 @@ You need to implement the Fairlearn package.
 
 Which algorithm should you use?
 
-* A.fairlearn.reductions.ExponentiatedGradient
-* B.fairlearn.postprocessing.ThresholdOptimizer
-* C.fairlearnpreprocessing.CorrelationRemover
-* D.fairlearn.reductions.GridSearch
+- A.fairlearn.reductions.ExponentiatedGradient
+- B.fairlearn.postprocessing.ThresholdOptimizer
+- C.fairlearnpreprocessing.CorrelationRemover
+- D.fairlearn.reductions.GridSearch
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -29,6 +29,7 @@ Which algorithm should you use?
 <blockquote><p><strong>PI_Team</strong> <code>(Fri 13 Sep 2024 09:12)</code> - <em>Upvotes: 2</em></p><p>The correct answer is B. fairlearn.postprocessing.ThresholdOptimizer.
 
 The ThresholdOptimizer algorithm in the Fairlearn package is a post-processing technique that you can use to adjust the threshold of a binary classification model’s predictions to improve fairness, without needing to retrain the model. This makes it a suitable choice given your requirement to eliminate the need to retrain the model. The other options listed are either preprocessing techniques or in-processing techniques which would require retraining of the model.</p></blockquote>
+
 <blockquote><p><strong>Tommo565</strong> <code>(Wed 27 Mar 2024 11:44)</code> - <em>Upvotes: 1</em></p><p>As per other comments, B</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Sat 24 Feb 2024 16:58)</code> - <em>Upvotes: 1</em></p><p>The ThresholdOptimizer algorithm allows you to adjust the decision threshold of the binary classification model to improve the balance between the accuracy of the model and the fairness of the model&#x27;s predictions. This algorithm takes the original binary classification model as input and produces a new, fairer model without the need for retraining. Others require retraining the model.</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Sat 24 Feb 2024 16:45)</code> - <em>Upvotes: 1</em></p><p>The correct sequence of actions is:
@@ -47,4 +48,4 @@ https://docs.microsoft.com/en-us/training/modules/detect-mitigate-unfairness-mod
 
 ---
 
-[<< Previous Question](question_488.md) | [Home](/index.md) | [Next Question >>](question_490.md)
+[<< Previous Question](question_488.md) | [Home](../index.md) | [Next Question >>](question_490.md)

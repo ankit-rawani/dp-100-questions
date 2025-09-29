@@ -55,4 +55,4 @@ Answer is correct</p></blockquote>
 
 ---
 
-[<< Previous Question](question_63.md) | [Home](/index.md) | [Next Question >>](question_65.md)
+[<< Previous Question](question_63.md) | [Home](../index.md) | [Next Question >>](question_65.md)

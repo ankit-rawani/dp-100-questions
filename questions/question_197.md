@@ -48,4 +48,4 @@ Discrete variables are numeric variables that have a countable number of values 
 
 ---
 
-[<< Previous Question](question_196.md) | [Home](/index.md) | [Next Question >>](question_198.md)
+[<< Previous Question](question_196.md) | [Home](../index.md) | [Next Question >>](question_198.md)

@@ -54,4 +54,4 @@ script_run = experiment.submit(config)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_126.md) | [Home](/index.md) | [Next Question >>](question_128.md)
+[<< Previous Question](question_126.md) | [Home](../index.md) | [Next Question >>](question_128.md)

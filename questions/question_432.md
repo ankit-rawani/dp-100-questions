@@ -8,15 +8,15 @@ You need to deploy the model.
 
 Which compute target should you use?
 
-* A.Azure Kubernetes Service (AKS)
-* B.Azure Machine Learning compute clusters
-* C.Azure Container Instances (ACI)
-* D.Local deployment
+- A.Azure Kubernetes Service (AKS)
+- B.Azure Machine Learning compute clusters
+- C.Azure Container Instances (ACI)
+- D.Local deployment
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -31,4 +31,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-low-priority
 
 ---
 
-[<< Previous Question](question_431.md) | [Home](/index.md) | [Next Question >>](question_433.md)
+[<< Previous Question](question_431.md) | [Home](../index.md) | [Next Question >>](question_433.md)

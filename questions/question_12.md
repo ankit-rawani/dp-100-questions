@@ -34,4 +34,4 @@ So boxplot is correct.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_11.md) | [Home](/index.md) | [Next Question >>](question_13.md)
+[<< Previous Question](question_11.md) | [Home](../index.md) | [Next Question >>](question_13.md)

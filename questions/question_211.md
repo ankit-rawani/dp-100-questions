@@ -66,4 +66,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparame
 
 ---
 
-[<< Previous Question](question_210.md) | [Home](/index.md) | [Next Question >>](question_212.md)
+[<< Previous Question](question_210.md) | [Home](../index.md) | [Next Question >>](question_212.md)

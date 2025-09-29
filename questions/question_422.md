@@ -65,4 +65,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experime
 
 ---
 
-[<< Previous Question](question_421.md) | [Home](/index.md) | [Next Question >>](question_423.md)
+[<< Previous Question](question_421.md) | [Home](../index.md) | [Next Question >>](question_423.md)

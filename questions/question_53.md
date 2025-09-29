@@ -6,16 +6,16 @@ You need to configure the DLVM to support CUDA.
 
 What should you implement?
 
-* A.Solid State Drives (SSD)
-* B.Computer Processing Unit (CPU) speed increase by using overclocking
-* C.Graphic Processing Unit (GPU)
-* D.High Random Access Memory (RAM) configuration
-* E.Intel Software Guard Extensions (Intel SGX) technology
+- A.Solid State Drives (SSD)
+- B.Computer Processing Unit (CPU) speed increase by using overclocking
+- C.Graphic Processing Unit (GPU)
+- D.High Random Access Memory (RAM) configuration
+- E.Intel Software Guard Extensions (Intel SGX) technology
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -33,6 +33,7 @@ In order to use CUDA, a DLVM must have a GPU that is compatible with CUDA. The D
 The other options are not relevant to configuring a DLVM to support CUDA. SSDs can improve the performance of a DLVM, but they are not required for CUDA. Overclocking a CPU can improve its performance, but it is not necessary for CUDA. RAM is required for CUDA, but a high RAM configuration is not necessary. Intel SGX is a security technology that is not related to CUDA.
 
 Therefore, the best option is to implement a GPU in the DLVM.</p></blockquote>
+
 <blockquote><p><strong>azurelearner666</strong> <code>(Sun 09 Oct 2022 18:12)</code> - <em>Upvotes: 2</em></p><p>Selected Answer: C 
 GPU/CUDA all the way! 
 Also this is out of scope it seems..</p></blockquote>
@@ -48,4 +49,4 @@ Also this is out of scope it seems..</p></blockquote>
 
 ---
 
-[<< Previous Question](question_52.md) | [Home](/index.md) | [Next Question >>](question_54.md)
+[<< Previous Question](question_52.md) | [Home](../index.md) | [Next Question >>](question_54.md)

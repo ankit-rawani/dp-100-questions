@@ -14,15 +14,15 @@ You need to select an environment for creating the model.
 
 Which environment should you use?
 
-* A.Azure Cognitive Services
-* B.Azure Data Lake Analytics
-* C.Azure HDInsight with Spark MLib
-* D.Azure Machine Learning Studio
+- A.Azure Cognitive Services
+- B.Azure Data Lake Analytics
+- C.Azure HDInsight with Spark MLib
+- D.Azure Machine Learning Studio
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -47,6 +47,7 @@ Bueno para ML tradicional en grandes volúmenes de datos, pero limitado para dee
 <blockquote><p><strong>jl420</strong> <code>(Tue 12 Nov 2024 17:13)</code> - <em>Upvotes: 2</em></p><p>While Azure Cognitive Services is a powerful suite of APIs and services for adding AI capabilities to applications, it is more focused on providing pre-built models for specific tasks such as vision, speech, language, and decision-making. These services are excellent for integrating AI features into applications quickly and easily, but they may not offer the same level of flexibility and control needed for developing custom deep learning models from scratch.
 
 On the other hand, Azure Machine Learning Studio provides a comprehensive environment for developing, training, and deploying custom machine learning models, including deep learning models. It supports various data types and offers tools for data preparation, model training, and deployment, making it a more suitable choice for your needs.</p></blockquote>
+
 <blockquote><p><strong>jefimija</strong> <code>(Mon 28 Oct 2024 08:20)</code> - <em>Upvotes: 1</em></p><p>Azure Cognitive Services is for using prebuilt models, not for training</p></blockquote>
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Fri 07 Jun 2024 22:19)</code> - <em>Upvotes: 2</em></p><p>I would pick D and ChapGPT 4 agreed with me. I wrote AI-102 (the updated one) a while back. AI cognitive service is not what you think it is as people discussed here.</p></blockquote>
 <blockquote><p><strong>Shariq</strong> <code>(Mon 27 May 2024 13:35)</code> - <em>Upvotes: 1</em></p><p>Should not it be Azure AI Service?</p></blockquote>
@@ -65,4 +66,4 @@ Azure Cognitive Services is a cloud-based platform that provides various APIs an
 
 ---
 
-[<< Previous Question](question_47.md) | [Home](/index.md) | [Next Question >>](question_49.md)
+[<< Previous Question](question_47.md) | [Home](../index.md) | [Next Question >>](question_49.md)

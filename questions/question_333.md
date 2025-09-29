@@ -8,15 +8,15 @@ Which two compute targets can you use? Each correct answer presents a complete s
 
 NOTE: Each correct selection is worth one point.
 
-* A.Azure Kubernetes Service (AKS)
-* B.Azure Container Instances (ACI)
-* C.Local web service
-* D.Azure Machine Learning compute clusters
+- A.Azure Kubernetes Service (AKS)
+- B.Azure Container Instances (ACI)
+- C.Local web service
+- D.Azure Machine Learning compute clusters
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>AB</strong><br>
+<strong>AB</strong><br>
 
 </details>
 
@@ -27,11 +27,12 @@ NOTE: Each correct selection is worth one point.
 
 Regarding Azure Machine Learning compute clusters, you are also correct that they cannot be used as a deployment target for web services. Compute clusters are used for training and batch scoring workloads, not for deploying models as web services.
 
-In summary, the correct answer to your question is A. Azure Kubernetes Service (AKS) and B. Azure Container Instances (ACI). 
+In summary, the correct answer to your question is A. Azure Kubernetes Service (AKS) and B. Azure Container Instances (ACI).
 
 Check the link: https://learn.microsoft.com/en-us/azure/container-instances/container-instances-gpu
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>Nagamori</strong> <code>(Sat 17 Jun 2023 03:58)</code> - <em>Upvotes: 6</em></p><p>answer is AD.</p></blockquote>
 <blockquote><p><strong>avinyc</strong> <code>(Tue 07 Jan 2025 04:00)</code> - <em>Upvotes: 1</em></p><p>Answer should be A and D</p></blockquote>
 <blockquote><p><strong>colin1919</strong> <code>(Mon 09 Dec 2024 14:29)</code> - <em>Upvotes: 1</em></p><p>ACI is for small/insignificant deployments (low CPU and RAM), so by logic it&#x27;s not making sense to have GPU enabled on them.</p></blockquote>
@@ -51,4 +52,4 @@ not Azure Compute Instances</p></blockquote>
 
 ---
 
-[<< Previous Question](question_332.md) | [Home](/index.md) | [Next Question >>](question_334.md)
+[<< Previous Question](question_332.md) | [Home](../index.md) | [Next Question >>](question_334.md)

@@ -10,15 +10,16 @@ You need to set the correct property of the estimator to ensure that your script
 
 Which property should you set?
 
-* A.environment_definition = {"training_data":training_ds}
-* B.inputs = [training_ds.as_named_input('training_ds')]
-* C.script_params = {"--training_ds":training_ds}
-* D.source_directory = training_ds
+- A.environment_definition = {"training_data":training_ds}
+- B.inputs = [training_ds.as_named_input('training_ds')]
+- C.script_params = {"--training_ds":training_ds}
+- D.source_directory = training_ds
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Example:</p>
 <p># Get the training dataset</p>
 <p>diabetes_ds = ws.datasets.get(&quot;Diabetes Dataset&quot;)</p>
@@ -36,22 +37,24 @@ Which property should you set?
 <blockquote><p><strong>DanielGP</strong> <code>(Tue 26 Jul 2022 17:43)</code> - <em>Upvotes: 7</em></p><p>Train a model from a tabular dataset:
 
 Now that you have datasets, you&#x27;re ready to start training models from them. You can pass datasets to scripts as INPUTS in the estimator being used to run the script.</p></blockquote>
+
 <blockquote><p><strong>treadst0ne</strong> <code>(Mon 22 Aug 2022 23:34)</code> - <em>Upvotes: 2</em></p><p>I concur.</p></blockquote>
 <blockquote><p><strong>Peeking</strong> <code>(Thu 12 Sep 2024 00:04)</code> - <em>Upvotes: 1</em></p><p>B would seem the closest answer but it was not properly described in the answers:
 from azureml.core import ScriptRunConfig
 
 src = ScriptRunConfig(source_directory=script_folder,
-                      script=&#x27;train_titanic.py&#x27;,
-                      # pass dataset as an input with friendly name &#x27;titanic&#x27;
-                      arguments=[&#x27;--input-data&#x27;, titanic_ds.as_named_input(&#x27;titanic&#x27;)],
-                      compute_target=compute_target,
-                      environment=myenv)
-                             
+script=&#x27;train_titanic.py&#x27;, # pass dataset as an input with friendly name &#x27;titanic&#x27;
+arguments=[&#x27;--input-data&#x27;, titanic_ds.as_named_input(&#x27;titanic&#x27;)],
+compute_target=compute_target,
+environment=myenv)
+
 # Submit the run configuration for your training run
+
 run = experiment.submit(src)
 run.wait_for_completion(show_output=True)
 
 Reference: https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-train-with-datasets</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Sun 26 Nov 2023 15:46)</code> - <em>Upvotes: 2</em></p><p>I guess if you want to pass the parameter into estimator it will be C; now the question is asking inside the estimator you are reading the input, it is B ... Still a bit confusion ...</p></blockquote>
 <blockquote><p><strong>JJason</strong> <code>(Sun 21 May 2023 05:43)</code> - <em>Upvotes: 3</em></p><p>why should not inputs = [training_ds.as_named_input(&#x27;training_ds&#x27;).as_mount()]?</p></blockquote>
 <blockquote><p><strong>chaudha4</strong> <code>(Sat 05 Nov 2022 14:37)</code> - <em>Upvotes: 5</em></p><p>Estimator is deprecated. Can anyone confirm if they saw a question on this topic lately ?</p></blockquote>
@@ -64,4 +67,4 @@ Reference: https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-tr
 
 ---
 
-[<< Previous Question](question_222.md) | [Home](/index.md) | [Next Question >>](question_224.md)
+[<< Previous Question](question_222.md) | [Home](../index.md) | [Next Question >>](question_224.md)

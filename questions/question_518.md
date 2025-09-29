@@ -56,4 +56,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/
 
 ---
 
-[<< Previous Question](question_517.md) | [Home](/index.md) | [Next Question >>](question_519.md)
+[<< Previous Question](question_517.md) | [Home](../index.md) | [Next Question >>](question_519.md)

@@ -6,15 +6,15 @@ You need to use the precision as the evaluation metric.
 
 Which visualization should you use?
 
-* A.Violin plot
-* B.Gradient descent
-* C.Box plot
-* D.Binary classification confusion matrix
+- A.Violin plot
+- B.Gradient descent
+- C.Box plot
+- D.Binary classification confusion matrix
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -34,4 +34,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/classic/evaluate-model-p
 
 ---
 
-[<< Previous Question](question_205.md) | [Home](/index.md) | [Next Question >>](question_207.md)
+[<< Previous Question](question_205.md) | [Home](../index.md) | [Next Question >>](question_207.md)

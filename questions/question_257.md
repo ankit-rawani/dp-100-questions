@@ -65,4 +65,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-train-automl-client/azureml.
 
 ---
 
-[<< Previous Question](question_256.md) | [Home](/index.md) | [Next Question >>](question_258.md)
+[<< Previous Question](question_256.md) | [Home](../index.md) | [Next Question >>](question_258.md)

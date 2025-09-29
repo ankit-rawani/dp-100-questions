@@ -74,4 +74,4 @@ https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-m
 
 ---
 
-[<< Previous Question](question_182.md) | [Home](/index.md) | [Next Question >>](question_184.md)
+[<< Previous Question](question_182.md) | [Home](../index.md) | [Next Question >>](question_184.md)

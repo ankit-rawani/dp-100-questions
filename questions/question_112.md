@@ -34,4 +34,4 @@ You can also use subscription_id, resource_group and vm_name without constructin
 
 ---
 
-[<< Previous Question](question_111.md) | [Home](/index.md) | [Next Question >>](question_113.md)
+[<< Previous Question](question_111.md) | [Home](../index.md) | [Next Question >>](question_113.md)

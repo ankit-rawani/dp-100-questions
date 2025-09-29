@@ -10,13 +10,13 @@ Recommendation: You configure the use of the value k=3.
 
 Will the requirements be satisfied?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,6 +32,7 @@ The answer to the question is B. No. The recommendation to use k=3 is a common p
 For example, if the data sample is small, using k=3 may not provide enough training data for the model to learn from, resulting in a high variance in the evaluation metric. In this case, a larger value of k may be more appropriate. On the other hand, if the data sample is very large, using k=3 may result in a low bias but high variance, in which case a smaller value of k may be more appropriate.
 
 Therefore, it&#x27;s important to consider the specific requirements and characteristics of the task and data sample when choosing the value of k for k-fold cross-validation. In general, the recommendation to use k=3 is a good starting point, but it may not always be the best choice.</p></blockquote>
+
 <blockquote><p><strong>evangelist</strong> <code>(Sat 17 Feb 2024 11:08)</code> - <em>Upvotes: 1</em></p><p>The usual choice for k in k-fold cross-validation, especially in the context of evaluating machine learning models, is typically k=5 or k=10</p></blockquote>
 <blockquote><p><strong>james2033</strong> <code>(Fri 20 Oct 2023 09:33)</code> - <em>Upvotes: 1</em></p><p>Default value k = 10</p></blockquote>
 <blockquote><p><strong>lookaaaa</strong> <code>(Mon 21 Nov 2022 21:50)</code> - <em>Upvotes: 1</em></p><p>Usually we would choose k = 10</p></blockquote>
@@ -51,4 +52,4 @@ Therefore, it&#x27;s important to consider the specific requirements and charact
 
 ---
 
-[<< Previous Question](question_7.md) | [Home](/index.md) | [Next Question >>](question_9.md)
+[<< Previous Question](question_7.md) | [Home](../index.md) | [Next Question >>](question_9.md)

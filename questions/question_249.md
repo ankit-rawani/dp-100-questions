@@ -51,4 +51,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.skl
 
 ---
 
-[<< Previous Question](question_248.md) | [Home](/index.md) | [Next Question >>](question_250.md)
+[<< Previous Question](question_248.md) | [Home](../index.md) | [Next Question >>](question_250.md)

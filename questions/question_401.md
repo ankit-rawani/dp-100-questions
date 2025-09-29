@@ -6,15 +6,15 @@ You must deploy the real-time inference pipeline as a web service.
 
 What must you do before you deploy the real-time inference pipeline?
 
-* A.Run the real-time inference pipeline.
-* B.Create a batch inference pipeline.
-* C.Clone the training pipeline.
-* D.Create an Azure Machine Learning compute cluster.
+- A.Run the real-time inference pipeline.
+- B.Create a batch inference pipeline.
+- C.Clone the training pipeline.
+- D.Create an Azure Machine Learning compute cluster.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -38,6 +38,7 @@ https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-designer-autom
 <blockquote><p><strong>phdykd</strong> <code>(Sat 27 Jan 2024 03:35)</code> - <em>Upvotes: 3</em></p><p>D. Create an Azure Machine Learning compute cluster.
 
 In order to deploy a real-time inference pipeline as a web service in Azure Machine Learning, you need to have a compute target, and this can be an Azure Machine Learning Compute Cluster. This is where your model will be hosted and run when you deploy it. The other options are not necessary before deploying the inference pipeline. Running the pipeline or creating a batch inference pipeline isn&#x27;t required before deployment. Cloning the training pipeline also has no direct bearing on deploying the real-time inference pipeline.</p></blockquote>
+
 <blockquote><p><strong>colin1919</strong> <code>(Mon 01 Jan 2024 15:26)</code> - <em>Upvotes: 2</em></p><p>&quot;You use the Azure Machine Learning designer to create and run a training pipeline. You then create a real-time inference pipeline&quot;. This means that you already ran the training pipeline, because otherwise you would not have been able to create a real-time inferencing pipeline. So the only logical in my view would be D.</p></blockquote>
 <blockquote><p><strong>ZoeJ</strong> <code>(Fri 27 Oct 2023 03:08)</code> - <em>Upvotes: 2</em></p><p>I think the given answer is correct</p></blockquote>
 <blockquote><p><strong>Yuriy_Ch</strong> <code>(Fri 08 Sep 2023 11:30)</code> - <em>Upvotes: 1</em></p><p>Exactly this question was on exam 07/March/2023</p></blockquote>
@@ -50,4 +51,4 @@ In order to deploy a real-time inference pipeline as a web service in Azure Mach
 
 ---
 
-[<< Previous Question](question_400.md) | [Home](/index.md) | [Next Question >>](question_402.md)
+[<< Previous Question](question_400.md) | [Home](../index.md) | [Next Question >>](question_402.md)

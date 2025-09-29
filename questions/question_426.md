@@ -14,13 +14,13 @@ Solution: Create a managed online endpoint and set the value of its auth_mode pa
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -35,4 +35,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-authenticate-onl
 
 ---
 
-[<< Previous Question](question_425.md) | [Home](/index.md) | [Next Question >>](question_427.md)
+[<< Previous Question](question_425.md) | [Home](../index.md) | [Next Question >>](question_427.md)

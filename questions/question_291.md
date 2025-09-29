@@ -49,4 +49,4 @@ No = There is nothing about log.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_290.md) | [Home](/index.md) | [Next Question >>](question_292.md)
+[<< Previous Question](question_290.md) | [Home](../index.md) | [Next Question >>](question_292.md)

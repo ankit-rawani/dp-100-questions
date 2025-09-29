@@ -8,16 +8,16 @@ You need to ensure that the experiment runs successfully on local and remote com
 
 What should you do?
 
-* A.Do not specify an environment in the run configuration for the experiment. Run the experiment by using the default environment.
-* B.Create a virtual machine (VM) with the required Python configuration and attach the VM as a compute target. Use this compute target for all experiment runs.
-* C.Create and register an Environment that includes the required packages. Use this Environment for all experiment runs.
-* D.Create a config.yaml file defining the conda packages that are required and save the file in the experiment folder.
-* E.Always run the experiment with an Estimator by using the default packages.
+- A.Do not specify an environment in the run configuration for the experiment. Run the experiment by using the default environment.
+- B.Create a virtual machine (VM) with the required Python configuration and attach the VM as a compute target. Use this compute target for all experiment runs.
+- C.Create and register an Environment that includes the required packages. Use this Environment for all experiment runs.
+- D.Create a config.yaml file defining the conda packages that are required and save the file in the experiment folder.
+- E.Always run the experiment with an Estimator by using the default packages.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -34,11 +34,13 @@ What should you do?
 <blockquote><p><strong>phdykd</strong> <code>(Tue 15 Aug 2023 16:49)</code> - <em>Upvotes: 1</em></p><p>Creating a config.yaml file is not recommended in this scenario since the experiment is being run on both local and remote compute. It would require copying the file to every location where the experiment is run, which can be a time-consuming administrative task.
 
 Using an Estimator with the default packages is not recommended in this scenario since the required packages are not typically installed in a default conda environment.</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Tue 15 Aug 2023 16:48)</code> - <em>Upvotes: 2</em></p><p>C. The best solution for this scenario is to create and register an environment that includes the required packages, and use this environment for all experiment runs. This ensures that the experiment runs successfully on both local and remote compute with the least administrative effort.
 
 Specifying an environment in the run configuration is necessary to ensure that the correct packages and dependencies are used. If no environment is specified, the default environment may not include the required packages, leading to errors.
 
 Creating a virtual machine (VM) as a compute target is not necessary in this scenario since the experiment is being run on local and remote compute, not just remote compute. Also, creating and managing a VM can be a time-consuming administrative task.</p></blockquote>
+
 <blockquote><p><strong>michaelmorar</strong> <code>(Fri 30 Jun 2023 12:24)</code> - <em>Upvotes: 2</em></p><p>C cannot be correct if we are creating an Environment using it for every run?</p></blockquote>
 <blockquote><p><strong>BilJon</strong> <code>(Tue 28 Sep 2021 16:59)</code> - <em>Upvotes: 3</em></p><p>The case described is for a local Workstation, so the answer is correct.
 For real-time inferencing service a .yml file is needed</p></blockquote>
@@ -52,4 +54,4 @@ I think answer should be D since it would work in both cases</p></blockquote>
 
 ---
 
-[<< Previous Question](question_201.md) | [Home](/index.md) | [Next Question >>](question_203.md)
+[<< Previous Question](question_201.md) | [Home](../index.md) | [Next Question >>](question_203.md)

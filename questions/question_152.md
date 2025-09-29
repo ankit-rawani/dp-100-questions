@@ -63,4 +63,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/joi
 
 ---
 
-[<< Previous Question](question_151.md) | [Home](/index.md) | [Next Question >>](question_153.md)
+[<< Previous Question](question_151.md) | [Home](../index.md) | [Next Question >>](question_153.md)

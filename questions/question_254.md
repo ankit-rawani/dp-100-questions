@@ -53,4 +53,4 @@ That would be version 3 and then I should it would be yes (correct)</p></blockqu
 
 ---
 
-[<< Previous Question](question_253.md) | [Home](/index.md) | [Next Question >>](question_255.md)
+[<< Previous Question](question_253.md) | [Home](../index.md) | [Next Question >>](question_255.md)

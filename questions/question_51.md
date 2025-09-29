@@ -8,15 +8,15 @@ You need to create a virtual machine that is pre-configured with the required to
 
 What should you do?
 
-* A.Create a Data Science Virtual Machine (DSVM) Windows edition.
-* B.Create a Geo Al Data Science Virtual Machine (Geo-DSVM) Windows edition.
-* C.Create a Deep Learning Virtual Machine (DLVM) Linux edition.
-* D.Create a Deep Learning Virtual Machine (DLVM) Windows edition.
+- A.Create a Data Science Virtual Machine (DSVM) Windows edition.
+- B.Create a Geo Al Data Science Virtual Machine (Geo-DSVM) Windows edition.
+- C.Create a Deep Learning Virtual Machine (DLVM) Linux edition.
+- D.Create a Deep Learning Virtual Machine (DLVM) Windows edition.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -42,6 +42,7 @@ C. Create a Deep Learning Virtual Machine (DLVM) Linux edition. DLVM is pre-conf
 <blockquote><p><strong>DingDongSingSong</strong> <code>(Fri 30 Sep 2022 02:21)</code> - <em>Upvotes: 2</em></p><p>According to this link: https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-walkthrough
 
 DSVM on Linux has PostgreSQL preinstalled. Windows does not. So the answer is C even though it says DLVM (which is nothing but a variation of DSVM with GPU, which is also the requirement per the question)</p></blockquote>
+
 <blockquote><p><strong>trickerk</strong> <code>(Sun 06 Feb 2022 19:48)</code> - <em>Upvotes: 2</em></p><p>Question #10 in next page is about DLVM. So the correct answer is C, because DSVM for Windows doesn&#x27;t have pre-configured PostgreSQL. DLVM (DSVM framework) for Linux have pre-configured PostgreSQL.</p></blockquote>
 <blockquote><p><strong>thhvancouver</strong> <code>(Mon 31 Jan 2022 11:21)</code> - <em>Upvotes: 2</em></p><p>Windows DSVM appears to be correct: https://medium.com/@Hackyroot/azure-deep-learning-a7c1953e2542</p></blockquote>
 <blockquote><p><strong>trickerk</strong> <code>(Fri 07 Jan 2022 04:45)</code> - <em>Upvotes: 1</em></p><p>I believe the correct answer is C. Because the Microsoft documents don&#x27;t mention PostgreSQL for DSVM for Windows. Just compare: 
@@ -59,11 +60,12 @@ Actually, another question on this set is related to postgress-Windows. The expl
 <blockquote><p><strong>Srivathsan</strong> <code>(Fri 30 Jul 2021 03:54)</code> - <em>Upvotes: 7</em></p><p>To all who feel confused, refer the below docs:
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview
 
-It clearly states the DSVM windows edition means Windows Server 2019. Hence we shall say Option A is correct here. 
-DSVM has GPU enabled [Refer &quot;Deep learning with GPUs&quot; section in the docs link] 
+It clearly states the DSVM windows edition means Windows Server 2019. Hence we shall say Option A is correct here.
+DSVM has GPU enabled [Refer &quot;Deep learning with GPUs&quot; section in the docs link]
 
 As per the Docs:
 &quot;The Windows editions of the DSVM come pre-installed with GPU drivers, frameworks, and GPU versions of deep learning frameworks. On the Linux editions, deep learning on GPUs is enabled on the Ubuntu DSVMs.&quot;</p></blockquote>
+
 <blockquote><p><strong>DingDongSingSong</strong> <code>(Fri 30 Sep 2022 02:22)</code> - <em>Upvotes: 1</em></p><p>Sorry, not correct. The requirement is for GPU + PostgreSQL. Both of those are available on DSVM on Linux, not on Windows. Answer is C</p></blockquote>
 <blockquote><p><strong>nepketo</strong> <code>(Mon 07 Jun 2021 05:30)</code> - <em>Upvotes: 6</em></p><p>The answer is C since we need Deep Learning VM for GPU capability and Linux to support PostgreSQL.</p></blockquote>
 <blockquote><p><strong>ipindado2020</strong> <code>(Sat 08 May 2021 18:29)</code> - <em>Upvotes: 1</em></p><p>Agree with A:
@@ -74,4 +76,4 @@ C &amp; D-&gt; Customized for Deep Learning (DLVM)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_50.md) | [Home](/index.md) | [Next Question >>](question_52.md)
+[<< Previous Question](question_50.md) | [Home](../index.md) | [Next Question >>](question_52.md)

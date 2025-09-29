@@ -69,4 +69,4 @@ Can be used for most &quot;sequence&quot; type questions :) Or used as a verific
 
 ---
 
-[<< Previous Question](question_487.md) | [Home](/index.md) | [Next Question >>](question_489.md)
+[<< Previous Question](question_487.md) | [Home](../index.md) | [Next Question >>](question_489.md)

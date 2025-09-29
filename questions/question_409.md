@@ -70,4 +70,4 @@ There is a &#x27;Analyze log data with Log Analytics&#x27; part, maybe this is t
 
 ---
 
-[<< Previous Question](question_408.md) | [Home](/index.md) | [Next Question >>](question_410.md)
+[<< Previous Question](question_408.md) | [Home](../index.md) | [Next Question >>](question_410.md)

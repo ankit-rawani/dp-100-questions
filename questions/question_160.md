@@ -28,4 +28,4 @@ Which four actions should you perform in sequence?
 
 ---
 
-[<< Previous Question](question_159.md) | [Home](/index.md) | [Next Question >>](question_161.md)
+[<< Previous Question](question_159.md) | [Home](../index.md) | [Next Question >>](question_161.md)

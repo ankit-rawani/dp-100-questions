@@ -8,16 +8,16 @@ You need to deploy the model as an Azure Machine Learning real-time web service 
 
 Which deployment compute option should you use?
 
-* A.attached Azure Databricks cluster
-* B.Azure Container Instance (ACI)
-* C.Azure Kubernetes Service (AKS) inference cluster
-* D.Azure Machine Learning Compute Instance
-* E.attached virtual machine in a different region
+- A.attached Azure Databricks cluster
+- B.Azure Container Instance (ACI)
+- C.Azure Kubernetes Service (AKS) inference cluster
+- D.Azure Machine Learning Compute Instance
+- E.attached virtual machine in a different region
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -52,4 +52,4 @@ https://docs.microsoft.com/fr-fr/azure/machine-learning/how-to-deploy-and-where?
 
 ---
 
-[<< Previous Question](question_398.md) | [Home](/index.md) | [Next Question >>](question_400.md)
+[<< Previous Question](question_398.md) | [Home](../index.md) | [Next Question >>](question_400.md)

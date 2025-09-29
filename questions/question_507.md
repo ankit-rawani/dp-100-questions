@@ -4,15 +4,16 @@ You need to implement a model development strategy to determine a user's tendenc
 
 Which technique should you use?
 
-* A.Use a Relative Expression Split module to partition the data based on centroid distance.
-* B.Use a Relative Expression Split module to partition the data based on distance travelled to the event.
-* C.Use a Split Rows module to partition the data based on distance travelled to the event.
-* D.Use a Split Rows module to partition the data based on centroid distance.
+- A.Use a Relative Expression Split module to partition the data based on centroid distance.
+- B.Use a Relative Expression Split module to partition the data based on distance travelled to the event.
+- C.Use a Split Rows module to partition the data based on distance travelled to the event.
+- D.Use a Split Rows module to partition the data based on centroid distance.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>Split Data partitions the rows of a dataset into two distinct sets.</p>
 <p>The Relative Expression Split option in the Split Data module of Azure Machine Learning Studio is helpful when you need to divide a dataset into training and testing datasets using a numerical expression.</p>
 <p>Relative Expression Split: Use this option whenever you want to apply a condition to a number column. The number could be a date/time field, a column containing age or dollar amounts, or even a percentage. For example, you might want to divide your data set depending on the cost of the items, group people by age ranges, or separate data by a calendar date.</p>
@@ -34,4 +35,4 @@ Which technique should you use?
 
 ---
 
-[<< Previous Question](question_506.md) | [Home](/index.md) | [Next Question >>](question_508.md)
+[<< Previous Question](question_506.md) | [Home](../index.md) | [Next Question >>](question_508.md)

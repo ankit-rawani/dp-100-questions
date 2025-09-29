@@ -46,4 +46,4 @@ It must be a positive value: More precisely, the values must be non-negative int
 
 ---
 
-[<< Previous Question](question_21.md) | [Home](/index.md) | [Next Question >>](question_23.md)
+[<< Previous Question](question_21.md) | [Home](../index.md) | [Next Question >>](question_23.md)

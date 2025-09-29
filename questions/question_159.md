@@ -8,15 +8,15 @@ You need to set the Registry name filter to display only the list of assets defi
 
 What should you set the Registry name filter to?
 
-* A.proj1
-* B.azureml-meta
-* C.azureml
-* D.workspace
+- A.proj1
+- B.azureml-meta
+- C.azureml
+- D.workspace
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -34,4 +34,4 @@ In Azure Machine Learning, setting the Registry name filter to &quot;workspace&q
 
 ---
 
-[<< Previous Question](question_158.md) | [Home](/index.md) | [Next Question >>](question_160.md)
+[<< Previous Question](question_158.md) | [Home](../index.md) | [Next Question >>](question_160.md)

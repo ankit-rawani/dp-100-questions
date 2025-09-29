@@ -6,16 +6,16 @@ You need to select a pre-configured DSVM to support the frameworks.
 
 What should you create?
 
-* A.Data Science Virtual Machine for Windows 2012
-* B.Data Science Virtual Machine for Linux (CentOS)
-* C.Geo AI Data Science Virtual Machine with ArcGIS
-* D.Data Science Virtual Machine for Windows 2016
-* E.Data Science Virtual Machine for Linux (Ubuntu)
+- A.Data Science Virtual Machine for Windows 2012
+- B.Data Science Virtual Machine for Linux (CentOS)
+- C.Geo AI Data Science Virtual Machine with ArcGIS
+- D.Data Science Virtual Machine for Windows 2016
+- E.Data Science Virtual Machine for Linux (Ubuntu)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>E</strong><br>
+<strong>E</strong><br>
 
 </details>
 
@@ -31,10 +31,12 @@ What should you create?
 Justification: Both Caffe2 and PyTorch are widely used deep learning frameworks and are well supported on Linux platforms, particularly Ubuntu. The Data Science Virtual Machine for Linux (Ubuntu) is pre-configured with the necessary libraries, tools, and deep learning frameworks to help you get started quickly with your deep learning projects.
 
 CentOS is a stable and reliable Linux distribution, but it may not have the latest version of Caffe2 or PyTorch, or the necessary dependencies to run them. Windows Server operating systems such as Windows 2012 and Windows 2016 are not as commonly used for deep learning and may not have the necessary support for these frameworks. The Geo AI Data Science Virtual Machine with ArcGIS is a specialized DSVM specifically designed for geospatial data and may not include support for Caffe2 and PyTorch.</p></blockquote>
+
 <blockquote><p><strong>MansoorDataScientist</strong> <code>(Wed 26 Jul 2023 14:14)</code> - <em>Upvotes: 1</em></p><p>The DSVM is available on:
 
 Windows Server 2019
 Ubuntu 20.04 LTS</p></blockquote>
+
 <blockquote><p><strong>racnaoamo</strong> <code>(Sat 19 Nov 2022 08:42)</code> - <em>Upvotes: 1</em></p><p>similar question on 18-5-22</p></blockquote>
 <blockquote><p><strong>TheYazan</strong> <code>(Fri 09 Sep 2022 20:49)</code> - <em>Upvotes: 2</em></p><p>On march-9-2022</p></blockquote>
 <blockquote><p><strong>ashii007</strong> <code>(Sat 25 Jun 2022 20:40)</code> - <em>Upvotes: 1</em></p><p>A-D are wrong. None of the OS mentioned in options A-D are supported.</p></blockquote>
@@ -48,10 +50,11 @@ PyTorch - Supported DSVM editions	Windows Server 2019
 Ubuntu 18.04
 Ubuntu 16.04
 
-And, DSVMs are available only in Windows Server 2019 and Linux(Ubuntu). 
+And, DSVMs are available only in Windows Server 2019 and Linux(Ubuntu).
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview
 
 So, the answer is clearly E. Because DSVM don&#x27;t work in Windows Server 2012/2016 and CentOS is not supported, as per the documentation.</p></blockquote>
+
 <blockquote><p><strong>ipindado2020</strong> <code>(Sat 08 May 2021 18:43)</code> - <em>Upvotes: 2</em></p><p>Agree with D
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/tools-included</p></blockquote>
 <blockquote><p><strong>111ssy</strong> <code>(Sat 05 Jun 2021 14:50)</code> - <em>Upvotes: 1</em></p><p>Your link specifically say that Caffe2 is not supported by Window...!!!! The answer is E</p></blockquote>
@@ -67,4 +70,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-mac
 
 ---
 
-[<< Previous Question](question_54.md) | [Home](/index.md) | [Next Question >>](question_56.md)
+[<< Previous Question](question_54.md) | [Home](../index.md) | [Next Question >>](question_56.md)

@@ -31,4 +31,4 @@ In which order should you perform the actions? To answer, move all actions from 
 
 ---
 
-[<< Previous Question](question_173.md) | [Home](/index.md) | [Next Question >>](question_175.md)
+[<< Previous Question](question_173.md) | [Home](../index.md) | [Next Question >>](question_175.md)

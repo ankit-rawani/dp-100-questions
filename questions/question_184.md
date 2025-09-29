@@ -76,4 +76,4 @@ documentation says, its logged to -Driver logs, Azure Machine Learning designer<
 
 ---
 
-[<< Previous Question](question_183.md) | [Home](/index.md) | [Next Question >>](question_185.md)
+[<< Previous Question](question_183.md) | [Home](../index.md) | [Next Question >>](question_185.md)

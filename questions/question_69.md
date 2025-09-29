@@ -47,4 +47,4 @@ Note that &quot;Convert to indicator values&quot; (re-encode Categorical values 
 
 ---
 
-[<< Previous Question](question_68.md) | [Home](/index.md) | [Next Question >>](question_70.md)
+[<< Previous Question](question_68.md) | [Home](../index.md) | [Next Question >>](question_70.md)

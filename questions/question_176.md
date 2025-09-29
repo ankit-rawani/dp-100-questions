@@ -42,4 +42,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_175.md) | [Home](/index.md) | [Next Question >>](question_177.md)
+[<< Previous Question](question_175.md) | [Home](../index.md) | [Next Question >>](question_177.md)

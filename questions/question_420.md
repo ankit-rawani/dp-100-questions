@@ -41,4 +41,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-access-data</
 
 ---
 
-[<< Previous Question](question_419.md) | [Home](/index.md) | [Next Question >>](question_421.md)
+[<< Previous Question](question_419.md) | [Home](../index.md) | [Next Question >>](question_421.md)

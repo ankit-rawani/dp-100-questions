@@ -36,4 +36,4 @@ https://learn.microsoft.com/en-us/python/api/azureml-pipeline-steps/azureml.pipe
 
 ---
 
-[<< Previous Question](question_289.md) | [Home](/index.md) | [Next Question >>](question_291.md)
+[<< Previous Question](question_289.md) | [Home](../index.md) | [Next Question >>](question_291.md)

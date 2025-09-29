@@ -6,15 +6,15 @@ You need to select a data cleaning method.
 
 Which method should you use?
 
-* A.Replace using Probabilistic PCA
-* B.Normalization
-* C.Synthetic Minority Oversampling Technique (SMOTE)
-* D.Replace using MICE
+- A.Replace using Probabilistic PCA
+- B.Normalization
+- C.Synthetic Minority Oversampling Technique (SMOTE)
+- D.Replace using MICE
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -26,11 +26,13 @@ Which method should you use?
 D. Replace using MICE (Multiple Imputation by Chained Equations)
 
 MICE is an effective imputation technique that can handle multiple columns with missing values by using regression models to iteratively impute the missing data, making it suitable for your needs.</p></blockquote>
+
 <blockquote><p><strong>Hisayuki</strong> <code>(Mon 04 Nov 2024 00:42)</code> - <em>Upvotes: 3</em></p><p>The point is &quot;The data does not require the application of predictors for each column.&quot; So, it means reducing the dimension and use the PCA - Primary Component Analysis</p></blockquote>
 <blockquote><p><strong>PI_Team</strong> <code>(Fri 12 Jul 2024 15:31)</code> - <em>Upvotes: 4</em></p><p>Question is outdated in my opinion. 
 In Clean Missing Data, you can see only: Replace with meanmedian/mode/ and remove enitre row/column
 
 https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/clean-missing-data?view=azureml-api-2</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Tue 25 Jun 2024 05:28)</code> - <em>Upvotes: 1</em></p><p>A is the answer. It is in classic version.</p></blockquote>
 <blockquote><p><strong>krishna1818</strong> <code>(Wed 29 May 2024 09:26)</code> - <em>Upvotes: 2</em></p><p>As a predictor is not required we can use PPCA method</p></blockquote>
 <blockquote><p><strong>ajay0011</strong> <code>(Tue 02 Apr 2024 04:46)</code> - <em>Upvotes: 1</em></p><p>Answer is PPCA. MICE is wrong totally check documentation.</p></blockquote>
@@ -51,4 +53,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/cle
 
 ---
 
-[<< Previous Question](question_80.md) | [Home](/index.md) | [Next Question >>](question_82.md)
+[<< Previous Question](question_80.md) | [Home](../index.md) | [Next Question >>](question_82.md)

@@ -48,4 +48,4 @@ Select and Place:
 
 ---
 
-[<< Previous Question](question_56.md) | [Home](/index.md) | [Next Question >>](question_58.md)
+[<< Previous Question](question_56.md) | [Home](../index.md) | [Next Question >>](question_58.md)

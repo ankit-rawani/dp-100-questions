@@ -34,4 +34,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-designer-python#
 
 ---
 
-[<< Previous Question](question_310.md) | [Home](/index.md) | [Next Question >>](question_312.md)
+[<< Previous Question](question_310.md) | [Home](../index.md) | [Next Question >>](question_312.md)

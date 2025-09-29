@@ -47,4 +47,4 @@ The key reason this meets both requirements is that the original problem stated 
 
 ---
 
-[<< Previous Question](question_96.md) | [Home](/index.md) | [Next Question >>](question_98.md)
+[<< Previous Question](question_96.md) | [Home](../index.md) | [Next Question >>](question_98.md)

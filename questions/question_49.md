@@ -6,15 +6,16 @@ You need to format the data for the Weka environment.
 
 Which module should you use?
 
-* A.Convert to CSV
-* B.Convert to Dataset
-* C.Convert to ARFF
-* D.Convert to SVMLight
+- A.Convert to CSV
+- B.Convert to Dataset
+- C.Convert to ARFF
+- D.Convert to SVMLight
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
+
 <p>Use the Convert to ARFF module in Azure Machine Learning Studio, to convert datasets and results in Azure Machine Learning to the attribute-relation file format used by the Weka toolset. This format is known as ARFF.</p>
 <p>The ARFF data specification for Weka supports multiple machine learning tasks, including data preprocessing, classification, and feature selection. In this format, data is organized by entites and their attributes, and is contained in a single text file.</p>
 <p>Reference:</p>
@@ -36,4 +37,4 @@ Which module should you use?
 
 ---
 
-[<< Previous Question](question_48.md) | [Home](/index.md) | [Next Question >>](question_50.md)
+[<< Previous Question](question_48.md) | [Home](../index.md) | [Next Question >>](question_50.md)

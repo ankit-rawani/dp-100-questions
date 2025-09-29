@@ -14,13 +14,13 @@ Solution: Register the model in the workspace.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -39,4 +39,4 @@ Registering the MLflow model in the Azure Machine Learning workspace is a necess
 
 ---
 
-[<< Previous Question](question_170.md) | [Home](/index.md) | [Next Question >>](question_172.md)
+[<< Previous Question](question_170.md) | [Home](../index.md) | [Next Question >>](question_172.md)

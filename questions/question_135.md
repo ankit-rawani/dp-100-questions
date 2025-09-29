@@ -40,4 +40,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-track-experiment
 
 ---
 
-[<< Previous Question](question_134.md) | [Home](/index.md) | [Next Question >>](question_136.md)
+[<< Previous Question](question_134.md) | [Home](../index.md) | [Next Question >>](question_136.md)

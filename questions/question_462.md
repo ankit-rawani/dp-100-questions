@@ -14,13 +14,13 @@ Solution: Create a PFIExplainer.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -52,6 +52,7 @@ Solution: Create a PFIExplainer.
 Does the solution meet the goal?
 
 ????</p></blockquote>
+
 <blockquote><p><strong>azurecert2021</strong> <code>(Sun 26 Dec 2021 19:42)</code> - <em>Upvotes: 2</em></p><p>answer should be Yes
 Permutation Feature Importance (PFI) model explainer canonly be used to explain how strongly the features contribute to the prediction at the dataset level, itdoesn’t support evaluation of local importances.
 Mimic Explainer can be used for interpreting both the global and local importance of features,
@@ -67,4 +68,4 @@ ref: https://github.com/interpretml/interpret-community/blob/master/notebooks/ad
 
 ---
 
-[<< Previous Question](question_461.md) | [Home](/index.md) | [Next Question >>](question_463.md)
+[<< Previous Question](question_461.md) | [Home](../index.md) | [Next Question >>](question_463.md)

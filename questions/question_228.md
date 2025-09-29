@@ -120,4 +120,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.data.dataset_fa
 
 ---
 
-[<< Previous Question](question_227.md) | [Home](/index.md) | [Next Question >>](question_229.md)
+[<< Previous Question](question_227.md) | [Home](../index.md) | [Next Question >>](question_229.md)

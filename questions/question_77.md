@@ -14,13 +14,13 @@ Solution: Replace each missing value using the Multiple Imputation by Chained Eq
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -35,10 +35,11 @@ Does the solution meet the goal?
 https://www.examtopics.com/discussions/microsoft/view/48586-exam-dp-100-topic-1-question-33-discussion/
 
 And both MICE and LOCF are correct</p></blockquote>
+
 <blockquote><p><strong>lcgcastro96</strong> <code>(Wed 13 Dec 2023 13:55)</code> - <em>Upvotes: 2</em></p><p>LOCF does not take into consideration the full dataset</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_76.md) | [Home](/index.md) | [Next Question >>](question_78.md)
+[<< Previous Question](question_76.md) | [Home](../index.md) | [Next Question >>](question_78.md)

@@ -114,4 +114,4 @@ https://docs.microsoft.com/en-gb/azure/machine-learning/how-to-deploy-local-cont
 
 ---
 
-[<< Previous Question](question_378.md) | [Home](/index.md) | [Next Question >>](question_380.md)
+[<< Previous Question](question_378.md) | [Home](../index.md) | [Next Question >>](question_380.md)

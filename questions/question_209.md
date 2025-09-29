@@ -62,4 +62,4 @@ fn</p></blockquote>
 
 ---
 
-[<< Previous Question](question_208.md) | [Home](/index.md) | [Next Question >>](question_210.md)
+[<< Previous Question](question_208.md) | [Home](../index.md) | [Next Question >>](question_210.md)

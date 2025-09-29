@@ -8,15 +8,15 @@ You need to modify the inference pipeline to meet the requirement.
 
 What should you do?
 
-* A.Add a Select Columns in Dataset module to the inference pipeline after the dataset and use it to select all columns other than the label.
-* B.Delete the dataset from the training pipeline and recreate the real-time inference pipeline.
-* C.Delete the Web Service Input module from the inference pipeline.
-* D.Replace the dataset in the inference pipeline with an Enter Data Manually module that includes data for the feature columns but not the label column.
+- A.Add a Select Columns in Dataset module to the inference pipeline after the dataset and use it to select all columns other than the label.
+- B.Delete the dataset from the training pipeline and recreate the real-time inference pipeline.
+- C.Delete the Web Service Input module from the inference pipeline.
+- D.Replace the dataset in the inference pipeline with an Enter Data Manually module that includes data for the feature columns but not the label column.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ What should you do?
 
 ---
 
-[<< Previous Question](question_392.md) | [Home](/index.md) | [Next Question >>](question_394.md)
+[<< Previous Question](question_392.md) | [Home](../index.md) | [Next Question >>](question_394.md)

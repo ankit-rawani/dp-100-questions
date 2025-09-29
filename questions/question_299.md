@@ -44,4 +44,4 @@ early_termination_policy = bandit_policy(slack_factor = 0.1,
 
 ---
 
-[<< Previous Question](question_298.md) | [Home](/index.md) | [Next Question >>](question_300.md)
+[<< Previous Question](question_298.md) | [Home](../index.md) | [Next Question >>](question_300.md)

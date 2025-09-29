@@ -14,13 +14,13 @@ Solution: Pass the UserAssignedIdentity class object to the SynapseSparkCompute 
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -30,9 +30,11 @@ Does the solution meet the goal?
 <blockquote><p><strong>astone42</strong> <code>(Mon 13 Jan 2025 14:24)</code> - <em>Upvotes: 1</em></p><p>A Synapse Spark pool can also use a user-assigned identity. For a user-assigned identity, you can pass a managed identity definition, using the IdentityConfiguration class, as the identity parameter of the SynapseSparkCompute class. For the managed identity definition used in this way, set the type to UserAssigned. In addition, pass a user_assigned_identities parameter. The parameter user_assigned_identities is a list of objects of the UserAssignedIdentity class. The resource_idof the user-assigned identity populates each UserAssignedIdentity class object
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-synapse-spark-pool?view=azureml-api-2&amp;tabs=sdk#update-the-synapse-spark-pool</p></blockquote>
+
 <blockquote><p><strong>colin1919</strong> <code>(Wed 11 Dec 2024 12:13)</code> - <em>Upvotes: 1</em></p><p>No. It is tricky, but no.
 
 You don&#x27;t pass the UserAssignedIdentity() to SynapseSparkCompute() but to the user_assigned_identities INSIDE the ManagedIdentityConfiguration(), which in turn is passed to the SynapseSparkCompute() class.</p></blockquote>
+
 <blockquote><p><strong>Sadhak</strong> <code>(Wed 27 Nov 2024 21:56)</code> - <em>Upvotes: 2</em></p><p>spark_compute = ml_client.compute.get(&quot;&lt;your-spark-compute-name&gt;&quot;)
 spark_compute.identity = ManagedIdentityConfiguration(
 type=&quot;UserAssigned&quot;,
@@ -45,14 +47,14 @@ user_assigned_identities=[
 
 spark_compute = ml_client.compute.get(&quot;&lt;your-spark-compute-name&gt;&quot;)
 spark_compute.identity = ManagedIdentityConfiguration(
-    type=&quot;UserAssigned&quot;,
-    user_assigned_identities=[
-        &quot;/subscriptions/&lt;your-subscription-id&gt;/resourcegroups/&lt;your-resource-group-name&gt;/providers/Microsoft.ManagedIdentity/userAssignedIdentities/&lt;your-identity-name&gt;&quot;
-    ]
+type=&quot;UserAssigned&quot;,
+user_assigned_identities=[
+&quot;/subscriptions/&lt;your-subscription-id&gt;/resourcegroups/&lt;your-resource-group-name&gt;/providers/Microsoft.ManagedIdentity/userAssignedIdentities/&lt;your-identity-name&gt;&quot;
+]
 )</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_176.md) | [Home](/index.md) | [Next Question >>](question_178.md)
+[<< Previous Question](question_176.md) | [Home](../index.md) | [Next Question >>](question_178.md)

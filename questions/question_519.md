@@ -71,4 +71,4 @@ Besides that, Truncation will stop runs that fall below a certain threshold righ
 
 ---
 
-[<< Previous Question](question_518.md) | [Home](/index.md) | [Next Question >>](question_520.md)
+[<< Previous Question](question_518.md) | [Home](../index.md) | [Next Question >>](question_520.md)

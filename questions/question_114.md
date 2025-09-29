@@ -43,4 +43,4 @@ here is the order :
 
 ---
 
-[<< Previous Question](question_113.md) | [Home](/index.md) | [Next Question >>](question_115.md)
+[<< Previous Question](question_113.md) | [Home](../index.md) | [Next Question >>](question_115.md)

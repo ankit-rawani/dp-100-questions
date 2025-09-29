@@ -8,16 +8,16 @@ You need to determine the extent to which each feature in the customer data is i
 
 What should you do?
 
-* A.Enable data drift monitoring for the model and its training dataset.
-* B.Score the model against some test data with known label values and use the results to calculate a confusion matrix.
-* C.Use the Hyperdrive library to test the model with multiple hyperparameter values.
-* D.Use the interpretability package to generate an explainer for the model.
-* E.Add tags to the model registration indicating the names of the features in the training dataset.
+- A.Enable data drift monitoring for the model and its training dataset.
+- B.Score the model against some test data with known label values and use the results to calculate a confusion matrix.
+- C.Use the Hyperdrive library to test the model with multiple hyperparameter values.
+- D.Use the interpretability package to generate an explainer for the model.
+- E.Add tags to the model registration indicating the names of the features in the training dataset.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -40,4 +40,4 @@ What should you do?
 
 ---
 
-[<< Previous Question](question_457.md) | [Home](/index.md) | [Next Question >>](question_459.md)
+[<< Previous Question](question_457.md) | [Home](../index.md) | [Next Question >>](question_459.md)

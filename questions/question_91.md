@@ -18,16 +18,17 @@ What are three possible ways to achieve this goal? Each correct answer presents 
 
 NOTE: Each correct selection is worth one point.
 
-* A.Use the Azure Machine Learning studio.
-* B.Run the update method of the AmlCompute class in the Python SDK.
-* C.Use the Azure portal.
-* D.Use the Azure Machine Learning designer.
-* E.Run the refresh_state() method of the BatchCompute class in the Python SDK.
+- A.Use the Azure Machine Learning studio.
+- B.Run the update method of the AmlCompute class in the Python SDK.
+- C.Use the Azure portal.
+- D.Use the Azure Machine Learning designer.
+- E.Run the refresh_state() method of the BatchCompute class in the Python SDK.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>ABC</strong><br>
+<strong>ABC</strong><br>
+
 <p>A: You can manage assets and resources in the Azure Machine Learning studio.</p>
 <p>B: The update(min_nodes=None, max_nodes=None, idle_seconds_before_scaledown=None) of the AmlCompute class updates the ScaleSettings for this</p>
 <p>AmlCompute target.</p>
@@ -47,6 +48,7 @@ NOTE: Each correct selection is worth one point.
 C was possible in the past, they removed the option to manage compute instance for ML from the portal.
 
 E is incorrect</p></blockquote>
+
 <blockquote><p><strong>NullVoider_0</strong> <code>(Mon 12 Aug 2024 13:33)</code> - <em>Upvotes: 1</em></p><p>On exam 12-02-2024.</p></blockquote>
 <blockquote><p><strong>Awooga</strong> <code>(Tue 06 Aug 2024 14:16)</code> - <em>Upvotes: 1</em></p><p>On exam 2024-02-06</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Sat 05 Aug 2023 00:34)</code> - <em>Upvotes: 2</em></p><p>A. Use the Azure Machine Learning studio.
@@ -70,4 +72,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.compute.ba
 
 ---
 
-[<< Previous Question](question_90.md) | [Home](/index.md) | [Next Question >>](question_92.md)
+[<< Previous Question](question_90.md) | [Home](../index.md) | [Next Question >>](question_92.md)

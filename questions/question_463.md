@@ -99,4 +99,4 @@ A - Standard; B - Min Max; C - Normalizer</p></blockquote>
 
 ---
 
-[<< Previous Question](question_462.md) | [Home](/index.md) | [Next Question >>](question_464.md)
+[<< Previous Question](question_462.md) | [Home](../index.md) | [Next Question >>](question_464.md)

@@ -89,4 +89,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.run(class)
 
 ---
 
-[<< Previous Question](question_221.md) | [Home](/index.md) | [Next Question >>](question_223.md)
+[<< Previous Question](question_221.md) | [Home](../index.md) | [Next Question >>](question_223.md)

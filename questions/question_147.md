@@ -44,4 +44,4 @@ Attach the Synapse Spark pool with the azure.ai.ml.MLClient.begin_create_or_upda
 
 ---
 
-[<< Previous Question](question_146.md) | [Home](/index.md) | [Next Question >>](question_148.md)
+[<< Previous Question](question_146.md) | [Home](../index.md) | [Next Question >>](question_148.md)

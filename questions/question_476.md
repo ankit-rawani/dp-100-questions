@@ -14,13 +14,14 @@ Solution: Use the following metrics: Mean Absolute Error, Root Mean Absolute Err
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Accuracy, Precision, Recall, F1 score, and AUC are metrics for evaluating classification models.</p>
 <p>Note: Mean Absolute Error, Root Mean Absolute Error, Relative Absolute Error are OK for the linear regression model.</p>
 <p>Reference:</p>
@@ -36,6 +37,7 @@ Does the solution meet the goal?
 The question being, how is this a Y/N question? anybody else get tripped up by this?
 
 Do I answer no if I can find one evaluation method that doesn&#x27;t make sense? etc.</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Thu 08 Aug 2024 02:39)</code> - <em>Upvotes: 1</em></p><p>what would be the answer if there were R2 aswell as an options?</p></blockquote>
 <blockquote><p><strong>Andrexx</strong> <code>(Wed 12 May 2021 21:11)</code> - <em>Upvotes: 1</em></p><p>Agree with the answer</p></blockquote>
 <blockquote><p><strong>clownfishman</strong> <code>(Tue 30 Mar 2021 01:35)</code> - <em>Upvotes: 3</em></p><p>... but this is asking for a linear regression model, so the answer should be TRUE</p></blockquote>
@@ -45,4 +47,4 @@ Do I answer no if I can find one evaluation method that doesn&#x27;t make sense?
 
 ---
 
-[<< Previous Question](question_475.md) | [Home](/index.md) | [Next Question >>](question_477.md)
+[<< Previous Question](question_475.md) | [Home](../index.md) | [Next Question >>](question_477.md)

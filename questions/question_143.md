@@ -54,4 +54,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/reference-yaml-compute-
 
 ---
 
-[<< Previous Question](question_142.md) | [Home](/index.md) | [Next Question >>](question_144.md)
+[<< Previous Question](question_142.md) | [Home](../index.md) | [Next Question >>](question_144.md)

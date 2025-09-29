@@ -66,4 +66,4 @@ cant use sweep clustering module which is for clustering</p></blockquote>
 
 ---
 
-[<< Previous Question](question_510.md) | [Home](/index.md) | [Next Question >>](question_512.md)
+[<< Previous Question](question_510.md) | [Home](../index.md) | [Next Question >>](question_512.md)

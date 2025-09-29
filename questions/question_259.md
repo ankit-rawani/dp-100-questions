@@ -82,4 +82,4 @@ given answer is correct. get_output() returns array</p></blockquote>
 
 ---
 
-[<< Previous Question](question_258.md) | [Home](/index.md) | [Next Question >>](question_260.md)
+[<< Previous Question](question_258.md) | [Home](../index.md) | [Next Question >>](question_260.md)

@@ -6,15 +6,15 @@ You need to use Intellisense in the notebook.
 
 What should you do?
 
-* A.Stop the compute instance.
-* B.Start the compute instance.
-* C.Run a %pip magic function on the compute instance.
-* D.Run a !pip magic function on the compute instance.
+- A.Stop the compute instance.
+- B.Start the compute instance.
+- C.Run a %pip magic function on the compute instance.
+- D.Run a !pip magic function on the compute instance.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -27,6 +27,7 @@ What should you do?
 <blockquote><p><strong>jojashi</strong> <code>(Fri 29 Nov 2024 11:24)</code> - <em>Upvotes: 1</em></p><p>Correct. C
 
 Chat GPT says it is C. To enable Intellisense in a Python SDK v2 notebook within an Azure Machine Learning Studio workspace, you don&#x27;t need to perform any actions related to starting or stopping the compute instance. Instead, you need to ensure that the required Python packages are installed in your environment to support Intellisense.</p></blockquote>
+
 <blockquote><p><strong>Matt2000</strong> <code>(Wed 24 Jul 2024 07:06)</code> - <em>Upvotes: 2</em></p><p>B seems to be correct. See https://learn.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks?view=azureml-api-2</p></blockquote>
 <blockquote><p><strong>ferren</strong> <code>(Fri 10 May 2024 19:55)</code> - <em>Upvotes: 1</em></p><p>claude says it is B</p></blockquote>
 <blockquote><p><strong>cyberfriends</strong> <code>(Wed 17 Apr 2024 14:16)</code> - <em>Upvotes: 1</em></p><p>You can use %pip install to install packages and enable Intellisense. For example, if you want to install a package like numpy, you can run the following command in your Jupyter notebook cell:
@@ -37,11 +38,13 @@ When a compute instance is running, you can also use code completion, powered by
 <blockquote><p><strong>PI_Team</strong> <code>(Fri 26 Jan 2024 14:27)</code> - <em>Upvotes: 2</em></p><p>To use Intellisense in a Python SDK v2 notebook in Azure Machine Learning Studio, you should start the compute instance. This will enable you to use advanced features like full IntelliSense and inline error highlighting directly in your Jupyter notebooks1. So the correct answer is B. Start the compute instance.
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Wed 27 Dec 2023 18:41)</code> - <em>Upvotes: 1</em></p><p>To use it, you must ensure that your compute instance is running and connected to your notebook.
 
- the correct answer is:
+the correct answer is:
 
 B. Start the compute instance.</p></blockquote>
+
 <blockquote><p><strong>fhlos</strong> <code>(Wed 27 Dec 2023 15:51)</code> - <em>Upvotes: 1</em></p><p>C - is correct answer</p></blockquote>
 <blockquote><p><strong>Batman160591</strong> <code>(Wed 20 Dec 2023 23:37)</code> - <em>Upvotes: 2</em></p><p>B seems the correct</p></blockquote>
 
@@ -49,4 +52,4 @@ B. Start the compute instance.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_143.md) | [Home](/index.md) | [Next Question >>](question_145.md)
+[<< Previous Question](question_143.md) | [Home](../index.md) | [Next Question >>](question_145.md)

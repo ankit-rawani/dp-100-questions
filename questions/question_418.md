@@ -42,4 +42,4 @@ Deploy a service to an inference cluster. After you have a working inference pip
 
 ---
 
-[<< Previous Question](question_417.md) | [Home](/index.md) | [Next Question >>](question_419.md)
+[<< Previous Question](question_417.md) | [Home](../index.md) | [Next Question >>](question_419.md)

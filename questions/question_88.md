@@ -6,15 +6,15 @@ You need to split your dataset into training and testing subsets by using the Sp
 
 Which splitting mode should you use?
 
-* A.Recommender Split
-* B.Regular Expression Split
-* C.Relative Expression Split
-* D.Split Rows with the Randomized split parameter set to true
+- A.Recommender Split
+- B.Regular Expression Split
+- C.Relative Expression Split
+- D.Split Rows with the Randomized split parameter set to true
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -37,6 +37,7 @@ The Split Rows mode allows you to specify a fraction of the dataset to be used f
 
 Randomized Split Parameter:
 Setting the Randomized split parameter to true ensures that the data is shuffled before splitting, which is crucial for time series data to avoid bias and ensure that the model generalizes well.</p></blockquote>
+
 <blockquote><p><strong>Lion007</strong> <code>(Sun 30 Jun 2024 15:32)</code> - <em>Upvotes: 2</em></p><p>WRONG. The Correct answer is: C
 The correct method for splitting a time series dataset should consider the sequential nature of the data. The options available in the Split Data component in Azure ML are:
 1. Split Rows: This mode is used to simply divide the data into two parts. This mode is generally used when the sequence of data is not a concern.
@@ -53,6 +54,7 @@ This is very sneaky by mentioning this is a time series data which makes me thin
 The Relative Expression Split mode allows you to split the dataset based on conditions applied to a number column. This number column can be a date/time field, age, dollar amounts, percentages, or any other numerical value. It provides flexibility in defining the splitting criteria based on these numeric conditions.
 
 In the context of a time series dataset, you can use the Relative Expression Split mode to split the dataset based on conditions related to the time component, such as dividing data by calendar date, time periods, or specific ranges of dates.</p></blockquote>
+
 <blockquote><p><strong>RamundiGR</strong> <code>(Thu 10 Aug 2023 14:56)</code> - <em>Upvotes: 1</em></p><p>it clearly C!! you can check on https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/split-data</p></blockquote>
 <blockquote><p><strong>RamundiGR</strong> <code>(Sun 06 Aug 2023 13:54)</code> - <em>Upvotes: 2</em></p><p>why the moderator does not bother to correct those answers?</p></blockquote>
 <blockquote><p><strong>NachoPrendes</strong> <code>(Sun 30 Jul 2023 15:02)</code> - <em>Upvotes: 1</em></p><p>I think D is the correct one to choose random dates belonging to all years in two datasets</p></blockquote>
@@ -69,10 +71,11 @@ In machine learning, train/test split splits the data randomly, as there’s no 
 Example: Select first 10 years for training and 2 years for testing.
 
 https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/split-data (check the Relative Expression Split section)</p></blockquote>
+
 <blockquote><p><strong>sam844</strong> <code>(Mon 26 Sep 2022 05:54)</code> - <em>Upvotes: 1</em></p><p>C is the correct choice. It is time series data so it has to be split by date which is only Relative Expression</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_87.md) | [Home](/index.md) | [Next Question >>](question_89.md)
+[<< Previous Question](question_87.md) | [Home](../index.md) | [Next Question >>](question_89.md)

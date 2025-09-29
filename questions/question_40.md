@@ -10,13 +10,13 @@ Recommendation: You choose Attached compute.
 
 Will the requirements be satisfied?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -28,6 +28,7 @@ Will the requirements be satisfied?
 <blockquote><p><strong>[Removed]</strong> <code>(Sun 01 May 2022 08:09)</code> - <em>Upvotes: 10</em></p><p>No, unforunately only AML Compute cluster or AML compute instance can be used in designer according to :
 
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-target</p></blockquote>
+
 <blockquote><p><strong>Gabonia</strong> <code>(Fri 19 Aug 2022 14:30)</code> - <em>Upvotes: 3</em></p><p>I agree</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Fri 17 Jun 2022 10:44)</code> - <em>Upvotes: 5</em></p><p>Designer!  Only computer instance or computer cluster</p></blockquote>
 <blockquote><p><strong>azayra</strong> <code>(Thu 28 Oct 2021 14:03)</code> - <em>Upvotes: 8</em></p><p>Azure Machine Learning designer to train models. its the key so answer is compute cluster.</p></blockquote>
@@ -63,10 +64,11 @@ Azure Machine Learning provides you with the following options to attach your ow
 Azure Kubernetes Service. Azure Kubernetes Service provides a managed cluster in Azure.
 Azure Arc Kubernetes. Use Azure Arc-enabled Kubernetes clusters if your cluster is hosted outside of Azure.
 Those 2 also listed in the https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-target</p></blockquote>
+
 <blockquote><p><strong>pancman</strong> <code>(Wed 13 Apr 2022 19:30)</code> - <em>Upvotes: 1</em></p><p>The correct answer should have been A</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_39.md) | [Home](/index.md) | [Next Question >>](question_41.md)
+[<< Previous Question](question_39.md) | [Home](../index.md) | [Next Question >>](question_41.md)

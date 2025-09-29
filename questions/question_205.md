@@ -8,16 +8,16 @@ Which two visualizations can you use? Each correct answer presents a complete so
 
 NOTE: Each correct selection is worth one point.
 
-* A.Venn diagram
-* B.Box plot
-* C.ROC curve
-* D.Random forest diagram
-* E.Scatter plot
+- A.Venn diagram
+- B.Box plot
+- C.ROC curve
+- D.Random forest diagram
+- E.Scatter plot
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>BE</strong><br>
+<strong>BE</strong><br>
 
 </details>
 
@@ -37,4 +37,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_204.md) | [Home](/index.md) | [Next Question >>](question_206.md)
+[<< Previous Question](question_204.md) | [Home](../index.md) | [Next Question >>](question_206.md)

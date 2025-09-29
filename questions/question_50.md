@@ -122,4 +122,4 @@ https://medium.com/ankitakumar140494/a-comprehensive-comparison-between-jupyter-
 
 ---
 
-[<< Previous Question](question_49.md) | [Home](/index.md) | [Next Question >>](question_51.md)
+[<< Previous Question](question_49.md) | [Home](../index.md) | [Next Question >>](question_51.md)

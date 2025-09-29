@@ -49,4 +49,4 @@ ngram = 3</p></blockquote>
 
 ---
 
-[<< Previous Question](question_53.md) | [Home](/index.md) | [Next Question >>](question_55.md)
+[<< Previous Question](question_53.md) | [Home](../index.md) | [Next Question >>](question_55.md)

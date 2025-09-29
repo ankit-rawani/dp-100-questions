@@ -14,13 +14,13 @@ Solution: Change the value of the compute_target parameter of the PythonScriptSt
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -29,13 +29,13 @@ Does the solution meet the goal?
 
 <blockquote><p><strong>445f1bd</strong> <code>(Sun 27 Jul 2025 23:06)</code> - <em>Upvotes: 1</em></p><p>Changing the compute_target (the cluster or compute the step runs on) creates a new hash for the step configuration. This breaks the step cache, causing Azure ML to rerun the step even if inputs haven’t changed, thus ensuring your steps re-execute and process the updated content.
 
-
 Yes, this will work.
 It’s a bit of a workaround, but it will ensure steps rerun and do not use cached results.</p></blockquote>
+
 <blockquote><p><strong>sap_dg</strong> <code>(Sun 29 Sep 2024 03:11)</code> - <em>Upvotes: 2</em></p><p>Correct</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_414.md) | [Home](/index.md) | [Next Question >>](question_416.md)
+[<< Previous Question](question_414.md) | [Home](../index.md) | [Next Question >>](question_416.md)

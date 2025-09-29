@@ -62,4 +62,4 @@ So my bet is :
 
 ---
 
-[<< Previous Question](question_503.md) | [Home](/index.md) | [Next Question >>](question_505.md)
+[<< Previous Question](question_503.md) | [Home](../index.md) | [Next Question >>](question_505.md)

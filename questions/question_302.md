@@ -8,15 +8,15 @@ You need to use the Azure Machine Learning studio UI to generate the Responsible
 
 What should you do first?
 
-* A.Deploy the model to a managed online endpoint.
-* B.Register the model with the workspace.
-* C.Create the model explanations.
-* D.Convert the model from the MLflow format to a custom format.
+- A.Deploy the model to a managed online endpoint.
+- B.Register the model with the workspace.
+- C.Create the model explanations.
+- D.Convert the model from the MLflow format to a custom format.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,4 +32,4 @@ Before you can generate a Responsible AI dashboard, the model needs to be regist
 
 ---
 
-[<< Previous Question](question_301.md) | [Home](/index.md) | [Next Question >>](question_303.md)
+[<< Previous Question](question_301.md) | [Home](../index.md) | [Next Question >>](question_303.md)

@@ -4,25 +4,25 @@ You are developing a machine learning model by using Azure Machine Learning. You
 
 You have the following requirements:
 
-•	You must use AutoMLjobs to train the model.
+• You must use AutoMLjobs to train the model.
 
-•	You must use data from specified columns.
+• You must use data from specified columns.
 
-•	The data concept must support lazy evaluation.
+• The data concept must support lazy evaluation.
 
 You need to load data into a Pandas dataframe.
 
 Which data concept should you use?
 
-* A.Data asset
-* B.URI
-* C.Datastore
-* D.MLTable
+- A.Data asset
+- B.URI
+- C.Datastore
+- D.MLTable
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -41,6 +41,7 @@ Requirements for loading data into an MLTable:
 •	The value to predict, target column, must be in the data.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-train?view=azureml-api-2&amp;tabs=python</p></blockquote>
+
 <blockquote><p><strong>Fercho5813</strong> <code>(Wed 25 Oct 2023 00:41)</code> - <em>Upvotes: 2</em></p><p>Answer should be C</p></blockquote>
 <blockquote><p><strong>bobML</strong> <code>(Sun 10 Sep 2023 17:06)</code> - <em>Upvotes: 2</em></p><p>C
 To load data into a Pandas dataframe for use with AutoMLjobs in Azure Machine Learning, you should use the Datastore concept.
@@ -52,10 +53,11 @@ A Datastore in Azure Machine Learning is a way to store, access, and manage data
 You can use the Datastore to load your tabular text files into a Pandas dataframe, and it supports lazy evaluation, meaning data is loaded only when needed, which is useful for working with large datasets efficiently.
 
 Options A, B, and D are not the primary mechanisms for loading data into a Pandas dataframe within the context of Azure Machine Learning.</p></blockquote>
+
 <blockquote><p><strong>sap_dg</strong> <code>(Mon 27 Mar 2023 17:34)</code> - <em>Upvotes: 4</em></p><p>Answer should be C. Datastore</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_305.md) | [Home](/index.md) | [Next Question >>](question_307.md)
+[<< Previous Question](question_305.md) | [Home](../index.md) | [Next Question >>](question_307.md)

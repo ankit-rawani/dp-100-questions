@@ -14,13 +14,13 @@ Solution: Create an instance of the MLClient class.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,12 +32,12 @@ Key steps:
 Import necessary libraries.
 Code
 
-   from azure.mgmt.synapse import SynapseManagementClient
+from azure.mgmt.synapse import SynapseManagementClient
 
-   from azure.identity import DefaultAzureCredential</p></blockquote>
+from azure.identity import DefaultAzureCredential</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_166.md) | [Home](/index.md) | [Next Question >>](question_168.md)
+[<< Previous Question](question_166.md) | [Home](../index.md) | [Next Question >>](question_168.md)

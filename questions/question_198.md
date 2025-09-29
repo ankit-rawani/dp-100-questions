@@ -64,4 +64,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-
 
 ---
 
-[<< Previous Question](question_197.md) | [Home](/index.md) | [Next Question >>](question_199.md)
+[<< Previous Question](question_197.md) | [Home](../index.md) | [Next Question >>](question_199.md)

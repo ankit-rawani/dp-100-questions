@@ -6,17 +6,17 @@ You need to evaluate the model results for imbalance.
 
 Which evaluation metric should you use?
 
-* A.Relative Absolute Error
-* B.AUC Curve
-* C.Mean Absolute Error
-* D.Relative Squared Error
-* E.Accuracy
-* F.Root Mean Square Error
+- A.Relative Absolute Error
+- B.AUC Curve
+- C.Mean Absolute Error
+- D.Relative Squared Error
+- E.Accuracy
+- F.Root Mean Square Error
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -29,6 +29,7 @@ Which evaluation metric should you use?
 <blockquote><p><strong>evangelist</strong> <code>(Sat 18 May 2024 06:20)</code> - <em>Upvotes: 1</em></p><p>AUC Curve (Area Under the Curve): The AUC-ROC (Receiver Operating Characteristic) curve is a performance measurement for classification problems at various threshold settings. AUC represents the degree or measure of separability, indicating how much the model is capable of distinguishing between classes. An AUC value of 0.5 suggests no discrimination (i.e., random guessing), whereas a value of 1.0 indicates perfect discrimination.
 
 The AUC-ROC curve is particularly useful for evaluating models on imbalanced datasets because it is insensitive to changes in the class distribution. It provides a single metric that captures the trade-off between sensitivity (true positive rate) and specificity (true negative rate).</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Fri 24 Feb 2023 04:06)</code> - <em>Upvotes: 1</em></p><p>The appropriate evaluation metric to use for assessing imbalance in a binary classification model is the AUC Curve (B). AUC (Area Under the Curve) is a measure of the model&#x27;s ability to distinguish between positive and negative classes. AUC ranges from 0 to 1, where an AUC of 1 indicates perfect separation between the positive and negative classes, and an AUC of 0.5 indicates random chance. A high AUC value indicates that the model has a strong ability to correctly classify positive and negative instances, which is especially important in imbalanced datasets where one class may have significantly fewer instances than the other. Therefore, the AUC curve is a commonly used metric to evaluate the performance of binary classification models in the presence of class imbalance.</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Sun 12 Jun 2022 13:54)</code> - <em>Upvotes: 4</em></p><p>I guess weighted AUC is the best answer ...</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Sun 12 Jun 2022 13:56)</code> - <em>Upvotes: 1</em></p><p>Or weighted accuracy</p></blockquote>
@@ -47,4 +48,4 @@ So there is no curve called AUC curve.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_470.md) | [Home](/index.md) | [Next Question >>](question_472.md)
+[<< Previous Question](question_470.md) | [Home](../index.md) | [Next Question >>](question_472.md)

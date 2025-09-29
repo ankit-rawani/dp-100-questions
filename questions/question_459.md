@@ -14,13 +14,13 @@ Solution: Create a TabularExplainer.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -32,6 +32,7 @@ Tabular Explainer can explain local and global plus it works with Logistic Regre
 <blockquote><p><strong>Moshekwa</strong> <code>(Mon 31 Jan 2022 00:03)</code> - <em>Upvotes: 2</em></p><p>Answer is indeed Yes..
 
 https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/3-explainers</p></blockquote>
+
 <blockquote><p><strong>PI_Team</strong> <code>(Tue 11 Jun 2024 14:41)</code> - <em>Upvotes: 1</em></p><p>Correct answer is YES</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Thu 24 Aug 2023 00:46)</code> - <em>Upvotes: 1</em></p><p>A Yes. Based on the documentation - both Mimic and tabular explainer will be able to explain global and local, feature importance https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/3-explainers.</p></blockquote>
 <blockquote><p><strong>therealola</strong> <code>(Sun 18 Dec 2022 02:51)</code> - <em>Upvotes: 1</em></p><p>On exam 18-06-22</p></blockquote>
@@ -53,4 +54,4 @@ Tabular Explainer can be used for interpreting both the global and local importa
 
 ---
 
-[<< Previous Question](question_458.md) | [Home](/index.md) | [Next Question >>](question_460.md)
+[<< Previous Question](question_458.md) | [Home](../index.md) | [Next Question >>](question_460.md)

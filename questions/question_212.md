@@ -96,4 +96,4 @@ Add Two Class, Add dataset, Add split, Add Permutation, Set Accuracy</p></blockq
 
 ---
 
-[<< Previous Question](question_211.md) | [Home](/index.md) | [Next Question >>](question_213.md)
+[<< Previous Question](question_211.md) | [Home](../index.md) | [Next Question >>](question_213.md)

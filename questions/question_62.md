@@ -6,17 +6,17 @@ You need to use the Clean Missing Data module in Azure Machine Learning Studio t
 
 Which parameter should you use?
 
-* A.Replace with mean
-* B.Remove entire column
-* C.Remove entire row
-* D.Hot Deck
-* E.Custom substitution value
-* F.Replace with mode
+- A.Replace with mean
+- B.Remove entire column
+- C.Remove entire row
+- D.Hot Deck
+- E.Custom substitution value
+- F.Replace with mode
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -27,6 +27,7 @@ Which parameter should you use?
 <blockquote><p><strong>sar77</strong> <code>(Wed 16 Jul 2025 03:33)</code> - <em>Upvotes: 1</em></p><p>For a dataset with null rows, the most fitting parameter in Azure Machine Learning Studio’s Clean Missing Data module would be:
 
 C. Remove entire row</p></blockquote>
+
 <blockquote><p><strong>Ejire</strong> <code>(Sat 30 Nov 2024 10:09)</code> - <em>Upvotes: 1</em></p><p>The correct answer is C.
 If you need voucher for any DP or AI exam contact me on +2348139103938</p></blockquote>
 <blockquote><p><strong>krishna1818</strong> <code>(Wed 29 Nov 2023 10:23)</code> - <em>Upvotes: 1</em></p><p>Remove the entire row if there are less number of missing values</p></blockquote>
@@ -51,4 +52,4 @@ Otherwise how can we know the datatype of the missing values pleas</p></blockquo
 
 ---
 
-[<< Previous Question](question_61.md) | [Home](/index.md) | [Next Question >>](question_63.md)
+[<< Previous Question](question_61.md) | [Home](../index.md) | [Next Question >>](question_63.md)

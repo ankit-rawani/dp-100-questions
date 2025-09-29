@@ -8,16 +8,16 @@ Which two modules can you use? Each correct answer presents a complete solution.
 
 NOTE: Each correct selection is worth one point.
 
-* A.Computer Linear Correlation
-* B.Export Count Table
-* C.Execute Python Script
-* D.Convert to Indicator Values
-* E.Summarize Data
+- A.Computer Linear Correlation
+- B.Export Count Table
+- C.Execute Python Script
+- D.Convert to Indicator Values
+- E.Summarize Data
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>CE</strong><br>
+<strong>CE</strong><br>
 
 </details>
 
@@ -33,6 +33,7 @@ E. Summarize Data
 
 In Azure Machine Learning Studio, you can use the &quot;Summarize Data&quot; module to generate a statistical summary that includes unique count and basic statistics such as mean, standard deviation, minimum, maximum, and quartiles for each feature column. To calculate p-value, you would need to use a &quot;Execute Python Script&quot; module and write a custom code to perform the hypothesis test and compute the p-value.
 The &quot;Export Count Table&quot; module in Azure Machine Learning Studio only provides a count of the number of instances of each unique value in a single feature column, it doesn&#x27;t provide statistical summary information like the mean, standard deviation, minimum, maximum, quartiles, or p-value. To get the p-value and a more comprehensive statistical summary, you would need to use the &quot;Execute Python Script&quot; module and write custom code as described in my previous answer.</p></blockquote>
+
 <blockquote><p><strong>MarinaMijailovic</strong> <code>(Mon 11 Nov 2024 08:42)</code> - <em>Upvotes: 3</em></p><p>C. Execute Python Script
 E. Summarize Data
 
@@ -41,6 +42,7 @@ The &quot;Execute Python Script&quot; module allows you to run your own Python s
 The &quot;Summarize Data&quot; module in Azure Machine Learning Studio provides a statistical summary of the input dataset, including count, mean, mode, standard deviation, minimum, and maximum.
 
 And like somebody mentioned, it should be percentile and not p-value.</p></blockquote>
+
 <blockquote><p><strong>Edriv</strong> <code>(Thu 13 Jun 2024 17:39)</code> - <em>Upvotes: 1</em></p><p>Options AD</p></blockquote>
 <blockquote><p><strong>kty</strong> <code>(Sat 17 Sep 2022 17:54)</code> - <em>Upvotes: 4</em></p><p>Answer is just &#x27;C&#x27;</p></blockquote>
 <blockquote><p><strong>saurabhk1</strong> <code>(Sun 04 Sep 2022 13:53)</code> - <em>Upvotes: 4</em></p><p>Actually, the question is not clear about which type of p-value, it wants to calculate. 
@@ -52,4 +54,4 @@ Only module that can do it is &quot;Execute a python script&quot;</p></blockquot
 
 ---
 
-[<< Previous Question](question_73.md) | [Home](/index.md) | [Next Question >>](question_75.md)
+[<< Previous Question](question_73.md) | [Home](../index.md) | [Next Question >>](question_75.md)

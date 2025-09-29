@@ -40,4 +40,4 @@ Please make sure you have the necessary permissions to execute the command on th
 
 ---
 
-[<< Previous Question](question_133.md) | [Home](/index.md) | [Next Question >>](question_135.md)
+[<< Previous Question](question_133.md) | [Home](../index.md) | [Next Question >>](question_135.md)

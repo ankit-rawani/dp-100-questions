@@ -47,4 +47,4 @@ SaM</p></blockquote>
 
 ---
 
-[<< Previous Question](question_141.md) | [Home](/index.md) | [Next Question >>](question_143.md)
+[<< Previous Question](question_141.md) | [Home](../index.md) | [Next Question >>](question_143.md)

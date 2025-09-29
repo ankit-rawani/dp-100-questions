@@ -14,13 +14,13 @@ Solution: Delete the Python 3.8 – AzureML kernel.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -35,4 +35,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-access-terminal?
 
 ---
 
-[<< Previous Question](question_444.md) | [Home](/index.md) | [Next Question >>](question_446.md)
+[<< Previous Question](question_444.md) | [Home](../index.md) | [Next Question >>](question_446.md)

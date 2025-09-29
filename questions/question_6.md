@@ -6,15 +6,15 @@ You have to include a suitable deep learning framework in the Data Science Virtu
 
 Which of the following actions should you take?
 
-* A.You should consider including Rattle.
-* B.You should consider including TensorFlow.
-* C.You should consider including Theano.
-* D.You should consider including Chainer.
+- A.You should consider including Rattle.
+- B.You should consider including TensorFlow.
+- C.You should consider including Theano.
+- D.You should consider including Chainer.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -39,4 +39,4 @@ TensorFlow is an open-source software library for data flow and differentiable p
 
 ---
 
-[<< Previous Question](question_5.md) | [Home](/index.md) | [Next Question >>](question_7.md)
+[<< Previous Question](question_5.md) | [Home](../index.md) | [Next Question >>](question_7.md)

@@ -16,15 +16,15 @@ Which two code segments can you use to achieve this goal? Each correct answer pr
 
 NOTE: Each correct selection is worth one point.
 
-* A.experiment = Experiment(workspace=ws, name='pipeline-experiment') run = experiment.submit(config=pipeline_steps)
-* B.run = Run(pipeline_steps)
-* C.pipeline = Pipeline(workspace=ws, steps=pipeline_steps) experiment = Experiment(workspace=ws, name='pipeline-experiment') run = experiment.submit(pipeline)
-* D.pipeline = Pipeline(workspace=ws, steps=pipeline_steps) run = pipeline.submit(experiment_name='pipeline-experiment')
+- A.experiment = Experiment(workspace=ws, name='pipeline-experiment') run = experiment.submit(config=pipeline_steps)
+- B.run = Run(pipeline_steps)
+- C.pipeline = Pipeline(workspace=ws, steps=pipeline_steps) experiment = Experiment(workspace=ws, name='pipeline-experiment') run = experiment.submit(pipeline)
+- D.pipeline = Pipeline(workspace=ws, steps=pipeline_steps) run = pipeline.submit(experiment_name='pipeline-experiment')
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>CD</strong><br>
+<strong>CD</strong><br>
 
 </details>
 
@@ -37,6 +37,7 @@ Refer to experiment class for proof:  https://docs.microsoft.com/en-us/python/ap
 https://learn.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipeline(class)?view=azure-ml-py
 
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.experiment(class)?view=azure-ml-py#azureml-core-experiment-submit</p></blockquote>
+
 <blockquote><p><strong>azurelearner666</strong> <code>(Fri 14 Oct 2022 07:58)</code> - <em>Upvotes: 2</em></p><p>Thanks for clarifying!</p></blockquote>
 <blockquote><p><strong>avinyc</strong> <code>(Mon 06 Jan 2025 01:57)</code> - <em>Upvotes: 1</em></p><p>Options C and D</p></blockquote>
 <blockquote><p><strong>haby</strong> <code>(Tue 18 Jun 2024 14:12)</code> - <em>Upvotes: 1</em></p><p>C for me. 
@@ -50,17 +51,20 @@ Option D correctly creates a Pipeline object and then submits the pipeline with 
 pipeline = Pipeline(workspace=ws, steps=pipeline_steps)
 experiment = Experiment(workspace=ws, name=&#x27;pipeline-experiment&#x27;)
 run = pipeline.submit(experiment)</p></blockquote>
-<blockquote><p><strong>james2033</strong> <code>(Sat 20 Apr 2024 04:51)</code> - <em>Upvotes: 1</em></p><p>Constructor azurelm.pipeline.core.pipeline.Pipeline() 
+
+<blockquote><p><strong>james2033</strong> <code>(Sat 20 Apr 2024 04:51)</code> - <em>Upvotes: 1</em></p><p>Constructor azurelm.pipeline.core.pipeline.Pipeline()
 
 https://learn.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipeline.pipeline?view=azure-ml-py#constructor
 
 Pipeline(workspace, steps, ...)</p></blockquote>
+
 <blockquote><p><strong>Tommo565</strong> <code>(Sat 23 Sep 2023 14:03)</code> - <em>Upvotes: 1</em></p><p>CD is correct</p></blockquote>
 <blockquote><p><strong>AzureJobsTillRetire</strong> <code>(Wed 23 Aug 2023 20:48)</code> - <em>Upvotes: 1</em></p><p>The correct command for pipeline run is as below
 experiment.submit()
 
 Only A and C has this command.
 D has command pipeline.submit(), which is incorrect</p></blockquote>
+
 <blockquote><p><strong>AzureJobsTillRetire</strong> <code>(Wed 23 Aug 2023 21:00)</code> - <em>Upvotes: 1</em></p><p>An Azure Machine Learning experiment represent the collection of trials used to validate a user&#x27;s hypothesis. In Azure Machine Learning, an experiment is represented by the Experiment class and a trial is represented by the Run class.
 
 An Azure Machine Learning pipeline is an independently executable workflow of a complete machine learning task.
@@ -68,12 +72,14 @@ An Azure Machine Learning pipeline is an independently executable workflow of a 
 In an experiment, we execute a pipeline, and this is why we use experiment.submit(pipeline)
 
 It is not that in a pipeline, we execute an experiment, and that is why pipeline.submit(experiment) is wrong</p></blockquote>
+
 <blockquote><p><strong>Arend78</strong> <code>(Fri 16 Jun 2023 12:27)</code> - <em>Upvotes: 1</em></p><p>I also think it&#x27;s A &amp; C: In the Azure documentations, I have only found examples of 
 run = experiment.submit(pipeline) 
 and no examples of 
 run = pipeline.submit(experiment_name=&#x27;pipeline-experiment&#x27;)
 
 Please reply if you don&#x27;t agree</p></blockquote>
+
 <blockquote><p><strong>AzureJobsTillRetire</strong> <code>(Wed 23 Aug 2023 20:41)</code> - <em>Upvotes: 1</em></p><p>I think so too. Also there is no definition of the experiment &#x27;pipeline-experiment&#x27; in the code</p></blockquote>
 <blockquote><p><strong>zehraoneexam</strong> <code>(Mon 19 Sep 2022 07:43)</code> - <em>Upvotes: 2</em></p><p>correct answer.</p></blockquote>
 <blockquote><p><strong>Sjefen</strong> <code>(Sat 17 Sep 2022 11:23)</code> - <em>Upvotes: 1</em></p><p>I think A &amp; C as well</p></blockquote>
@@ -86,4 +92,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.experiment
 
 ---
 
-[<< Previous Question](question_283.md) | [Home](/index.md) | [Next Question >>](question_285.md)
+[<< Previous Question](question_283.md) | [Home](../index.md) | [Next Question >>](question_285.md)

@@ -8,16 +8,16 @@ You need to create the script that is specified as the entry_script parameter fo
 
 What should the entry script do?
 
-* A.Register the model with appropriate tags and properties.
-* B.Create a Conda environment for the web service compute and install the necessary Python packages.
-* C.Load the model and use it to predict labels from input data.
-* D.Start a node on the inference cluster where the web service is deployed.
-* E.Specify the number of cores and the amount of memory required for the inference compute.
+- A.Register the model with appropriate tags and properties.
+- B.Create a Conda environment for the web service compute and install the necessary Python packages.
+- C.Load the model and use it to predict labels from input data.
+- D.Start a node on the inference cluster where the web service is deployed.
+- E.Specify the number of cores and the amount of memory required for the inference compute.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -38,6 +38,7 @@ What should the entry script do?
 We are in interested in step 2., and this step can be divided in:
 2.1. LOADING YOUR MODEL (using a function called init())
 2.2. Running your model on input data (using a function called run())</p></blockquote>
+
 <blockquote><p><strong>Fefnut</strong> <code>(Wed 13 Nov 2024 12:57)</code> - <em>Upvotes: 1</em></p><p>Response C is correct: https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-and-where?view=azureml-api-1&amp;tabs=azcli</p></blockquote>
 <blockquote><p><strong>bbe8966</strong> <code>(Sat 22 Jun 2024 10:20)</code> - <em>Upvotes: 1</em></p><p>The answer is correct</p></blockquote>
 <blockquote><p><strong>esimsek</strong> <code>(Mon 27 Mar 2023 19:52)</code> - <em>Upvotes: 2</em></p><p>on exam 2023-03-27</p></blockquote>
@@ -49,4 +50,4 @@ We are in interested in step 2., and this step can be divided in:
 
 ---
 
-[<< Previous Question](question_393.md) | [Home](/index.md) | [Next Question >>](question_395.md)
+[<< Previous Question](question_393.md) | [Home](../index.md) | [Next Question >>](question_395.md)

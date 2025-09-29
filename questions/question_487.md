@@ -70,4 +70,4 @@ Even in the mentioned &quot; https://learn.microsoft.com/en-us/training/modules/
 
 ---
 
-[<< Previous Question](question_486.md) | [Home](/index.md) | [Next Question >>](question_488.md)
+[<< Previous Question](question_486.md) | [Home](../index.md) | [Next Question >>](question_488.md)

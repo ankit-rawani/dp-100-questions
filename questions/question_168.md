@@ -10,16 +10,16 @@ Which two properties should you define? Each correct answer presents part of the
 
 NOTE: Each correct selection is worth one point.
 
-* A.size
-* B.win_instances
-* C.type
-* D.name
-* E.max_instances
+- A.size
+- B.win_instances
+- C.type
+- D.name
+- E.max_instances
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>AE</strong><br>
+<strong>AE</strong><br>
 
 </details>
 
@@ -39,25 +39,27 @@ cpu_cluster = AmlCompute(
 from azure.ai.ml import MLClient
 
 ml_client = MLClient(
-    credential=DefaultAzureCredential(),
-    subscription_id=&quot;your-subscription-id&quot;,
-    resource_group_name=&quot;your-resource-group&quot;,
-    workspace_name=&quot;your-workspace-name&quot;
+credential=DefaultAzureCredential(),
+subscription_id=&quot;your-subscription-id&quot;,
+resource_group_name=&quot;your-resource-group&quot;,
+workspace_name=&quot;your-workspace-name&quot;
 )
 
 compute_cluster = AmlCompute(
-    name=&quot;my-compute-cluster&quot;,
-    size=&quot;Standard_DS3_v2&quot;
+name=&quot;my-compute-cluster&quot;,
+size=&quot;Standard_DS3_v2&quot;
 )
 
 ml_client.compute.begin_create_or_update(compute_cluster)
 
 A and D</p></blockquote>
+
 <blockquote><p><strong>Sadhak</strong> <code>(Sun 17 Nov 2024 19:57)</code> - <em>Upvotes: 1</em></p><p>To create a persistent Azure Machine Learning Compute resource in Python, specify the size and max_instances properties. Azure Machine Learning then uses smart defaults for the other properties.
 
 size: The VM family of the nodes created by Azure Machine Learning Compute.
 max_instances: The maximum number of nodes to autoscale up to when you run a job on Azure Machine Learning Compute.
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-create-attach-compute-cluster?view=azureml-api-2&amp;tabs=python</p></blockquote>
+
 <blockquote><p><strong>Sadhak</strong> <code>(Tue 05 Nov 2024 16:32)</code> - <em>Upvotes: 2</em></p><p>To create a persistent Azure Machine Learning Compute resource in Python, specify the size and max_instances properties. Azure Machine Learning then uses smart defaults for the other properties. size: The VM family of the nodes created by Azure Machine Learning Compute.
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-create-attach-compute-cluster?view=azureml-api-2&amp;tabs=python</p></blockquote>
 <blockquote><p><strong>onurag</strong> <code>(Thu 24 Oct 2024 02:14)</code> - <em>Upvotes: 1</em></p><p>should be size and name, type is not essential property</p></blockquote>
@@ -71,4 +73,4 @@ These two properties are essential for creating the compute resource. The type s
 
 ---
 
-[<< Previous Question](question_167.md) | [Home](/index.md) | [Next Question >>](question_169.md)
+[<< Previous Question](question_167.md) | [Home](../index.md) | [Next Question >>](question_169.md)

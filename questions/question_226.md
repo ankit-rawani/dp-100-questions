@@ -8,15 +8,15 @@ You need to ingest the data from the CSV file into the designer pipeline using t
 
 Which module should you add to the pipeline in Designer?
 
-* A.Convert to CSV
-* B.Enter Data Manually
-* C.Import Data
-* D.Dataset
+- A.Convert to CSV
+- B.Enter Data Manually
+- C.Import Data
+- D.Dataset
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -40,6 +40,7 @@ https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-designer-impo
 <blockquote><p><strong>giusecozza</strong> <code>(Thu 07 Sep 2023 09:04)</code> - <em>Upvotes: 3</em></p><p>maybe this question is a bit outdated. Through a Dataset object is currently possible to read data from HTTP URL&#x27;s, so in my opinion D is the correct answer.
 
 https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.dataset.dataset?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>dija123</strong> <code>(Wed 07 Dec 2022 08:35)</code> - <em>Upvotes: 5</em></p><p>Answer is C</p></blockquote>
 <blockquote><p><strong>prasad06</strong> <code>(Sat 17 Sep 2022 17:33)</code> - <em>Upvotes: 2</em></p><p>I see only this kind of comment by the user across many question. I suspect this is just spamming.. even the user display name is suspect</p></blockquote>
 <blockquote><p><strong>Tejoo</strong> <code>(Mon 25 Jul 2022 16:03)</code> - <em>Upvotes: 5</em></p><p>C. Enter Data Manually (to minimize administrative cost)</p></blockquote>
@@ -60,10 +61,11 @@ https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-referen
 <blockquote><p><strong>SnowCheetah</strong> <code>(Thu 16 Jun 2022 09:13)</code> - <em>Upvotes: 4</em></p><p>https://docs.microsoft.com/en-us/azure/machine-learning/how-to-designer-import-data
 There are two possible ways to extract data
 1. Register Data - to &quot;Dataset&quot; segment 
-2. Using &quot;Import Data&quot; 
+2. Using &quot;Import Data&quot;
 
-Since question is already ask about extracting data via website and user didn&#x27;t register dataset beforehand 
+Since question is already ask about extracting data via website and user didn&#x27;t register dataset beforehand
 C is should be correct answer.</p></blockquote>
+
 <blockquote><p><strong>rishi_ram</strong> <code>(Fri 03 Jun 2022 21:37)</code> - <em>Upvotes: 4</em></p><p>Answer is C:
 Import Data module - Use the Import Data module to directly access data from online datasources.
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-designer-import-data
@@ -76,4 +78,4 @@ the answer is &#x27;C&#x27;</p></blockquote>
 
 ---
 
-[<< Previous Question](question_225.md) | [Home](/index.md) | [Next Question >>](question_227.md)
+[<< Previous Question](question_225.md) | [Home](../index.md) | [Next Question >>](question_227.md)

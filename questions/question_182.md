@@ -63,4 +63,4 @@ run.log(&quot;AUC&quot;, auc)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_181.md) | [Home](/index.md) | [Next Question >>](question_183.md)
+[<< Previous Question](question_181.md) | [Home](../index.md) | [Next Question >>](question_183.md)

@@ -36,4 +36,4 @@ NOTE: More than one order of answer choices is correct. You will receive credit 
 
 ---
 
-[<< Previous Question](question_115.md) | [Home](/index.md) | [Next Question >>](question_117.md)
+[<< Previous Question](question_115.md) | [Home](../index.md) | [Next Question >>](question_117.md)

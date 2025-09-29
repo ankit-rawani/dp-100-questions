@@ -51,4 +51,4 @@ Action: 3) Set the epsilon value to the smaller of the epsilon values assigned t
 
 ---
 
-[<< Previous Question](question_322.md) | [Home](/index.md) | [Next Question >>](question_324.md)
+[<< Previous Question](question_322.md) | [Home](../index.md) | [Next Question >>](question_324.md)

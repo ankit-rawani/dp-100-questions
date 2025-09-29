@@ -6,15 +6,15 @@ You need to authorize access from the workspace to the Azure Data Lake Storage G
 
 What should you use?
 
-* A.Service principal
-* B.SAS token
-* C.Managed identity
-* D.Account key
+- A.Service principal
+- B.SAS token
+- C.Managed identity
+- D.Account key
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -25,6 +25,7 @@ What should you use?
 <blockquote><p><strong>Secure_Defense</strong> <code>(Tue 28 Jan 2025 19:59)</code> - <em>Upvotes: 1</em></p><p>Managed Identity, here&#x27;s the answer.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-identity-based-service-authentication?view=azureml-api-2&amp;tabs=cli</p></blockquote>
+
 <blockquote><p><strong>cayenne06</strong> <code>(Fri 20 Dec 2024 10:31)</code> - <em>Upvotes: 1</em></p><p>Managed Identity:
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-identity-based-service-authentication?view=azureml-api-2&amp;tabs=cli</p></blockquote>
 <blockquote><p><strong>gunn_m</strong> <code>(Sat 23 Nov 2024 16:48)</code> - <em>Upvotes: 2</em></p><p>C. Managed identity</p></blockquote>
@@ -38,6 +39,7 @@ Explanation:
 A service principal is an identity that can be used by applications, services, or automation tools to access specific resources within Azure. By creating a service principal and granting it the necessary permissions, you can authorize the Azure Machine Learning workspace to access the Azure Data Lake Storage Gen2 account securely.
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>heidousl</strong> <code>(Mon 15 May 2023 03:32)</code> - <em>Upvotes: 1</em></p><p>Answer is A</p></blockquote>
 <blockquote><p><strong>ajay0011</strong> <code>(Sat 22 Apr 2023 04:14)</code> - <em>Upvotes: 1</em></p><p>Service Principle is correct.</p></blockquote>
 <blockquote><p><strong>chaymat</strong> <code>(Sun 16 Apr 2023 13:04)</code> - <em>Upvotes: 2</em></p><p>I think we can use Service principle as well as Managed Identity</p></blockquote>
@@ -50,4 +52,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-access-data?v
 
 ---
 
-[<< Previous Question](question_130.md) | [Home](/index.md) | [Next Question >>](question_132.md)
+[<< Previous Question](question_130.md) | [Home](../index.md) | [Next Question >>](question_132.md)

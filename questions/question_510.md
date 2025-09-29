@@ -59,4 +59,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/component-reference/part
 
 ---
 
-[<< Previous Question](question_509.md) | [Home](/index.md) | [Next Question >>](question_511.md)
+[<< Previous Question](question_509.md) | [Home](../index.md) | [Next Question >>](question_511.md)

@@ -8,15 +8,15 @@ You need to define the data access mode that is supported by your configuration.
 
 Which mode should you define?
 
-* A.eval_upload
-* B.rw_mount
-* C.download
-* D.ro_mount
+- A.eval_upload
+- B.rw_mount
+- C.download
+- D.ro_mount
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,4 +32,4 @@ This mode allows the output directory to be a mounted directory, which is suitab
 
 ---
 
-[<< Previous Question](question_364.md) | [Home](/index.md) | [Next Question >>](question_366.md)
+[<< Previous Question](question_364.md) | [Home](../index.md) | [Next Question >>](question_366.md)

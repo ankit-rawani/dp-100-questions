@@ -74,4 +74,4 @@ print(f&#x27;train: {train}, test: {test}&#x27;)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_85.md) | [Home](/index.md) | [Next Question >>](question_87.md)
+[<< Previous Question](question_85.md) | [Home](../index.md) | [Next Question >>](question_87.md)

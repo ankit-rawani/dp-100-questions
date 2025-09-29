@@ -92,4 +92,4 @@ D.
 
 ---
 
-[<< Previous Question](question_83.md) | [Home](/index.md) | [Next Question >>](question_85.md)
+[<< Previous Question](question_83.md) | [Home](../index.md) | [Next Question >>](question_85.md)

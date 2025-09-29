@@ -8,15 +8,15 @@ You need to select the compute resource that has a multi-node cluster that autom
 
 Which Azure Machine Learning compute target should you use?
 
-* A.Compute instance
-* B.Endpoints
-* C.Kubernetes cluster
-* D.Serverless compute
+- A.Compute instance
+- B.Endpoints
+- C.Kubernetes cluster
+- D.Serverless compute
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ D. Serverless compute is the best Azure Machine Learning compute target for Auto
 
 ---
 
-[<< Previous Question](question_504.md) | [Home](/index.md) | [Next Question >>](question_506.md)
+[<< Previous Question](question_504.md) | [Home](../index.md) | [Next Question >>](question_506.md)

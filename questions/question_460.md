@@ -14,13 +14,13 @@ Solution: Create a MimicExplainer.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -35,9 +35,10 @@ MimicExplainer works by training a simple, interpretable model (such as linear r
 
 Train a new model so that its output is as close as possible to the output of the original model.
 Use this new model to explain the original model because the new model itself is easy to interpret.</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Thu 08 Aug 2024 00:50)</code> - <em>Upvotes: 1</em></p><p>I think answer is No because, a mimic explainer is used to help interpret decisions made my black box models such as ANN. The one in this case is logistic regression, which isn&#x27;t  considered blackbox. However, i am not sure why Mimic explainer cannot bed used in logistic regression?</p></blockquote>
 <blockquote><p><strong>Beauterham</strong> <code>(Sat 15 Jun 2024 12:49)</code> - <em>Upvotes: 1</em></p><p>Answer is No
- You can pass global and local but only return 1 value. 
+ You can pass global and local but only return 1 value.
 
 Parameters
 explanation_types
@@ -45,17 +46,19 @@ list[str]
 Required
 A list of strings representing types of explanations desired. Currently, &#x27;global&#x27; and &#x27;local&#x27; are supported. Both may be passed in at once; only one explanation will be returned.
 https://learn.microsoft.com/en-us/python/api/azureml-interpret/azureml.interpret.mimic_wrapper.mimicwrapper?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>VuTon2025</strong> <code>(Fri 03 Nov 2023 15:34)</code> - <em>Upvotes: 1</em></p><p>NO. The solution is  PIPEExplainer does not support local. Ref:
   https://learn.microsoft.com/en-us/training/modules/explain-machine-learning-models-with-azure-machine-learning/3-explainers</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Thu 24 Aug 2023 00:43)</code> - <em>Upvotes: 1</em></p><p>A  Yes</p></blockquote>
 <blockquote><p><strong>therealola</strong> <code>(Sun 18 Dec 2022 02:51)</code> - <em>Upvotes: 2</em></p><p>On exam 18-06-22</p></blockquote>
 <blockquote><p><strong>synapse</strong> <code>(Tue 13 Sep 2022 04:57)</code> - <em>Upvotes: 2</em></p><p>PFIExplainer is the only explainer that does not support local importance</p></blockquote>
-<blockquote><p><strong>TheCyanideLancer</strong> <code>(Sat 16 Jul 2022 05:03)</code> - <em>Upvotes: 1</em></p><p>The Question is 
+<blockquote><p><strong>TheCyanideLancer</strong> <code>(Sat 16 Jul 2022 05:03)</code> - <em>Upvotes: 1</em></p><p>The Question is
 
 Solution: Create a MimicExplainer.
 Does the solution meet the goal?
 
 Ans should be NO as PFIE does not support local feature importance</p></blockquote>
+
 <blockquote><p><strong>dija123</strong> <code>(Tue 14 Jun 2022 17:32)</code> - <em>Upvotes: 6</em></p><p>The answer should be Yes for Mimicexplainer.</p></blockquote>
 <blockquote><p><strong>JTWang</strong> <code>(Mon 24 Apr 2023 08:39)</code> - <em>Upvotes: 1</em></p><p>Only PFIeplainer can&#x27;t support local.</p></blockquote>
 <blockquote><p><strong>thhvancouver</strong> <code>(Mon 31 Jan 2022 18:07)</code> - <em>Upvotes: 8</em></p><p>Examtopic: The comments for PFIExplainer is switched with that of Mimicexplainer...</p></blockquote>
@@ -65,6 +68,7 @@ The question is - does the solution(Create a Mimicexplainer work).
 Based on the documentation - both Mimic and tabular explainer will be able to explain global and local, feature importance
 
 https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/3-explainers</p></blockquote>
+
 <blockquote><p><strong>Moshekwa</strong> <code>(Mon 31 Jan 2022 00:02)</code> - <em>Upvotes: 2</em></p><p>According to the documentation A is the answer</p></blockquote>
 <blockquote><p><strong>YipingRuan</strong> <code>(Tue 25 Jan 2022 06:00)</code> - <em>Upvotes: 2</em></p><p>The question is??
 Solution: Create a MimicExplainer.
@@ -80,4 +84,4 @@ Tabular Explainer can be used for interpreting both the globaland local importan
 
 ---
 
-[<< Previous Question](question_459.md) | [Home](/index.md) | [Next Question >>](question_461.md)
+[<< Previous Question](question_459.md) | [Home](../index.md) | [Next Question >>](question_461.md)

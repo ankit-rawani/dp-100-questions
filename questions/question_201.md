@@ -48,4 +48,4 @@ Log a numerical or string value to the run with the given name using log. Loggin
 
 ---
 
-[<< Previous Question](question_200.md) | [Home](/index.md) | [Next Question >>](question_202.md)
+[<< Previous Question](question_200.md) | [Home](../index.md) | [Next Question >>](question_202.md)

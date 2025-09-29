@@ -8,16 +8,17 @@ You need to use Azure Machine Learning to find the combination of batch size and
 
 What should you do?
 
-* A.Run the script in an experiment based on an AutoMLConfig object
-* B.Create a PythonScriptStep object for the script and run it in a pipeline
-* C.Use the Automated Machine Learning interface in Azure Machine Learning studio
-* D.Run the script in an experiment based on a ScriptRunConfig object
-* E.Run the script in an experiment based on a HyperDriveConfig object
+- A.Run the script in an experiment based on an AutoMLConfig object
+- B.Create a PythonScriptStep object for the script and run it in a pipeline
+- C.Use the Automated Machine Learning interface in Azure Machine Learning studio
+- D.Run the script in an experiment based on a ScriptRunConfig object
+- E.Run the script in an experiment based on a HyperDriveConfig object
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>E</strong><br>
+<strong>E</strong><br>
+
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters</p>
 
@@ -38,4 +39,4 @@ https://learn.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hy
 
 ---
 
-[<< Previous Question](question_269.md) | [Home](/index.md) | [Next Question >>](question_271.md)
+[<< Previous Question](question_269.md) | [Home](../index.md) | [Next Question >>](question_271.md)

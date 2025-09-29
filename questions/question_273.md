@@ -69,4 +69,4 @@ environment_definition=env)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_272.md) | [Home](/index.md) | [Next Question >>](question_274.md)
+[<< Previous Question](question_272.md) | [Home](../index.md) | [Next Question >>](question_274.md)

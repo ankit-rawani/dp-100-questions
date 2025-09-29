@@ -33,4 +33,4 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 ---
 
-[<< Previous Question](question_129.md) | [Home](/index.md) | [Next Question >>](question_131.md)
+[<< Previous Question](question_129.md) | [Home](../index.md) | [Next Question >>](question_131.md)

@@ -31,4 +31,4 @@ Which code segment should you use?
 
 ---
 
-[<< Previous Question](question_316.md) | [Home](/index.md) | [Next Question >>](question_318.md)
+[<< Previous Question](question_316.md) | [Home](../index.md) | [Next Question >>](question_318.md)

@@ -69,4 +69,4 @@ my_data = Data(
 
 ---
 
-[<< Previous Question](question_337.md) | [Home](/index.md) | [Next Question >>](question_339.md)
+[<< Previous Question](question_337.md) | [Home](../index.md) | [Next Question >>](question_339.md)

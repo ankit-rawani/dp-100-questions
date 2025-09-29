@@ -44,4 +44,4 @@ Here is a breakdown of each step:
 
 ---
 
-[<< Previous Question](question_109.md) | [Home](/index.md) | [Next Question >>](question_111.md)
+[<< Previous Question](question_109.md) | [Home](../index.md) | [Next Question >>](question_111.md)

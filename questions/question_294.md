@@ -37,4 +37,4 @@ Select the second algorithm on the list</p></blockquote>
 
 ---
 
-[<< Previous Question](question_293.md) | [Home](/index.md) | [Next Question >>](question_295.md)
+[<< Previous Question](question_293.md) | [Home](../index.md) | [Next Question >>](question_295.md)

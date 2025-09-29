@@ -96,4 +96,4 @@ Machine Learning Compute Cluster supports integration with AML designer training
 
 ---
 
-[<< Previous Question](question_69.md) | [Home](/index.md) | [Next Question >>](question_71.md)
+[<< Previous Question](question_69.md) | [Home](../index.md) | [Next Question >>](question_71.md)

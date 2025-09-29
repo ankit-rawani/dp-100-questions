@@ -71,7 +71,7 @@ Reference: https://github.com/Azure/azure-sdk-for-python/tree/azure-ai-ml_1.11.1
 
 # create tabular dataset from all csv files in the directory
 
-tabular_dataset_3 = Dataset.Tabular.from_delimited_files(path=(datastore,&#x27;weather/\*_/_.csv&#x27;))
+tabular*dataset_3 = Dataset.Tabular.from_delimited_files(path=(datastore,&#x27;weather/\**/\_.csv&#x27;))
 
 # create tabular dataset from multiple paths
 
@@ -144,4 +144,4 @@ I think the answer is now &quot;Yes&quot;</p></blockquote>
 
 ---
 
-[<< Previous Question](question_226.md) | [Home](/index.md) | [Next Question >>](question_228.md)
+[<< Previous Question](question_226.md) | [Home](../index.md) | [Next Question >>](question_228.md)

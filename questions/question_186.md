@@ -58,4 +58,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-pipeline-steps/azureml.pipel
 
 ---
 
-[<< Previous Question](question_185.md) | [Home](/index.md) | [Next Question >>](question_187.md)
+[<< Previous Question](question_185.md) | [Home](../index.md) | [Next Question >>](question_187.md)

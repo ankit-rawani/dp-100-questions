@@ -45,4 +45,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-target#c
 
 ---
 
-[<< Previous Question](question_65.md) | [Home](/index.md) | [Next Question >>](question_67.md)
+[<< Previous Question](question_65.md) | [Home](../index.md) | [Next Question >>](question_67.md)

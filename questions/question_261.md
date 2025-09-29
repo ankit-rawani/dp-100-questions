@@ -43,4 +43,4 @@ Hot Area:
 
 ---
 
-[<< Previous Question](question_260.md) | [Home](/index.md) | [Next Question >>](question_262.md)
+[<< Previous Question](question_260.md) | [Home](../index.md) | [Next Question >>](question_262.md)

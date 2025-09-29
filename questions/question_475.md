@@ -85,4 +85,4 @@ reference: https://www.statisticshowto.com/probability-and-statistics/skewed-dis
 
 ---
 
-[<< Previous Question](question_474.md) | [Home](/index.md) | [Next Question >>](question_476.md)
+[<< Previous Question](question_474.md) | [Home](../index.md) | [Next Question >>](question_476.md)

@@ -51,4 +51,4 @@ Does the solution meet the goal?
 
 ---
 
-[<< Previous Question](question_112.md) | [Home](/index.md) | [Next Question >>](question_114.md)
+[<< Previous Question](question_112.md) | [Home](../index.md) | [Next Question >>](question_114.md)

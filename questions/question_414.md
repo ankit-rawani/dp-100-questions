@@ -14,13 +14,13 @@ Solution: Set the regenerate_outputs parameter of the pipeline1 experiment’s r
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -31,6 +31,7 @@ Does the solution meet the goal?
 &quot;regenerate_outputs: Whether to force regeneration of all step outputs and disallow data reuse for this run, default is False.&quot;
 
 https://learn.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipeline.pipeline?view=azure-ml-py&amp;viewFallbackFrom=azure-ml-pyregenerate_outputs</p></blockquote>
+
 <blockquote><p><strong>Piddi</strong> <code>(Sat 29 Apr 2023 20:51)</code> - <em>Upvotes: 2</em></p><p>Answer is Correct:
 https://learn.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipeline.pipeline?view=azure-ml-py
 regenerate_outputs
@@ -45,4 +46,4 @@ Indicates whether to force regeneration of all step outputs and disallow data re
 
 ---
 
-[<< Previous Question](question_413.md) | [Home](/index.md) | [Next Question >>](question_415.md)
+[<< Previous Question](question_413.md) | [Home](../index.md) | [Next Question >>](question_415.md)

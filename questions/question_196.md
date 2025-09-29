@@ -76,4 +76,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-attach-com
 
 ---
 
-[<< Previous Question](question_195.md) | [Home](/index.md) | [Next Question >>](question_197.md)
+[<< Previous Question](question_195.md) | [Home](../index.md) | [Next Question >>](question_197.md)

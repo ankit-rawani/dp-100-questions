@@ -6,16 +6,16 @@ You need to configure automated machine learning to automatically impute missing
 
 Which parameter and value pair should you use in the AutoMLConfig class?
 
-* A.featurization = 'auto'
-* B.enable_voting_ensemble = True
-* C.task = 'classification'
-* D.exclude_nan_labels = True
-* E.enable_tf = True
+- A.featurization = 'auto'
+- B.enable_voting_ensemble = True
+- C.task = 'classification'
+- D.exclude_nan_labels = True
+- E.enable_tf = True
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -32,6 +32,7 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-fe
 Imputation of missing values: Numerical and categorical features with missing data will be filled in using suitable methods (like mean, median, mode, or advanced techniques).
 
 Encoding of categorical variables: Categorical features with few distinct values will be encoded automatically using one-hot encoding or ordinal encoding, depending on what suits the model best.</p></blockquote>
+
 <blockquote><p><strong>evangelist</strong> <code>(Mon 02 Dec 2024 12:25)</code> - <em>Upvotes: 1</em></p><p>given answer is correct featurization =on is must</p></blockquote>
 <blockquote><p><strong>fhlos</strong> <code>(Thu 28 Dec 2023 12:11)</code> - <em>Upvotes: 1</em></p><p>A - ChatGPT</p></blockquote>
 <blockquote><p><strong>synapse</strong> <code>(Wed 14 Sep 2022 06:36)</code> - <em>Upvotes: 2</em></p><p>AutoFeaturization takes care of this. A</p></blockquote>
@@ -42,4 +43,4 @@ Encoding of categorical variables: Categorical features with few distinct values
 
 ---
 
-[<< Previous Question](question_213.md) | [Home](/index.md) | [Next Question >>](question_215.md)
+[<< Previous Question](question_213.md) | [Home](../index.md) | [Next Question >>](question_215.md)

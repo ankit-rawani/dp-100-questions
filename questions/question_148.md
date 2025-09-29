@@ -42,4 +42,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-access-terminal?
 
 ---
 
-[<< Previous Question](question_147.md) | [Home](/index.md) | [Next Question >>](question_149.md)
+[<< Previous Question](question_147.md) | [Home](../index.md) | [Next Question >>](question_149.md)

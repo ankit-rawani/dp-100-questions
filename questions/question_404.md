@@ -10,16 +10,16 @@ Which two compute targets should you use? Each correct answer presents a complet
 
 NOTE: Each correct selection is worth one point.
 
-* A.Azure Machine Learning Kubernetes
-* B.Azure Databricks
-* C.Remote VM
-* D.Local web service
-* E.Azure Container Instances
+- A.Azure Machine Learning Kubernetes
+- B.Azure Databricks
+- C.Remote VM
+- D.Local web service
+- E.Azure Container Instances
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>DE</strong><br>
+<strong>DE</strong><br>
 
 </details>
 
@@ -39,4 +39,4 @@ I think the given answer is correct</p></blockquote>
 
 ---
 
-[<< Previous Question](question_403.md) | [Home](/index.md) | [Next Question >>](question_405.md)
+[<< Previous Question](question_403.md) | [Home](../index.md) | [Next Question >>](question_405.md)

@@ -8,15 +8,16 @@ You need to configure the k parameter for the cross-validation.
 
 Which value should you use?
 
-* A.k=1
-* B.k=10
-* C.k=0.5
-* D.k=0.9
+- A.k=1
+- B.k=10
+- C.k=0.5
+- D.k=0.9
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Leave One Out (LOO) cross-validation</p>
 <p>Setting K = n (the number of observations) yields n-fold and is called leave-one out cross-validation (LOO), a special case of the K-fold approach.</p>
 <p>LOO CV is sometimes useful but typically doesn&#x27;t shake up the data enough. The estimates from each fold are highly correlated and hence their average can have high variance.</p>
@@ -40,6 +41,7 @@ Setting k to 10 means that the dataset will be divided into 10 equal-sized folds
 It&#x27;s worth noting that the choice of k can depend on factors such as the size of the dataset, the available computational resources, and the specific requirements of the task at hand. However, a value of k=10 is often considered a good starting point and is commonly used in practice for cross-validation.
 
 Therefore, option B (k = 10) is the appropriate value to configure the k parameter for the cross-validation in this classification task.</p></blockquote>
+
 <blockquote><p><strong>serggar</strong> <code>(Sat 11 Sep 2021 15:15)</code> - <em>Upvotes: 3</em></p><p>isn&#x27;t this duplicated?</p></blockquote>
 <blockquote><p><strong>gbganalyst</strong> <code>(Fri 24 Jun 2022 09:37)</code> - <em>Upvotes: 2</em></p><p>Not at all.</p></blockquote>
 
@@ -47,4 +49,4 @@ Therefore, option B (k = 10) is the appropriate value to configure the k paramet
 
 ---
 
-[<< Previous Question](question_216.md) | [Home](/index.md) | [Next Question >>](question_218.md)
+[<< Previous Question](question_216.md) | [Home](../index.md) | [Next Question >>](question_218.md)

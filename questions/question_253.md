@@ -10,16 +10,17 @@ You need to evaluate the classification model.
 
 Which primary metric should you use?
 
-* A.normalized_mean_absolute_error
-* B.AUC_weighted
-* C.accuracy
-* D.normalized_root_mean_squared_error
-* E.spearman_correlation
+- A.normalized_mean_absolute_error
+- B.AUC_weighted
+- C.accuracy
+- D.normalized_root_mean_squared_error
+- E.spearman_correlation
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>AUC_weighted is a Classification metric.</p>
 <p>Note: AUC is the Area under the Receiver Operating Characteristic Curve. Weighted is the arithmetic mean of the score for each class, weighted by the number of true instances in each class.</p>
 <p>Incorrect Answers:</p>
@@ -44,4 +45,4 @@ Which primary metric should you use?
 
 ---
 
-[<< Previous Question](question_252.md) | [Home](/index.md) | [Next Question >>](question_254.md)
+[<< Previous Question](question_252.md) | [Home](../index.md) | [Next Question >>](question_254.md)

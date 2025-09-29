@@ -75,4 +75,4 @@ where is the other one from ...</p></blockquote>
 
 ---
 
-[<< Previous Question](question_250.md) | [Home](/index.md) | [Next Question >>](question_252.md)
+[<< Previous Question](question_250.md) | [Home](../index.md) | [Next Question >>](question_252.md)

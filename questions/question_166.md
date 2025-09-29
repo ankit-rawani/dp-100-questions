@@ -10,15 +10,15 @@ You need to reduce the delay to less than 1 minute.
 
 What should you do?
 
-* A.Configure the session timeout to be 25 minutes.
-* B.Increase the number of nodes to 16.
-* C.Enable dynamically allocated executors.
-* D.Enable an isolated compute.
+- A.Configure the session timeout to be 25 minutes.
+- B.Increase the number of nodes to 16.
+- C.Enable dynamically allocated executors.
+- D.Enable an isolated compute.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -31,4 +31,4 @@ What should you do?
 
 ---
 
-[<< Previous Question](question_165.md) | [Home](/index.md) | [Next Question >>](question_167.md)
+[<< Previous Question](question_165.md) | [Home](../index.md) | [Next Question >>](question_167.md)

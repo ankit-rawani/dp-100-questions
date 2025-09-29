@@ -42,4 +42,4 @@ Which code segment should you run?
 
 ---
 
-[<< Previous Question](question_371.md) | [Home](/index.md) | [Next Question >>](question_373.md)
+[<< Previous Question](question_371.md) | [Home](../index.md) | [Next Question >>](question_373.md)

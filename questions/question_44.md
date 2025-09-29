@@ -18,15 +18,15 @@ You need to create the environment.
 
 What should you do?
 
-* A.Build the environment in Apache Hive for HDInsight and use Azure Data Factory for orchestration.
-* B.Build the environment in Azure Databricks and use Azure Data Factory for orchestration.
-* C.Build the environment in Apache Spark for HDInsight and use Azure Container Instances for orchestration.
-* D.Build the environment in Azure Databricks and use Azure Container Instances for orchestration.
+- A.Build the environment in Apache Hive for HDInsight and use Azure Data Factory for orchestration.
+- B.Build the environment in Azure Databricks and use Azure Data Factory for orchestration.
+- C.Build the environment in Apache Spark for HDInsight and use Azure Container Instances for orchestration.
+- D.Build the environment in Azure Databricks and use Azure Container Instances for orchestration.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -34,9 +34,10 @@ What should you do?
   <summary>Show Discussions</summary>
 
 <blockquote><p><strong>Adi06</strong> <code>(Sat 13 Nov 2021 00:58)</code> - <em>Upvotes: 9</em></p><p>Is the answer not D?? They are trying to build a development environment (line 1). Nowhere it says its for production environment.</p></blockquote>
-<blockquote><p><strong>allanm</strong> <code>(Tue 17 May 2022 14:26)</code> - <em>Upvotes: 1</em></p><p>Agreed. If it was production environment, it should be Kubernetes services. Since it&#x27;s development it should be container services. 
+<blockquote><p><strong>allanm</strong> <code>(Tue 17 May 2022 14:26)</code> - <em>Upvotes: 1</em></p><p>Agreed. If it was production environment, it should be Kubernetes services. Since it&#x27;s development it should be container services.
 
 https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/2-deploy-model</p></blockquote>
+
 <blockquote><p><strong>levm39</strong> <code>(Sat 18 Jun 2022 08:24)</code> - <em>Upvotes: 8</em></p><p>you cant do orchestration with ACI, only with data factory, answer is correct.</p></blockquote>
 <blockquote><p><strong>prashantjoge</strong> <code>(Mon 30 May 2022 20:12)</code> - <em>Upvotes: 2</em></p><p>definitely d</p></blockquote>
 <blockquote><p><strong>strikchao</strong> <code>(Fri 05 Aug 2022 12:57)</code> - <em>Upvotes: 1</em></p><p>Not D. There is no autoscaling with ACI</p></blockquote>
@@ -50,6 +51,7 @@ Azure Databricks is a fast, easy, and collaborative Apache Spark-based analytics
 4. Built-in Monitoring and Management
 
 Therefore, for the purpose of orchestrating data pipelines in a data engineering and data science environment, ADF would be the recommended choice due to its dedicated orchestration features, data integration capabilities, visual workflow designer, and integration with diverse data sources and services.</p></blockquote>
+
 <blockquote><p><strong>dija123</strong> <code>(Wed 30 Nov 2022 18:29)</code> - <em>Upvotes: 3</em></p><p>B without doubts</p></blockquote>
 <blockquote><p><strong>kolakone</strong> <code>(Sat 16 Jul 2022 00:16)</code> - <em>Upvotes: 6</em></p><p>B is the right answer.
 C and D are out as there is need for data engineering 
@@ -67,4 +69,4 @@ Due to need for Scala and Python support, Databricks (B) is the correct answer.<
 
 ---
 
-[<< Previous Question](question_43.md) | [Home](/index.md) | [Next Question >>](question_45.md)
+[<< Previous Question](question_43.md) | [Home](../index.md) | [Next Question >>](question_45.md)

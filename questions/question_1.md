@@ -40,4 +40,4 @@ Select and Place:
 
 ---
 
-[Home](/index.md) | [Next Question >>](question_2.md)
+[Home](../index.md) | [Next Question >>](question_2.md)

@@ -8,16 +8,17 @@ Which two metrics can you use? Each correct answer presents a complete solution.
 
 NOTE: Each correct selection is worth one point.
 
-* A.relative absolute error
-* B.precision
-* C.accuracy
-* D.mean absolute error
-* E.coefficient of determination
+- A.relative absolute error
+- B.precision
+- C.accuracy
+- D.mean absolute error
+- E.coefficient of determination
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>BC</strong><br>
+<strong>BC</strong><br>
+
 <p>The evaluation metrics available for binary classification models are: Accuracy, Precision, Recall, F1 Score, and AUC.</p>
 <p>Note:  A very natural question is: &#x27;Out of the individuals whom the model, how many were classified correctly (TP)?&#x27;</p>
 <p>This question can be answered by looking at the Precision of the model, which is the proportion of positives that are classified correctly.</p>
@@ -35,4 +36,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_266.md) | [Home](/index.md) | [Next Question >>](question_268.md)
+[<< Previous Question](question_266.md) | [Home](../index.md) | [Next Question >>](question_268.md)

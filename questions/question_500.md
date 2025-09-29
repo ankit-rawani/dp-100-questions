@@ -63,4 +63,4 @@ No other comments ...</p></blockquote>
 
 ---
 
-[<< Previous Question](question_499.md) | [Home](/index.md) | [Next Question >>](question_501.md)
+[<< Previous Question](question_499.md) | [Home](../index.md) | [Next Question >>](question_501.md)

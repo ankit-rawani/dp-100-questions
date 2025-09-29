@@ -14,13 +14,13 @@ Solution: You use the Principal Components Analysis (PCA) sampling mode.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -35,6 +35,7 @@ Does the solution meet the goal?
 
 https://www.examtopics.com/discussions/microsoft/view/55875-exam-dp-100-topic-2-question-23-discussion/
 https://www.examtopics.com/discussions/microsoft/view/25612-exam-dp-100-topic-2-question-24-discussion/</p></blockquote>
+
 <blockquote><p><strong>synapse</strong> <code>(Mon 14 Mar 2022 07:47)</code> - <em>Upvotes: 1</em></p><p>PCA is not a sampling technique</p></blockquote>
 <blockquote><p><strong>mis96</strong> <code>(Wed 09 Feb 2022 16:26)</code> - <em>Upvotes: 1</em></p><p>Correct answer is No, PCA is not a re-sampling technique</p></blockquote>
 <blockquote><p><strong>santoshpandit</strong> <code>(Wed 23 Jun 2021 06:29)</code> - <em>Upvotes: 4</em></p><p>True, it&#x27;s SMOTE</p></blockquote>
@@ -43,4 +44,4 @@ https://www.examtopics.com/discussions/microsoft/view/25612-exam-dp-100-topic-2-
 
 ---
 
-[<< Previous Question](question_215.md) | [Home](/index.md) | [Next Question >>](question_217.md)
+[<< Previous Question](question_215.md) | [Home](../index.md) | [Next Question >>](question_217.md)

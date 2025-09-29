@@ -6,15 +6,15 @@ To improve the amount of low incidence cases in a dataset, you should make use o
 
 Select `No adjustment required` if the underlined segment is accurate. If the underlined segment is inaccurate, select the accurate option.
 
-* A.No adjustment required.
-* B.Remove Duplicate Rows
-* C.Join Data
-* D.Edit Metadata
+- A.No adjustment required.
+- B.Remove Duplicate Rows
+- C.Join Data
+- D.Edit Metadata
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -30,10 +30,11 @@ You connect the SMOTE component to a dataset that&#x27;s imbalanced. There are m
 The component returns a dataset that contains the original samples. It also returns a number of synthetic minority samples, depending on the percentage that you specify.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/smote</p></blockquote>
+
 <blockquote><p><strong>pancman</strong> <code>(Thu 13 Apr 2023 18:32)</code> - <em>Upvotes: 1</em></p><p>Correct.</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_14.md) | [Home](/index.md) | [Next Question >>](question_16.md)
+[<< Previous Question](question_14.md) | [Home](../index.md) | [Next Question >>](question_16.md)

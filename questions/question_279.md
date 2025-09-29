@@ -10,15 +10,15 @@ Which two modes can you use? Each correct answer presents a complete solution.
 
 NOTE: Each correct selection is worth one point.
 
-* A.to_pandas_dataframe()
-* B.as_download()
-* C.as_upload()
-* D.as_mount()
+- A.to_pandas_dataframe()
+- B.as_download()
+- C.as_upload()
+- D.as_mount()
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -39,6 +39,7 @@ azureml.data.FileDataSet.as_mount() --&gt; https://learn.microsoft.com/en-us/pyt
 azureml.data.FileDataSet.as_download() --&gt; https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.filedataset?view=azure-ml-py#azureml-data-filedataset-as-download
 
 to_pandas_dataframe() and as_upload() are fiction, they are not existing.</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Wed 22 Feb 2023 01:36)</code> - <em>Upvotes: 1</em></p><p>C. as_upload() and D. as_mount()</p></blockquote>
 <blockquote><p><strong>RamundiGR</strong> <code>(Fri 20 Jan 2023 17:20)</code> - <em>Upvotes: 1</em></p><p>You should highlight 2 Answers not just one</p></blockquote>
 <blockquote><p><strong>therealola</strong> <code>(Sat 18 Jun 2022 01:48)</code> - <em>Upvotes: 1</em></p><p>On exam 18-06-22
@@ -57,4 +58,4 @@ as_mount: provides a reference to the dataset</p></blockquote>
 
 ---
 
-[<< Previous Question](question_278.md) | [Home](/index.md) | [Next Question >>](question_280.md)
+[<< Previous Question](question_278.md) | [Home](../index.md) | [Next Question >>](question_280.md)

@@ -36,4 +36,4 @@ So for this question, the answer is correct</p></blockquote>
 
 ---
 
-[<< Previous Question](question_2.md) | [Home](/index.md) | [Next Question >>](question_4.md)
+[<< Previous Question](question_2.md) | [Home](../index.md) | [Next Question >>](question_4.md)

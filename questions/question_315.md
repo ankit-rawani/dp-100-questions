@@ -34,4 +34,4 @@ https://azure.github.io/azureml-cheatsheets/docs/cheatsheets/python/v1/script-ru
 
 ---
 
-[<< Previous Question](question_314.md) | [Home](/index.md) | [Next Question >>](question_316.md)
+[<< Previous Question](question_314.md) | [Home](../index.md) | [Next Question >>](question_316.md)

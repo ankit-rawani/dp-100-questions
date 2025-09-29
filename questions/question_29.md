@@ -8,15 +8,15 @@ You have been informed that only linear models need to be assessed by the Automa
 
 Which of the following actions should you take?
 
-* A.You should disable deep learning.
-* B.You should enable automatic featurization.
-* C.You should disable automatic featurization.
-* D.You should set the task type to Forecasting.
+- A.You should disable deep learning.
+- B.You should enable automatic featurization.
+- C.You should disable automatic featurization.
+- D.You should set the task type to Forecasting.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -28,6 +28,7 @@ Which of the following actions should you take?
 Automatic featurization has the following steps listed https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-features#automatic-featurization
 
 The only way to force linear algorithms to be evaluated is to use the blocked algorithms. list.</p></blockquote>
+
 <blockquote><p><strong>phydev</strong> <code>(Sat 20 Jan 2024 13:44)</code> - <em>Upvotes: 20</em></p><p>This was on Exam today (20 July 2023). There was another option to Block all the other algorithms except the linear ones, which I chose as my answer.</p></blockquote>
 <blockquote><p><strong>amittal09</strong> <code>(Fri 16 May 2025 06:23)</code> - <em>Upvotes: 2</em></p><p>The goal is to assess only linear models. Deep learning models are non-linear and complex. By disabling deep learning algorithms in the Automated Machine Learning settings, you ensure that only linear models (like Logistic Regression, Linear SVM, etc.) are considered during the model selection process.</p></blockquote>
 <blockquote><p><strong>deyoz</strong> <code>(Mon 26 Aug 2024 23:47)</code> - <em>Upvotes: 1</em></p><p>I go for A</p></blockquote>
@@ -43,6 +44,7 @@ B. You should enable automatic featurization.
 Enabling automatic featurization will allow the Automated Machine Learning interface to automatically preprocess the CSV data and extract relevant features that are compatible with linear models. Automatic featurization can also handle missing values, categorical variables, and feature scaling, which can be time-consuming and error-prone if done manually.
 
 Disabling deep learning (option A) may be necessary if the dataset is small or if the use of deep learning is not feasible or desired, but it is not relevant to the given scenario. Setting the task type to Forecasting (option D) is also not relevant since the task type has already been specified as Classification. Disabling automatic featurization (option C) may be appropriate if the CSV data has already been preprocessed and feature engineering has been performed manually, but it is not necessary if the CSV data is in its raw form.</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Sun 27 Aug 2023 20:29)</code> - <em>Upvotes: 1</em></p><p>The correct answer is B. You should enable automatic featurization.
 
 Automated Machine Learning (AutoML) is a process that automates various aspects of machine learning, such as data preprocessing, feature engineering, and model selection. It aims to make machine learning more accessible to individuals with limited expertise in data science.
@@ -50,6 +52,7 @@ Automated Machine Learning (AutoML) is a process that automates various aspects 
 In this scenario, the user has been informed that only linear models need to be assessed. Enabling automatic featurization is important because it will allow the AutoML interface to transform the data and generate additional features that may improve the performance of the linear models.
 
 Disabling automatic featurization (option C) would prevent the AutoML interface from generating additional features, potentially limiting the performance of the linear models. Disabling deep learning (option A) is not necessary since the problem does not involve deep learning models. Setting the task type to Forecasting (option D) is also incorrect since the user has been informed that a classification model needs to be trained.</p></blockquote>
+
 <blockquote><p><strong>mamau</strong> <code>(Sat 12 Aug 2023 06:56)</code> - <em>Upvotes: 2</em></p><p>C. You should disable automatic featurization. Automated Machine Learning (AutoML) provides the ability to automatically engineer features in order to simplify the process of building a machine learning model. However, in this case, the requirements specify that only linear models need to be assessed, so it would be best to disable automatic featurization to ensure that only linear models are considered. This would help ensure that the results are in line with the requirements.</p></blockquote>
 <blockquote><p><strong>manuu97</strong> <code>(Fri 16 Jun 2023 13:33)</code> - <em>Upvotes: 1</em></p><p>By exclusion the right answer is A</p></blockquote>
 <blockquote><p><strong>lookaaaa</strong> <code>(Tue 23 May 2023 20:14)</code> - <em>Upvotes: 3</em></p><p>featurization has no effect of linear models, so BC are wrong; 
@@ -64,4 +67,4 @@ As for D, you should choose classification not forecasting</p></blockquote>
 
 ---
 
-[<< Previous Question](question_28.md) | [Home](/index.md) | [Next Question >>](question_30.md)
+[<< Previous Question](question_28.md) | [Home](../index.md) | [Next Question >>](question_30.md)

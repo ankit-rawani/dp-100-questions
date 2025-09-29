@@ -62,4 +62,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-referen
 
 ---
 
-[<< Previous Question](question_237.md) | [Home](/index.md) | [Next Question >>](question_239.md)
+[<< Previous Question](question_237.md) | [Home](../index.md) | [Next Question >>](question_239.md)

@@ -14,15 +14,15 @@ You need to select a data science environment.
 
 Which environment should you use?
 
-* A.Azure Machine Learning Service
-* B.Azure Machine Learning Studio
-* C.Azure Databricks
-* D.Azure Kubernetes Service (AKS)
+- A.Azure Machine Learning Service
+- B.Azure Machine Learning Studio
+- C.Azure Databricks
+- D.Azure Kubernetes Service (AKS)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -51,6 +51,7 @@ Personal device flexibility:
 Azure Machine Learning Service supports local development and allows deploying models on personal devices with proper synchronization capabilities.
 
 Chat GPT</p></blockquote>
+
 <blockquote><p><strong>uncleeeesam</strong> <code>(Wed 27 Nov 2024 19:32)</code> - <em>Upvotes: 1</em></p><p>ChatGPT says D.</p></blockquote>
 <blockquote><p><strong>Ran2025</strong> <code>(Mon 30 Sep 2024 13:57)</code> - <em>Upvotes: 1</em></p><p>A is correct! Azure Machine Learning Service supports local machine compute!</p></blockquote>
 <blockquote><p><strong>Yoshizn</strong> <code>(Wed 07 Feb 2024 16:26)</code> - <em>Upvotes: 3</em></p><p>https://www.codit.eu/blog/azure-machine-learning-studio-vs-services/</p></blockquote>
@@ -67,6 +68,7 @@ Because Azure Machine Learning Studio need network!
 Azure Machine Learning Service can support local compute.
 
 https://www.codit.eu/blog/azure-machine-learning-studio-vs-services/?country_sel=be</p></blockquote>
+
 <blockquote><p><strong>Nav727</strong> <code>(Sun 04 Jun 2023 12:24)</code> - <em>Upvotes: 2</em></p><p>Why is B incorrect??</p></blockquote>
 <blockquote><p><strong>chevyli</strong> <code>(Fri 25 Aug 2023 02:45)</code> - <em>Upvotes: 2</em></p><p>The ML studio seems to refer to the Web UI ml.azure.com, which is unavailable in an offline setting.</p></blockquote>
 <blockquote><p><strong>turtle666</strong> <code>(Fri 21 Apr 2023 14:33)</code> - <em>Upvotes: 1</em></p><p>answer should be A, but already out-dated ?
@@ -79,4 +81,4 @@ https://www.codit.eu/blog/azure-machine-learning-studio-vs-services/</p></blockq
 
 ---
 
-[<< Previous Question](question_44.md) | [Home](/index.md) | [Next Question >>](question_46.md)
+[<< Previous Question](question_44.md) | [Home](../index.md) | [Next Question >>](question_46.md)

@@ -8,15 +8,15 @@ You need to modify your data to ensure your reports are private.
 
 Which epsilon value should you accept for your data?
 
-* A.between 0 and 1
-* B.between 2 and 3
-* C.between 3 and 10
-* D.more than 10
+- A.between 0 and 1
+- B.between 2 and 3
+- C.between 3 and 10
+- D.more than 10
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -34,4 +34,4 @@ More than 10: Very weak privacy guarantees.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_303.md) | [Home](/index.md) | [Next Question >>](question_305.md)
+[<< Previous Question](question_303.md) | [Home](../index.md) | [Next Question >>](question_305.md)

@@ -33,4 +33,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-troubleshoot-onl
 
 ---
 
-[<< Previous Question](question_432.md) | [Home](/index.md) | [Next Question >>](question_434.md)
+[<< Previous Question](question_432.md) | [Home](../index.md) | [Next Question >>](question_434.md)

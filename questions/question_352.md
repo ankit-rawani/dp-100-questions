@@ -39,4 +39,4 @@ https://learn.microsoft.com/en-us/training/modules/run-training-script-command-j
 
 ---
 
-[<< Previous Question](question_351.md) | [Home](/index.md) | [Next Question >>](question_353.md)
+[<< Previous Question](question_351.md) | [Home](../index.md) | [Next Question >>](question_353.md)

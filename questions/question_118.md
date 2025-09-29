@@ -8,15 +8,15 @@ You need to configure the compute target.
 
 Which option should you use?
 
-* A.Azure HDInsight
-* B.Azure Machine Learning compute cluster
-* C.Azure Batch
-* D.Remote VM
+- A.Azure HDInsight
+- B.Azure Machine Learning compute cluster
+- C.Azure Batch
+- D.Remote VM
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -34,4 +34,4 @@ Which option should you use?
 
 ---
 
-[<< Previous Question](question_117.md) | [Home](/index.md) | [Next Question >>](question_119.md)
+[<< Previous Question](question_117.md) | [Home](../index.md) | [Next Question >>](question_119.md)

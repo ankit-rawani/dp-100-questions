@@ -56,4 +56,4 @@ On the other hand, the options &quot;Account key&quot; (A) and &quot;Managed ide
 
 ---
 
-[<< Previous Question](question_144.md) | [Home](/index.md) | [Next Question >>](question_146.md)
+[<< Previous Question](question_144.md) | [Home](../index.md) | [Next Question >>](question_146.md)

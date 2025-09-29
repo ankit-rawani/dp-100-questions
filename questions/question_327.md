@@ -40,4 +40,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow-confi
 
 ---
 
-[<< Previous Question](question_326.md) | [Home](/index.md) | [Next Question >>](question_328.md)
+[<< Previous Question](question_326.md) | [Home](../index.md) | [Next Question >>](question_328.md)

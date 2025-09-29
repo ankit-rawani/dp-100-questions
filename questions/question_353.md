@@ -14,13 +14,13 @@ Solution: Use the random sampling method over the hyperparameter space.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -35,10 +35,11 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparame
 <blockquote><p><strong>D0ktor</strong> <code>(Tue 19 Nov 2024 22:43)</code> - <em>Upvotes: 2</em></p><p>Random sampling supports discrete and continuous hyperparameters. It supports early termination of low-performance jobs. Some users do an initial search with random sampling and then refine the search space to improve results.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?view=azureml-api-2</p></blockquote>
+
 <blockquote><p><strong>jefimija</strong> <code>(Wed 23 Oct 2024 13:14)</code> - <em>Upvotes: 1</em></p><p>it should be median stopping or bandit</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_352.md) | [Home](/index.md) | [Next Question >>](question_354.md)
+[<< Previous Question](question_352.md) | [Home](../index.md) | [Next Question >>](question_354.md)

@@ -10,13 +10,13 @@ Recommendation: You make use of the Replace with median option.
 
 Will the requirements be satisfied?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -32,14 +32,15 @@ Will the requirements be satisfied?
 - Replace using MICE (Multivariate Imputation using Chained Equations)
 - Custom substitution value
 - Replace with mean
-- Replace with median: Calculates the column median value, and uses the median value as the replacement for any missing value in the column. (*)
+- Replace with median: Calculates the column median value, and uses the median value as the replacement for any missing value in the column. (\*)
 - Replace with mode
 - Remove entire row
 - Replace using Probabilistic PCA
 
 &#x27;rows with null and missing values&#x27;, so no removing entire row.
 
-I choose YES (*), it is A.</p></blockquote>
+I choose YES (\*), it is A.</p></blockquote>
+
 <blockquote><p><strong>Xsesi</strong> <code>(Mon 29 Jul 2024 14:06)</code> - <em>Upvotes: 1</em></p><p>Since we do not know the type of data. Replace with mode would be prefer if the data is categorical.</p></blockquote>
 <blockquote><p><strong>deyoz</strong> <code>(Mon 26 Feb 2024 05:16)</code> - <em>Upvotes: 2</em></p><p>Answer is no, median is not appropriate to replace missing values of categorical columns.</p></blockquote>
 <blockquote><p><strong>evangelist</strong> <code>(Tue 20 Feb 2024 12:49)</code> - <em>Upvotes: 1</em></p><p>A is correct</p></blockquote>
@@ -52,21 +53,24 @@ I choose YES (*), it is A.</p></blockquote>
 By choosing this option, the module will identify columns with missing values and replace those missing values with the median value of each respective column. This can help maintain the integrity of your dataset and ensure that your machine learning model receives meaningful input data.
 
 However, keep in mind that the choice of replacement strategy can also depend on the nature of your data and the specific requirements of your machine learning problem. It&#x27;s always a good practice to assess the impact of different imputation methods on your model&#x27;s performance to find the best strategy for your particular case.</p></blockquote>
+
 <blockquote><p><strong>endeesa</strong> <code>(Thu 08 Jun 2023 20:26)</code> - <em>Upvotes: 1</em></p><p>We simply dont have enough information about the dataset to know if Median substitution will work, so the answer is No</p></blockquote>
 <blockquote><p><strong>ManuelHenriques</strong> <code>(Mon 27 Feb 2023 12:46)</code> - <em>Upvotes: 4</em></p><p>You should not assume that it is correct to use median if you don&#x27;t know if data is continuous or not so B</p></blockquote>
 <blockquote><p><strong>Obhee</strong> <code>(Tue 24 Jan 2023 16:51)</code> - <em>Upvotes: 1</em></p><p>Replace with median: Calculates the column median value, and uses the median value as the replacement for any missing value in the column.
 
 Applies only to columns that have Integer or Double data types. See the Technical notes section for more information.
 https://learn.microsoft.com/en-us/previous-versions/azure/machine-learning/studio-module-reference/clean-missing-data</p></blockquote>
+
 <blockquote><p><strong>KIshor1212</strong> <code>(Tue 29 Nov 2022 14:00)</code> - <em>Upvotes: 1</em></p><p>eplace with median: Calculates the column median value, and uses the median value as the replacement for any missing value in the column.
 
 Applies only to columns that have Integer or Double data types.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/clean-missing-data</p></blockquote>
+
 <blockquote><p><strong>KIshor1212</strong> <code>(Tue 29 Nov 2022 14:00)</code> - <em>Upvotes: 1</em></p><p>** Replace with median</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_15.md) | [Home](/index.md) | [Next Question >>](question_17.md)
+[<< Previous Question](question_15.md) | [Home](../index.md) | [Next Question >>](question_17.md)

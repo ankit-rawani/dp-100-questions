@@ -8,15 +8,15 @@ You need to reduce the effect of user data on aggregated results.
 
 What should you do?
 
-* A.Decrease the value of the epsilon parameter to reduce the amount of noise added to the data
-* B.Increase the value of the epsilon parameter to decrease privacy and increase accuracy
-* C.Decrease the value of the epsilon parameter to increase privacy and reduce accuracy
-* D.Set the value of the epsilon parameter to 1 to ensure maximum privacy
+- A.Decrease the value of the epsilon parameter to reduce the amount of noise added to the data
+- B.Increase the value of the epsilon parameter to decrease privacy and increase accuracy
+- C.Decrease the value of the epsilon parameter to increase privacy and reduce accuracy
+- D.Set the value of the epsilon parameter to 1 to ensure maximum privacy
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -28,6 +28,7 @@ What should you do?
 <blockquote><p><strong>JTWang</strong> <code>(Tue 25 Apr 2023 06:45)</code> - <em>Upvotes: 3</em></p><p>A lower epsilon reduces the impact of an individual&#x27;s data on aggregated results, increasing privacy and reducing accuracy
 
 https://learn.microsoft.com/zh-tw/training/modules/explore-differential-privacy/5-knowledge-check</p></blockquote>
+
 <blockquote><p><strong>tgaos</strong> <code>(Sun 13 Aug 2023 03:34)</code> - <em>Upvotes: 1</em></p><p>Check this url: https://learn.microsoft.com/en-us/training/modules/explore-differential-privacy/5-knowledge-check
 This guy is right, answer is C</p></blockquote>
 <blockquote><p><strong>nahner</strong> <code>(Wed 08 Mar 2023 09:54)</code> - <em>Upvotes: 3</em></p><p>&quot;The lower the epsilon, the less impact an individual&#x27;s data has on aggregated results, and therefore the risk of exposure is reduced.&quot; See https://docs.microsoft.com/en-us/training/modules/explore-differential-privacy/5-knowledge-check</p></blockquote>
@@ -40,4 +41,4 @@ https://github.com/MicrosoftLearning/mslearn-dp100/blob/main/13%20-%20Explore%20
 
 ---
 
-[<< Previous Question](question_482.md) | [Home](/index.md) | [Next Question >>](question_484.md)
+[<< Previous Question](question_482.md) | [Home](../index.md) | [Next Question >>](question_484.md)

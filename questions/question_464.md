@@ -71,4 +71,4 @@ I guess this is dated question</p></blockquote>
 
 ---
 
-[<< Previous Question](question_463.md) | [Home](/index.md) | [Next Question >>](question_465.md)
+[<< Previous Question](question_463.md) | [Home](../index.md) | [Next Question >>](question_465.md)

@@ -60,4 +60,4 @@ Correct</p></blockquote>
 
 ---
 
-[<< Previous Question](question_35.md) | [Home](/index.md) | [Next Question >>](question_37.md)
+[<< Previous Question](question_35.md) | [Home](../index.md) | [Next Question >>](question_37.md)

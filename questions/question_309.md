@@ -30,4 +30,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow-cli-r
 
 ---
 
-[<< Previous Question](question_308.md) | [Home](/index.md) | [Next Question >>](question_310.md)
+[<< Previous Question](question_308.md) | [Home](../index.md) | [Next Question >>](question_310.md)

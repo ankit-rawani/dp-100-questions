@@ -8,15 +8,15 @@ You need to choose the primary metric to optimize the model training.
 
 Which primary metric should you choose?
 
-* A.r2_score
-* B.mean_absolute_error
-* C.accuracy
-* D.root_mean_squared_log_error
+- A.r2_score
+- B.mean_absolute_error
+- C.accuracy
+- D.root_mean_squared_log_error
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -31,4 +31,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image
 
 ---
 
-[<< Previous Question](question_353.md) | [Home](/index.md) | [Next Question >>](question_355.md)
+[<< Previous Question](question_353.md) | [Home](../index.md) | [Next Question >>](question_355.md)

@@ -8,15 +8,15 @@ You need to ensure that the correct version of PyTorch can be identified for the
 
 What should you do?
 
-* A.Save the model locally as a.pt file, and deploy the model as a local web service.
-* B.Deploy the model on computer that is configured to use the default Azure Machine Learning conda environment.
-* C.Register the model with a .pt file extension and the default version property.
-* D.Register the model, specifying the model_framework and model_framework_version properties.
+- A.Save the model locally as a.pt file, and deploy the model as a local web service.
+- B.Deploy the model on computer that is configured to use the default Azure Machine Learning conda environment.
+- C.Register the model with a .pt file extension and the default version property.
+- D.Register the model, specifying the model_framework and model_framework_version properties.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -34,6 +34,7 @@ pecifying the model_framework and model_framework_version properties when regist
 
 Check API for model registering.
 https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.run.run?view=azure-ml-py#register-model-model-name--model-path-none--tags-none--properties-none--model-framework-none--model-framework-version-none--description-none--datasets-none--sample-input-dataset-none--sample-output-dataset-none--resource-configuration-none----kwargs-</p></blockquote>
+
 <blockquote><p><strong>ACSC</strong> <code>(Tue 02 Nov 2021 11:14)</code> - <em>Upvotes: 4</em></p><p>Answer is C. https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.dnn.pytorch?view=azure-ml-py#default-version----1-4-</p></blockquote>
 <blockquote><p><strong>Haisheng_Zhang</strong> <code>(Wed 13 Oct 2021 05:36)</code> - <em>Upvotes: 1</em></p><p>https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.dnn.pytorch?view=azure-ml-py</p></blockquote>
 <blockquote><p><strong>dev2dev</strong> <code>(Fri 17 Sep 2021 03:33)</code> - <em>Upvotes: 1</em></p><p>model_framework is Model&#x27;s property
@@ -44,4 +45,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.model.mode
 
 ---
 
-[<< Previous Question](question_376.md) | [Home](/index.md) | [Next Question >>](question_378.md)
+[<< Previous Question](question_376.md) | [Home](../index.md) | [Next Question >>](question_378.md)

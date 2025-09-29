@@ -39,4 +39,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml?vie
 
 ---
 
-[<< Previous Question](question_492.md) | [Home](/index.md) | [Next Question >>](question_494.md)
+[<< Previous Question](question_492.md) | [Home](../index.md) | [Next Question >>](question_494.md)

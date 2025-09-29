@@ -35,4 +35,4 @@ https://github.com/Azure/azureml-examples/blob/main/sdk/python/resources/datasto
 
 ---
 
-[<< Previous Question](question_156.md) | [Home](/index.md) | [Next Question >>](question_158.md)
+[<< Previous Question](question_156.md) | [Home](../index.md) | [Next Question >>](question_158.md)

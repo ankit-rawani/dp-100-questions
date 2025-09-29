@@ -48,4 +48,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-understand-autom
 
 ---
 
-[<< Previous Question](question_123.md) | [Home](/index.md) | [Next Question >>](question_125.md)
+[<< Previous Question](question_123.md) | [Home](../index.md) | [Next Question >>](question_125.md)

@@ -6,16 +6,16 @@ You need to determine how closely the data fits the regression line.
 
 Which metric should you review?
 
-* A.Root Mean Square Error
-* B.Coefficient of determination
-* C.Recall
-* D.Precision
-* E.Mean absolute error
+- A.Root Mean Square Error
+- B.Coefficient of determination
+- C.Recall
+- D.Precision
+- E.Mean absolute error
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -47,4 +47,4 @@ Coefficient of determination, often referred to as R2, represents the predictive
 
 ---
 
-[<< Previous Question](question_469.md) | [Home](/index.md) | [Next Question >>](question_471.md)
+[<< Previous Question](question_469.md) | [Home](../index.md) | [Next Question >>](question_471.md)

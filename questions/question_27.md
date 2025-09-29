@@ -10,13 +10,13 @@ Recommendation: You must make use of the Join Data Azure Machine Learning Studio
 
 Will the requirements be satisfied?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,6 +32,7 @@ https://docs.microsoft.com/bs-cyrl-ba/azure/machine-learning/component-reference
 If you want to add a feature to the dataset and FILL COLUMN VALUE --&gt; No.
 
 Join dataset https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/join-data?view=azureml-api-2</p></blockquote>
+
 <blockquote><p><strong>PradhanManva</strong> <code>(Sun 24 Mar 2024 19:23)</code> - <em>Upvotes: 1</em></p><p>This is the answer.</p></blockquote>
 <blockquote><p><strong>Sa_Msa</strong> <code>(Mon 01 Jan 2024 16:40)</code> - <em>Upvotes: 2</em></p><p>Answer is correct. I tested it multiple times and got error regarding the size. You need to use &quot;add columns&quot; if you want to add two dataset together.</p></blockquote>
 <blockquote><p><strong>SoftAI</strong> <code>(Thu 12 Oct 2023 17:00)</code> - <em>Upvotes: 1</em></p><p>Join Data Azure Machine Learning Studio is a data transformation tool</p></blockquote>
@@ -40,6 +41,7 @@ Join dataset https://learn.microsoft.com/en-us/azure/machine-learning/component-
 <blockquote><p><strong>Sibajene</strong> <code>(Tue 04 Jul 2023 13:17)</code> - <em>Upvotes: 2</em></p><p>B. No
 
 The Join Data module in Azure Machine Learning Studio is used to combine two datasets by matching values in key columns. It is not a general-purpose tool for adding features or filling column values in a single dataset.</p></blockquote>
+
 <blockquote><p><strong>Edriv</strong> <code>(Fri 09 Jun 2023 15:55)</code> - <em>Upvotes: 1</em></p><p>Option B</p></blockquote>
 <blockquote><p><strong>KIshor1212</strong> <code>(Mon 29 May 2023 13:12)</code> - <em>Upvotes: 1</em></p><p>To perform a join on two datasets, they should be related by a key column. Composite keys using multiple columns are also supported. Add the datasets you want to combine, and then drag the Join Data component into your pipeline.</p></blockquote>
 <blockquote><p><strong>Mirjalol</strong> <code>(Tue 01 Aug 2023 10:33)</code> - <em>Upvotes: 5</em></p><p>The question says &#x27;add a feature to the dataset &#x27; ... there are no 2 datasets here. You are not joining them... You are adding a damn single feature to the dataset. Why you guys like to mislead people?</p></blockquote>
@@ -58,4 +60,4 @@ Join is the correct answer, you can control which key column to join and which c
 
 ---
 
-[<< Previous Question](question_26.md) | [Home](/index.md) | [Next Question >>](question_28.md)
+[<< Previous Question](question_26.md) | [Home](../index.md) | [Next Question >>](question_28.md)

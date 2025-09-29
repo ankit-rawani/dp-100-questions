@@ -64,4 +64,4 @@ print(age_mean.compute_privacy_usage(0.05, 0.95)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_311.md) | [Home](/index.md) | [Next Question >>](question_313.md)
+[<< Previous Question](question_311.md) | [Home](../index.md) | [Next Question >>](question_313.md)

@@ -63,4 +63,4 @@ The only case to attach your computer, is to make it available as a ComputeTarge
 
 ---
 
-[<< Previous Question](question_190.md) | [Home](/index.md) | [Next Question >>](question_192.md)
+[<< Previous Question](question_190.md) | [Home](../index.md) | [Next Question >>](question_192.md)

@@ -20,13 +20,14 @@ Deploy the model to the service.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Instead use only auth_enabled = TRUE</p>
 <p>Note: Key-based authentication.</p>
 <p>Web services deployed on AKS have key-based auth enabled by default. ACI-deployed services have key-based auth disabled by default, but you can enable it by setting auth_enabled = TRUE when creating the ACI web service. The following is an example of creating an ACI deployment configuration with key-based auth enabled. deployment_config &lt;- aci_webservice_deployment_config(cpu_cores = 1, memory_gb = 1, auth_enabled = TRUE)</p>
@@ -46,18 +47,22 @@ https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.webservic
 key-based and ssl_enable can work together.
 
 Web services deployed on AKS have key-based auth enabled by default. ACI-deployed services have key-based auth disabled by default, but you can enable it by setting auth_enabled = TRUE when creating the ACI web service. The following is an example of creating an ACI deployment configuration with key-based auth enabled.</p></blockquote>
+
 <blockquote><p><strong>james2033</strong> <code>(Sun 20 Oct 2024 07:20)</code> - <em>Upvotes: 1</em></p><p>deployment_config &lt;- aci_webservice_deployment_config(cpu_cores = 1, 
                                                       memory_gb = 1,
                                                       auth_enabled = TRUE)
 To fetch the auth keys, use get_webservice_keys(). To regenerate a key, use the generate_new_webservice_key() function:
 
 # Generate the primary auth key
+
 primary_key &lt;- generate_new_webservice_key(service, key_type = &quot;Primary&quot;)
 
 # Generate the secondary auth key
+
 secondary_key &lt;- generate_new_webservice_key(service, key_type = &quot;Secondary&quot;)
 
 https://azure.github.io/azureml-sdk-for-r/articles/deploying-models.html#key-based-authentication</p></blockquote>
+
 <blockquote><p><strong>james2033</strong> <code>(Sun 20 Oct 2024 07:21)</code> - <em>Upvotes: 1</em></p><p>I changed: missing step Generate auth_key. Choose B.</p></blockquote>
 <blockquote><p><strong>michaelmorar</strong> <code>(Mon 27 Nov 2023 10:10)</code> - <em>Upvotes: 2</em></p><p>False - SSL is transport-layer only, not application-level authentication.</p></blockquote>
 <blockquote><p><strong>claps92</strong> <code>(Thu 14 Sep 2023 10:59)</code> - <em>Upvotes: 1</em></p><p>answer is YES!!</p></blockquote>
@@ -68,4 +73,4 @@ https://azure.github.io/azureml-sdk-for-r/articles/deploying-models.html#key-bas
 
 ---
 
-[<< Previous Question](question_385.md) | [Home](/index.md) | [Next Question >>](question_387.md)
+[<< Previous Question](question_385.md) | [Home](../index.md) | [Next Question >>](question_387.md)

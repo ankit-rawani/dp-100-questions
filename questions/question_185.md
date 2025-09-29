@@ -51,4 +51,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.run.run?vi
 
 ---
 
-[<< Previous Question](question_184.md) | [Home](/index.md) | [Next Question >>](question_186.md)
+[<< Previous Question](question_184.md) | [Home](../index.md) | [Next Question >>](question_186.md)

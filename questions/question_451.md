@@ -8,15 +8,15 @@ You need to deploy the MLflow model to a batch endpoint for batch inferencing.
 
 What should you create first?
 
-* A.scoring script
-* B.deployment
-* C.environment
-* D.deployment definition
+- A.scoring script
+- B.deployment
+- C.environment
+- D.deployment definition
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -32,4 +32,4 @@ What should you create first?
 
 ---
 
-[<< Previous Question](question_450.md) | [Home](/index.md) | [Next Question >>](question_452.md)
+[<< Previous Question](question_450.md) | [Home](../index.md) | [Next Question >>](question_452.md)

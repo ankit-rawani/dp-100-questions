@@ -8,15 +8,15 @@ It is imperative that learners are able to execute Python-based data visualizati
 
 Which of the following actions should you take?
 
-* A.You should consider configuring the use of Azure Container Instance.
-* B.You should consider configuring the use of Azure BatchAI.
-* C.You should consider configuring the use of Azure Notebooks.
-* D.You should consider configuring the use of Azure Kubernetes Service.
+- A.You should consider configuring the use of Azure Container Instance.
+- B.You should consider configuring the use of Azure BatchAI.
+- C.You should consider configuring the use of Azure Notebooks.
+- D.You should consider configuring the use of Azure Kubernetes Service.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -27,15 +27,17 @@ Which of the following actions should you take?
 <blockquote><p><strong>Learner_Thunder2</strong> <code>(Wed 12 Jan 2022 17:58)</code> - <em>Upvotes: 5</em></p><p>Azure Notebooks is correct</p></blockquote>
 <blockquote><p><strong>sar77</strong> <code>(Sat 12 Jul 2025 00:21)</code> - <em>Upvotes: 1</em></p><p>Azure Notebooks is correct</p></blockquote>
 <blockquote><p><strong>raidenstrike1945</strong> <code>(Wed 11 Dec 2024 03:34)</code> - <em>Upvotes: 1</em></p><p>Why C? there&#x27;s no Internet, no Azure Subscription. How ppl can use Azure Notebook without these two?</p></blockquote>
-<blockquote><p><strong>james2033</strong> <code>(Thu 26 Sep 2024 10:10)</code> - <em>Upvotes: 1</em></p><p>Learner devices NOT configured for Python development --&gt; Azure Notebooks. Choose C. 
+<blockquote><p><strong>james2033</strong> <code>(Thu 26 Sep 2024 10:10)</code> - <em>Upvotes: 1</em></p><p>Learner devices NOT configured for Python development --&gt; Azure Notebooks. Choose C.
 
-Quote &#x27;Since you don&#x27;t share compute instances, other users who run your notebook will do so on their own compute instance.&#x27; 
+Quote &#x27;Since you don&#x27;t share compute instances, other users who run your notebook will do so on their own compute instance.&#x27;
 
 at https://learn.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks?view=azureml-api-2#share-a-notebook</p></blockquote>
+
 <blockquote><p><strong>evangelist</strong> <code>(Thu 26 Sep 2024 10:10)</code> - <em>Upvotes: 2</em></p><p>The correct answer is C. You should consider configuring the use of Azure Notebooks.
 
 Explanation:
 Azure Notebooks is a free service that provides Jupyter notebooks that are hosted in the cloud. The service allows users to write and execute Python (among other languages) code in their browsers without the need for any configuration or installation of software on the local machine. This makes it an ideal solution for scenarios where learners do not have administrator permissions to install software and cannot access Azure subscriptions directly. Azure Notebooks support data visualization libraries in Python, such as Matplotlib, Seaborn, or Plotly, making it suitable for the practical training aimed at acquainting learners with data visualization creation.</p></blockquote>
+
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Wed 05 Jun 2024 20:22)</code> - <em>Upvotes: 1</em></p><p>Seems Azure Notebooks is no longer available.</p></blockquote>
 <blockquote><p><strong>kay1101</strong> <code>(Fri 17 May 2024 05:16)</code> - <em>Upvotes: 2</em></p><p>I understood C may be the best choice here, however, how could you use azure notebooks without subscription?
 notebook prerequisites:
@@ -49,4 +51,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-note
 
 ---
 
-[<< Previous Question](question_17.md) | [Home](/index.md) | [Next Question >>](question_19.md)
+[<< Previous Question](question_17.md) | [Home](../index.md) | [Next Question >>](question_19.md)

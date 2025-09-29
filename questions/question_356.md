@@ -8,15 +8,15 @@ You need to identify the library you should use to register the MLflow models.
 
 Which library should you use?
 
-* A.PyTorch
-* B.mlpy
-* C.TensorFlow
-* D.scikit-learn
+- A.PyTorch
+- B.mlpy
+- C.TensorFlow
+- D.scikit-learn
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -38,4 +38,4 @@ Ans:D</p></blockquote>
 
 ---
 
-[<< Previous Question](question_355.md) | [Home](/index.md) | [Next Question >>](question_357.md)
+[<< Previous Question](question_355.md) | [Home](../index.md) | [Next Question >>](question_357.md)

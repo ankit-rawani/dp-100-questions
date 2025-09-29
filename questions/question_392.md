@@ -6,15 +6,16 @@ You need to register the new version of a model while keeping the current versio
 
 What should you do?
 
-* A.Register a model with a different name from the existing model and a custom property named version with the value 2.
-* B.Register the model with the same name as the existing model.
-* C.Save the new model in the default datastore with the same name as the existing model. Do not register the new model.
-* D.Delete the existing model and register the new one with the same name.
+- A.Register a model with a different name from the existing model and a custom property named version with the value 2.
+- B.Register the model with the same name as the existing model.
+- C.Save the new model in the default datastore with the same name as the existing model. Do not register the new model.
+- D.Delete the existing model and register the new one with the same name.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Model version: A version of a registered model. When a new model is added to the Model Registry, it is added as Version 1. Each model registered to the same model name increments the version number.</p>
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/model-registry</p>
@@ -33,4 +34,4 @@ Model version: A version of a registered model. When a new model is added to the
 
 ---
 
-[<< Previous Question](question_391.md) | [Home](/index.md) | [Next Question >>](question_393.md)
+[<< Previous Question](question_391.md) | [Home](../index.md) | [Next Question >>](question_393.md)

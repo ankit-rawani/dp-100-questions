@@ -6,15 +6,15 @@ You need to prepare the pipeline for deployment as an endpoint that generates pr
 
 What should you do?
 
-* A.Clone the training pipeline.
-* B.Create a batch inference pipeline from the training pipeline.
-* C.Create a real-time inference pipeline from the training pipeline.
-* D.Replace the dataset in the training pipeline with an Enter Data Manually module.
+- A.Clone the training pipeline.
+- B.Create a batch inference pipeline from the training pipeline.
+- C.Create a real-time inference pipeline from the training pipeline.
+- D.Replace the dataset in the training pipeline with an Enter Data Manually module.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -34,6 +34,7 @@ https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-
 <blockquote><p><strong>phdykd</strong> <code>(Sat 27 Jan 2024 02:54)</code> - <em>Upvotes: 1</em></p><p>B.B. Create a batch inference pipeline from the training pipeline.
 
 Asynchronous predictions are typically done with batch inferencing. Azure Machine Learning provides the batch inference pipeline, which is suited for large volumes of data where the results aren&#x27;t needed in real-time. This differs from a real-time inference pipeline, which provides synchronous, real-time predictions. So, to generate predictions asynchronously for a dataset of input data values, you should create a batch inference pipeline from the training pipeline.</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Wed 23 Aug 2023 14:56)</code> - <em>Upvotes: 1</em></p><p>B and C.</p></blockquote>
 <blockquote><p><strong>RamundiGR</strong> <code>(Mon 07 Aug 2023 12:40)</code> - <em>Upvotes: 1</em></p><p>we are talking to get Asynch response so it should be Batch Inference</p></blockquote>
 <blockquote><p><strong>RamundiGR</strong> <code>(Sun 23 Jul 2023 13:42)</code> - <em>Upvotes: 5</em></p><p>Another one wrong this should be B, please correct this answer I have paid for it to be sure the answers are correct.</p></blockquote>
@@ -49,4 +50,4 @@ Sync = realtime</p></blockquote>
 
 ---
 
-[<< Previous Question](question_390.md) | [Home](/index.md) | [Next Question >>](question_392.md)
+[<< Previous Question](question_390.md) | [Home](../index.md) | [Next Question >>](question_392.md)

@@ -36,4 +36,4 @@ Select and Place:
 
 ---
 
-[<< Previous Question](question_32.md) | [Home](/index.md) | [Next Question >>](question_34.md)
+[<< Previous Question](question_32.md) | [Home](../index.md) | [Next Question >>](question_34.md)

@@ -8,16 +8,16 @@ You need to create the script that is specified as the scoring_script parameter 
 
 What should the entry script do?
 
-* A.Register the model with appropriate tags and properties.
-* B.Create a Conda environment for the online endpoint compute and install the necessary Python packages.
-* C.Load the model and use it to predict labels from input data.
-* D.Start a node on the inference cluster where the model is deployed.
-* E.Specify the number of cores and the amount of memory required for the online endpoint compute.
+- A.Register the model with appropriate tags and properties.
+- B.Create a Conda environment for the online endpoint compute and install the necessary Python packages.
+- C.Load the model and use it to predict labels from input data.
+- D.Start a node on the inference cluster where the model is deployed.
+- E.Specify the number of cores and the amount of memory required for the online endpoint compute.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ What should the entry script do?
 
 ---
 
-[<< Previous Question](question_445.md) | [Home](/index.md) | [Next Question >>](question_447.md)
+[<< Previous Question](question_445.md) | [Home](../index.md) | [Next Question >>](question_447.md)

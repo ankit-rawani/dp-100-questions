@@ -8,15 +8,15 @@ You need to display the pipeline run details written to the STDOUT output when t
 
 Which code segment should you add to the test script?
 
-* A.pipeline_run.get.metrics()
-* B.pipeline_run.wait_for_completion(show_output=True)
-* C.pipeline_param = PipelineParameter(name="stdout", default_value="console")
-* D.pipeline_run.get_status()
+- A.pipeline_run.get.metrics()
+- B.pipeline_run.wait_for_completion(show_output=True)
+- C.pipeline_param = PipelineParameter(name="stdout", default_value="console")
+- D.pipeline_run.get_status()
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -33,4 +33,4 @@ Which code segment should you add to the test script?
 
 ---
 
-[<< Previous Question](question_401.md) | [Home](/index.md) | [Next Question >>](question_403.md)
+[<< Previous Question](question_401.md) | [Home](../index.md) | [Next Question >>](question_403.md)

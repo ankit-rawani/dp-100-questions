@@ -52,4 +52,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-nlp-m
 
 ---
 
-[<< Previous Question](question_367.md) | [Home](/index.md) | [Next Question >>](question_369.md)
+[<< Previous Question](question_367.md) | [Home](../index.md) | [Next Question >>](question_369.md)

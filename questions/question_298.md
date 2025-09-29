@@ -6,15 +6,15 @@ You need to verify that the column1 values are normally distributed.
 
 Which statistic should you use?
 
-* A.Max
-* B.Type
-* C.Profile
-* D.Mean
+- A.Max
+- B.Type
+- C.Profile
+- D.Mean
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -28,4 +28,4 @@ Which statistic should you use?
 
 ---
 
-[<< Previous Question](question_297.md) | [Home](/index.md) | [Next Question >>](question_299.md)
+[<< Previous Question](question_297.md) | [Home](../index.md) | [Next Question >>](question_299.md)

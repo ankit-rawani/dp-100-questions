@@ -6,15 +6,16 @@ You need to build and train the machine learning model to learn the sequence of 
 
 Which type of neural network should you use?
 
-* A.Multilayer Perceptions (MLPs)
-* B.Convolutional Neural Networks (CNNs)
-* C.Recurrent Neural Networks (RNNs)
-* D.Generative Adversarial Networks (GANs)
+- A.Multilayer Perceptions (MLPs)
+- B.Convolutional Neural Networks (CNNs)
+- C.Recurrent Neural Networks (RNNs)
+- D.Generative Adversarial Networks (GANs)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
+
 <p>To translate a corpus of English text to French, we need to build a recurrent neural network (RNN).</p>
 <p>Note: RNNs are designed to take sequences of text as inputs or return sequences of text as outputs, or both. They&#x27;re called recurrent because the network&#x27;s hidden layers have a loop in which the output and cell state from each time step become inputs at the next time step. This recurrence serves as a form of memory.</p>
 <p>It allows contextual information to flow through the network so that relevant outputs from previous time steps can be applied to network operations at the current time step.</p>
@@ -33,6 +34,7 @@ https://chunml.github.io/ChunML.github.io/project/Creating-Text-Generator-Using-
 CNN for image training. Remove B.
 
 &#x27;Multi-layer perceptions&#x27; for neural network theory. Remove A.</p></blockquote>
+
 <blockquote><p><strong>azurelearner666</strong> <code>(Fri 14 Apr 2023 08:05)</code> - <em>Upvotes: 1</em></p><p>C, RNN is the answer.</p></blockquote>
 <blockquote><p><strong>adamwar</strong> <code>(Thu 03 Nov 2022 13:55)</code> - <em>Upvotes: 1</em></p><p>RNNs are not used much anymore in favour of LSTMS or similar, also CNNs can be used for seq2seq models</p></blockquote>
 <blockquote><p><strong>spaceykacey</strong> <code>(Fri 11 Nov 2022 17:08)</code> - <em>Upvotes: 5</em></p><p>LSTMs are a type of RNN.</p></blockquote>
@@ -44,4 +46,4 @@ CNN for image training. Remove B.
 
 ---
 
-[<< Previous Question](question_270.md) | [Home](/index.md) | [Next Question >>](question_272.md)
+[<< Previous Question](question_270.md) | [Home](../index.md) | [Next Question >>](question_272.md)

@@ -50,4 +50,4 @@ goal=&quot;Maximize&quot;,
 
 ---
 
-[<< Previous Question](question_340.md) | [Home](/index.md) | [Next Question >>](question_342.md)
+[<< Previous Question](question_340.md) | [Home](../index.md) | [Next Question >>](question_342.md)

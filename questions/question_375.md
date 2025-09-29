@@ -10,16 +10,16 @@ Which two functions should you include? Each correct answer presents part of the
 
 NOTE: Each correct selection is worth one point.
 
-* A.run(mini_batch)
-* B.main()
-* C.batch()
-* D.init()
-* E.score(mini_batch)
+- A.run(mini_batch)
+- B.main()
+- C.batch()
+- D.init()
+- E.score(mini_batch)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>AD</strong><br>
+<strong>AD</strong><br>
 
 </details>
 
@@ -33,20 +33,23 @@ NOTE: Each correct selection is worth one point.
 init()
 
 See https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/machine-learning-pipelines/parallel-run</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Sat 27 Jul 2024 01:03)</code> - <em>Upvotes: 1</em></p><p>AD.
 
 Batch inferencing service requires a scoring script to load the model and use it to predict new values. It must include two functions:
 init(): Called when the pipeline is initialized.
 run(mini_batch): Called for each batch of data to be processed.
 Typically, you use the init function to load the model from the model registry, and use the run function to generate predictions from each batch of data and return the results. The following example script shows this pattern:</p></blockquote>
+
 <blockquote><p><strong>snegnik</strong> <code>(Mon 03 Jun 2024 16:23)</code> - <em>Upvotes: 1</em></p><p>In Azure Machine Learning, the inference script is typically a Python script that defines two functions: init() and run(input_data). The init() function is called once when the model is loaded and can be used to perform any initialization tasks, such as loading additional libraries or setting up global variables. The run(input_data) function is called for each input data item and should apply the model to the input data and produce output data</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Thu 22 Feb 2024 18:13)</code> - <em>Upvotes: 1</em></p><p>A and D</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Thu 22 Feb 2024 18:02)</code> - <em>Upvotes: 1</em></p><p>A and E.</p></blockquote>
 <blockquote><p><strong>Arend78</strong> <code>(Tue 19 Dec 2023 12:31)</code> - <em>Upvotes: 2</em></p><p>Here&#x27;s and example of a py script including init() and run(mini_batch):
 https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/machine-learning-pipelines/parallel-run/Code/digit_identification.py
 
-This Python file is loaded by example notebook 
+This Python file is loaded by example notebook
 https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/machine-learning-pipelines/parallel-run/file-dataset-image-inference-mnist.ipynb</p></blockquote>
+
 <blockquote><p><strong>therealola</strong> <code>(Sun 18 Jun 2023 01:49)</code> - <em>Upvotes: 3</em></p><p>On exam 18-06-22</p></blockquote>
 <blockquote><p><strong>pancman</strong> <code>(Tue 11 Apr 2023 20:10)</code> - <em>Upvotes: 2</em></p><p>Given answer of A&amp;D is correct.</p></blockquote>
 <blockquote><p><strong>synapse</strong> <code>(Mon 13 Mar 2023 02:04)</code> - <em>Upvotes: 1</em></p><p>A and D</p></blockquote>
@@ -59,4 +62,4 @@ https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml
 
 ---
 
-[<< Previous Question](question_374.md) | [Home](/index.md) | [Next Question >>](question_376.md)
+[<< Previous Question](question_374.md) | [Home](../index.md) | [Next Question >>](question_376.md)

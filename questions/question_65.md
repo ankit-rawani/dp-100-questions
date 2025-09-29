@@ -8,16 +8,16 @@ Which three tasks will you be able to perform? Each correct answer presents a co
 
 NOTE: Each correct selection is worth one point.
 
-* A.Create a Compute Instance and use it to run code in Jupyter notebooks.
-* B.Create an Azure Kubernetes Service (AKS) inference cluster.
-* C.Use the designer to train a model by dragging and dropping pre-defined modules.
-* D.Create a tabular dataset that supports versioning.
-* E.Use the Automated Machine Learning user interface to train a model.
+- A.Create a Compute Instance and use it to run code in Jupyter notebooks.
+- B.Create an Azure Kubernetes Service (AKS) inference cluster.
+- C.Use the designer to train a model by dragging and dropping pre-defined modules.
+- D.Create a tabular dataset that supports versioning.
+- E.Use the Automated Machine Learning user interface to train a model.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>ACE</strong><br>
+<strong>ACE</strong><br>
 
 </details>
 
@@ -32,6 +32,7 @@ C) Use the designer to train a model by dragging and dropping pre-defined module
 E) Use the Automated Machine Learning user interface to train a model.
 
 Currently, Create AKS deployment clusters, and Create versioned tabular datasets are not supported in Azure ML studio. If you want to access these services then you will have to go to AKS (Azure Kubernetes Service) for AKS-related stuff.</p></blockquote>
+
 <blockquote><p><strong>sar77</strong> <code>(Fri 25 Jul 2025 21:47)</code> - <em>Upvotes: 1</em></p><p>Correct Answers:
 
 A. Create a Compute Instance and use it to run code in Jupyter notebooks.
@@ -39,6 +40,7 @@ A. Create a Compute Instance and use it to run code in Jupyter notebooks.
 B. Create an Azure Kubernetes Service (AKS) inference cluster.
 
 D. Create a tabular dataset that supports versioning.</p></blockquote>
+
 <blockquote><p><strong>f82411e</strong> <code>(Thu 15 May 2025 01:26)</code> - <em>Upvotes: 1</em></p><p>ADE es mas facil automl que el diseñador</p></blockquote>
 <blockquote><p><strong>Sam2213</strong> <code>(Fri 14 Mar 2025 06:07)</code> - <em>Upvotes: 1</em></p><p>Can Anyone please confirm correct ans based on latest update ?</p></blockquote>
 <blockquote><p><strong>Edriv</strong> <code>(Sat 15 Jul 2023 14:54)</code> - <em>Upvotes: 2</em></p><p>I am Agree</p></blockquote>
@@ -57,4 +59,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace#what-h
 
 ---
 
-[<< Previous Question](question_64.md) | [Home](/index.md) | [Next Question >>](question_66.md)
+[<< Previous Question](question_64.md) | [Home](../index.md) | [Next Question >>](question_66.md)

@@ -42,4 +42,4 @@ No</p></blockquote>
 
 ---
 
-[<< Previous Question](question_344.md) | [Home](/index.md) | [Next Question >>](question_346.md)
+[<< Previous Question](question_344.md) | [Home](../index.md) | [Next Question >>](question_346.md)

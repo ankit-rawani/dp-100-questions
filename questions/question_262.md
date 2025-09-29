@@ -78,4 +78,4 @@ The correct answer is median and truncation. (A and D)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_261.md) | [Home](/index.md) | [Next Question >>](question_263.md)
+[<< Previous Question](question_261.md) | [Home](../index.md) | [Next Question >>](question_263.md)

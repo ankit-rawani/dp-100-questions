@@ -8,15 +8,15 @@ You need to choose the primary metric to optimize the model training.
 
 Which primary metric should you choose?
 
-* A.r2_score
-* B.mean_absolute_error
-* C.iou
-* D.median_absolute_error
+- A.r2_score
+- B.mean_absolute_error
+- C.iou
+- D.median_absolute_error
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ Which primary metric should you choose?
 
 ---
 
-[<< Previous Question](question_358.md) | [Home](/index.md) | [Next Question >>](question_360.md)
+[<< Previous Question](question_358.md) | [Home](../index.md) | [Next Question >>](question_360.md)

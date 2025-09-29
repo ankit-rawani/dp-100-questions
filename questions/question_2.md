@@ -49,4 +49,4 @@ So the answer is correct</p></blockquote>
 
 ---
 
-[<< Previous Question](question_1.md) | [Home](/index.md) | [Next Question >>](question_3.md)
+[<< Previous Question](question_1.md) | [Home](../index.md) | [Next Question >>](question_3.md)

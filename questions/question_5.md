@@ -4,15 +4,15 @@ You need to implement a Data Science Virtual Machine (DSVM) that supports the Ca
 
 Which of the following DSVM should you create?
 
-* A.Windows Server 2012 DSVM
-* B.Windows Server 2016 DSVM
-* C.Ubuntu 16.04 DSVM
-* D.CentOS 7.4 DSVM
+- A.Windows Server 2012 DSVM
+- B.Windows Server 2016 DSVM
+- C.Ubuntu 16.04 DSVM
+- D.CentOS 7.4 DSVM
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -27,6 +27,7 @@ The DSVM is available on:
 Windows Server 2019
 Windows Server 2022 (Preview)
 Ubuntu 20.04 LTS</p></blockquote>
+
 <blockquote><p><strong>PopeyeDS</strong> <code>(Sun 14 Jan 2024 08:18)</code> - <em>Upvotes: 1</em></p><p>Ubuntu 16.04 is generally preferred for its strong support in the deep learning community and its compatibility with Caffe2.</p></blockquote>
 <blockquote><p><strong>orionduo</strong> <code>(Tue 15 Aug 2023 07:06)</code> - <em>Upvotes: 3</em></p><p>The answer is correct.
 ref.
@@ -42,4 +43,4 @@ Verify the answer on : https://caffe.berkeleyvision.org/installation.html</p></b
 
 ---
 
-[<< Previous Question](question_4.md) | [Home](/index.md) | [Next Question >>](question_6.md)
+[<< Previous Question](question_4.md) | [Home](../index.md) | [Next Question >>](question_6.md)

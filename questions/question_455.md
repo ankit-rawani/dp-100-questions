@@ -45,4 +45,4 @@ Select Access Control (IAM) and grant the Contributor role for the service princ
 
 ---
 
-[<< Previous Question](question_454.md) | [Home](/index.md) | [Next Question >>](question_456.md)
+[<< Previous Question](question_454.md) | [Home](../index.md) | [Next Question >>](question_456.md)

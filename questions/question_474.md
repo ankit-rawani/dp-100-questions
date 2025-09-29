@@ -72,4 +72,4 @@ box 4:</p></blockquote>
 
 ---
 
-[<< Previous Question](question_473.md) | [Home](/index.md) | [Next Question >>](question_475.md)
+[<< Previous Question](question_473.md) | [Home](../index.md) | [Next Question >>](question_475.md)

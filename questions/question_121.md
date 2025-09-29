@@ -54,4 +54,4 @@ This is correct ans</p></blockquote>
 
 ---
 
-[<< Previous Question](question_120.md) | [Home](/index.md) | [Next Question >>](question_122.md)
+[<< Previous Question](question_120.md) | [Home](../index.md) | [Next Question >>](question_122.md)

@@ -51,4 +51,4 @@ print(missing_values_count)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_315.md) | [Home](/index.md) | [Next Question >>](question_317.md)
+[<< Previous Question](question_315.md) | [Home](../index.md) | [Next Question >>](question_317.md)

@@ -14,13 +14,13 @@ Solution: python script.py --training_data dataset1.csv
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -30,6 +30,7 @@ Does the solution meet the goal?
 <blockquote><p><strong>avinyc</strong> <code>(Wed 08 Jan 2025 02:59)</code> - <em>Upvotes: 1</em></p><p>No. Correct method in Azure ML is:
 
 python script.py --training_data ${{inputs.training_data}}</p></blockquote>
+
 <blockquote><p><strong>colin1919</strong> <code>(Fri 06 Dec 2024 09:34)</code> - <em>Upvotes: 1</em></p><p>No, the path is not specified</p></blockquote>
 <blockquote><p><strong>D0ktor</strong> <code>(Tue 19 Nov 2024 22:53)</code> - <em>Upvotes: 2</em></p><p>Absolutely yes</p></blockquote>
 <blockquote><p><strong>jefimija</strong> <code>(Wed 23 Oct 2024 13:36)</code> - <em>Upvotes: 2</em></p><p>this should be yes</p></blockquote>
@@ -39,4 +40,4 @@ python script.py --training_data ${{inputs.training_data}}</p></blockquote>
 
 ---
 
-[<< Previous Question](question_366.md) | [Home](/index.md) | [Next Question >>](question_368.md)
+[<< Previous Question](question_366.md) | [Home](../index.md) | [Next Question >>](question_368.md)

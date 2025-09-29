@@ -14,16 +14,16 @@ Which two parameter expressions should you use? Each correct answer presents par
 
 NOTE: Each correct selection is worth one point.
 
-* A.a choice expression for learning_rate
-* B.a uniform expression for learning_rate
-* C.a normal expression for batch_size
-* D.a choice expression for batch_size
-* E.a uniform expression for batch_size
+- A.a choice expression for learning_rate
+- B.a uniform expression for learning_rate
+- C.a normal expression for batch_size
+- D.a choice expression for batch_size
+- E.a uniform expression for batch_size
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>BD</strong><br>
+<strong>BD</strong><br>
 
 </details>
 
@@ -47,6 +47,7 @@ Therefore, the correct parameter expressions to configure the search space for t
 
 A. A choice expression for learning_rate
 D. A choice expression for batch_size</p></blockquote>
+
 <blockquote><p><strong>fhlos</strong> <code>(Fri 28 Jun 2024 11:58)</code> - <em>Upvotes: 3</em></p><p>B, D - I Apologize</p></blockquote>
 <blockquote><p><strong>ahson0124</strong> <code>(Thu 15 Feb 2024 13:46)</code> - <em>Upvotes: 2</em></p><p>Exam DP-100 topic 3 question 48 discussion</p></blockquote>
 <blockquote><p><strong>datamijn</strong> <code>(Tue 02 Aug 2022 08:59)</code> - <em>Upvotes: 3</em></p><p>on exam 2/8/2021</p></blockquote>
@@ -56,4 +57,4 @@ D. A choice expression for batch_size</p></blockquote>
 
 ---
 
-[<< Previous Question](question_228.md) | [Home](/index.md) | [Next Question >>](question_230.md)
+[<< Previous Question](question_228.md) | [Home](../index.md) | [Next Question >>](question_230.md)

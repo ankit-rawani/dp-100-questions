@@ -6,15 +6,15 @@ You would like to split data into two separate datasets.
 
 Which of the following actions should you take?
 
-* A.You should make use of the Split Data module.
-* B.You should make use of the Group Categorical Values module.
-* C.You should make use of the Clip Values module.
-* D.You should make use of the Group Data into Bins module.
+- A.You should make use of the Split Data module.
+- B.You should make use of the Group Categorical Values module.
+- C.You should make use of the Clip Values module.
+- D.You should make use of the Group Data into Bins module.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -28,6 +28,7 @@ Which of the following actions should you take?
 <blockquote><p><strong>evangelist</strong> <code>(Thu 26 Sep 2024 10:04)</code> - <em>Upvotes: 2</em></p><p>A. You should make use of the Split Data module.
 
 The Split Data module in Azure Machine Learning Studio is specifically designed for dividing datasets into two or more parts based on specified criteria. This is useful for creating training and testing datasets, which is a common requirement in machine learning experiments to evaluate the performance of models. The other modules mentioned serve different purposes unrelated to splitting datasets for training and testing.</p></blockquote>
+
 <blockquote><p><strong>eternaleclipse</strong> <code>(Tue 17 Oct 2023 12:48)</code> - <em>Upvotes: 1</em></p><p>A. This material is not updated.</p></blockquote>
 <blockquote><p><strong>james2033</strong> <code>(Fri 13 Oct 2023 01:20)</code> - <em>Upvotes: 1</em></p><p>Split Data module.</p></blockquote>
 <blockquote><p><strong>PradhanManva</strong> <code>(Sun 24 Sep 2023 18:12)</code> - <em>Upvotes: 1</em></p><p>This is the answer.</p></blockquote>
@@ -46,10 +47,11 @@ Know-it-all Bot: The Group Data into Bins module is used to group continuous dat
 A is the answer , the ans selected as B is selected based on old Machine Learning Studio but now azure machine learning is used to perform any task and according to that A is right.
 
 https://learn.microsoft.com/en-us/previous-versions/azure/machine-learning/studio-module-reference/cross-validate-model</p></blockquote>
+
 <blockquote><p><strong>JTWang</strong> <code>(Tue 11 Oct 2022 02:19)</code> - <em>Upvotes: 2</em></p><p>A is the answer!</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_13.md) | [Home](/index.md) | [Next Question >>](question_15.md)
+[<< Previous Question](question_13.md) | [Home](../index.md) | [Next Question >>](question_15.md)

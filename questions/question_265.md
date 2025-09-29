@@ -86,4 +86,4 @@ Deploy a real-time endpoint.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_264.md) | [Home](/index.md) | [Next Question >>](question_266.md)
+[<< Previous Question](question_264.md) | [Home](../index.md) | [Next Question >>](question_266.md)

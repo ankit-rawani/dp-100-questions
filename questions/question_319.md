@@ -58,4 +58,4 @@ SaM</p></blockquote>
 
 ---
 
-[<< Previous Question](question_318.md) | [Home](/index.md) | [Next Question >>](question_320.md)
+[<< Previous Question](question_318.md) | [Home](../index.md) | [Next Question >>](question_320.md)

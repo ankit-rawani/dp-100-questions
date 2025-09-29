@@ -6,15 +6,15 @@ You need to run the notebook from Azure Machine Learning Studio in workspaces.
 
 What should you provision first?
 
-* A.default storage account
-* B.real-time endpoint
-* C.Azure Machine Learning compute cluster
-* D.Azure Machine Learning compute instance
+- A.default storage account
+- B.real-time endpoint
+- C.Azure Machine Learning compute cluster
+- D.Azure Machine Learning compute instance
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -31,4 +31,4 @@ What should you provision first?
 
 ---
 
-[<< Previous Question](question_328.md) | [Home](/index.md) | [Next Question >>](question_330.md)
+[<< Previous Question](question_328.md) | [Home](../index.md) | [Next Question >>](question_330.md)

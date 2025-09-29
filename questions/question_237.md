@@ -90,4 +90,4 @@ run.log_list(&#x27;Label Values&#x27;, list((label_val))</p></blockquote>
 
 ---
 
-[<< Previous Question](question_236.md) | [Home](/index.md) | [Next Question >>](question_238.md)
+[<< Previous Question](question_236.md) | [Home](../index.md) | [Next Question >>](question_238.md)

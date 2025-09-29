@@ -57,4 +57,4 @@ I believe it means, you can write python codes on the ds computer instance to su
 
 ---
 
-[<< Previous Question](question_93.md) | [Home](/index.md) | [Next Question >>](question_95.md)
+[<< Previous Question](question_93.md) | [Home](../index.md) | [Next Question >>](question_95.md)

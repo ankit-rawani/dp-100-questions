@@ -60,4 +60,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-target<
 
 ---
 
-[<< Previous Question](question_97.md) | [Home](/index.md) | [Next Question >>](question_99.md)
+[<< Previous Question](question_97.md) | [Home](../index.md) | [Next Question >>](question_99.md)

@@ -55,4 +55,4 @@ F) Define a sigmoid loss function activation: The sigmoid loss function is a pop
 
 ---
 
-[<< Previous Question](question_505.md) | [Home](/index.md) | [Next Question >>](question_507.md)
+[<< Previous Question](question_505.md) | [Home](../index.md) | [Next Question >>](question_507.md)

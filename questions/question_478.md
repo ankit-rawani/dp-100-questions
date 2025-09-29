@@ -10,16 +10,16 @@ What are three possible ways to achieve this goal? Each correct answer presents 
 
 NOTE: Each correct selection is worth one point.
 
-* A.Penalize the classification
-* B.Resample the dataset using undersampling or oversampling
-* C.Normalize the training feature set
-* D.Generate synthetic samples in the minority class
-* E.Use accuracy as the evaluation metric of the model
+- A.Penalize the classification
+- B.Resample the dataset using undersampling or oversampling
+- C.Normalize the training feature set
+- D.Generate synthetic samples in the minority class
+- E.Use accuracy as the evaluation metric of the model
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>ABD</strong><br>
+<strong>ABD</strong><br>
 
 </details>
 
@@ -35,10 +35,11 @@ Use over/under sampling
 SMOTE.
 
 There&#x27;s another question of similar type which ignore Penalizing Sample as an option. This answer is correct.</p></blockquote>
+
 <blockquote><p><strong>dijaa</strong> <code>(Mon 28 Feb 2022 08:37)</code> - <em>Upvotes: 3</em></p><p>correct!</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_477.md) | [Home](/index.md) | [Next Question >>](question_479.md)
+[<< Previous Question](question_477.md) | [Home](../index.md) | [Next Question >>](question_479.md)

@@ -104,4 +104,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/
 
 ---
 
-[<< Previous Question](question_91.md) | [Home](/index.md) | [Next Question >>](question_93.md)
+[<< Previous Question](question_91.md) | [Home](../index.md) | [Next Question >>](question_93.md)

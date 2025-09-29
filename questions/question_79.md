@@ -8,15 +8,15 @@ You need to ensure that students can run Python-based data visualization code.
 
 Which Azure tool should you use?
 
-* A.Anaconda Data Science Platform
-* B.Azure BatchAI
-* C.Azure Notebooks
-* D.Azure Machine Learning Service
+- A.Anaconda Data Science Platform
+- B.Azure BatchAI
+- C.Azure Notebooks
+- D.Azure Machine Learning Service
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -45,11 +45,13 @@ The Azure Notebooks preview has ended. You can enjoy powerful, integrated Jupyte
 Notebooks in Visual Studio Code
 Azure Machine Learning
 GitHub Codespaces beta</p></blockquote>
+
 <blockquote><p><strong>Tehseen</strong> <code>(Fri 24 Jun 2022 12:37)</code> - <em>Upvotes: 2</em></p><p>The right answer is D as the others are deprecated and ML Service provides multi-user support on compute instance.</p></blockquote>
 <blockquote><p><strong>SnowCheetah</strong> <code>(Mon 27 Jun 2022 09:13)</code> - <em>Upvotes: 2</em></p><p>I agree Azure notebook is already deprecated
 https://notebooks.azure.com/
 
-If this question still exist,  these are possible answer based from website ( but from current answer list  AML service should be the answer right now)
+If this question still exist, these are possible answer based from website ( but from current answer list AML service should be the answer right now)
+
 - Notebooks in Visual Studio Code
 - GitHub Codespaces beta
 - Azure Machine Learning
@@ -66,4 +68,4 @@ If this question still exist,  these are possible answer based from website ( bu
 
 ---
 
-[<< Previous Question](question_78.md) | [Home](/index.md) | [Next Question >>](question_80.md)
+[<< Previous Question](question_78.md) | [Home](../index.md) | [Next Question >>](question_80.md)

@@ -72,4 +72,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-mltable?view=azu
 
 ---
 
-[<< Previous Question](question_324.md) | [Home](/index.md) | [Next Question >>](question_326.md)
+[<< Previous Question](question_324.md) | [Home](../index.md) | [Next Question >>](question_326.md)

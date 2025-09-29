@@ -14,15 +14,15 @@ Which two sampling methods can you use? Each correct answer is a complete soluti
 
 NOTE: Each correct selection is worth one point.
 
-* A.No sampling
-* B.Grid sampling
-* C.Bayesian sampling
-* D.Random sampling
+- A.No sampling
+- B.Grid sampling
+- C.Bayesian sampling
+- D.Random sampling
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>CD</strong><br>
+<strong>CD</strong><br>
 
 </details>
 
@@ -45,6 +45,7 @@ Grid sampling will allow you to define a search space with different combination
 Random sampling will randomly sample hyperparameters from the defined search space. This method can cover a larger search space more efficiently than grid sampling, and it can be useful when there are a large number of hyperparameters to tune.
 
 Bayesian sampling is not an option in this case, as it requires an early termination policy to be applied in order to determine which hyperparameters to explore next based on the results of previous runs. Since an early termination policy is not allowed in this scenario, Bayesian sampling is not a viable option</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Sat 03 Aug 2024 02:37)</code> - <em>Upvotes: 1</em></p><p>baysian sampling doesn&#x27;t have any policy parameter.</p></blockquote>
 <blockquote><p><strong>striver</strong> <code>(Fri 02 Dec 2022 11:48)</code> - <em>Upvotes: 4</em></p><p>CD is correct</p></blockquote>
 <blockquote><p><strong>pancman</strong> <code>(Tue 11 Oct 2022 02:21)</code> - <em>Upvotes: 2</em></p><p>The answer is correct. Grid sampling only supports discrete hyperparameters. 
@@ -69,4 +70,4 @@ Random and Grid Sampling supports early termination policy for low-performance r
 
 ---
 
-[<< Previous Question](question_257.md) | [Home](/index.md) | [Next Question >>](question_259.md)
+[<< Previous Question](question_257.md) | [Home](../index.md) | [Next Question >>](question_259.md)

@@ -6,15 +6,15 @@ You need to prepare labeled image data as input for model training in the form o
 
 Which data format should you use?
 
-* A.COCO
-* B.JSONL
-* C.JSON
-* D.Pascal VOC
+- A.COCO
+- B.JSONL
+- C.JSON
+- D.Pascal VOC
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -33,4 +33,4 @@ To prepare labeled image data as input for model training in the form of an Azur
 
 ---
 
-[<< Previous Question](question_306.md) | [Home](/index.md) | [Next Question >>](question_308.md)
+[<< Previous Question](question_306.md) | [Home](../index.md) | [Next Question >>](question_308.md)

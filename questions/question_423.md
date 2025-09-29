@@ -78,4 +78,4 @@ job = command(
 
 ---
 
-[<< Previous Question](question_422.md) | [Home](/index.md) | [Next Question >>](question_424.md)
+[<< Previous Question](question_422.md) | [Home](../index.md) | [Next Question >>](question_424.md)

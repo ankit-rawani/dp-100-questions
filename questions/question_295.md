@@ -10,15 +10,15 @@ You need to select which sampling convergence to use.
 
 What should you select?
 
-* A.Set the value of slack factor of early_termination_policy to 09.
-* B.Set the value of max_concurrent_runs of HyperDriveConfig to 4.
-* C.Set the value of slack factor of early_termination_policy to 0.1.
-* D.Set the value of max_concurrent_runs of HyperDriveConfig to 20.
+- A.Set the value of slack factor of early_termination_policy to 09.
+- B.Set the value of max_concurrent_runs of HyperDriveConfig to 4.
+- C.Set the value of slack factor of early_termination_policy to 0.1.
+- D.Set the value of max_concurrent_runs of HyperDriveConfig to 20.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -39,4 +39,4 @@ What should you select?
 
 ---
 
-[<< Previous Question](question_294.md) | [Home](/index.md) | [Next Question >>](question_296.md)
+[<< Previous Question](question_294.md) | [Home](../index.md) | [Next Question >>](question_296.md)

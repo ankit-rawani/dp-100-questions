@@ -58,4 +58,4 @@ The RAI Insights dashboard constructor and Gather RAI Insights dashboard compone
 
 ---
 
-[<< Previous Question](question_345.md) | [Home](/index.md) | [Next Question >>](question_347.md)
+[<< Previous Question](question_345.md) | [Home](../index.md) | [Next Question >>](question_347.md)

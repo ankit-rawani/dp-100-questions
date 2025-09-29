@@ -10,17 +10,17 @@ Which two metrics can you use? Each correct answer presents a complete solution?
 
 NOTE: Each correct selection is worth one point.
 
-* A.a Root Mean Square Error value that is low
-* B.an R-Squared value close to 0
-* C.an F1 score that is low
-* D.an R-Squared value close to 1
-* E.an F1 score that is high
-* F.a Root Mean Square Error value that is high
+- A.a Root Mean Square Error value that is low
+- B.an R-Squared value close to 0
+- C.an F1 score that is low
+- D.an R-Squared value close to 1
+- E.an F1 score that is high
+- F.a Root Mean Square Error value that is high
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>AD</strong><br>
+<strong>AD</strong><br>
 
 </details>
 
@@ -46,4 +46,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_180.md) | [Home](/index.md) | [Next Question >>](question_182.md)
+[<< Previous Question](question_180.md) | [Home](../index.md) | [Next Question >>](question_182.md)

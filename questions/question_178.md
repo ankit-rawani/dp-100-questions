@@ -40,4 +40,4 @@ Use begin_create() to create a registry.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_177.md) | [Home](/index.md) | [Next Question >>](question_179.md)
+[<< Previous Question](question_177.md) | [Home](../index.md) | [Next Question >>](question_179.md)

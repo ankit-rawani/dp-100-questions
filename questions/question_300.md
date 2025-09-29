@@ -38,4 +38,4 @@ The primary_metric_goal should be set to PrimaryMetricGoal.MAXIMIZE to specify t
 
 ---
 
-[<< Previous Question](question_299.md) | [Home](/index.md) | [Next Question >>](question_301.md)
+[<< Previous Question](question_299.md) | [Home](../index.md) | [Next Question >>](question_301.md)

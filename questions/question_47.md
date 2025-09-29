@@ -63,4 +63,4 @@ https://docs.docker.com/docker-for-windows/install-windows-home/</p></blockquote
 
 ---
 
-[<< Previous Question](question_46.md) | [Home](/index.md) | [Next Question >>](question_48.md)
+[<< Previous Question](question_46.md) | [Home](../index.md) | [Next Question >>](question_48.md)

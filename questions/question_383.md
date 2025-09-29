@@ -8,15 +8,15 @@ You need to improve performance of the image classification web service with min
 
 What should you advise the IT Operations team to do?
 
-* A.Create a new compute cluster by using larger VM sizes for the nodes, redeploy the web service to that cluster, and update the DNS registration for the service endpoint to point to the new cluster.
-* B.Increase the node count of the compute cluster where the web service is deployed.
-* C.Increase the minimum node count of the compute cluster where the web service is deployed.
-* D.Increase the VM size of nodes in the compute cluster where the web service is deployed.
+- A.Create a new compute cluster by using larger VM sizes for the nodes, redeploy the web service to that cluster, and update the DNS registration for the service endpoint to point to the new cluster.
+- B.Increase the node count of the compute cluster where the web service is deployed.
+- C.Increase the minimum node count of the compute cluster where the web service is deployed.
+- D.Increase the VM size of nodes in the compute cluster where the web service is deployed.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -36,4 +36,4 @@ What should you advise the IT Operations team to do?
 
 ---
 
-[<< Previous Question](question_382.md) | [Home](/index.md) | [Next Question >>](question_384.md)
+[<< Previous Question](question_382.md) | [Home](../index.md) | [Next Question >>](question_384.md)

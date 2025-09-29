@@ -60,4 +60,4 @@ Adding the other modules (ordinal regression, two-class averaged perception, mul
 
 ---
 
-[<< Previous Question](question_520.md) | [Home](/index.md)
+[<< Previous Question](question_520.md) | [Home](../index.md)

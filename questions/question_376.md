@@ -68,4 +68,4 @@ https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml
 
 ---
 
-[<< Previous Question](question_375.md) | [Home](/index.md) | [Next Question >>](question_377.md)
+[<< Previous Question](question_375.md) | [Home](../index.md) | [Next Question >>](question_377.md)

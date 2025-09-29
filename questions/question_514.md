@@ -79,4 +79,4 @@ floating and uncategorical</p></blockquote>
 
 ---
 
-[<< Previous Question](question_513.md) | [Home](/index.md) | [Next Question >>](question_515.md)
+[<< Previous Question](question_513.md) | [Home](../index.md) | [Next Question >>](question_515.md)

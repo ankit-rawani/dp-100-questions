@@ -12,15 +12,15 @@ You need to perform a parameter sweep of the model.
 
 Which parameter sweep mode should you use?
 
-* A.Random sweep
-* B.Sweep clustering
-* C.Entire grid
-* D.Random grid
+- A.Random sweep
+- B.Sweep clustering
+- C.Entire grid
+- D.Random grid
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -39,10 +39,12 @@ C is incorrect, as Entire grid is resource intensive</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Wed 24 Jul 2024 15:02)</code> - <em>Upvotes: 5</em></p><p>The question&#x27;s requirements seem a bit contradictory as it asks to &quot;iterate all possible combinations of hyperparameters&quot; (which points to Entire Grid) but also to &quot;minimize computing resources required to perform the sweep&quot; (which points to Random Sweep/Grid).
 
 If we prioritize iterating over all combinations, then Entire Grid would be chosen. However, if we prioritize minimizing computational resources, then Random Sweep/Grid would be more suitable. As the question initially asks for iterating over all combinations, I chose Entire Grid in my previous response, but I acknowledge that if resource usage is a primary concern, Random Sweep/Grid would be more appropriate.</p></blockquote>
+
 <blockquote><p><strong>PI_Team</strong> <code>(Thu 08 Aug 2024 11:21)</code> - <em>Upvotes: 1</em></p><p>I agree with you. To meet the requirement of iterating all possible combinations of hyperparameters while minimizing computing resources, you should use the “Entire grid” parameter sweep mode in Azure Machine Learning Studio. This mode performs a grid search over the entire hyperparameter space, trying all possible combinations of hyperparameter values. While this can be computationally expensive, it ensures that all combinations are tried and can result in finding the best combination of hyperparameters for your model. To minimize computing resources, you can carefully choose the range and granularity of the hyperparameters to be swept, and use parallel processing to speed up the sweep</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Thu 22 Feb 2024 00:51)</code> - <em>Upvotes: 1</em></p><p>C. To iterate all possible combinations of hyperparameters, you should use the &quot;Entire grid&quot; parameter sweep mode in Azure Machine Learning Studio. This mode will sweep over all possible combinations of the hyperparameters that you specify.
 
 While the &quot;Random sweep&quot; and &quot;Random grid&quot; modes can also help you minimize computing resources by only evaluating a subset of possible combinations, they may not guarantee that you will evaluate all possible combinations of hyperparameters. On the other hand, the &quot;Sweep clustering&quot; mode is not a valid parameter sweep mode in Azure Machine Learning Studio.</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Tue 06 Jun 2023 11:40)</code> - <em>Upvotes: 4</em></p><p>I do not understand this question, there might be something messed up 
 https://docs.microsoft.com/en-us/azure/machine-learning/component-reference/tune-model-hyperparameters
 Only two options are: entire grid and random sweep, also it is stated only entire grid can try all possible combinations of values, so in any sense it cannot be D</p></blockquote>
@@ -69,4 +71,4 @@ You can also reduce the size of the grid and run a random grid sweep. Research h
 
 ---
 
-[<< Previous Question](question_274.md) | [Home](/index.md) | [Next Question >>](question_276.md)
+[<< Previous Question](question_274.md) | [Home](../index.md) | [Next Question >>](question_276.md)

@@ -41,4 +41,4 @@ a) Deploy a service to the inference cluster. The last step is to deploy your re
 
 ---
 
-[<< Previous Question](question_416.md) | [Home](/index.md) | [Next Question >>](question_418.md)
+[<< Previous Question](question_416.md) | [Home](../index.md) | [Next Question >>](question_418.md)

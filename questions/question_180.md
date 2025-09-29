@@ -8,15 +8,15 @@ You need to configure permanent access to Share1 from the Azure Files datastore.
 
 Which authorization method should you use?
 
-* A.Secondary access key
-* B.Anonymous access
-* C.Account SAS key
-* D.Service SAS key
+- A.Secondary access key
+- B.Anonymous access
+- C.Account SAS key
+- D.Service SAS key
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -38,6 +38,7 @@ B. Anonymous access: Azure Files does not support anonymous access. Access requi
 C. Account SAS key: While an Account SAS key provides scoped access to storage resources, it is typically short-lived and must be regenerated periodically, making it unsuitable for permanent access.
 
 D. Service SAS key: Similar to the Account SAS, a Service SAS key is also short-lived and used for temporary access to specific resources. It must be renewed, so it does not meet the requirement for permanent access.</p></blockquote>
+
 <blockquote><p><strong>Arvindu89</strong> <code>(Sun 27 Oct 2024 04:48)</code> - <em>Upvotes: 2</em></p><p>Account SAS and Service SAS are both types of Shared Access Signatures in Azure, but they differ in terms of scope and control.
 
 Account SAS:
@@ -55,6 +56,7 @@ Grants access to specific resources within a single service, like a specific blo
 Offers more fine-grained control compared to Account SAS.
 
 Allows you to specify permissions and set constraints, like IP ranges, protocols, and expiration times, but only for the specified resource.</p></blockquote>
+
 <blockquote><p><strong>kfgg</strong> <code>(Thu 24 Oct 2024 15:47)</code> - <em>Upvotes: 2</em></p><p>A user delegation SAS has a maximum expiry interval of 7 days, regardless of the SAS expiration policy.
 
 I think answer should be A?
@@ -62,10 +64,11 @@ I think answer should be A?
 https://learn.microsoft.com/en-us/azure/storage/common/sas-expiration-policy?tabs=azure-portal#configure-a-sas-expiration-policy
 
 https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal</p></blockquote>
+
 <blockquote><p><strong>jefimija</strong> <code>(Mon 14 Oct 2024 13:52)</code> - <em>Upvotes: 2</em></p><p>I never came across service sas key, only account sas key</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_179.md) | [Home](/index.md) | [Next Question >>](question_181.md)
+[<< Previous Question](question_179.md) | [Home](../index.md) | [Next Question >>](question_181.md)

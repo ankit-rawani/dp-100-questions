@@ -8,15 +8,15 @@ You need to add the instantiated compute instance to workspace1.
 
 What should you use?
 
-* A.constructor of the azure.ai.ml.ComputeSchedule class
-* B.constructor of the azure.ai.ml.ComputePowerAction enum
-* C.begin_create_or_update method of an instance of the azure.ai.ml.MLCIient class
-* D.set_resources method of an instance of the azure.ai.ml.Command class
+- A.constructor of the azure.ai.ml.ComputeSchedule class
+- B.constructor of the azure.ai.ml.ComputePowerAction enum
+- C.begin_create_or_update method of an instance of the azure.ai.ml.MLCIient class
+- D.set_resources method of an instance of the azure.ai.ml.Command class
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -34,4 +34,4 @@ C. begin_create_or_update method of an instance of the azure.ai.ml.MLCIient clas
 
 ---
 
-[<< Previous Question](question_139.md) | [Home](/index.md) | [Next Question >>](question_141.md)
+[<< Previous Question](question_139.md) | [Home](../index.md) | [Next Question >>](question_141.md)

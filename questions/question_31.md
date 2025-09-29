@@ -4,15 +4,15 @@ You make use of Azure Machine Learning Studio to develop a linear regression mod
 
 Which of the following is an algorithm that reduces the variances between actual and predicted values?
 
-* A.Fast Forest Quantile Regression
-* B.Poisson Regression
-* C.Boosted Decision Tree Regression
-* D.Linear Regression
+- A.Fast Forest Quantile Regression
+- B.Poisson Regression
+- C.Boosted Decision Tree Regression
+- D.Linear Regression
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -20,9 +20,10 @@ Which of the following is an algorithm that reduces the variances between actual
   <summary>Show Discussions</summary>
 
 <blockquote><p><strong>RyanTsai</strong> <code>(Sun 19 Sep 2021 10:05)</code> - <em>Upvotes: 22</em></p><p>should be linear regression</p></blockquote>
-<blockquote><p><strong>David_Tadeu</strong> <code>(Fri 15 Apr 2022 10:25)</code> - <em>Upvotes: 3</em></p><p>Linear regression minimizes the sum of squares, i.e. it minimizes S=Sum[(y_i-f_i)^2,{i,1,n}], where y_i is the actual value and f_i the predicted value (we can see it as the average). 
+<blockquote><p><strong>David_Tadeu</strong> <code>(Fri 15 Apr 2022 10:25)</code> - <em>Upvotes: 3</em></p><p>Linear regression minimizes the sum of squares, i.e. it minimizes S=Sum[(y_i-f_i)^2,{i,1,n}], where y_i is the actual value and f_i the predicted value (we can see it as the average).
 
 Since the variance of {y_i} is S/n, minimizing S is equivalent to minimizing the variance.</p></blockquote>
+
 <blockquote><p><strong>jed_elhak</strong> <code>(Mon 13 Sep 2021 22:42)</code> - <em>Upvotes: 16</em></p><p>Correct answer is C :
  It builds each regression tree in a step-wise fashion, using a predefined loss function to measure the error in each step and correct for it in the next. Thus the prediction model is actually an ensemble of weaker prediction models.
 reference:https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/boosted-decision-tree-regression</p></blockquote>
@@ -34,6 +35,7 @@ reference:https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-modu
 Boosted Decision Tree Regression is an algorithm that reduces the variance between actual and predicted values by iteratively combining multiple weak learners (decision trees) to create a stronger, more accurate model. This helps minimize the differences between the predicted values and the actual values by focusing on the errors made by previous models.
 
 Linear regression, while useful for linear relationships, does not specifically focus on reducing variance in the way ensemble methods like boosting do.</p></blockquote>
+
 <blockquote><p><strong>6c3c83d</strong> <code>(Tue 07 May 2024 15:34)</code> - <em>Upvotes: 1</em></p><p>D is linear and reduces the mean squared error which is the variance between actual and predicted. Regression trees do that too but are not linear</p></blockquote>
 <blockquote><p><strong>GHill1982</strong> <code>(Tue 23 Jan 2024 21:18)</code> - <em>Upvotes: 2</em></p><p>Linear regression computes the linear relationship between a dependent variable and one or more independent features. It uses the ordinary least squares method to minimize the sum of the squared errors between the actual and predicted values.</p></blockquote>
 <blockquote><p><strong>jdada</strong> <code>(Fri 10 Nov 2023 16:04)</code> - <em>Upvotes: 2</em></p><p>D. Linear Regression</p></blockquote>
@@ -42,6 +44,7 @@ Linear regression, while useful for linear relationships, does not specifically 
 https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/linear-regression?view=azureml-api-2
 
 Quote: &#x27;create a linear regression model&#x27; , &#x27;Linear regression is a common statistical method, ...&#x27;</p></blockquote>
+
 <blockquote><p><strong>Nadine_nm</strong> <code>(Thu 17 Aug 2023 12:21)</code> - <em>Upvotes: 2</em></p><p>I think the question is poorly asked, since the algorithme used depends mainy on the data.
 The answer is linear regression, since Poisson regression is actually a form of generalized linear modeling and is often considered a non-linear regression model due to its underlying mathematical structure. Also Boosted decision tree, in a non linear regression as well.</p></blockquote>
 <blockquote><p><strong>phydev</strong> <code>(Sat 15 Jul 2023 14:30)</code> - <em>Upvotes: 1</em></p><p>Boosted decision tree regression a non-linear regression model.</p></blockquote>
@@ -59,4 +62,4 @@ Linear regression aims to find the best linear relationship between the independ
 
 ---
 
-[<< Previous Question](question_30.md) | [Home](/index.md) | [Next Question >>](question_32.md)
+[<< Previous Question](question_30.md) | [Home](../index.md) | [Next Question >>](question_32.md)

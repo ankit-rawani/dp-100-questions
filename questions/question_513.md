@@ -52,4 +52,4 @@ also another question for this case study had r-squared as correct evaluation me
 
 ---
 
-[<< Previous Question](question_512.md) | [Home](/index.md) | [Next Question >>](question_514.md)
+[<< Previous Question](question_512.md) | [Home](../index.md) | [Next Question >>](question_514.md)

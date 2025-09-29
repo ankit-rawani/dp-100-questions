@@ -66,4 +66,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.data.data_refer
 
 ---
 
-[<< Previous Question](question_259.md) | [Home](/index.md) | [Next Question >>](question_261.md)
+[<< Previous Question](question_259.md) | [Home](../index.md) | [Next Question >>](question_261.md)

@@ -48,4 +48,4 @@ datastore = Datastore.```register_azure_data_lake_gen2```(workspace=ws,
 
 ---
 
-[<< Previous Question](question_127.md) | [Home](/index.md) | [Next Question >>](question_129.md)
+[<< Previous Question](question_127.md) | [Home](../index.md) | [Next Question >>](question_129.md)

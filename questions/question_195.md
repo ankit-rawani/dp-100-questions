@@ -37,4 +37,4 @@ Where will you find the output?
 
 ---
 
-[<< Previous Question](question_194.md) | [Home](/index.md) | [Next Question >>](question_196.md)
+[<< Previous Question](question_194.md) | [Home](../index.md) | [Next Question >>](question_196.md)

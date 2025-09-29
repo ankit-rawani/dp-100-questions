@@ -45,4 +45,4 @@ Hot Area:
 
 ---
 
-[<< Previous Question](question_218.md) | [Home](/index.md) | [Next Question >>](question_220.md)
+[<< Previous Question](question_218.md) | [Home](../index.md) | [Next Question >>](question_220.md)

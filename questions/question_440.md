@@ -10,16 +10,16 @@ Which three modes can you specify? Each correct answer presents a complete solut
 
 NOTE: Each correct selection is worth one point.
 
-* A.rw_mount
-* B.ro_mount
-* C.upload
-* D.download
-* E.direct
+- A.rw_mount
+- B.ro_mount
+- C.upload
+- D.download
+- E.direct
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>ACE</strong><br>
+<strong>ACE</strong><br>
 
 </details>
 
@@ -45,4 +45,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-inputs-ou
 
 ---
 
-[<< Previous Question](question_439.md) | [Home](/index.md) | [Next Question >>](question_441.md)
+[<< Previous Question](question_439.md) | [Home](../index.md) | [Next Question >>](question_441.md)

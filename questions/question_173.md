@@ -33,4 +33,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_172.md) | [Home](/index.md) | [Next Question >>](question_174.md)
+[<< Previous Question](question_172.md) | [Home](../index.md) | [Next Question >>](question_174.md)

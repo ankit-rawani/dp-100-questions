@@ -8,15 +8,15 @@ You need to configure an Azure service to send the notification.
 
 Which Azure service should you use?
 
-* A.Azure Logic Apps
-* B.Azure Automation runbook
-* C.Azure Function apps
-* D.Azure DevOps pipeline
+- A.Azure Logic Apps
+- B.Azure Automation runbook
+- C.Azure Function apps
+- D.Azure DevOps pipeline
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -29,13 +29,14 @@ Azure Logic Apps: Azure Logic Apps is an ideal choice for setting up automated w
 
 Azure Automation runbook: operations management and process automation within Azure environments. They are not the most direct or efficient method for setting up email notifications in response to data drift events in Azure Machine Learning.
 
-Azure Function apps: could technically be used to detect data drift and send email notifications, it would require more development effort compared to using Azure Logic Apps. 
+Azure Function apps: could technically be used to detect data drift and send email notifications, it would require more development effort compared to using Azure Logic Apps.
 
 Azure DevOps pipeline: primarily used for CI/CD processes, not typically used for monitoring data drift or sending email notifications.</p></blockquote>
+
 <blockquote><p><strong>Kvcper333</strong> <code>(Thu 12 Oct 2023 08:31)</code> - <em>Upvotes: 1</em></p><p>imo correct</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_404.md) | [Home](/index.md) | [Next Question >>](question_406.md)
+[<< Previous Question](question_404.md) | [Home](../index.md) | [Next Question >>](question_406.md)

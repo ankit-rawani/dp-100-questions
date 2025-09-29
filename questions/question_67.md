@@ -88,4 +88,4 @@ Answers are No, Yes, Yes</p></blockquote>
 
 ---
 
-[<< Previous Question](question_66.md) | [Home](/index.md) | [Next Question >>](question_68.md)
+[<< Previous Question](question_66.md) | [Home](../index.md) | [Next Question >>](question_68.md)

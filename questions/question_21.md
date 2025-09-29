@@ -91,4 +91,4 @@ Therefore, the correct answer to the question &quot;..... is a data cleaning opt
 
 ---
 
-[<< Previous Question](question_20.md) | [Home](/index.md) | [Next Question >>](question_22.md)
+[<< Previous Question](question_20.md) | [Home](../index.md) | [Next Question >>](question_22.md)

@@ -77,4 +77,4 @@ https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-mac
 
 ---
 
-[<< Previous Question](question_254.md) | [Home](/index.md) | [Next Question >>](question_256.md)
+[<< Previous Question](question_254.md) | [Home](../index.md) | [Next Question >>](question_256.md)

@@ -10,17 +10,17 @@ Which three actions must you perform? Each correct answer presents part of the s
 
 NOTE: Each correct selection is worth one point.
 
-* A.Set the primary_metric_goal of the estimator used to run the bird_classifier_train.py script to maximize.
-* B.Add code to the bird_classifier_train.py script to calculate the validation loss of the model and log it as a float value with the key loss.
-* C.Set the primary_metric_goal of the estimator used to run the bird_classifier_train.py script to minimize.
-* D.Set the primary_metric_name of the estimator used to run the bird_classifier_train.py script to accuracy.
-* E.Set the primary_metric_name of the estimator used to run the bird_classifier_train.py script to loss.
-* F.Add code to the bird_classifier_train.py script to calculate the validation accuracy of the model and log it as a float value with the key accuracy.
+- A.Set the primary_metric_goal of the estimator used to run the bird_classifier_train.py script to maximize.
+- B.Add code to the bird_classifier_train.py script to calculate the validation loss of the model and log it as a float value with the key loss.
+- C.Set the primary_metric_goal of the estimator used to run the bird_classifier_train.py script to minimize.
+- D.Set the primary_metric_name of the estimator used to run the bird_classifier_train.py script to accuracy.
+- E.Set the primary_metric_name of the estimator used to run the bird_classifier_train.py script to loss.
+- F.Add code to the bird_classifier_train.py script to calculate the validation accuracy of the model and log it as a float value with the key accuracy.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>ADF</strong><br>
+<strong>ADF</strong><br>
 
 </details>
 
@@ -30,7 +30,7 @@ NOTE: Each correct selection is worth one point.
 <blockquote><p><strong>Arend78</strong> <code>(Mon 12 Jun 2023 12:04)</code> - <em>Upvotes: 6</em></p><p>The primary_metric_goal=PrimaryMetricGoal.MAXIMIZE notation is depricated (v1):
 https://learn.microsoft.com/nl-nl/azure/machine-learning/v1/how-to-tune-hyperparameters-v1 (DEPRICATED)
 
-Please use 
+Please use
 
 ```sweep_job = command_job_for_sweep.sweep(
     compute=&quot;cpu-cluster&quot;,
@@ -54,4 +54,5 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparame
 
 ---
 
-[<< Previous Question](question_206.md) | [Home](/index.md) | [Next Question >>](question_208.md)
+[<< Previous Question](question_206.md) | [Home](../index.md) | [Next Question >>](question_208.md)
+```

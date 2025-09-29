@@ -8,15 +8,15 @@ You need to configure permanent access to Share1 from the Azure Files datastore.
 
 Which authorization method should you use?
 
-* A.Primary access key
-* B.Anonymous access
-* C.Account SAS key
-* D.User delegation SAS key
+- A.Primary access key
+- B.Anonymous access
+- C.Account SAS key
+- D.User delegation SAS key
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -36,4 +36,4 @@ Why?
 
 ---
 
-[<< Previous Question](question_370.md) | [Home](/index.md) | [Next Question >>](question_372.md)
+[<< Previous Question](question_370.md) | [Home](../index.md) | [Next Question >>](question_372.md)

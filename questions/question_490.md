@@ -8,15 +8,15 @@ You need to configure authentication.
 
 Which authentication method should you use?
 
-* A.Service principal
-* B.Account key
-* C.SAS token
-* D.Managed identity
+- A.Service principal
+- B.Account key
+- C.SAS token
+- D.Managed identity
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -43,4 +43,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/concept-data?tabs=uri-fi
 
 ---
 
-[<< Previous Question](question_489.md) | [Home](/index.md) | [Next Question >>](question_491.md)
+[<< Previous Question](question_489.md) | [Home](../index.md) | [Next Question >>](question_491.md)

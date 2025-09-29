@@ -8,15 +8,15 @@ You need to add the new feature to the dataset.
 
 Which Azure Machine Learning Studio module should you use?
 
-* A.Extract N-Gram Features from Text
-* B.Edit Metadata
-* C.Preprocess Text
-* D.Apply SQL Transformation
+- A.Extract N-Gram Features from Text
+- B.Edit Metadata
+- C.Preprocess Text
+- D.Apply SQL Transformation
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -47,4 +47,4 @@ Creating new column is not mentioned in the question, It is populate!</p></block
 
 ---
 
-[<< Previous Question](question_466.md) | [Home](/index.md) | [Next Question >>](question_468.md)
+[<< Previous Question](question_466.md) | [Home](../index.md) | [Next Question >>](question_468.md)

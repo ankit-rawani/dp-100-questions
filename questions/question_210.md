@@ -8,15 +8,15 @@ You need to select the appropriate feature scoring statistical method to identif
 
 Which method should you use?
 
-* A.Kendall correlation
-* B.Spearman correlation
-* C.Chi-squared
-* D.Pearson correlation
+- A.Kendall correlation
+- B.Spearman correlation
+- C.Chi-squared
+- D.Pearson correlation
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -28,15 +28,18 @@ Which method should you use?
 <blockquote><p><strong>febriyanasn</strong> <code>(Tue 10 Aug 2021 03:16)</code> - <em>Upvotes: 3</em></p><p>Chi-Squared: Labels and features can be text or numeric. Use this method for computing feature importance for two categorical columns.
 
 https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/filter-based-feature-selection</p></blockquote>
+
 <blockquote><p><strong>Gitty</strong> <code>(Fri 12 Feb 2021 10:25)</code> - <em>Upvotes: 15</em></p><p>C is the answer. Your choice of a filter selection method depends in part on what sort of input data you have. The requirement for all Pearson Correlation, Spearman Correlation and Fisher Score methods is &quot;features must be numeric&quot;. But for Chi Squared, the requirement is &quot;features can be text or numeric&quot; so you can use this method for computing feature importance for categorical columns.
 
 See the table at this link:
 https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/filter-based-feature-selection</p></blockquote>
+
 <blockquote><p><strong>Laredo</strong> <code>(Tue 18 May 2021 23:15)</code> - <em>Upvotes: 1</em></p><p>i agree. Besides, the dataset here has categorical features while Pearson Corr. is for continuous variables.</p></blockquote>
 <blockquote><p><strong>nicorg5</strong> <code>(Fri 13 Sep 2024 07:01)</code> - <em>Upvotes: 1</em></p><p>I think the correct is C too</p></blockquote>
 <blockquote><p><strong>NullVoider_0</strong> <code>(Thu 20 Jun 2024 07:59)</code> - <em>Upvotes: 1</em></p><p>The best statistical method to use for filter-based feature selection in this multi-class classification scenario with categorical features is Chi-squared.
 
 The chi-squared test measures dependence between categorical variables. It will identify categorical features that have a statistically significant correlation with the label column.</p></blockquote>
+
 <blockquote><p><strong>InversaRadice</strong> <code>(Mon 03 Jun 2024 14:11)</code> - <em>Upvotes: 1</em></p><p>Its fun because in this answer explanation is stated:
 &quot;Pearson&#x27;s correlation coefficient is the test statistics that measures the statistical relationship, or association, between two 
 __continuous variables__.&quot; so the answer can&#x27;t be Pearson ... !!!</p></blockquote>
@@ -53,10 +56,11 @@ Chi-Squared
       Label -&gt;  Numeric | Text
 
 Pearson | Kendall | Spearman | Fisher Score
-     Feature -&gt; Numeric
-     Label -&gt;  Numeric | Text
+Feature -&gt; Numeric
+Label -&gt; Numeric | Text
 
 https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/filter-based-feature-selection</p></blockquote>
+
 <blockquote><p><strong>dija123</strong> <code>(Mon 13 Jun 2022 16:36)</code> - <em>Upvotes: 1</em></p><p>Agree with C</p></blockquote>
 <blockquote><p><strong>RyanTsai</strong> <code>(Tue 22 Mar 2022 07:40)</code> - <em>Upvotes: 1</em></p><p>agree: Chi-squared</p></blockquote>
 <blockquote><p><strong>slash_nyk</strong> <code>(Sun 16 Jan 2022 04:54)</code> - <em>Upvotes: 2</em></p><p>the answer is C</p></blockquote>
@@ -66,4 +70,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/
 
 ---
 
-[<< Previous Question](question_209.md) | [Home](/index.md) | [Next Question >>](question_211.md)
+[<< Previous Question](question_209.md) | [Home](../index.md) | [Next Question >>](question_211.md)

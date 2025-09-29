@@ -81,4 +81,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-train-automl-client/azureml.
 
 ---
 
-[<< Previous Question](question_229.md) | [Home](/index.md) | [Next Question >>](question_231.md)
+[<< Previous Question](question_229.md) | [Home](../index.md) | [Next Question >>](question_231.md)

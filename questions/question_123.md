@@ -80,4 +80,4 @@ Make sure to replace `&lt;storage-account-name&gt;`, `&lt;file-system-name&gt;`,
 
 ---
 
-[<< Previous Question](question_122.md) | [Home](/index.md) | [Next Question >>](question_124.md)
+[<< Previous Question](question_122.md) | [Home](../index.md) | [Next Question >>](question_124.md)

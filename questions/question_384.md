@@ -8,16 +8,16 @@ You need to publish the inference pipeline as a web service.
 
 Which compute type should you use?
 
-* A.a new Machine Learning Compute resource
-* B.Azure Kubernetes Services
-* C.HDInsight
-* D.the existing Machine Learning Compute resource
-* E.Azure Databricks
+- A.a new Machine Learning Compute resource
+- B.Azure Kubernetes Services
+- C.HDInsight
+- D.the existing Machine Learning Compute resource
+- E.Azure Databricks
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -29,6 +29,7 @@ Which compute type should you use?
 <blockquote><p><strong>phdykd</strong> <code>(Thu 22 Feb 2024 20:54)</code> - <em>Upvotes: 2</em></p><p>D. the existing Machine Learning Compute resource
 
 Since you already have a single Azure Machine Learning service compute resource, it is recommended to use it to publish the inference pipeline as a web service. This will help you to minimize the cost and simplify the deployment process.</p></blockquote>
+
 <blockquote><p><strong>michaelmorar</strong> <code>(Mon 11 Dec 2023 18:16)</code> - <em>Upvotes: 3</em></p><p>AKS always the solution for these types of problems.</p></blockquote>
 <blockquote><p><strong>andre999</strong> <code>(Tue 21 Jun 2022 07:33)</code> - <em>Upvotes: 4</em></p><p>The answer is correct: Azure Kubernetes Service (AKS) is used for Real-time inference.</p></blockquote>
 <blockquote><p><strong>Lucario95</strong> <code>(Mon 16 May 2022 13:26)</code> - <em>Upvotes: 1</em></p><p>Doesn&#x27;t the question refer to which compute to use to deploy the pipeline, thus answer D being correct?</p></blockquote>
@@ -40,4 +41,4 @@ Since you already have a single Azure Machine Learning service compute resource,
 
 ---
 
-[<< Previous Question](question_383.md) | [Home](/index.md) | [Next Question >>](question_385.md)
+[<< Previous Question](question_383.md) | [Home](../index.md) | [Next Question >>](question_385.md)

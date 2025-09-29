@@ -51,4 +51,4 @@ If environment variables for Azure credentials are set (e.g., AZURE_CLIENT_ID, A
 
 ---
 
-[<< Previous Question](question_157.md) | [Home](/index.md) | [Next Question >>](question_159.md)
+[<< Previous Question](question_157.md) | [Home](../index.md) | [Next Question >>](question_159.md)

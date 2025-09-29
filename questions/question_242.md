@@ -82,4 +82,4 @@ Answer should be Create DataSet&gt;Configure run&gt;Select Classification as the
 
 ---
 
-[<< Previous Question](question_241.md) | [Home](/index.md) | [Next Question >>](question_243.md)
+[<< Previous Question](question_241.md) | [Home](../index.md) | [Next Question >>](question_243.md)

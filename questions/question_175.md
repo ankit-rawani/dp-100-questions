@@ -40,4 +40,4 @@ Procesamiento: Azure Databricks</p></blockquote>
 
 ---
 
-[<< Previous Question](question_174.md) | [Home](/index.md) | [Next Question >>](question_176.md)
+[<< Previous Question](question_174.md) | [Home](../index.md) | [Next Question >>](question_176.md)

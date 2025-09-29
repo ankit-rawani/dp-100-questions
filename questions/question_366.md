@@ -66,4 +66,4 @@ no</p></blockquote>
 
 ---
 
-[<< Previous Question](question_365.md) | [Home](/index.md) | [Next Question >>](question_367.md)
+[<< Previous Question](question_365.md) | [Home](../index.md) | [Next Question >>](question_367.md)

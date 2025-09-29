@@ -8,15 +8,15 @@ You need to trigger a remediation ML pipeline based on an Azure Machine Learning
 
 Which event should you use?
 
-* A.RunStatusChanged
-* B.RunCompleted
-* C.DatasetDriftDetected
-* D.ModelDeployed
+- A.RunStatusChanged
+- B.RunCompleted
+- C.DatasetDriftDetected
+- D.ModelDeployed
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -33,4 +33,4 @@ Which event should you use?
 
 ---
 
-[<< Previous Question](question_319.md) | [Home](/index.md) | [Next Question >>](question_321.md)
+[<< Previous Question](question_319.md) | [Home](../index.md) | [Next Question >>](question_321.md)

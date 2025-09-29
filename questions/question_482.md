@@ -80,4 +80,4 @@ select a fairness metric</p></blockquote>
 
 ---
 
-[<< Previous Question](question_481.md) | [Home](/index.md) | [Next Question >>](question_483.md)
+[<< Previous Question](question_481.md) | [Home](../index.md) | [Next Question >>](question_483.md)

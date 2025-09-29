@@ -71,4 +71,4 @@ Reference: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monito
 
 ---
 
-[<< Previous Question](question_282.md) | [Home](/index.md) | [Next Question >>](question_284.md)
+[<< Previous Question](question_282.md) | [Home](../index.md) | [Next Question >>](question_284.md)

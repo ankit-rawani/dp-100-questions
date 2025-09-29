@@ -84,4 +84,4 @@ https://analyticsindiamag.com/how-ml-frameworks-like-tensorflow-and-pytorch-hand
 
 ---
 
-[<< Previous Question](question_496.md) | [Home](/index.md) | [Next Question >>](question_498.md)
+[<< Previous Question](question_496.md) | [Home](../index.md) | [Next Question >>](question_498.md)

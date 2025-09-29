@@ -14,13 +14,13 @@ Solution: Create a managed online endpoint with the default authentication setti
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -31,10 +31,12 @@ Does the solution meet the goal?
 <blockquote><p><strong>evangelist</strong> <code>(Sun 23 Jun 2024 10:15)</code> - <em>Upvotes: 2</em></p><p>The default authentication method when creating a managed online endpoint is a key, which does not expire unless explicitly regenerated. This satisfies the requirement of using a non-expiring artifact for authentication.
 
 Thus, the solution of creating a managed online endpoint with the default authentication settings and deploying the model to the online endpoint meets the goal.</p></blockquote>
+
 <blockquote><p><strong>zafnad</strong> <code>(Wed 12 Jun 2024 11:27)</code> - <em>Upvotes: 1</em></p><p>No, the solution does not meet the goal.
 The default authentication settings for a managed online endpoint typically use Azure Active Directory (AAD) tokens, which do expire and are not non-expiring artifacts.
 
 To ensure that applications can use an authentication method with a non-expiring artifact, you should use a key-based authentication method, such as API keys, which do not expire unless explicitly regenerated.</p></blockquote>
+
 <blockquote><p><strong>Karthikat</strong> <code>(Sun 03 Mar 2024 21:15)</code> - <em>Upvotes: 1</em></p><p>A- Yes, Key is default if not specified 
 https://learn.microsoft.com/en-us/python/api/azure-ai-ml/azure.ai.ml.entities.managedonlineendpoint?view=azure-python</p></blockquote>
 <blockquote><p><strong>robdale</strong> <code>(Thu 02 Nov 2023 19:38)</code> - <em>Upvotes: 1</em></p><p>Should be YES. The default value is &#x27;key&#x27;.</p></blockquote>
@@ -49,4 +51,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-authenticate-onl
 
 ---
 
-[<< Previous Question](question_429.md) | [Home](/index.md) | [Next Question >>](question_431.md)
+[<< Previous Question](question_429.md) | [Home](../index.md) | [Next Question >>](question_431.md)

@@ -8,15 +8,15 @@ You need to ensure that the experiment runs successfully on local and remote com
 
 What should you do?
 
-* A.Leave the environment unspecified for the experiment. Run the expenment by using the default environment.
-* B.Create a config.yaml file that defines the required conda packages and save the file in the experiment folder.
-* C.Create and register an environment that includes the required packages. Use this environment for all experiment jobs.
-* D.Create a virtual machine (VM) by using the required Python configuration and attach the VM as a compute target. Use this compute target for all experiment runs.
+- A.Leave the environment unspecified for the experiment. Run the expenment by using the default environment.
+- B.Create a config.yaml file that defines the required conda packages and save the file in the experiment folder.
+- C.Create and register an environment that includes the required packages. Use this environment for all experiment jobs.
+- D.Create a virtual machine (VM) by using the required Python configuration and attach the VM as a compute target. Use this compute target for all experiment runs.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ What should you do?
 
 ---
 
-[<< Previous Question](question_331.md) | [Home](/index.md) | [Next Question >>](question_333.md)
+[<< Previous Question](question_331.md) | [Home](../index.md) | [Next Question >>](question_333.md)

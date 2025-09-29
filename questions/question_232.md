@@ -75,4 +75,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hyp
 
 ---
 
-[<< Previous Question](question_231.md) | [Home](/index.md) | [Next Question >>](question_233.md)
+[<< Previous Question](question_231.md) | [Home](../index.md) | [Next Question >>](question_233.md)

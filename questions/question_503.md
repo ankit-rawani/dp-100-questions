@@ -4,15 +4,16 @@ You need to implement a feature engineering strategy for the crowd sentiment loc
 
 What should you do?
 
-* A.Apply an analysis of variance (ANOVA).
-* B.Apply a Pearson correlation coefficient.
-* C.Apply a Spearman correlation coefficient.
-* D.Apply a linear discriminant analysis.
+- A.Apply an analysis of variance (ANOVA).
+- B.Apply a Pearson correlation coefficient.
+- C.Apply a Spearman correlation coefficient.
+- D.Apply a linear discriminant analysis.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
+
 <p>The linear discriminant analysis method works only on continuous variables, not categorical or ordinal variables.</p>
 <p>Linear discriminant analysis is similar to analysis of variance (ANOVA) in that it works by comparing the means of the variables.</p>
 <p>Scenario:</p>
@@ -37,6 +38,7 @@ What should you do?
 The Pearson correlation coefficient measures the linear relationship between two datasets, which could be valuable in this scenario to understand which features most strongly correlate with positive or negative crowd sentiment. This could involve correlations between specific sound features in the audio data and the sentiment label.
 
 While the other techniques mentioned (ANOVA, Spearman correlation coefficient, and linear discriminant analysis) can be useful in certain circumstances, the Pearson correlation coefficient is more relevant in this scenario where you might be dealing with continuous features (like sound frequencies or volumes) and you are interested in linear relationships with the target variable (sentiment).</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Sat 17 Dec 2022 12:26)</code> - <em>Upvotes: 1</em></p><p>MLP combined with LDA ...
 As mentioned in question, MLP is used for sentiment analysis, multiple layers ...
 Then my guess will be LDA for feature reduction ...
@@ -51,4 +53,4 @@ To generate the scores, you provide a label column and set of numerical feature 
 
 ---
 
-[<< Previous Question](question_502.md) | [Home](/index.md) | [Next Question >>](question_504.md)
+[<< Previous Question](question_502.md) | [Home](../index.md) | [Next Question >>](question_504.md)

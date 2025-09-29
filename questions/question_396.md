@@ -12,16 +12,16 @@ What are two possible ways to achieve this goal? Each correct answer presents a 
 
 NOTE: Each correct selection is worth one point.
 
-* A.Specify a different name for the model each time you register it.
-* B.Register the model with the same name each time regardless of accuracy, and always use the latest version of the model in the batch inferencing pipeline.
-* C.Specify the model framework version when registering the model, and only register subsequent models if this value is higher.
-* D.Specify a property named accuracy with the accuracy metric as a value when registering the model, and only register subsequent models if their accuracy is  higher than the accuracy property value of the currently registered model.
-* E.Specify a tag named accuracy with the accuracy metric as a value when registering the model, and only register subsequent models if their accuracy is higher than the accuracy tag value of the currently registered model.
+- A.Specify a different name for the model each time you register it.
+- B.Register the model with the same name each time regardless of accuracy, and always use the latest version of the model in the batch inferencing pipeline.
+- C.Specify the model framework version when registering the model, and only register subsequent models if this value is higher.
+- D.Specify a property named accuracy with the accuracy metric as a value when registering the model, and only register subsequent models if their accuracy is higher than the accuracy property value of the currently registered model.
+- E.Specify a tag named accuracy with the accuracy metric as a value when registering the model, and only register subsequent models if their accuracy is higher than the accuracy tag value of the currently registered model.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>DE</strong><br>
+<strong>DE</strong><br>
 
 </details>
 
@@ -47,4 +47,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_395.md) | [Home](/index.md) | [Next Question >>](question_397.md)
+[<< Previous Question](question_395.md) | [Home](../index.md) | [Next Question >>](question_397.md)

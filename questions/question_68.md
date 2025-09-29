@@ -70,4 +70,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.compute.am
 
 ---
 
-[<< Previous Question](question_67.md) | [Home](/index.md) | [Next Question >>](question_69.md)
+[<< Previous Question](question_67.md) | [Home](../index.md) | [Next Question >>](question_69.md)

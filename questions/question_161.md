@@ -8,15 +8,15 @@ You need to access and load the folder data asset into a Pandas data frame.
 
 Which method should you use to achieve this goal?
 
-* A.mltable.from_parquet_files()
-* B.mltable.from_delimited_files()
-* C.mltable.from_data_lake()
-* D.mltable.load()
+- A.mltable.from_parquet_files()
+- B.mltable.from_delimited_files()
+- C.mltable.from_data_lake()
+- D.mltable.load()
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -25,17 +25,18 @@ Which method should you use to achieve this goal?
 
 <blockquote><p><strong>445f1bd</strong> <code>(Sun 22 Jun 2025 04:20)</code> - <em>Upvotes: 1</em></p><p>Is load() guys. Check this ...
 
-   # load mltable from azureml data asset short uri
-   from mltable import load
-   from azure.ai.ml import MLClient
-   from azure.identity import DefaultAzureCredential
-   credential = DefaultAzureCredential()
-   ml_client = MLClient(credential, &lt;subscription_id&gt;, &lt;resourcegroup-name&gt;, &lt;workspace-name&gt;)
-   tbl = load(&#x27;azureml:&lt;data-asset-name&gt;:&lt;version&gt;&#x27;, ml_client=ml_client)
+# load mltable from azureml data asset short uri
 
+from mltable import load
+from azure.ai.ml import MLClient
+from azure.identity import DefaultAzureCredential
+credential = DefaultAzureCredential()
+ml_client = MLClient(credential, &lt;subscription_id&gt;, &lt;resourcegroup-name&gt;, &lt;workspace-name&gt;)
+tbl = load(&#x27;azureml:&lt;data-asset-name&gt;:&lt;version&gt;&#x27;, ml_client=ml_client)
 
 in this link
 https://learn.microsoft.com/en-us/python/api/mltable/mltable?view=azure-ml-py#mltable-from-delimited-files</p></blockquote>
+
 <blockquote><p><strong>avinyc</strong> <code>(Fri 03 Jan 2025 23:45)</code> - <em>Upvotes: 1</em></p><p>mltable.from_delimited_files()</p></blockquote>
 <blockquote><p><strong>evangelist</strong> <code>(Mon 02 Dec 2024 02:21)</code> - <em>Upvotes: 1</em></p><p>csv=&gt;delimited file</p></blockquote>
 <blockquote><p><strong>sai384957324</strong> <code>(Thu 10 Oct 2024 22:00)</code> - <em>Upvotes: 1</em></p><p>B is correct</p></blockquote>
@@ -50,4 +51,4 @@ B is correct.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_160.md) | [Home](/index.md) | [Next Question >>](question_162.md)
+[<< Previous Question](question_160.md) | [Home](../index.md) | [Next Question >>](question_162.md)

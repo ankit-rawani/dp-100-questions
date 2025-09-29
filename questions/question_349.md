@@ -51,4 +51,4 @@ Wrong Answers:
 
 ---
 
-[<< Previous Question](question_348.md) | [Home](/index.md) | [Next Question >>](question_350.md)
+[<< Previous Question](question_348.md) | [Home](../index.md) | [Next Question >>](question_350.md)

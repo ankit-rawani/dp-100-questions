@@ -52,4 +52,4 @@ uri_folder 	Read a folder of parquet/CSV files into Pandas/Spark.</p></blockquot
 
 ---
 
-[<< Previous Question](question_135.md) | [Home](/index.md) | [Next Question >>](question_137.md)
+[<< Previous Question](question_135.md) | [Home](../index.md) | [Next Question >>](question_137.md)

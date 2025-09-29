@@ -31,4 +31,4 @@ Which technique should you use?
 
 ---
 
-[<< Previous Question](question_508.md) | [Home](/index.md) | [Next Question >>](question_510.md)
+[<< Previous Question](question_508.md) | [Home](../index.md) | [Next Question >>](question_510.md)

@@ -63,4 +63,4 @@ If you do not select this option, rows are assigned to folds using the round-rob
 
 ---
 
-[<< Previous Question](question_92.md) | [Home](/index.md) | [Next Question >>](question_94.md)
+[<< Previous Question](question_92.md) | [Home](../index.md) | [Next Question >>](question_94.md)

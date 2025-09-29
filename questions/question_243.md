@@ -93,4 +93,4 @@ w</p></blockquote>
 
 ---
 
-[<< Previous Question](question_242.md) | [Home](/index.md) | [Next Question >>](question_244.md)
+[<< Previous Question](question_242.md) | [Home](../index.md) | [Next Question >>](question_244.md)

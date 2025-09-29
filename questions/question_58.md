@@ -8,15 +8,15 @@ You need to select an Azure Machine Learning Studio module to improve the classi
 
 Which module should you use?
 
-* A.Permutation Feature Importance
-* B.Filter Based Feature Selection
-* C.Fisher Linear Discriminant Analysis
-* D.Synthetic Minority Oversampling Technique (SMOTE)
+- A.Permutation Feature Importance
+- B.Filter Based Feature Selection
+- C.Fisher Linear Discriminant Analysis
+- D.Synthetic Minority Oversampling Technique (SMOTE)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -29,9 +29,11 @@ Which module should you use?
 <blockquote><p><strong>DingDongSingSong</strong> <code>(Thu 31 Mar 2022 03:47)</code> - <em>Upvotes: 2</em></p><p>https://docs.microsoft.com/en-us/azure/machine-learning/component-reference/smote
 
 The link is from Azure ML documentation. So the Microsoft Learn does cover this concept</p></blockquote>
+
 <blockquote><p><strong>sar77</strong> <code>(Wed 16 Jul 2025 03:32)</code> - <em>Upvotes: 1</em></p><p>The best choice for handling an imbalanced dataset in a classification task is:
 
 D. Synthetic Minority Oversampling Technique (SMOTE)</p></blockquote>
+
 <blockquote><p><strong>David_Tadeu</strong> <code>(Thu 31 Mar 2022 14:35)</code> - <em>Upvotes: 2</em></p><p>Related with https://www.examtopics.com/discussions/microsoft/view/55875-exam-dp-100-topic-2-question-23-discussion/</p></blockquote>
 <blockquote><p><strong>nbboy</strong> <code>(Fri 21 Jan 2022 08:37)</code> - <em>Upvotes: 2</em></p><p>this&#x27;s right</p></blockquote>
 <blockquote><p><strong>pg13</strong> <code>(Thu 10 Jun 2021 16:41)</code> - <em>Upvotes: 1</em></p><p>D is correct</p></blockquote>
@@ -43,4 +45,4 @@ D. Synthetic Minority Oversampling Technique (SMOTE)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_57.md) | [Home](/index.md) | [Next Question >>](question_59.md)
+[<< Previous Question](question_57.md) | [Home](../index.md) | [Next Question >>](question_59.md)

@@ -56,7 +56,7 @@ iterations: 50</p></blockquote>
 task = &#x27;forecasting_future&#x27;
 target_column_name = &#x27;temperature&#x27;
 
-///****\*\*****
+///\***\*\*\*\*\***
 
 # Configure AutoML settings
 
@@ -80,4 +80,4 @@ regression model can be used as prediction as well</p></blockquote>
 
 ---
 
-[<< Previous Question](question_152.md) | [Home](/index.md) | [Next Question >>](question_154.md)
+[<< Previous Question](question_152.md) | [Home](../index.md) | [Next Question >>](question_154.md)

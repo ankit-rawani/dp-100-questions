@@ -8,15 +8,15 @@ You need to identify the epsilon value to use in the analysis that minimizes the
 
 Which epsilon value should you use?
 
-* A.-1.5
-* B.-0.5
-* C.0.5
-* D.1.5
+- A.-1.5
+- B.-0.5
+- C.0.5
+- D.1.5
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ https://github.com/MicrosoftLearning/mslearn-dp100/blob/main/13%20-%20Explore%20
 
 ---
 
-[<< Previous Question](question_339.md) | [Home](/index.md) | [Next Question >>](question_341.md)
+[<< Previous Question](question_339.md) | [Home](../index.md) | [Next Question >>](question_341.md)

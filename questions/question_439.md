@@ -8,15 +8,15 @@ You need to exclude the 20 files.
 
 What should you do?
 
-* A.Copy the contents of the file named .gitignore to the file named .amlignore.
-* B.Move the file named .gitignore to the ./outputs directory.
-* C.Move the file named .gitignore to the ./logs directory.
-* D.Add the contents of the file named .amlignore to the file named .gitignore.
+- A.Copy the contents of the file named .gitignore to the file named .amlignore.
+- B.Move the file named .gitignore to the ./outputs directory.
+- C.Move the file named .gitignore to the ./logs directory.
+- D.Add the contents of the file named .amlignore to the file named .gitignore.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -33,4 +33,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-set-up-training-
 
 ---
 
-[<< Previous Question](question_438.md) | [Home](/index.md) | [Next Question >>](question_440.md)
+[<< Previous Question](question_438.md) | [Home](../index.md) | [Next Question >>](question_440.md)

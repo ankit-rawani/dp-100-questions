@@ -10,15 +10,15 @@ You need to produce the distribution.
 
 Which type of distribution should you produce?
 
-* A.Unpaired t-test with a two-tail option
-* B.Unpaired t-test with a one-tail option
-* C.Paired t-test with a one-tail option
-* D.Paired t-test with a two-tail option
+- A.Unpaired t-test with a two-tail option
+- B.Unpaired t-test with a one-tail option
+- C.Paired t-test with a one-tail option
+- D.Paired t-test with a two-tail option
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -36,6 +36,7 @@ This wording suggests a comparison between estimated values and reference values
 Maintaining a constant Type I error rate as a function of correlation typically implies that the correlation between two sets of data points (e.g., estimated vs. reference) is being taken into account. This is a key aspect of a paired t-test, where the test accounts for the natural pairing and potential correlation within the pairs.
 
 That said, D is correct answer. Probably. Maybe.</p></blockquote>
+
 <blockquote><p><strong>evangelist</strong> <code>(Sat 18 May 2024 06:07)</code> - <em>Upvotes: 2</em></p><p>If we assume that the two data sets are uncorrelated, then choose the unpaired t-test. If the two data sets are related (for example, two measurements from the same set of samples), choose a paired t-test. The question does not clearly state whether the data sets are paired, but based on common data comparison scenarios, we can infer that they are paired.</p></blockquote>
 <blockquote><p><strong>ZoeJ</strong> <code>(Thu 27 Apr 2023 06:23)</code> - <em>Upvotes: 1</em></p><p>i think the given answer is correct</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Fri 24 Feb 2023 02:17)</code> - <em>Upvotes: 2</em></p><p>Option C is the correct answer: Paired t-test with a one-tail option.</p></blockquote>
@@ -60,6 +61,7 @@ Each pair of scores is independent of every other pair.
 The sampling distribution of d is normal.
 
 A paired t-test is useful when comparing related cases. By averaging the differences between the scores of the paired cases, you can determine whether the total difference is statistically significant.</p></blockquote>
+
 <blockquote><p><strong>yanbin43</strong> <code>(Tue 24 Nov 2020 12:17)</code> - <em>Upvotes: 12</em></p><p>The key phrase is &quot;reference values in the other set of data&quot;. It indicates that the two sets of data come from the same source hence paired.</p></blockquote>
 <blockquote><p><strong>hendrata</strong> <code>(Mon 08 Jun 2020 21:21)</code> - <em>Upvotes: 2</em></p><p>I agree it should be unpaired</p></blockquote>
 <blockquote><p><strong>mhall1</strong> <code>(Wed 24 Jun 2020 05:33)</code> - <em>Upvotes: 19</em></p><p>Paired because they are estimated and reference values of the same thing (or at least I took that as implied). Thus, they are related and should vary together.</p></blockquote>
@@ -70,4 +72,4 @@ A paired t-test is useful when comparing related cases. By averaging the differe
 
 ---
 
-[<< Previous Question](question_464.md) | [Home](/index.md) | [Next Question >>](question_466.md)
+[<< Previous Question](question_464.md) | [Home](../index.md) | [Next Question >>](question_466.md)

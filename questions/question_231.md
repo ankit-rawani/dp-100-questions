@@ -163,4 +163,4 @@ weather_ds = Dataset.Tabular.from_delimited_files(path=datastore_paths)</p></blo
 
 ---
 
-[<< Previous Question](question_230.md) | [Home](/index.md) | [Next Question >>](question_232.md)
+[<< Previous Question](question_230.md) | [Home](../index.md) | [Next Question >>](question_232.md)

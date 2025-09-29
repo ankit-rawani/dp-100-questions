@@ -44,4 +44,4 @@ The variance is an error from sensitivity to small fluctuations in the training 
 
 ---
 
-[<< Previous Question](question_472.md) | [Home](/index.md) | [Next Question >>](question_474.md)
+[<< Previous Question](question_472.md) | [Home](../index.md) | [Next Question >>](question_474.md)

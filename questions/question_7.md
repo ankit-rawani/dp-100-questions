@@ -12,13 +12,13 @@ Recommendation: You make use of a Geo AI Data Science Virtual Machine (Geo-DSVM)
 
 Will the requirements be satisfied?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -39,6 +39,7 @@ to forecast prices. You are preparing to create a virtual machine that has the N
 <blockquote><p><strong>emmanuelodenyire</strong> <code>(Mon 31 Jul 2023 06:37)</code> - <em>Upvotes: 2</em></p><p>B. No.
 
 While a Geo AI Data Science Virtual Machine (Geo-DSVM) Windows edition might be a good choice for geographic data processing and analysis, it does not necessarily meet the requirement for GPU processing for the machine learning model and a PostgreSQL database. A different virtual machine type with GPU support and PostgreSQL capabilities might be a better choice for this specific use case. It&#x27;s recommended to check the specific virtual machine offerings and their specifications to ensure that the necessary hardware and software resources are available for the task at hand.</p></blockquote>
+
 <blockquote><p><strong>sameerpixel</strong> <code>(Tue 20 Jun 2023 10:45)</code> - <em>Upvotes: 1</em></p><p>no is the answer</p></blockquote>
 <blockquote><p><strong>Edriv</strong> <code>(Fri 09 Jun 2023 09:18)</code> - <em>Upvotes: 1</em></p><p>No</p></blockquote>
 <blockquote><p><strong>claps92</strong> <code>(Mon 13 Mar 2023 22:53)</code> - <em>Upvotes: 1</em></p><p>isn&#x27;t YES??</p></blockquote>
@@ -49,4 +50,4 @@ While a Geo AI Data Science Virtual Machine (Geo-DSVM) Windows edition might be 
 
 ---
 
-[<< Previous Question](question_6.md) | [Home](/index.md) | [Next Question >>](question_8.md)
+[<< Previous Question](question_6.md) | [Home](../index.md) | [Next Question >>](question_8.md)

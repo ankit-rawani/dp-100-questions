@@ -104,4 +104,4 @@ So A is definitely not the correct answer.</p></blockquote>
 
 ---
 
-[<< Previous Question](question_187.md) | [Home](/index.md) | [Next Question >>](question_189.md)
+[<< Previous Question](question_187.md) | [Home](../index.md) | [Next Question >>](question_189.md)

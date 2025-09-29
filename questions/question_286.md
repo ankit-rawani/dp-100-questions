@@ -39,4 +39,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_285.md) | [Home](/index.md) | [Next Question >>](question_287.md)
+[<< Previous Question](question_285.md) | [Home](../index.md) | [Next Question >>](question_287.md)

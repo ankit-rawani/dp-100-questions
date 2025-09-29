@@ -38,4 +38,4 @@ Does the solution meet the goal?
 
 ---
 
-[<< Previous Question](question_154.md) | [Home](/index.md) | [Next Question >>](question_156.md)
+[<< Previous Question](question_154.md) | [Home](../index.md) | [Next Question >>](question_156.md)

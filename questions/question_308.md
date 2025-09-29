@@ -8,14 +8,14 @@ You need to select a sampling method.
 
 Which sampling method should you use?
 
-* A.Grid
-* B.Bayesian
-* C.Random
+- A.Grid
+- B.Bayesian
+- C.Random
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ Which sampling method should you use?
 
 ---
 
-[<< Previous Question](question_307.md) | [Home](/index.md) | [Next Question >>](question_309.md)
+[<< Previous Question](question_307.md) | [Home](../index.md) | [Next Question >>](question_309.md)

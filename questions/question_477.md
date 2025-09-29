@@ -10,16 +10,16 @@ Which two actions should you perform? Each correct answer presents a complete so
 
 NOTE: Each correct selection is worth one point.
 
-* A.Add an additional dense layer with 512 input units.
-* B.Add L1/L2 regularization.
-* C.Use training data augmentation.
-* D.Reduce the amount of training data.
-* E.Add an additional dense layer with 64 input units.
+- A.Add an additional dense layer with 512 input units.
+- B.Add L1/L2 regularization.
+- C.Use training data augmentation.
+- D.Reduce the amount of training data.
+- E.Add an additional dense layer with 64 input units.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>BC</strong><br>
+<strong>BC</strong><br>
 
 </details>
 
@@ -39,6 +39,7 @@ These two techniques are commonly used to address overfitting in deep learning m
 C. Use training data augmentation.
 
 These methods directly address the problem of overfitting by either penalizing overly complex models or by making the training data more diverse and challenging for the model.</p></blockquote>
+
 <blockquote><p><strong>Matt2000</strong> <code>(Tue 06 Feb 2024 12:09)</code> - <em>Upvotes: 1</em></p><p>This reference might be useful: https://towardsdatascience.com/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Fri 24 Feb 2023 04:39)</code> - <em>Upvotes: 2</em></p><p>The two actions that can help reduce overfitting and converge the model to an optimal fit are:
 
@@ -47,6 +48,7 @@ B. Add L1/L2 regularization: Regularization techniques can help to reduce overfi
 C. Use training data augmentation: Data augmentation is a technique that can be used to artificially increase the size of the training dataset by creating new examples from existing data. This can help the model to generalize better and reduce overfitting. Common data augmentation techniques for image data include random rotations, flips, and translations.
 
 Options A and E suggest adding additional dense layers, which can increase the complexity of the model and potentially exacerbate overfitting. Option D suggests reducing the amount of training data, which can lead to underfitting and poor generalization performance. Therefore, options B and C are the best choices for reducing overfitting and improving model performance.</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Mon 13 Jun 2022 13:09)</code> - <em>Upvotes: 2</em></p><p>Regulation
 Increase data through data argumentation</p></blockquote>
 <blockquote><p><strong>dija123</strong> <code>(Wed 08 Dec 2021 18:26)</code> - <em>Upvotes: 5</em></p><p>I agree with B and C</p></blockquote>
@@ -62,6 +64,7 @@ so the answer is B and C</p></blockquote>
 
 Training deep learning neural network models on more data can result in more skillful models, and the augmentation techniques can create variations of the images that can improve the ability of the fit models to generalize what they have learned to new images.&quot;
 Ref: https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/</p></blockquote>
+
 <blockquote><p><strong>hima618</strong> <code>(Sun 20 Sep 2020 06:13)</code> - <em>Upvotes: 2</em></p><p>Yes, BC are correct.</p></blockquote>
 <blockquote><p><strong>rr200</strong> <code>(Thu 30 Jul 2020 14:36)</code> - <em>Upvotes: 4</em></p><p>BC are right answers.  To reduce overfitting in DL model, you either increase training data volume or reduce complexity of the model</p></blockquote>
 <blockquote><p><strong>Timeless_Faceless</strong> <code>(Wed 15 Jul 2020 10:34)</code> - <em>Upvotes: 4</em></p><p>The answer is definitely B and C</p></blockquote>
@@ -70,4 +73,4 @@ Ref: https://machinelearningmastery.com/how-to-configure-image-data-augmentation
 
 ---
 
-[<< Previous Question](question_476.md) | [Home](/index.md) | [Next Question >>](question_478.md)
+[<< Previous Question](question_476.md) | [Home](../index.md) | [Next Question >>](question_478.md)

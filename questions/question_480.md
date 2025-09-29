@@ -8,15 +8,15 @@ You need to load the model fairness metrics into Azure Machine Learning studio.
 
 What should you do?
 
-* A.Implement the download_dashboard_by_upload_id function
-* B.Implement the create_group_metric_set function
-* C.Implement the upload_dashboard_dictionary function
-* D.Upload the training script
+- A.Implement the download_dashboard_by_upload_id function
+- B.Implement the create_group_metric_set function
+- C.Implement the upload_dashboard_dictionary function
+- D.Upload the training script
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -35,4 +35,4 @@ https://learn.microsoft.com/zh-tw/azure/machine-learning/how-to-machine-learning
 
 ---
 
-[<< Previous Question](question_479.md) | [Home](/index.md) | [Next Question >>](question_481.md)
+[<< Previous Question](question_479.md) | [Home](../index.md) | [Next Question >>](question_481.md)

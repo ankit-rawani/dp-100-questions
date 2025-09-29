@@ -53,4 +53,4 @@ i don&#x27;t think that writing metrics is part of the &quot;updating workspace&
 
 ---
 
-[<< Previous Question](question_103.md) | [Home](/index.md) | [Next Question >>](question_105.md)
+[<< Previous Question](question_103.md) | [Home](../index.md) | [Next Question >>](question_105.md)

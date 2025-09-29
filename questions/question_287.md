@@ -63,4 +63,4 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.scriptrunc
 
 ---
 
-[<< Previous Question](question_286.md) | [Home](/index.md) | [Next Question >>](question_288.md)
+[<< Previous Question](question_286.md) | [Home](../index.md) | [Next Question >>](question_288.md)

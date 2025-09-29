@@ -61,4 +61,4 @@ ml_client.begin_create_or_update(cluster_low_pri).result()</p></blockquote>
 
 ---
 
-[<< Previous Question](question_132.md) | [Home](/index.md) | [Next Question >>](question_134.md)
+[<< Previous Question](question_132.md) | [Home](../index.md) | [Next Question >>](question_134.md)

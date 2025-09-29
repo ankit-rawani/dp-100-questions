@@ -55,4 +55,4 @@ The Apply Transformation module is used to apply custom transformations or opera
 
 ---
 
-[<< Previous Question](question_110.md) | [Home](/index.md) | [Next Question >>](question_112.md)
+[<< Previous Question](question_110.md) | [Home](../index.md) | [Next Question >>](question_112.md)

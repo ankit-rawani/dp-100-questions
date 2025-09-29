@@ -39,4 +39,4 @@ The slack_factor parameter defines the allowable slack (tolerance) as a ratio. A
 
 ---
 
-[<< Previous Question](question_292.md) | [Home](/index.md) | [Next Question >>](question_294.md)
+[<< Previous Question](question_292.md) | [Home](../index.md) | [Next Question >>](question_294.md)

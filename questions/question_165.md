@@ -8,16 +8,16 @@ You need to ensure the custom component can be used in the pipeline.
 
 What should you do first?
 
-* A.Create a pipeline endpoint.
-* B.Add a linked service to Workspace1.
-* C.Upload a .json file to Workspace1.
-* D.Create a datastore.
-* E.Upload a .yaml file to Workspace1.
+- A.Create a pipeline endpoint.
+- B.Add a linked service to Workspace1.
+- C.Upload a .json file to Workspace1.
+- D.Create a datastore.
+- E.Upload a .yaml file to Workspace1.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>E</strong><br>
+<strong>E</strong><br>
 
 </details>
 
@@ -31,4 +31,4 @@ What should you do first?
 
 ---
 
-[<< Previous Question](question_164.md) | [Home](/index.md) | [Next Question >>](question_166.md)
+[<< Previous Question](question_164.md) | [Home](../index.md) | [Next Question >>](question_166.md)

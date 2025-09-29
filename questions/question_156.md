@@ -8,15 +8,15 @@ You need to build a URI that represents the storage location.
 
 Which protocol should you use?
 
-* A.https
-* B.adl
-* C.abfss
-* D.wasbs
+- A.https
+- B.adl
+- C.abfss
+- D.wasbs
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -31,4 +31,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/concept-data?view=azure
 
 ---
 
-[<< Previous Question](question_155.md) | [Home](/index.md) | [Next Question >>](question_157.md)
+[<< Previous Question](question_155.md) | [Home](../index.md) | [Next Question >>](question_157.md)

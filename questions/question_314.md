@@ -45,4 +45,4 @@ In this case, since the question specifically mentions unfair predictions across
 
 ---
 
-[<< Previous Question](question_313.md) | [Home](/index.md) | [Next Question >>](question_315.md)
+[<< Previous Question](question_313.md) | [Home](../index.md) | [Next Question >>](question_315.md)

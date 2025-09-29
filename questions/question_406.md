@@ -8,15 +8,16 @@ You need to publish the pipeline as a REST service that can be used for the nigh
 
 What should you do?
 
-* A.Create a batch inference pipeline
-* B.Set the compute target for the pipeline to an inference cluster
-* C.Create a real-time inference pipeline
-* D.Clone the pipeline
+- A.Create a batch inference pipeline
+- B.Set the compute target for the pipeline to an inference cluster
+- C.Create a real-time inference pipeline
+- D.Clone the pipeline
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>Azure Machine Learning Batch Inference targets large inference jobs that are not time-sensitive. Batch Inference provides cost-effective inference compute scaling, with unparalleled throughput for asynchronous applications. It is optimized for high-throughput, fire-and-forget inference over large collections of data.</p>
 <p>You can submit a batch inference job by pipeline_run, or through REST calls with a published pipeline.</p>
 <p>Reference:</p>
@@ -34,4 +35,4 @@ What should you do?
 
 ---
 
-[<< Previous Question](question_405.md) | [Home](/index.md) | [Next Question >>](question_407.md)
+[<< Previous Question](question_405.md) | [Home](../index.md) | [Next Question >>](question_407.md)

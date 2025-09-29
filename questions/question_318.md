@@ -8,15 +8,15 @@ You need to pass the regularization rate in a variable named reg_rate to the scr
 
 Which code segment should you use?
 
-* A.
-* B.
-* C.
-* D.
+- A.
+- B.
+- C.
+- D.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -30,4 +30,4 @@ Which code segment should you use?
 
 ---
 
-[<< Previous Question](question_317.md) | [Home](/index.md) | [Next Question >>](question_319.md)
+[<< Previous Question](question_317.md) | [Home](../index.md) | [Next Question >>](question_319.md)

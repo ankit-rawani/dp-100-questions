@@ -35,4 +35,4 @@ Hot Area:
 
 ---
 
-[<< Previous Question](question_3.md) | [Home](/index.md) | [Next Question >>](question_5.md)
+[<< Previous Question](question_3.md) | [Home](../index.md) | [Next Question >>](question_5.md)

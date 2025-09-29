@@ -14,13 +14,13 @@ Solution: Calculate the column median value and use the median value as the repl
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -50,14 +50,15 @@ As its not mentioned all columns have numeric values.</p></blockquote>
 <blockquote><p><strong>FU_User</strong> <code>(Wed 18 May 2022 11:21)</code> - <em>Upvotes: 3</em></p><p>It is correct as it doesn&#x27;t add or drop columns.
 Also &quot;You need to analyze a full dataset&quot; can either mean that the algorithm should take the full existing dataset into account when replacing values (which this one does) or that no existing data should be deleted (median does not delete anything)</p></blockquote>
 <blockquote><p><strong>VEDPRASAD</strong> <code>(Sun 27 Mar 2022 19:22)</code> - <em>Upvotes: 2</em></p><p>In an existing project we did median, with clustered dataset. so median works</p></blockquote>
-<blockquote><p><strong>David_Tadeu</strong> <code>(Fri 25 Mar 2022 14:46)</code> - <em>Upvotes: 4</em></p><p>Applying the mentioned method to the following dataset 
+<blockquote><p><strong>David_Tadeu</strong> <code>(Fri 25 Mar 2022 14:46)</code> - <em>Upvotes: 4</em></p><p>Applying the mentioned method to the following dataset
 
 1 | 5 | - | - | 7 | 3 |
-- | 0 | 2 | 2 | 7 | 4 |
-2 | 6 | 9 | - | 2 | - |
-3 | - | - | - | 7 | - |
 
-would lead to 
+- | 0 | 2 | 2 | 7 | 4 |
+  2 | 6 | 9 | - | 2 | - |
+  3 | - | - | - | 7 | - |
+
+would lead to
 
 1 | 4 | 4 | 4 | 7 | 3 |
 2 | 0 | 2 | 2 | 7 | 4 |
@@ -65,8 +66,9 @@ would lead to
 3 | 5 | 5 | 5 | 7 | 5 |
 
 Hence
- - missing data cleaned
- - dimensionality preserved</p></blockquote>
+
+- missing data cleaned
+- dimensionality preserved</p></blockquote>
 <blockquote><p><strong>David_Tadeu</strong> <code>(Fri 25 Mar 2022 14:47)</code> - <em>Upvotes: 1</em></p><p>oops the entry (1,2) is meant to be a 5 in the dataset below</p></blockquote>
 <blockquote><p><strong>synapse</strong> <code>(Sun 13 Mar 2022 14:10)</code> - <em>Upvotes: 4</em></p><p>Copying a good answer: &quot;You need to analyze a full dataset&quot; just means you can&#x27;t drop the rows or the columns. Replacing missing data with the median may increase the cardinality but dimensionality is only increased by adding new feature columns. Median replacement is a valid method in this case. The answer should be &quot;Yes&quot;</p></blockquote>
 <blockquote><p><strong>mikosann</strong> <code>(Wed 22 Sep 2021 13:42)</code> - <em>Upvotes: 4</em></p><p>I think the answer is correct. Filling missing values with mean/median is a highly used method. It works on each column separately and independently. And it only replaces the missing values, doesn&#x27;t add any new columns or new rows to the dataset which means it doesn&#x27;t effect dimensions. Taking the mean/median of the column and replacing missing values is one of the beginner data science topics. MICE can be a better method but this doesn&#x27;t mean the answer is wrong.</p></blockquote>
@@ -76,4 +78,4 @@ Hence
 
 ---
 
-[<< Previous Question](question_84.md) | [Home](/index.md) | [Next Question >>](question_86.md)
+[<< Previous Question](question_84.md) | [Home](../index.md) | [Next Question >>](question_86.md)

@@ -6,15 +6,15 @@ You need to divide data into two distinct datasets.
 
 Which module should you use?
 
-* A.Split Data
-* B.Load Trained Model
-* C.Assign Data to Clusters
-* D.Group Data into Bins
+- A.Split Data
+- B.Load Trained Model
+- C.Assign Data to Clusters
+- D.Group Data into Bins
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -30,6 +30,7 @@ Which module should you use?
 <blockquote><p><strong>Ahmed_Gehad</strong> <code>(Tue 23 Jan 2024 14:30)</code> - <em>Upvotes: 1</em></p><p>The Split Data module in Azure Machine Learning Studio can be used to divide a dataset into two distinct datasets. The module allows you to specify the fraction of the dataset that you want to include in each of the two datasets.
 
 The other modules you mentioned are not used to divide data into two distinct datasets. The Load Trained Model module is used to load a trained machine learning model into Azure Machine Learning Studio. The Assign Data to Clusters module is used to assign data points to clusters. The Group Data into Bins module is used to group data points into bins.</p></blockquote>
+
 <blockquote><p><strong>MohammadKhubeb</strong> <code>(Mon 30 Oct 2023 14:17)</code> - <em>Upvotes: 2</em></p><p>Answer should be D, because in the BINS the data get easily visualize. Let say we have 100 rows, and two values - Male and Female. so, through BINS we can easily see the ration these two.</p></blockquote>
 <blockquote><p><strong>Peeking</strong> <code>(Sat 19 Aug 2023 22:58)</code> - <em>Upvotes: 2</em></p><p>Split Data</p></blockquote>
 <blockquote><p><strong>jlopezfelizzola</strong> <code>(Sat 18 Mar 2023 12:15)</code> - <em>Upvotes: 3</em></p><p>Correct answer is A</p></blockquote>
@@ -42,6 +43,7 @@ The other modules you mentioned are not used to divide data into two distinct da
 If you choose D and your score is 1000/1000 , it means this choice is correct.
 
 How can you know all the rihgt answer when you took the exam?</p></blockquote>
+
 <blockquote><p><strong>RainbowJuly</strong> <code>(Wed 20 Jul 2022 11:33)</code> - <em>Upvotes: 3</em></p><p>https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/split-data</p></blockquote>
 <blockquote><p><strong>Skyrocket</strong> <code>(Fri 08 Jul 2022 06:39)</code> - <em>Upvotes: 1</em></p><p>Split Data is the correct answer. I request the admins to please update the correct answers as they are very misleading.</p></blockquote>
 <blockquote><p><strong>greengarden</strong> <code>(Tue 14 Jun 2022 14:57)</code> - <em>Upvotes: 1</em></p><p>Correct Answer is Split Data</p></blockquote>
@@ -51,4 +53,4 @@ How can you know all the rihgt answer when you took the exam?</p></blockquote>
 
 ---
 
-[<< Previous Question](question_81.md) | [Home](/index.md) | [Next Question >>](question_83.md)
+[<< Previous Question](question_81.md) | [Home](../index.md) | [Next Question >>](question_83.md)

@@ -43,4 +43,4 @@ Attach the Compute to Azure ML Workspace</p></blockquote>
 
 ---
 
-[<< Previous Question](question_42.md) | [Home](/index.md) | [Next Question >>](question_44.md)
+[<< Previous Question](question_42.md) | [Home](../index.md) | [Next Question >>](question_44.md)

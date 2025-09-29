@@ -6,15 +6,16 @@ You must deploy the model as a real-time inference service for testing. The serv
 
 Which compute target should you use?
 
-* A.Azure Container Instance (ACI)
-* B.attached Azure Databricks cluster
-* C.Azure Kubernetes Service (AKS) inference cluster
-* D.Azure Machine Learning compute cluster
+- A.Azure Container Instance (ACI)
+- B.attached Azure Databricks cluster
+- C.Azure Kubernetes Service (AKS) inference cluster
+- D.Azure Machine Learning compute cluster
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>Azure Container Instances (ACI) are suitable only for small models less than 1 GB in size.</p>
 <p>Use it for low-scale CPU-based workloads that require less than 48 GB of RAM.</p>
 <p>Note: Microsoft recommends using single-node Azure Kubernetes Service (AKS) clusters for dev-test of larger models.</p>
@@ -32,9 +33,11 @@ Which compute target should you use?
 &#x27;minimizing administrative overhead&#x27; --&gt; use Docker/container, not Azure App Service.
 
 Conclusion: Azure Container Instance (ACI).</p></blockquote>
+
 <blockquote><p><strong>michaelmorar</strong> <code>(Sun 10 Dec 2023 21:11)</code> - <em>Upvotes: 1</em></p><p>https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-deploy-azure-container-instance
 
 &quot;ACI is suitable only for small models that are under 1 GB in size. We recommend using single-node AKS to dev-test larger models.&quot;</p></blockquote>
+
 <blockquote><p><strong>AjoseO</strong> <code>(Fri 03 Mar 2023 06:37)</code> - <em>Upvotes: 4</em></p><p>On Exam: 03 March 2022</p></blockquote>
 <blockquote><p><strong>treadst0ne</strong> <code>(Mon 20 Jun 2022 18:50)</code> - <em>Upvotes: 3</em></p><p>Answer is correct.
 https://docs.microsoft.com/en-gb/azure/machine-learning/concept-compute-target</p></blockquote>
@@ -49,4 +52,4 @@ https://docs.microsoft.com/en-gb/azure/machine-learning/concept-compute-target</
 
 ---
 
-[<< Previous Question](question_377.md) | [Home](/index.md) | [Next Question >>](question_379.md)
+[<< Previous Question](question_377.md) | [Home](../index.md) | [Next Question >>](question_379.md)

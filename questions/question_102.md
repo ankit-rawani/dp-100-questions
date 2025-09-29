@@ -54,4 +54,4 @@ Number of workers vary between 2 and 8 so not fixed</p></blockquote>
 
 ---
 
-[<< Previous Question](question_101.md) | [Home](/index.md) | [Next Question >>](question_103.md)
+[<< Previous Question](question_101.md) | [Home](../index.md) | [Next Question >>](question_103.md)

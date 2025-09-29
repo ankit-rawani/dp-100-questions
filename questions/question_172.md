@@ -14,13 +14,13 @@ Solution: Create a datastore in the workspace.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -33,4 +33,4 @@ Does the solution meet the goal?
 
 ---
 
-[<< Previous Question](question_171.md) | [Home](/index.md) | [Next Question >>](question_173.md)
+[<< Previous Question](question_171.md) | [Home](../index.md) | [Next Question >>](question_173.md)

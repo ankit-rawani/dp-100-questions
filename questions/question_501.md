@@ -8,15 +8,15 @@ You need to configure an Azure service that will trigger a retraining pipeline i
 
 Which Azure service should you use?
 
-* A.Event Grid
-* B.Azure Functions
-* C.Event Hubs
-* D.Logic Apps
+- A.Event Grid
+- B.Azure Functions
+- C.Event Hubs
+- D.Logic Apps
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -29,4 +29,4 @@ Which Azure service should you use?
 
 ---
 
-[<< Previous Question](question_500.md) | [Home](/index.md) | [Next Question >>](question_502.md)
+[<< Previous Question](question_500.md) | [Home](../index.md) | [Next Question >>](question_502.md)

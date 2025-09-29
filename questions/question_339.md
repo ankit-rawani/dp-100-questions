@@ -50,4 +50,4 @@ finished_mlflow_run = MlflowClient().get_run(&quot;&lt;RUN_ID&gt;&quot;)</p></bl
 
 ---
 
-[<< Previous Question](question_338.md) | [Home](/index.md) | [Next Question >>](question_340.md)
+[<< Previous Question](question_338.md) | [Home](../index.md) | [Next Question >>](question_340.md)

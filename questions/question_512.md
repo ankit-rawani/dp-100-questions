@@ -6,16 +6,17 @@ Which three Azure Machine Learning Studio modules should you use? Each correct a
 
 NOTE: Each correct selection is worth one point.
 
-* A.Create Scatterplot
-* B.Summarize Data
-* C.Clip Values
-* D.Replace Discrete Values
-* E.Build Counting Transform
+- A.Create Scatterplot
+- B.Summarize Data
+- C.Clip Values
+- D.Replace Discrete Values
+- E.Build Counting Transform
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>ABC</strong><br>
+<strong>ABC</strong><br>
+
 <p>B: To have a global view, the summarize data module can be used. Add the module and connect it to the data set that needs to be visualized.</p>
 <p>A: One way to quickly identify Outliers visually is to create scatter plots.</p>
 <p>C: The easiest way to treat the outliers in Azure ML is to use the Clip Values module. It can identify and optionally replace data values that are above or below a specified threshold.</p>
@@ -40,14 +41,17 @@ B. Summarize Data: This module can be used to calculate basic statistics for the
 E. Build Counting Transform: This module can be used to create a frequency distribution of the Age column, which can help to identify outliers that occur with low frequency.
 
 Therefore, the correct answers are A, B, and E. The modules C and D are not relevant for identifying and quantifying outliers in the Age column.</p></blockquote>
+
 <blockquote><p><strong>BTAB</strong> <code>(Mon 15 Jul 2024 12:35)</code> - <em>Upvotes: 1</em></p><p>Each correct answer presents part of the solution.  Therefore, the question asks to visualize before removing. Since A &amp; B are visualizations, and C does the removing, all 3 answers are part of the solution.  But we need to do A &amp; B before we utilize C.  Answer is correct.
 
-This brings up a good point with Microsoft tests.  Make sure to understand sequencing questions vs. questions that say each answer PRESENTS part of the solution.</p></blockquote>
+This brings up a good point with Microsoft tests. Make sure to understand sequencing questions vs. questions that say each answer PRESENTS part of the solution.</p></blockquote>
+
 <blockquote><p><strong>TheCyanideLancer</strong> <code>(Sat 22 Jul 2023 05:37)</code> - <em>Upvotes: 1</em></p><p>The give answer seems to be right, below text from documentation regarding clip values module - 
 https://docs.microsoft.com/en-us/previous-versions/azure/machine-learning/studio-module-reference/clip-values
 
 Module overview
 This article describes how to use the Clip Values module in Machine Learning Studio (classic), to identify and optionally replace data values that are above or below a specified threshold. This is useful when you want to remove outliers or replace them with a mean, a constant, or other substitute value</p></blockquote>
+
 <blockquote><p><strong>RyanTsai</strong> <code>(Sun 19 Mar 2023 16:09)</code> - <em>Upvotes: 4</em></p><p>ans: A,B,E</p></blockquote>
 <blockquote><p><strong>bdsrca</strong> <code>(Tue 28 Feb 2023 15:39)</code> - <em>Upvotes: 4</em></p><p>. Create Scatterplot
 .Summarize Data
@@ -55,6 +59,7 @@ This article describes how to use the Clip Values module in Machine Learning Stu
 <blockquote><p><strong>Lucario95</strong> <code>(Wed 23 Nov 2022 12:04)</code> - <em>Upvotes: 2</em></p><p>QUESTION &quot;You need to visually identify whether outliers exist in the Age column and quantify the outliers BEFORE the outliers are removed.&quot;
 
 Thus answer C is part of the answer</p></blockquote>
+
 <blockquote><p><strong>hima618</strong> <code>(Sun 20 Mar 2022 07:30)</code> - <em>Upvotes: 2</em></p><p>question is only about visualization, so option c is incorrect.</p></blockquote>
 <blockquote><p><strong>Laredo</strong> <code>(Sat 21 May 2022 02:02)</code> - <em>Upvotes: 8</em></p><p>solution is correct
 1. visually identify whether outliers exist in the Age column and
@@ -68,4 +73,4 @@ Thus answer C is part of the answer</p></blockquote>
 
 ---
 
-[<< Previous Question](question_511.md) | [Home](/index.md) | [Next Question >>](question_513.md)
+[<< Previous Question](question_511.md) | [Home](../index.md) | [Next Question >>](question_513.md)

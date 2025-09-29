@@ -8,16 +8,16 @@ You want to make sure that overfitting is minimized, and that the model is conve
 
 Which of the following is TRUE with regards to achieving your goal?
 
-* A.You have to add an additional dense layer with 512 input units, and reduce the amount of training data.
-* B.You have to add L1/L2 regularization, and reduce the amount of training data.
-* C.You have to reduce the amount of training data and make use of training data augmentation.
-* D.You have to add L1/L2 regularization, and make use of training data augmentation.
-* E.You have to add an additional dense layer with 512 input units, and add L1/L2 regularization.
+- A.You have to add an additional dense layer with 512 input units, and reduce the amount of training data.
+- B.You have to add L1/L2 regularization, and reduce the amount of training data.
+- C.You have to reduce the amount of training data and make use of training data augmentation.
+- D.You have to add L1/L2 regularization, and make use of training data augmentation.
+- E.You have to add an additional dense layer with 512 input units, and add L1/L2 regularization.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -28,6 +28,7 @@ Which of the following is TRUE with regards to achieving your goal?
 <blockquote><p><strong>Moshekwa</strong> <code>(Sun 31 Jul 2022 12:34)</code> - <em>Upvotes: 14</em></p><p>&quot;data augmentation simply means increasing size of the data that is increasing the number of images present in the dataset..  using data augmentation a lot of similar images can be generated. This helps in increasing the dataset size and thus reduce overfitting.&quot;
 
 https://www.kdnuggets.com/2019/12/5-techniques-prevent-overfitting-neural-networks.html</p></blockquote>
+
 <blockquote><p><strong>Nghia1</strong> <code>(Thu 30 May 2024 23:29)</code> - <em>Upvotes: 1</em></p><p>agree, option B reduce amount of training data will lead to overfitting.</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Thu 01 Feb 2024 21:27)</code> - <em>Upvotes: 9</em></p><p>Moderator, you should correct the answers, not me!
 D. You have to add L1/L2 regularization and make use of training data augmentation.
@@ -43,6 +44,7 @@ When a deep CNN model displays hints of overfitting, it means that the model is 
 L1/L2 regularization adds a penalty term to the loss function that discourages the model from using large weights in the network. This has the effect of reducing the complexity of the model and can help prevent overfitting.
 
 Data augmentation is another effective technique to minimize overfitting. It involves applying random transformations to the training data, such as random rotations or translations, to create new training examples that are similar to the original ones. This helps the model to generalize better to unseen data.</p></blockquote>
+
 <blockquote><p><strong>Yoshizn</strong> <code>(Wed 07 Feb 2024 16:01)</code> - <em>Upvotes: 1</em></p><p>Answer is D</p></blockquote>
 <blockquote><p><strong>MansoorDataScientist</strong> <code>(Thu 25 Jan 2024 17:34)</code> - <em>Upvotes: 2</em></p><p>Steps for reducing overfitting:
 
@@ -51,6 +53,7 @@ Use data augmentation.
 Use architectures that generalize well.
 Add regularization (mostly dropout, L1/L2 regularization are also possible)
 Reduce architecture complexity.</p></blockquote>
+
 <blockquote><p><strong>Peeking</strong> <code>(Tue 16 Jan 2024 04:59)</code> - <em>Upvotes: 1</em></p><p>D is definitely the answer.</p></blockquote>
 <blockquote><p><strong>Edriv</strong> <code>(Mon 11 Dec 2023 13:22)</code> - <em>Upvotes: 1</em></p><p>Why don&#x27;t C?</p></blockquote>
 <blockquote><p><strong>lookaaaa</strong> <code>(Thu 23 Nov 2023 22:33)</code> - <em>Upvotes: 2</em></p><p>increse amount of data, simplify the model (decrese layers or NN unit, etc)</p></blockquote>
@@ -67,4 +70,4 @@ https://towardsdatascience.com/deep-learning-3-more-on-cnns-handling-overfitting
 
 ---
 
-[<< Previous Question](question_37.md) | [Home](/index.md) | [Next Question >>](question_39.md)
+[<< Previous Question](question_37.md) | [Home](../index.md) | [Next Question >>](question_39.md)

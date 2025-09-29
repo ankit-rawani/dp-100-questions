@@ -43,4 +43,4 @@ Build a machine learning proof of concept without the use of code or script. --&
 
 ---
 
-[<< Previous Question](question_128.md) | [Home](/index.md) | [Next Question >>](question_130.md)
+[<< Previous Question](question_128.md) | [Home](../index.md) | [Next Question >>](question_130.md)

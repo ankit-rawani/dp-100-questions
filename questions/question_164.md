@@ -14,13 +14,13 @@ Solution: Initialize the DefaultAzureCredential class.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -34,4 +34,4 @@ from azure.mgmt.synapse import SynapseManagementClient</p></blockquote>
 
 ---
 
-[<< Previous Question](question_163.md) | [Home](/index.md) | [Next Question >>](question_165.md)
+[<< Previous Question](question_163.md) | [Home](../index.md) | [Next Question >>](question_165.md)

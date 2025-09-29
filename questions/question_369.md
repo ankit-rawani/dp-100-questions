@@ -8,15 +8,15 @@ You need to log dictionary type artifacts of the experiments in Azure Machine Le
 
 Which syntax should you use?
 
-* A.mlflow.log_artifact(my_dict)
-* B.mlflow.log_metric("my_metric", my_dict)
-* C.mlflow.log_metrics(my_dict)
-* D.mlflow.log_artifacts(my_dict)
+- A.mlflow.log_artifact(my_dict)
+- B.mlflow.log_metric("my_metric", my_dict)
+- C.mlflow.log_metrics(my_dict)
+- D.mlflow.log_artifacts(my_dict)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -29,4 +29,4 @@ Which syntax should you use?
 
 ---
 
-[<< Previous Question](question_368.md) | [Home](/index.md) | [Next Question >>](question_370.md)
+[<< Previous Question](question_368.md) | [Home](../index.md) | [Next Question >>](question_370.md)

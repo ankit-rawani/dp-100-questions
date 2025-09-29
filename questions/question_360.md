@@ -8,15 +8,15 @@ You need to identify the syntax of the path to reference the model when you regi
 
 Which syntax should you use?
 
-* A.t//model/
-* B.azureml://registries
-* C.mlflow-model/
-* D.azureml://jobs/
+- A.t//model/
+- B.azureml://registries
+- C.mlflow-model/
+- D.azureml://jobs/
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -37,4 +37,4 @@ azureml://jobs/&lt;job-name&gt;/outputs/&lt;output-name&gt;/artifacts/&lt;artifa
 
 ---
 
-[<< Previous Question](question_359.md) | [Home](/index.md) | [Next Question >>](question_361.md)
+[<< Previous Question](question_359.md) | [Home](../index.md) | [Next Question >>](question_361.md)

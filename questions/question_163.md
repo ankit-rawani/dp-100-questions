@@ -44,4 +44,4 @@ Can someone explain the difference between Azure Functins and Logic Apps?</p></b
 
 ---
 
-[<< Previous Question](question_162.md) | [Home](/index.md) | [Next Question >>](question_164.md)
+[<< Previous Question](question_162.md) | [Home](../index.md) | [Next Question >>](question_164.md)

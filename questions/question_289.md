@@ -39,4 +39,4 @@ Does the solution meet the goal?
 
 ---
 
-[<< Previous Question](question_288.md) | [Home](/index.md) | [Next Question >>](question_290.md)
+[<< Previous Question](question_288.md) | [Home](../index.md) | [Next Question >>](question_290.md)

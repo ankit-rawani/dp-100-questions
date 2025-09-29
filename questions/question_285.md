@@ -48,4 +48,4 @@ The as_mount() method is suitable for streaming large datasets without downloadi
 
 ---
 
-[<< Previous Question](question_284.md) | [Home](/index.md) | [Next Question >>](question_286.md)
+[<< Previous Question](question_284.md) | [Home](../index.md) | [Next Question >>](question_286.md)

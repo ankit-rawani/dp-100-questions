@@ -8,15 +8,15 @@ You need to apply a differential privacy approach.
 
 What should you do?
 
-* A.Add noise to the salary data during the analysis
-* B.Encrypt the salary data before analysis
-* C.Remove the salary data
-* D.Convert the salary data to the average column value
+- A.Add noise to the salary data during the analysis
+- B.Encrypt the salary data before analysis
+- C.Remove the salary data
+- D.Convert the salary data to the average column value
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -42,4 +42,4 @@ Converting the salary data to the average column value (option D) does not provi
 
 ---
 
-[<< Previous Question](question_491.md) | [Home](/index.md) | [Next Question >>](question_493.md)
+[<< Previous Question](question_491.md) | [Home](../index.md) | [Next Question >>](question_493.md)

@@ -71,4 +71,4 @@ you can configure Azure Blob Storage to trigger an event in Azure Event Grid whe
 
 ---
 
-[<< Previous Question](question_124.md) | [Home](/index.md) | [Next Question >>](question_126.md)
+[<< Previous Question](question_124.md) | [Home](../index.md) | [Next Question >>](question_126.md)

@@ -14,13 +14,13 @@ Solution: You use the Stratified split for the sampling mode.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -43,11 +43,12 @@ https://docs.microsoft.com/en-us/azure/machine-learning/concept-manage-ml-pitfal
 If you have a stratified split you only guarantee that the labels are in the same proportion in test and train set (95/5 incoming data -&gt; 95/5 training set and 95/5 testing set)
 This doesn&#x27;t compensate for anything it just doesn&#x27;t introduce a new problem on limited training data, for example not having a particular label in the training set at all in the worst case.
 
-As SMOTE  generates new data points it &quot;compensates&quot;.</p></blockquote>
+As SMOTE generates new data points it &quot;compensates&quot;.</p></blockquote>
+
 <blockquote><p><strong>dija123</strong> <code>(Fri 23 Dec 2022 18:56)</code> - <em>Upvotes: 3</em></p><p>Given answer is correct</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_203.md) | [Home](/index.md) | [Next Question >>](question_205.md)
+[<< Previous Question](question_203.md) | [Home](../index.md) | [Next Question >>](question_205.md)

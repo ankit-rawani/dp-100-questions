@@ -56,4 +56,4 @@ For deploying assets and workflows for machine learning proof of concept by usin
 
 ---
 
-[<< Previous Question](question_497.md) | [Home](/index.md) | [Next Question >>](question_499.md)
+[<< Previous Question](question_497.md) | [Home](../index.md) | [Next Question >>](question_499.md)

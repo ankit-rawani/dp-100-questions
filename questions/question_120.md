@@ -84,4 +84,4 @@ Answer is B for sure</p></blockquote>
 
 ---
 
-[<< Previous Question](question_119.md) | [Home](/index.md) | [Next Question >>](question_121.md)
+[<< Previous Question](question_119.md) | [Home](../index.md) | [Next Question >>](question_121.md)

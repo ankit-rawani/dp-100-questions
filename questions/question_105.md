@@ -32,4 +32,4 @@ https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.conda_dep
 
 ---
 
-[<< Previous Question](question_104.md) | [Home](/index.md) | [Next Question >>](question_106.md)
+[<< Previous Question](question_104.md) | [Home](../index.md) | [Next Question >>](question_106.md)

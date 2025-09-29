@@ -51,4 +51,4 @@ The solution should be: YES, NO, YES</p></blockquote>
 
 ---
 
-[<< Previous Question](question_349.md) | [Home](/index.md) | [Next Question >>](question_351.md)
+[<< Previous Question](question_349.md) | [Home](../index.md) | [Next Question >>](question_351.md)

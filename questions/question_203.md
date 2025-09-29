@@ -14,13 +14,13 @@ Solution: You use the Synthetic Minority Oversampling Technique (SMOTE) sampling
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -37,4 +37,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/smo
 
 ---
 
-[<< Previous Question](question_202.md) | [Home](/index.md) | [Next Question >>](question_204.md)
+[<< Previous Question](question_202.md) | [Home](../index.md) | [Next Question >>](question_204.md)

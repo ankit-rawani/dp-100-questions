@@ -63,4 +63,4 @@ Which code segment should you insert to replace the code comment?
 
 ---
 
-[<< Previous Question](question_223.md) | [Home](/index.md) | [Next Question >>](question_225.md)
+[<< Previous Question](question_223.md) | [Home](../index.md) | [Next Question >>](question_225.md)

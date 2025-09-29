@@ -39,4 +39,4 @@ Explanation: Accuracy is commonly used for classification tasks like sentiment a
 
 ---
 
-[<< Previous Question](question_343.md) | [Home](/index.md) | [Next Question >>](question_345.md)
+[<< Previous Question](question_343.md) | [Home](../index.md) | [Next Question >>](question_345.md)

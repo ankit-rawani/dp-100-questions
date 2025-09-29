@@ -82,4 +82,4 @@ Scoring script is a requirement for managedonlinedeployment</p></blockquote>
 
 ---
 
-[<< Previous Question](question_451.md) | [Home](/index.md) | [Next Question >>](question_453.md)
+[<< Previous Question](question_451.md) | [Home](../index.md) | [Next Question >>](question_453.md)

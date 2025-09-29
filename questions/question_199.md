@@ -110,4 +110,4 @@ dataFrame = pd.DataFrame({&#x27;shop&#x27;: {0: &#x27;Shop X&#x27;, 1: &#x27;Sho
 
 ---
 
-[<< Previous Question](question_198.md) | [Home](/index.md) | [Next Question >>](question_200.md)
+[<< Previous Question](question_198.md) | [Home](../index.md) | [Next Question >>](question_200.md)

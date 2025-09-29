@@ -83,4 +83,4 @@ Instantiate an object of the MLflow Client class: After setting the tracking URI
 
 ---
 
-[<< Previous Question](question_333.md) | [Home](/index.md) | [Next Question >>](question_335.md)
+[<< Previous Question](question_333.md) | [Home](../index.md) | [Next Question >>](question_335.md)

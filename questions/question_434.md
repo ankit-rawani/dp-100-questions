@@ -41,4 +41,4 @@ https://learn.microsoft.com/en-us/python/api/azure-ai-ml/azure.ai.ml.entities.pi
 
 ---
 
-[<< Previous Question](question_433.md) | [Home](/index.md) | [Next Question >>](question_435.md)
+[<< Previous Question](question_433.md) | [Home](../index.md) | [Next Question >>](question_435.md)

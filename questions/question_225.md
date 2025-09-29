@@ -99,4 +99,4 @@ Given this setup, the training script (optin E) expects the --data-folder argume
 
 ---
 
-[<< Previous Question](question_224.md) | [Home](/index.md) | [Next Question >>](question_226.md)
+[<< Previous Question](question_224.md) | [Home](../index.md) | [Next Question >>](question_226.md)

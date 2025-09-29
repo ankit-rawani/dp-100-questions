@@ -10,15 +10,15 @@ You need to identify which Bandit termination policy configuration to use.
 
 What should you identify?
 
-* A.Set slack_amount to 0.2.
-* B.Set slack_factor to 0.1.
-* C.Set slack_factor to 0.2.
-* D.Set slack_amount to 0.1.
+- A.Set slack_amount to 0.2.
+- B.Set slack_factor to 0.1.
+- C.Set slack_factor to 0.2.
+- D.Set slack_amount to 0.1.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -29,6 +29,7 @@ What should you identify?
 For example, consider a Bandit policy applied at interval 10. Assume that the best performing job at interval 10 reported a primary metric is 0.8 with a goal to maximize the primary metric. If the policy specifies a slack_factor of 0.2, any training jobs whose best metric at interval 10 is less than 0.66 (0.8/(1+slack_factor)) will be terminated.
 
 link:https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?view=azureml-api-2#bandit-policy</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Sun 04 Aug 2024 03:06)</code> - <em>Upvotes: 1</em></p><p>its correct</p></blockquote>
 <blockquote><p><strong>Tin_Tin</strong> <code>(Thu 18 Jul 2024 14:42)</code> - <em>Upvotes: 3</em></p><p>correct.
 For example, consider a Bandit policy applied at interval 10. Assume that the best performing job at interval 10 reported a primary metric is 0.8 with a goal to maximize the primary metric. If the policy specifies a slack_factor of 0.2, any training jobs whose best metric at interval 10 is less than 0.66 (0.8/(1+slack_factor)) will be terminated.</p></blockquote>
@@ -42,4 +43,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparame
 
 ---
 
-[<< Previous Question](question_320.md) | [Home](/index.md) | [Next Question >>](question_322.md)
+[<< Previous Question](question_320.md) | [Home](../index.md) | [Next Question >>](question_322.md)

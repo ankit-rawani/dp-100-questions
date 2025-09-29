@@ -6,15 +6,15 @@ You need to define an environment from a Docker image by using the Azure Machine
 
 Which parameter should you use?
 
-* A.properties
-* B.image
-* C.build
-* D.conda_file
+- A.properties
+- B.image
+- C.build
+- D.conda_file
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -28,11 +28,13 @@ If you want to define an environment from a Dockerfile, you should use the build
 If you want to define an environment from a Docker image, you should use the image parameter and set it to the name of the Docker image you want to use.
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>dreamlimit666</strong> <code>(Sat 16 Nov 2024 08:45)</code> - <em>Upvotes: 1</em></p><p>The correct answer is:
 
 B. image
 
 When defining an environment from a Docker image using the Azure Machine Learning Python SDK v2, the image parameter should be used. This parameter specifies the Docker image that will be used as the base environment for running the experiment.</p></blockquote>
+
 <blockquote><p><strong>kay1101</strong> <code>(Tue 21 May 2024 04:14)</code> - <em>Upvotes: 1</em></p><p>The answer is correct. define from docker image using image parameter.
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-environments-v2?view=azureml-api-2&amp;tabs=python</p></blockquote>
 <blockquote><p><strong>Matt2000</strong> <code>(Wed 24 Jan 2024 08:40)</code> - <em>Upvotes: 1</em></p><p>image is correct. Reference: https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-environments-v2?view=azureml-api-2&amp;tabs=python</p></blockquote>
@@ -52,4 +54,4 @@ ml_client.environments.create_or_update(env_docker_image)</p></blockquote>
 
 ---
 
-[<< Previous Question](question_148.md) | [Home](/index.md) | [Next Question >>](question_150.md)
+[<< Previous Question](question_148.md) | [Home](../index.md) | [Next Question >>](question_150.md)

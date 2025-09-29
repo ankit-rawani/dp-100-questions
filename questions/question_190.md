@@ -59,4 +59,4 @@ In practically, you can certainly train data on AKS, LOL ...</p></blockquote>
 
 ---
 
-[<< Previous Question](question_189.md) | [Home](/index.md) | [Next Question >>](question_191.md)
+[<< Previous Question](question_189.md) | [Home](../index.md) | [Next Question >>](question_191.md)

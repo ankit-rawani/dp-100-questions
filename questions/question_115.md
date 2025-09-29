@@ -48,4 +48,4 @@ C)Yes. The code logs a metric named &quot;run_time&quot; with the current date a
 
 ---
 
-[<< Previous Question](question_114.md) | [Home](/index.md) | [Next Question >>](question_116.md)
+[<< Previous Question](question_114.md) | [Home](../index.md) | [Next Question >>](question_116.md)

@@ -10,13 +10,13 @@ Recommendation: You must make use of the Edit Metadata Azure Machine Learning St
 
 Will the requirements be satisfied?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -65,4 +65,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-referen
 
 ---
 
-[<< Previous Question](question_29.md) | [Home](/index.md) | [Next Question >>](question_31.md)
+[<< Previous Question](question_29.md) | [Home](../index.md) | [Next Question >>](question_31.md)

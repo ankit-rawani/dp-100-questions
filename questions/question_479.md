@@ -71,4 +71,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-
 
 ---
 
-[<< Previous Question](question_478.md) | [Home](/index.md) | [Next Question >>](question_480.md)
+[<< Previous Question](question_478.md) | [Home](../index.md) | [Next Question >>](question_480.md)

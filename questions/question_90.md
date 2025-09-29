@@ -12,13 +12,13 @@ Solution: Apply an Equal Width with Custom Start and Stop binning mode.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -29,7 +29,8 @@ Does the solution meet the goal?
 <blockquote><p><strong>SnowCheetah</strong> <code>(Sat 25 Jun 2022 08:00)</code> - <em>Upvotes: 6</em></p><p>&quot;Equal Width with Custom Start and Stop binning mode&quot;
 only do binning but with goal it&#x27;s require normalized as well as binning problem. Thus that&#x27;s incorrect
 
-@Askme101 provide possible answer using MDL is correct one  https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/group-data-into-bins</p></blockquote>
+@Askme101 provide possible answer using MDL is correct one https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/group-data-into-bins</p></blockquote>
+
 <blockquote><p><strong>Hisayuki</strong> <code>(Mon 04 Nov 2024 01:02)</code> - <em>Upvotes: 2</em></p><p>Should use Quantiles. The quantile method assigns values to bins based on percentile ranks, because you need to normalize, while Equal Width puts the data into each bin at the same interval between starting and ending values.</p></blockquote>
 <blockquote><p><strong>Edriv</strong> <code>(Mon 08 Jan 2024 11:22)</code> - <em>Upvotes: 1</em></p><p>Option A</p></blockquote>
 <blockquote><p><strong>JTWang</strong> <code>(Thu 30 Mar 2023 07:32)</code> - <em>Upvotes: 1</em></p><p>Group Data into Bins
@@ -47,4 +48,4 @@ https://docs.microsoft.com/en-us/azure/machine-learning/component-reference/grou
 
 ---
 
-[<< Previous Question](question_89.md) | [Home](/index.md) | [Next Question >>](question_91.md)
+[<< Previous Question](question_89.md) | [Home](../index.md) | [Next Question >>](question_91.md)

@@ -8,15 +8,15 @@ You need to continue to log metrics and artifacts from your data science code.
 
 What should you do?
 
-* A.Instantiate the job class.
-* B.Instantiate the MLCIient class.
-* C.Log in to workspace1.
-* D.Configure the tracking URL.
+- A.Instantiate the job class.
+- B.Instantiate the MLCIient class.
+- C.Log in to workspace1.
+- D.Configure the tracking URL.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -35,4 +35,4 @@ Link: https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow
 
 ---
 
-[<< Previous Question](question_335.md) | [Home](/index.md) | [Next Question >>](question_337.md)
+[<< Previous Question](question_335.md) | [Home](../index.md) | [Next Question >>](question_337.md)

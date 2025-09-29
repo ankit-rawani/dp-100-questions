@@ -6,15 +6,15 @@ You need to register the output of the pipeline as a new version of a named data
 
 What should you implement?
 
-* A.the as_input method of the OutputDatasetConfig class
-* B.the register_on_complete method of the OutputDatasetConfig class
-* C.the as_mount method of the DatasetConsumptionConfig class
-* D.the as_download method of the DatasetConsumptionConfig class
+- A.the as_input method of the OutputDatasetConfig class
+- B.the register_on_complete method of the OutputDatasetConfig class
+- C.the as_mount method of the DatasetConsumptionConfig class
+- D.the as_download method of the DatasetConsumptionConfig class
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,16 +32,20 @@ To register the output of an Azure Machine Learning pipeline as a new version of
 B. the register_on_complete method of the OutputDatasetConfig class
 
 The register_on_complete method allows you to register the output dataset as a new version of an existing named dataset after the pipeline run is completed. This is the appropriate method for creating a new version of a named dataset in Azure Machine Learning.</p></blockquote>
+
 <blockquote><p><strong>BR_CS</strong> <code>(Wed 21 Feb 2024 10:53)</code> - <em>Upvotes: 1</em></p><p>Seriously, is anyone checking this answers? There are so many obvious mistakes.</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Wed 24 Jan 2024 21:40)</code> - <em>Upvotes: 1</em></p><p>B https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.output_dataset_config.outputdatasetconfig?view=azure-ml-py#azureml-data-output-dataset-config-outputdatasetconfig-register-on-complete</p></blockquote>
 <blockquote><p><strong>snegnik</strong> <code>(Fri 01 Dec 2023 18:18)</code> - <em>Upvotes: 1</em></p><p># Create an OutputFileDatasetConfig
 output = OutputFileDatasetConfig(destination=(datastore, &#x27;output/{run-id}&#x27;))
 
 # Register the output as a new version of a named Dataset after the run has completed
+
 output.register_on_complete(&#x27;my-dataset&#x27;)
 
 # Create a ScriptRunConfig
+
 script_run_config = ScriptRunConfig(&#x27;.&#x27;, &#x27;train.py&#x27;, arguments=[output])</p></blockquote>
+
 <blockquote><p><strong>Jin_22</strong> <code>(Sat 23 Sep 2023 18:43)</code> - <em>Upvotes: 3</em></p><p>B. The register_on_complete method of the OutputDatasetConfig class should be implemented to register the output of the pipeline as a new version of a named dataset after the run has been completed.</p></blockquote>
 <blockquote><p><strong>Tommo565</strong> <code>(Thu 21 Sep 2023 13:10)</code> - <em>Upvotes: 3</em></p><p>Correct answer is B: https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.output_dataset_config.outputdatasetconfig?view=azure-ml-py#azureml-data-output-dataset-config-outputdatasetconfig-register-on-complete</p></blockquote>
 
@@ -49,4 +53,4 @@ script_run_config = ScriptRunConfig(&#x27;.&#x27;, &#x27;train.py&#x27;, argumen
 
 ---
 
-[<< Previous Question](question_295.md) | [Home](/index.md) | [Next Question >>](question_297.md)
+[<< Previous Question](question_295.md) | [Home](../index.md) | [Next Question >>](question_297.md)

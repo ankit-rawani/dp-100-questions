@@ -6,15 +6,15 @@ You need to use the precision as the evaluation metric.
 
 Which visualization should you use?
 
-* A.violin plot
-* B.Gradient descent
-* C.Scatter plot
-* D.Receiver Operating Characteristic (ROC) curve
+- A.violin plot
+- B.Gradient descent
+- C.Scatter plot
+- D.Receiver Operating Characteristic (ROC) curve
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -33,4 +33,4 @@ Copying a good answer: None of I will go with D. However, it should be PR curve 
 
 ---
 
-[<< Previous Question](question_219.md) | [Home](/index.md) | [Next Question >>](question_221.md)
+[<< Previous Question](question_219.md) | [Home](../index.md) | [Next Question >>](question_221.md)

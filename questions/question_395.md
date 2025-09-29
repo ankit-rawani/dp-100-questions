@@ -51,4 +51,4 @@ https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-
 
 ---
 
-[<< Previous Question](question_394.md) | [Home](/index.md) | [Next Question >>](question_396.md)
+[<< Previous Question](question_394.md) | [Home](../index.md) | [Next Question >>](question_396.md)

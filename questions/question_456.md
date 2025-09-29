@@ -33,4 +33,4 @@ Deploy the model → Azure Machine Learning serverless compute</p></blockquote>
 
 ---
 
-[<< Previous Question](question_455.md) | [Home](/index.md) | [Next Question >>](question_457.md)
+[<< Previous Question](question_455.md) | [Home](../index.md) | [Next Question >>](question_457.md)

@@ -45,4 +45,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-attach-comput
 
 ---
 
-[<< Previous Question](question_483.md) | [Home](/index.md) | [Next Question >>](question_485.md)
+[<< Previous Question](question_483.md) | [Home](../index.md) | [Next Question >>](question_485.md)

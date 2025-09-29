@@ -8,16 +8,16 @@ You need to access the bird photograph files in the Azure blob container from th
 
 What should you do?
 
-* A.Create an Azure Data Lake store and move the bird photographs to the store.
-* B.Create an Azure Cosmos DB database and attach the Azure Blob containing bird photographs storage to the database.
-* C.Create and register a dataset by using TabularDataset class that references the Azure blob storage containing bird photographs.
-* D.Register the Azure blob storage containing the bird photographs as a datastore in Azure Machine Learning service.
-* E.Copy the bird photographs to the blob datastore that was created with your Azure Machine Learning service workspace.
+- A.Create an Azure Data Lake store and move the bird photographs to the store.
+- B.Create an Azure Cosmos DB database and attach the Azure Blob containing bird photographs storage to the database.
+- C.Create and register a dataset by using TabularDataset class that references the Azure blob storage containing bird photographs.
+- D.Register the Azure blob storage containing the bird photographs as a datastore in Azure Machine Learning service.
+- E.Copy the bird photographs to the blob datastore that was created with your Azure Machine Learning service workspace.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>D</strong><br>
+<strong>D</strong><br>
 
 </details>
 
@@ -46,4 +46,4 @@ What should you do?
 
 ---
 
-[<< Previous Question](question_82.md) | [Home](/index.md) | [Next Question >>](question_84.md)
+[<< Previous Question](question_82.md) | [Home](../index.md) | [Next Question >>](question_84.md)

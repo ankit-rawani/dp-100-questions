@@ -46,4 +46,4 @@ Hot Area:
 
 ---
 
-[<< Previous Question](question_95.md) | [Home](/index.md) | [Next Question >>](question_97.md)
+[<< Previous Question](question_95.md) | [Home](../index.md) | [Next Question >>](question_97.md)

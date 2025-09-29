@@ -31,4 +31,4 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 ---
 
-[<< Previous Question](question_448.md) | [Home](/index.md) | [Next Question >>](question_450.md)
+[<< Previous Question](question_448.md) | [Home](../index.md) | [Next Question >>](question_450.md)

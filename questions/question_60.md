@@ -60,4 +60,4 @@ But it seems that only for nn with 1 hidden layer</p></blockquote>
 
 ---
 
-[<< Previous Question](question_59.md) | [Home](/index.md) | [Next Question >>](question_61.md)
+[<< Previous Question](question_59.md) | [Home](../index.md) | [Next Question >>](question_61.md)

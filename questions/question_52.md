@@ -8,15 +8,15 @@ You need to recommend a deep learning framework for speech recognition to includ
 
 What should you recommend?
 
-* A.Rattle
-* B.TensorFlow
-* C.Weka
-* D.Scikit-learn
+- A.Rattle
+- B.TensorFlow
+- C.Weka
+- D.Scikit-learn
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,4 +32,4 @@ What should you recommend?
 
 ---
 
-[<< Previous Question](question_51.md) | [Home](/index.md) | [Next Question >>](question_53.md)
+[<< Previous Question](question_51.md) | [Home](../index.md) | [Next Question >>](question_53.md)

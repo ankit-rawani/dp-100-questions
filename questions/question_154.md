@@ -38,4 +38,4 @@ https://learn.microsoft.com/en-us/python/api/azure-ai-ml/azure.ai.ml.operations.
 
 ---
 
-[<< Previous Question](question_153.md) | [Home](/index.md) | [Next Question >>](question_155.md)
+[<< Previous Question](question_153.md) | [Home](../index.md) | [Next Question >>](question_155.md)

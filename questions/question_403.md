@@ -67,4 +67,4 @@ Create an AksWebservice deployment configuration and deploy the model to it</p><
 
 ---
 
-[<< Previous Question](question_402.md) | [Home](/index.md) | [Next Question >>](question_404.md)
+[<< Previous Question](question_402.md) | [Home](../index.md) | [Next Question >>](question_404.md)

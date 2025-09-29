@@ -53,4 +53,4 @@ weird</p></blockquote>
 
 ---
 
-[<< Previous Question](question_309.md) | [Home](/index.md) | [Next Question >>](question_311.md)
+[<< Previous Question](question_309.md) | [Home](../index.md) | [Next Question >>](question_311.md)

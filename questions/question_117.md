@@ -6,15 +6,15 @@ You need to define a YAML schema to create a compute cluster.
 
 Which schema should you use?
 
-* A.https://azuremlschemas.azureedge.net/latest/computeInstance.schema.json
-* B.https://azuremlschemas.azureedge.net/latest/amlCompute.schema.json
-* C.https://azuremlschemas.azureedge.net/latest/vmCompute.schema.json
-* D.https://azuremlschemas.azureedge.net/latest/kubernetesCompute.schema.json
+- A.https://azuremlschemas.azureedge.net/latest/computeInstance.schema.json
+- B.https://azuremlschemas.azureedge.net/latest/amlCompute.schema.json
+- C.https://azuremlschemas.azureedge.net/latest/vmCompute.schema.json
+- D.https://azuremlschemas.azureedge.net/latest/kubernetesCompute.schema.json
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -33,4 +33,4 @@ Attached Azure Arc-enabled Kubernetes (KubernetesCompute): https://azuremlschema
 
 ---
 
-[<< Previous Question](question_116.md) | [Home](/index.md) | [Next Question >>](question_118.md)
+[<< Previous Question](question_116.md) | [Home](../index.md) | [Next Question >>](question_118.md)

@@ -31,4 +31,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_415.md) | [Home](/index.md) | [Next Question >>](question_417.md)
+[<< Previous Question](question_415.md) | [Home](../index.md) | [Next Question >>](question_417.md)

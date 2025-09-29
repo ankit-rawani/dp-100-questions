@@ -8,15 +8,15 @@ You need to register the model.
 
 Which parameter should you use?
 
-* A.description
-* B.model_framework
-* C.tags
-* D.properties
+- A.description
+- B.model_framework
+- C.tags
+- D.properties
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -30,14 +30,16 @@ Which parameter should you use?
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-models?view=azureml-api-2&amp;tabs=python%2Cuse-local#update
 
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.model.model?view=azure-ml-py#parameters</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Fri 23 Feb 2024 20:39)</code> - <em>Upvotes: 1</em></p><p>Seems C.</p></blockquote>
 <blockquote><p><strong>Thornehead</strong> <code>(Tue 28 Mar 2023 03:13)</code> - <em>Upvotes: 1</em></p><p>Tags can be deleted or changed.
 
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources?tabs=json</p></blockquote>
+
 <blockquote><p><strong>dp100uber</strong> <code>(Thu 29 Dec 2022 23:31)</code> - <em>Upvotes: 4</em></p><p>Should be tags because those can be deleted.</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_399.md) | [Home](/index.md) | [Next Question >>](question_401.md)
+[<< Previous Question](question_399.md) | [Home](../index.md) | [Next Question >>](question_401.md)

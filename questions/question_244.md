@@ -105,4 +105,4 @@ in order to set up whole pipeline you should connect all components ( compute no
 
 ---
 
-[<< Previous Question](question_243.md) | [Home](/index.md) | [Next Question >>](question_245.md)
+[<< Previous Question](question_243.md) | [Home](../index.md) | [Next Question >>](question_245.md)

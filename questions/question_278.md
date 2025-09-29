@@ -55,4 +55,4 @@ Experiment as a project or folder that contains related runs, and a Run as an in
 
 ---
 
-[<< Previous Question](question_277.md) | [Home](/index.md) | [Next Question >>](question_279.md)
+[<< Previous Question](question_277.md) | [Home](../index.md) | [Next Question >>](question_279.md)

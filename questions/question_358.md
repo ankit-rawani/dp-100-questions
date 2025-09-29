@@ -14,13 +14,13 @@ Solution: Use the Bayesian sampling method over the hyperparameter space.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -33,10 +33,11 @@ Does the solution meet the goal?
 - Bayesian sampling can handle continuous hyperparameters.
 
 Therefore, the answer is yes?</p></blockquote>
+
 <blockquote><p><strong>gunn_m</strong> <code>(Sun 01 Dec 2024 00:18)</code> - <em>Upvotes: 1</em></p><p>You need to use Bandit for this</p></blockquote>
 
 </details>
 
 ---
 
-[<< Previous Question](question_357.md) | [Home](/index.md) | [Next Question >>](question_359.md)
+[<< Previous Question](question_357.md) | [Home](../index.md) | [Next Question >>](question_359.md)

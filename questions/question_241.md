@@ -121,4 +121,4 @@ https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-am
 
 ---
 
-[<< Previous Question](question_240.md) | [Home](/index.md) | [Next Question >>](question_242.md)
+[<< Previous Question](question_240.md) | [Home](../index.md) | [Next Question >>](question_242.md)

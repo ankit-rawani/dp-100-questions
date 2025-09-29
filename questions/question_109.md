@@ -43,4 +43,4 @@ https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/add
 
 ---
 
-[<< Previous Question](question_108.md) | [Home](/index.md) | [Next Question >>](question_110.md)
+[<< Previous Question](question_108.md) | [Home](../index.md) | [Next Question >>](question_110.md)

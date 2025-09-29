@@ -6,15 +6,15 @@ You need to detect columns with odd or missing values.
 
 Which statistic should you analyze?
 
-* A.Profile
-* B.Std deviation
-* C.Error count
-* D.Type
+- A.Profile
+- B.Std deviation
+- C.Error count
+- D.Type
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>C</strong><br>
+<strong>C</strong><br>
 
 </details>
 
@@ -30,6 +30,7 @@ The Profile statistic provides a summary of the statistical properties of each c
 The Type statistic represents the data type of each column, such as integer, float, or string. While this statistic is useful to understand the structure of the dataset, it doesn&#x27;t provide information about missing or malformed values.
 
 Therefore, the correct answer is option C: Error count.</p></blockquote>
+
 <blockquote><p><strong>Sadhak</strong> <code>(Sun 17 Nov 2024 16:24)</code> - <em>Upvotes: 1</em></p><p>C. Error count</p></blockquote>
 <blockquote><p><strong>Karthikat</strong> <code>(Mon 25 Mar 2024 17:42)</code> - <em>Upvotes: 2</em></p><p>on exam 3/25/2024</p></blockquote>
 <blockquote><p><strong>Kanwal001</strong> <code>(Mon 28 Aug 2023 19:34)</code> - <em>Upvotes: 4</em></p><p>On exam 28 Aug 2023</p></blockquote>
@@ -42,4 +43,4 @@ To detect columns with odd or missing values, you should analyze the &quot;Error
 
 ---
 
-[<< Previous Question](question_106.md) | [Home](/index.md) | [Next Question >>](question_108.md)
+[<< Previous Question](question_106.md) | [Home](../index.md) | [Next Question >>](question_108.md)

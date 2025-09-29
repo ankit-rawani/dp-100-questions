@@ -8,15 +8,15 @@ You need to configure the language of the text classification job by using autom
 
 Which method of the TextClassificationJob class should you use?
 
-* A.set_data
-* B.set_featurization
-* C.set_sweep
-* D.set_training_parameters
+- A.set_data
+- B.set_featurization
+- C.set_sweep
+- D.set_training_parameters
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,4 +32,4 @@ https://learn.microsoft.com/en-us/python/api/azure-ai-ml/azure.ai.ml.automl.text
 
 ---
 
-[<< Previous Question](question_453.md) | [Home](/index.md) | [Next Question >>](question_455.md)
+[<< Previous Question](question_453.md) | [Home](../index.md) | [Next Question >>](question_455.md)

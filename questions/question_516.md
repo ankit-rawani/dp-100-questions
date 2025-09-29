@@ -48,4 +48,4 @@ D) MAE or A) RMSE (depending on the specific requirements of the model training)
 
 ---
 
-[<< Previous Question](question_515.md) | [Home](/index.md) | [Next Question >>](question_517.md)
+[<< Previous Question](question_515.md) | [Home](../index.md) | [Next Question >>](question_517.md)

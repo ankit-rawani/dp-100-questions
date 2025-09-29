@@ -10,15 +10,16 @@ You need to define the estimator that will be used to run the script.
 
 Which estimator type should you use?
 
-* A.TensorFlow
-* B.PyTorch
-* C.SKLearn
-* D.Estimator
+- A.TensorFlow
+- B.PyTorch
+- C.SKLearn
+- D.Estimator
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>For PyTorch, TensorFlow and Chainer tasks, Azure Machine Learning provides respective PyTorch, TensorFlow, and Chainer estimators to simplify using these frameworks.</p>
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/azure/machine-learning/how-to-train-ml-models</p>
@@ -36,4 +37,4 @@ Which estimator type should you use?
 
 ---
 
-[<< Previous Question](question_249.md) | [Home](/index.md) | [Next Question >>](question_251.md)
+[<< Previous Question](question_249.md) | [Home](../index.md) | [Next Question >>](question_251.md)

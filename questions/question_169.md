@@ -14,13 +14,13 @@ Solution: Add a compute resource to the workspace.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -35,4 +35,4 @@ Does the solution meet the goal?
 
 ---
 
-[<< Previous Question](question_168.md) | [Home](/index.md) | [Next Question >>](question_170.md)
+[<< Previous Question](question_168.md) | [Home](../index.md) | [Next Question >>](question_170.md)

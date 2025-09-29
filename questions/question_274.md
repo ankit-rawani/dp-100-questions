@@ -10,15 +10,15 @@ You need to identify whether the classification model is overfitted.
 
 Which of the following is correct?
 
-* A.The training loss stays constant and the validation loss stays on a constant value and close to the training loss value when training the model.
-* B.The training loss decreases while the validation loss increases when training the model.
-* C.The training loss stays constant and the validation loss decreases when training the model.
-* D.The training loss increases while the validation loss decreases when training the model.
+- A.The training loss stays constant and the validation loss stays on a constant value and close to the training loss value when training the model.
+- B.The training loss decreases while the validation loss increases when training the model.
+- C.The training loss stays constant and the validation loss decreases when training the model.
+- D.The training loss increases while the validation loss decreases when training the model.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -45,4 +45,4 @@ reference: https://www.statisticshowto.com/probability-and-statistics/skewed-dis
 
 ---
 
-[<< Previous Question](question_273.md) | [Home](/index.md) | [Next Question >>](question_275.md)
+[<< Previous Question](question_273.md) | [Home](../index.md) | [Next Question >>](question_275.md)

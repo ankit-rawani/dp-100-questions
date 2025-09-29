@@ -61,4 +61,4 @@ https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/machine-learning/
 
 ---
 
-[<< Previous Question](question_105.md) | [Home](/index.md) | [Next Question >>](question_107.md)
+[<< Previous Question](question_105.md) | [Home](../index.md) | [Next Question >>](question_107.md)

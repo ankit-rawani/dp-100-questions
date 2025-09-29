@@ -16,13 +16,14 @@ Determination.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>The following metrics are reported for evaluating regression models. When you compare models, they are ranked by the metric you select for evaluation.</p>
 <p>Mean absolute error (MAE) measures how close the predictions are to the actual outcomes; thus, a lower score is better.</p>
 <p>Root mean squared error (RMSE) creates a single value that summarizes the error in the model. By squaring the difference, the metric disregards the difference between over-prediction and under-prediction.</p>
@@ -54,4 +55,4 @@ R² shows the goodness of fit of the model</p></blockquote>
 
 ---
 
-[<< Previous Question](question_465.md) | [Home](/index.md) | [Next Question >>](question_467.md)
+[<< Previous Question](question_465.md) | [Home](../index.md) | [Next Question >>](question_467.md)

@@ -119,4 +119,4 @@ Even I would have went for One-Hot Encoding as that&#x27;s the best way to do it
 
 ---
 
-[<< Previous Question](question_79.md) | [Home](/index.md) | [Next Question >>](question_81.md)
+[<< Previous Question](question_79.md) | [Home](../index.md) | [Next Question >>](question_81.md)

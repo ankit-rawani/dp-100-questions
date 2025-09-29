@@ -82,4 +82,4 @@ The 3rd question was different</p></blockquote>
 
 ---
 
-[<< Previous Question](question_281.md) | [Home](/index.md) | [Next Question >>](question_283.md)
+[<< Previous Question](question_281.md) | [Home](../index.md) | [Next Question >>](question_283.md)

@@ -8,15 +8,15 @@ Which two classes could you use? Each correct answer presents a complete solutio
 
 NOTE: Each correct selection is worth one point.
 
-* A.PythonScriptStep
-* B.AutoMLStep
-* C.CommandStep
-* D.StepRun
+- A.PythonScriptStep
+- B.AutoMLStep
+- C.CommandStep
+- D.StepRun
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>AC</strong><br>
+<strong>AC</strong><br>
 
 </details>
 
@@ -37,9 +37,11 @@ trainStep = CommandStep(name=&#x27;train step&#x27;,
 <blockquote><p><strong>BR_CS</strong> <code>(Thu 17 Aug 2023 14:19)</code> - <em>Upvotes: 3</em></p><p>A, C
 
 python_script_step , CommandStep</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Thu 27 Jul 2023 19:37)</code> - <em>Upvotes: 2</em></p><p>A, C
 
 python_script_step , CommandStep</p></blockquote>
+
 <blockquote><p><strong>Michael_AUT</strong> <code>(Tue 25 Jul 2023 19:18)</code> - <em>Upvotes: 1</em></p><p>AB
 python_script_step	Contains functionality to create an Azure ML Pipeline step that runs Python script.
 automl_step	Contains functionality for adding and managing an automated ML pipeline step in Azure Machine Learning.</p></blockquote>
@@ -52,4 +54,4 @@ While B = AutoMLStep is a valid option for the pipeline step, it doesn&#x27;t so
 
 ---
 
-[<< Previous Question](question_440.md) | [Home](/index.md) | [Next Question >>](question_442.md)
+[<< Previous Question](question_440.md) | [Home](../index.md) | [Next Question >>](question_442.md)

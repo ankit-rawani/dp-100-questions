@@ -8,15 +8,15 @@ You need to publish the pipeline.
 
 What should you do?
 
-* A.Create multiple endpoints for the published pipeline service and have each business group submit jobs to its own endpoint.
-* B.Define a PipelineParameter object for the pipeline and use it to specify the business group-specific input dataset for each pipeline run.
-* C.Define a OutputFileDatasetConfig object for the pipeline and use the object to specify the business group-specific input dataset for each pipeline run.
-* D.Have each business group run the pipeline on local compute and use a local file for the input data.
+- A.Create multiple endpoints for the published pipeline service and have each business group submit jobs to its own endpoint.
+- B.Define a PipelineParameter object for the pipeline and use it to specify the business group-specific input dataset for each pipeline run.
+- C.Define a OutputFileDatasetConfig object for the pipeline and use the object to specify the business group-specific input dataset for each pipeline run.
+- D.Have each business group run the pipeline on local compute and use a local file for the input data.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -32,4 +32,4 @@ What should you do?
 
 ---
 
-[<< Previous Question](question_302.md) | [Home](/index.md) | [Next Question >>](question_304.md)
+[<< Previous Question](question_302.md) | [Home](../index.md) | [Next Question >>](question_304.md)

@@ -18,16 +18,16 @@ Which two additional parameters must you add to the config.json file in order to
 
 NOTE: Each correct selection is worth one point.
 
-* A.login
-* B.resource_group
-* C.subscription_id
-* D.key
-* E.region
+- A.login
+- B.resource_group
+- C.subscription_id
+- D.key
+- E.region
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>BC</strong><br>
+<strong>BC</strong><br>
 
 </details>
 
@@ -47,4 +47,4 @@ NOTE: Each correct selection is worth one point.
 
 ---
 
-[<< Previous Question](question_88.md) | [Home](/index.md) | [Next Question >>](question_90.md)
+[<< Previous Question](question_88.md) | [Home](../index.md) | [Next Question >>](question_90.md)
