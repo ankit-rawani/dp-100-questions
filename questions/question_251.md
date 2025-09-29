@@ -12,12 +12,13 @@ Which three modules should you use in sequence? To answer, move the appropriate 
 
 Select and Place:
 
-![Question Image](images/q251_q_0026200001.png)
+![Question Image](../images/q251_q_0026200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q251_ans_0_0026300001.png" alt="Answer Image"><br>
+<img src="../images/q251_ans_0_0026300001.png" alt="Answer Image"><br>
+
 <p>Step 1: Train Model -</p>
 <p>Two-Class Boosted Decision Tree -</p>
 <p>First, set up the boosted decision tree model.</p>
@@ -27,7 +28,7 @@ Select and Place:
 <p>The Two-Class Boosted Decision Tree module initializes the generic model, and Train Model uses training data to train the model.</p>
 <p>3. Connect the left output of the left Execute R Script module to the right input port of the Train Model module (in this tutorial you used the data coming from the left side of the Split Data module for training).</p>
 <p>This portion of the experiment now looks something like this:</p>
-<img src="images/q251_ref_19_0026400001.png" alt="Reference Image"><br>
+<img src="../images/q251_ref_19_0026400001.png" alt="Reference Image"><br>
 <p>Step 2: Score Model -</p>
 <p>Score and evaluate the models -</p>
 <p>You use the testing data that was separated out by the Split Data module to score our trained models. You can then compare the results of the two models to see which generated better results.</p>
@@ -35,13 +36,13 @@ Select and Place:
 <p>1. Find the Score Model module and drag it onto the canvas.</p>
 <p>2. Connect the Train Model module that&#x27;s connected to the Two-Class Boosted Decision Tree module to the left input port of the Score Model module.</p>
 <p>3. Connect the right Execute R Script module (our testing data) to the right input port of the Score Model module.</p>
-<img src="images/q251_ref_38_0026500001.png" alt="Reference Image"><br>
+<img src="../images/q251_ref_38_0026500001.png" alt="Reference Image"><br>
 <p>Step 3: Evaluate Model -</p>
 <p>To evaluate the two scoring results and compare them, you use an Evaluate Model module.</p>
 <p>1. Find the Evaluate Model module and drag it onto the canvas.</p>
 <p>2. Connect the output port of the Score Model module associated with the boosted decision tree model to the left input port of the Evaluate Model module.</p>
 <p>3. Connect the other Score Model module to the right input port.</p>
-<img src="images/q251_ref_51_0026500002.png" alt="Reference Image"><br>
+<img src="../images/q251_ref_51_0026500002.png" alt="Reference Image"><br>
 
 </details>
 
@@ -49,9 +50,10 @@ Select and Place:
   <summary>Show Discussions</summary>
 
 <blockquote><p><strong>ac45863</strong> <code>(Thu 07 Oct 2021 23:07)</code> - <em>Upvotes: 15</em></p><p>It&#x27;s correct</p></blockquote>
-<blockquote><p><strong>Matt2000</strong> <code>(Thu 15 Aug 2024 07:43)</code> - <em>Upvotes: 1</em></p><p>You can identify what should work by looking at the inputs and outputs of the models in designer. 
+<blockquote><p><strong>Matt2000</strong> <code>(Thu 15 Aug 2024 07:43)</code> - <em>Upvotes: 1</em></p><p>You can identify what should work by looking at the inputs and outputs of the models in designer.
 
 &quot;Train, Score, Evaluate&quot; should work but also &quot;Tune Model Hyperparameter, Score, Evaluate&quot;. The latter should give yield an improved model compared to the former.</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Fri 02 Aug 2024 23:29)</code> - <em>Upvotes: 1</em></p><p>correct.</p></blockquote>
 <blockquote><p><strong>james2033</strong> <code>(Fri 19 Apr 2024 04:08)</code> - <em>Upvotes: 1</em></p><p>In sequence
 

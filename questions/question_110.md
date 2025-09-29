@@ -12,12 +12,12 @@ You need to generate a new SSH key.
 
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q110_q_image381.png)
+![Question Image](../images/q110_q_image381.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q110_ans_0_image382.png" alt="Answer Image"><br>
+<img src="../images/q110_ans_0_image382.png" alt="Answer Image"><br>
 
 </details>
 
@@ -25,7 +25,7 @@ Which four actions should you perform in sequence? To answer, move the appropria
   <summary>Show Discussions</summary>
 
 <blockquote><p><strong>Kanwal001</strong> <code>(Wed 28 Feb 2024 20:34)</code> - <em>Upvotes: 7</em></p><p>On exam 28 Aug 2023</p></blockquote>
-<blockquote><p><strong>PI_Team</strong> <code>(Sun 21 Jan 2024 10:29)</code> - <em>Upvotes: 5</em></p><p>Answer is correct: 
+<blockquote><p><strong>PI_Team</strong> <code>(Sun 21 Jan 2024 10:29)</code> - <em>Upvotes: 5</em></p><p>Answer is correct:
 
 Here is a breakdown of each step:
 

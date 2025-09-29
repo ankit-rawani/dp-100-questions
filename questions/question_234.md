@@ -6,7 +6,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You plan to use a Python script to run an Azure Machine Learning experiment. The script creates a reference to the experiment run context, loads data from a file, identifies the set of unique values for the label column, and completes the experiment run:
 
-![Question Image](images/q234_q_0023300001.png)
+![Question Image](../images/q234_q_0023300001.png)
 
 The experiment must record the unique labels in the data as metrics for the run that can be reviewed later.
 
@@ -18,13 +18,13 @@ run.upload_file('outputs/labels.csv', './data.csv')
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -48,6 +48,7 @@ Example: run.log_table(&quot;Y over X&quot;, {&quot;x&quot;:[1, 2, 3], &quot;y&q
 
 Image
 Example: run.log_image(&quot;ROC&quot;, path)</p></blockquote>
+
 <blockquote><p><strong>ranjsi01</strong> <code>(Tue 18 Jul 2023 09:26)</code> - <em>Upvotes: 3</em></p><p>no is correct. should use run.log</p></blockquote>
 <blockquote><p><strong>ajay0011</strong> <code>(Tue 08 Oct 2024 00:09)</code> - <em>Upvotes: 1</em></p><p>If you use run.log() to log the unique label values, it will raise an exception because the run.log() method expects a key-value pair, where the key is a string and the value can be a number, string, or boolean. The unique method of a Pandas DataFrame returns an array of unique values, which is not a valid type for logging using the run.log() method.</p></blockquote>
 

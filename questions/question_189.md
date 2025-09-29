@@ -6,7 +6,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 An IT department creates the following Azure resource groups and resources:
 
-![Question Image](images/q189_q_0015600001.png)
+![Question Image](../images/q189_q_0015600001.png)
 
 The IT department creates an Azure Kubernetes Service (AKS)-based inference compute target named aks-cluster in the Azure Machine Learning workspace.
 
@@ -20,13 +20,13 @@ Python code to connect to the workspace. Run the training script as an experimen
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 

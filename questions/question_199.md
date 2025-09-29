@@ -4,11 +4,11 @@ HOTSPOT -
 
 You have a Python data frame named salesData in the following format:
 
-![Question Image](images/q199_q_0017200001.png)
+![Question Image](../images/q199_q_0017200001.png)
 
 The data frame must be unpivoted to a long data format as follows:
 
-![Question Image](images/q199_q_0017200002.png)
+![Question Image](../images/q199_q_0017200002.png)
 
 You need to use the pandas.melt() function in Python to perform the transformation.
 
@@ -18,12 +18,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q199_q_0017300001.png)
+![Question Image](../images/q199_q_0017300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q199_ans_0_image605.png" alt="Answer Image"><br>
+<img src="../images/q199_ans_0_image605.png" alt="Answer Image"><br>
 
 </details>
 
@@ -41,17 +41,19 @@ then we can use
 salesData =pd.melt(whateverdfname, ...,...)
 
 so the second and third answer are correct, first box not sure.</p></blockquote>
+
 <blockquote><p><strong>Ahmed_Gehad</strong> <code>(Tue 30 Jan 2024 11:39)</code> - <em>Upvotes: 2</em></p><p>The answer is wrong. It shall be
 pd.melt(salesData, id_vars=[&#x27;shop&#x27;], value_vars=[&#x27;2017&#x27;, &#x27;2018&#x27;])</p></blockquote>
 <blockquote><p><strong>PI_Team</strong> <code>(Sun 28 Jan 2024 09:47)</code> - <em>Upvotes: 2</em></p><p>import pandas as pd
 
 salesData = pd.DataFrame({
-    &#x27;shop&#x27;: [&#x27;ShopX&#x27;, &#x27;ShopY&#x27;, &#x27;ShopZ&#x27;],
-    &#x27;2017&#x27;: [34, 65, 48],
-    &#x27;2018&#x27;: [25, 76, 55]
+&#x27;shop&#x27;: [&#x27;ShopX&#x27;, &#x27;ShopY&#x27;, &#x27;ShopZ&#x27;],
+&#x27;2017&#x27;: [34, 65, 48],
+&#x27;2018&#x27;: [25, 76, 55]
 })
 
 meltedData = pd.melt(salesData, id_vars=[&#x27;shop&#x27;], value_vars=[&#x27;2017&#x27;, &#x27;2018&#x27;], var_name=&#x27;year&#x27;, value_name=&#x27;value&#x27;)</p></blockquote>
+
 <blockquote><p><strong>silva_831</strong> <code>(Wed 03 May 2023 01:03)</code> - <em>Upvotes: 14</em></p><p>Please do not mislead the people. The correct answer should be as below:
 1. salesData
 2. shop
@@ -66,13 +68,14 @@ shop
 salesData = pd.DataFrame({&#x27;shop&#x27;: {0: &#x27;shopx&#x27;, 1: &#x27;shopy&#x27;, 2: &#x27;shopz&#x27;},
                    &#x27;2017&#x27;: {0: &#x27;34&#x27;, 1: &#x27;65&#x27;, 2: &#x27;48&#x27;}, 
                    &#x27;2018&#x27;: {0: &#x27;25&#x27;, 1: &#x27;76&#x27;, 2: &#x27;55&#x27;}}) 
-salesData 
+salesData
 
 salesData = salesData.reset_index()
 salesData
 
 salesData = pd.melt(salesData, id_vars =[&#x27;shop&#x27;], value_vars=[&#x27;2017&#x27;, &#x27;2018&#x27;])
 salesData</p></blockquote>
+
 <blockquote><p><strong>Raxy</strong> <code>(Sun 04 Jul 2021 16:13)</code> - <em>Upvotes: 3</em></p><p>Is this a test question that will be included in real exam?</p></blockquote>
 <blockquote><p><strong>alphmzla</strong> <code>(Thu 01 Jul 2021 02:09)</code> - <em>Upvotes: 1</em></p><p>Just tried df = pd.melt(df, id_vars= [&#x27;Shop&#x27;], value_vars=[&#x27;2017&#x27;, &#x27;2018&#x27;]), it returns desired outcome</p></blockquote>
 <blockquote><p><strong>worker_3141592</strong> <code>(Sat 01 May 2021 08:03)</code> - <em>Upvotes: 4</em></p><p>import pandas as pd
@@ -82,14 +85,18 @@ salesData = pd.DataFrame({&#x27;shop&#x27;: {0: &#x27;Shop X&#x27;, 1: &#x27;Sho
 
 salesData = pd.melt(salesData,id_vars=&#x27;shop&#x27;,value_vars=[&#x27;2017&#x27;,&#x27;2018&#x27;])
 print(salesData)
------------------------------------------------------------------------------------------------------------------------
+
+---
+
      shop variable  value
-0  Shop X     2017     34
-1  Shop Y     2017     65
-2  Shop Z     2017     48
-3  Shop X     2018     25
-4  Shop Y     2018     76
-5  Shop Z     2018     55</p></blockquote>
+
+0 Shop X 2017 34
+1 Shop Y 2017 65
+2 Shop Z 2017 48
+3 Shop X 2018 25
+4 Shop Y 2018 76
+5 Shop Z 2018 55</p></blockquote>
+
 <blockquote><p><strong>dsyouness</strong> <code>(Sun 02 May 2021 08:54)</code> - <em>Upvotes: 1</em></p><p>but if we use dataFrame instead of salesData : 
 dataFrame = pd.DataFrame({&#x27;shop&#x27;: {0: &#x27;Shop X&#x27;, 1: &#x27;Shop Y&#x27;, 2: &#x27;Shop Z&#x27;},
 &#x27;2017&#x27;: {0: 34, 1: 65, 2: 48},

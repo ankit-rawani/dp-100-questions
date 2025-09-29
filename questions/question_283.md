@@ -14,12 +14,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images/q283_q_0030900001.png)
+![Question Image](../images/q283_q_0030900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q283_ans_0_image612.png" alt="Answer Image"><br>
+<img src="../images/q283_ans_0_image612.png" alt="Answer Image"><br>
 
 </details>
 
@@ -33,6 +33,7 @@ Box 2. Features dataset
 because in data drift monitor,
 Baseline dataset = &quot;usually the training dataset for a model&quot;.
 Target dataset = &quot;... MUST have a timestamp column specified&quot;.</p></blockquote>
+
 <blockquote><p><strong>Arend78</strong> <code>(Sat 16 Dec 2023 14:18)</code> - <em>Upvotes: 2</em></p><p>Indeed, the drift monitor looks at changes (e.g. seasonal) in the inputs, and does not look at the predictions</p></blockquote>
 <blockquote><p><strong>A_PL300</strong> <code>(Sat 14 Sep 2024 22:01)</code> - <em>Upvotes: 1</em></p><p>Question like this one on Sept-4, 2022 exam</p></blockquote>
 <blockquote><p><strong>bobML</strong> <code>(Tue 10 Sep 2024 10:13)</code> - <em>Upvotes: 1</em></p><p>To configure a data drift monitor, you typically use a baseline dataset and a target dataset for comparison. In this scenario, you want to monitor the changing trends in the feature data since the model was trained. Here&#x27;s how you should configure the data drift monitor:
@@ -44,12 +45,14 @@ Target Dataset: Features-dataset
 
 The target dataset should be the dataset that you want to monitor for data drift, which contains the features and timestamp information. In this case, it&#x27;s the features-dataset because it contains the feature data that you want to compare with the baseline data.
 You don&#x27;t need to use the predictions-dataset for configuring the data drift monitor because it contains the predicted labels, which are not relevant for monitoring data drift in the features.</p></blockquote>
+
 <blockquote><p><strong>therealola</strong> <code>(Sun 18 Jun 2023 01:48)</code> - <em>Upvotes: 2</em></p><p>On exam 18-06-22</p></blockquote>
 <blockquote><p><strong>striver</strong> <code>(Fri 02 Jun 2023 12:38)</code> - <em>Upvotes: 4</em></p><p>Correct answer is
 Box1: Training Dataset
 Box2: Features Dataset
 
 Reference: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-datasets?tabs=python#create-target-dataset</p></blockquote>
+
 <blockquote><p><strong>JTWang</strong> <code>(Sat 22 Apr 2023 10:52)</code> - <em>Upvotes: 2</em></p><p>on exam 04/22/2022</p></blockquote>
 <blockquote><p><strong>synapse</strong> <code>(Sun 12 Mar 2023 12:18)</code> - <em>Upvotes: 1</em></p><p>1. baseline: Training dataset 2. Target:  Features data set. Features dataset has a timestamp in it.</p></blockquote>
 <blockquote><p><strong>AjoseO</strong> <code>(Fri 03 Mar 2023 06:36)</code> - <em>Upvotes: 3</em></p><p>On 03 March 2022</p></blockquote>

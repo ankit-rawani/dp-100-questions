@@ -12,12 +12,12 @@ How should you complete the following code segment? To answer, select the approp
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q112_q_image385.png)
+![Question Image](../images/q112_q_image385.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q112_ans_0_image386.png" alt="Answer Image"><br>
+<img src="../images/q112_ans_0_image386.png" alt="Answer Image"><br>
 
 </details>
 

@@ -14,12 +14,12 @@ Which functions should you use? To answer, select the appropriate options in the
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q412_q_image441.png)
+![Question Image](../images/q412_q_image441.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q412_ans_0_image442.png" alt="Answer Image"><br>
+<img src="../images/q412_ans_0_image442.png" alt="Answer Image"><br>
 
 </details>
 

@@ -10,12 +10,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images/q99_q_0013100001.png)
+![Question Image](../images/q99_q_0013100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q99_ans_0_0013200001.png" alt="Answer Image"><br>
+<img src="../images/q99_ans_0_0013200001.png" alt="Answer Image"><br>
+
 <p>Authenticate your Git Account with SSH:</p>
 <p>Step 1: Generating a public/private key pair</p>
 <p>Generate a new SSH key -</p>

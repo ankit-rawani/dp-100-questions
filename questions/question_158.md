@@ -6,23 +6,23 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images/q158_q_image554.png)
+![Question Image](../images/q158_q_image554.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images/q158_q_image557.png)
+![Question Image](../images/q158_q_image557.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -41,6 +41,7 @@ If you’re running your code on an Azure resource with a managed identity (like
 Environment-Based Authentication:
 
 If environment variables for Azure credentials are set (e.g., AZURE_CLIENT_ID, AZURE_TENANT_ID, and AZURE_CLIENT_SECRET for a service principal), MLClient.from_config() will pick up these credentials automatically.</p></blockquote>
+
 <blockquote><p><strong>evangelist</strong> <code>(Sun 02 Jun 2024 01:16)</code> - <em>Upvotes: 1</em></p><p>Answer should be Yes, it appeared previously in the exam questions</p></blockquote>
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Thu 16 May 2024 16:27)</code> - <em>Upvotes: 2</em></p><p>credential is a required parameter in the from_config method . Link: https://learn.microsoft.com/en-us/python/api/azure-ai-ml/azure.ai.ml.mlclient?view=azure-python#azure-ai-ml-mlclient-from-config</p></blockquote>
 <blockquote><p><strong>Plb2</strong> <code>(Sat 24 Feb 2024 20:05)</code> - <em>Upvotes: 2</em></p><p>credential-parameter is required</p></blockquote>

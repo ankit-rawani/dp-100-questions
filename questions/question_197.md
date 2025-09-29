@@ -4,7 +4,7 @@ HOTSPOT -
 
 You are working on a classification task. You have a dataset indicating whether a student would like to play soccer and associated attributes. The dataset includes the following columns:
 
-![Question Image](images/q197_q_0017400001.png)
+![Question Image](../images/q197_q_0017400001.png)
 
 You need to classify variables by type.
 
@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q197_q_0017500001.png)
+![Question Image](../images/q197_q_0017500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q197_ans_0_0017600001.png" alt="Answer Image"><br>
+<img src="../images/q197_ans_0_0017600001.png" alt="Answer Image"><br>
+
 <p>Reference:</p>
 <p>https://www.edureka.co/blog/classification-algorithms/</p>
 

@@ -10,12 +10,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q497_q_0032400001.png)
+![Question Image](../images/q497_q_0032400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q497_ans_0_0032500001.png" alt="Answer Image"><br>
+<img src="../images/q497_ans_0_0032500001.png" alt="Answer Image"><br>
+
 <p>Box 1: import pytorch as deeplearninglib</p>
 <p>Box 2: ..DistributedSampler(Sampler)..</p>
 <p>DistributedSampler(Sampler):</p>
@@ -62,6 +63,7 @@ Explanation: The SGD optimizer is mentioned specifically for the penalty detecti
 Box 4: A) model= deeplearninglib.parallel.DistributedDataParallel(model)
 
 Explanation: The DistributedDataParallel module allows for parallel processing of a single model across multiple devices or nodes, which can significantly speed up the training process. This is useful for the global penalty detection models, which are mentioned to have slow inference times.</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Sat 17 Jun 2023 11:52)</code> - <em>Upvotes: 1</em></p><p>No clue, the only thing I know of is that 
 DistributedSampler, Optim.SGD, and nn.Parallel ... are all pytouch packages or classes ...</p></blockquote>
 <blockquote><p><strong>frida321</strong> <code>(Tue 27 Sep 2022 13:43)</code> - <em>Upvotes: 5</em></p><p>so hard to answer</p></blockquote>
@@ -71,6 +73,7 @@ DistributedSampler, Optim.SGD, and nn.Parallel ... are all pytouch packages or c
 <blockquote><p><strong>luca2712</strong> <code>(Sat 22 Jan 2022 13:34)</code> - <em>Upvotes: 3</em></p><p>I think, box3: optimizer = deeplearninglib.optim.SGD(model.parameters().lr=0,01)
 
 https://analyticsindiamag.com/how-ml-frameworks-like-tensorflow-and-pytorch-handle-gradient-descent/</p></blockquote>
+
 <blockquote><p><strong>wjrmffldrhrl</strong> <code>(Tue 08 Mar 2022 04:21)</code> - <em>Upvotes: 1</em></p><p>In this case say &quot;All penalty detection models show inference phases using a Stochastic Gradient Descent (SGD) are running too slow.&quot;</p></blockquote>
 <blockquote><p><strong>lucho94</strong> <code>(Tue 04 Jan 2022 16:28)</code> - <em>Upvotes: 1</em></p><p>Which is the correct one?</p></blockquote>
 <blockquote><p><strong>wahaha</strong> <code>(Mon 20 Dec 2021 09:03)</code> - <em>Upvotes: 1</em></p><p>why pytorch not tensorflow? they both support Python</p></blockquote>

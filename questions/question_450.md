@@ -10,7 +10,7 @@ You plan to deploy model1 to an online endpoint named endpoint1 without egress c
 
 You have the following code:
 
-![Question Image](images/q450_q_image571.png)
+![Question Image](../images/q450_q_image571.png)
 
 You need to add a parameter to the ManagedOnlineDeployment object to ensure the model deploys successfully.
 
@@ -18,13 +18,13 @@ Solution: Add the environment parameter.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -46,6 +46,7 @@ Replace $ENDPOINT_NAME with your desired endpoint name.
 This approach allows you to avoid the need for an internet connection while deploying MLflow models.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-mlflow-models-online-endpoints?view=azureml-api-2&amp;tabs=cli</p></blockquote>
+
 <blockquote><p><strong>cryodax</strong> <code>(Sat 15 Jun 2024 19:34)</code> - <em>Upvotes: 1</em></p><p>The ManagedOnlineDeployment class requires the following parameters:
 
 name: str: Name of the deployment resource.

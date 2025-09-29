@@ -16,12 +16,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q338_q_image512.png)
+![Question Image](../images/q338_q_image512.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q338_ans_0_image513.png" alt="Answer Image"><br>
+<img src="../images/q338_ans_0_image513.png" alt="Answer Image"><br>
 
 </details>
 
@@ -43,18 +43,20 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-create-data-asse
 By the way, abfss is used as the scheme identifier for the Hadoop Filesystem driver that is compatible with Azure Data Lake Storage Gen2.
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Mon 27 May 2024 18:26)</code> - <em>Upvotes: 1</em></p><p>Azure Data Lake Storage Gen2  is not Azure Blob Storage currently in V2. The answer provided is correct. https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction</p></blockquote>
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Mon 27 May 2024 18:28)</code> - <em>Upvotes: 2</em></p><p>oops I meant your original answer is correct -&gt; wasbs</p></blockquote>
 <blockquote><p><strong>PI_Team</strong> <code>(Fri 05 Jan 2024 15:37)</code> - <em>Upvotes: 2</em></p><p>Excuse me, abfss is the correct answer, the question clearly mentions that we have a gen2 storage
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>orionduo</strong> <code>(Fri 01 Sep 2023 08:21)</code> - <em>Upvotes: 1</em></p><p>Agree with you 
 A path on Azure Storage
 (Blob) wasbs://&lt;containername&gt;@&lt;accountname&gt;.blob.core.windows.net/&lt;path_to_data&gt;/
 (ADLS gen2) abfss://&lt;file_system&gt;@&lt;account_name&gt;.dfs.core.windows.net/&lt;path&gt;
 (ADLS gen1) adl://&lt;accountname&gt;.azuredatalakestore.net/&lt;path_to_data&gt;/
 Therefore, the first selection should be wasbs</p></blockquote>
-<blockquote><p><strong>damaldon</strong> <code>(Wed 05 Jul 2023 19:47)</code> - <em>Upvotes: 1</em></p><p>&quot;abfss://&lt;file_system&gt;@&lt;account_name&gt;.dfs.core.windows.net/myimages/year=2023/week=1/**/*.jpeg&quot;
+<blockquote><p><strong>damaldon</strong> <code>(Wed 05 Jul 2023 19:47)</code> - <em>Upvotes: 1</em></p><p>&quot;abfss://&lt;file_system&gt;@&lt;account_name&gt;.dfs.core.windows.net/my../images/year=2023/week=1/**/*.jpeg&quot;
 # Define the Data asset object
 my_data = Data(
     path=mltable_folder,

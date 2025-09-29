@@ -10,20 +10,20 @@ The classifier exhibits a high degree of disparity between the age groups.
 
 You need to modify the output of the classifier to maximize its degree of fairness across the age groups and meet the following requirements:
 
-•	Eliminate the need to retrain the model on which the classifier is based.
+• Eliminate the need to retrain the model on which the classifier is based.
 
-•	Minimize the disparity between true positive rates and false positive rates across age groups.
+• Minimize the disparity between true positive rates and false positive rates across age groups.
 
 Which algorithm and parity constraint should you use? To answer, select the appropriate options in the answer area.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q493_q_image448.png)
+![Question Image](../images/q493_q_image448.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q493_ans_0_image449.png" alt="Answer Image"><br>
+<img src="../images/q493_ans_0_image449.png" alt="Answer Image"><br>
 
 </details>
 

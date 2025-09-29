@@ -12,12 +12,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q240_q_0024500001.png)
+![Question Image](../images/q240_q_0024500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q240_ans_0_0024600001.png" alt="Answer Image"><br>
+<img src="../images/q240_ans_0_0024600001.png" alt="Answer Image"><br>
+
 <p>Box 1: mlflow.set_tracking_uri(ws.get_mlflow_tracking_uri())</p>
 <p>In the following code, the get_mlflow_tracking_uri() method assigns a unique tracking URI address to the workspace, ws, and set_tracking_uri() points the MLflow tracking URI to that address. mlflow.set_tracking_uri(ws.get_mlflow_tracking_uri())</p>
 <p>Box 2: mlflow.set_experiment(experiment_name)</p>

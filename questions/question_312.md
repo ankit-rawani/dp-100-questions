@@ -12,12 +12,12 @@ Which code values should you use? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q312_q_image431.png)
+![Question Image](../images/q312_q_image431.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q312_ans_0_image613.png" alt="Answer Image"><br>
+<img src="../images/q312_ans_0_image613.png" alt="Answer Image"><br>
 
 </details>
 
@@ -28,12 +28,14 @@ NOTE: Each correct selection is worth one point.
 
 In this case, you want the 95% confidence interval, so you pass 0.95 to the function.
 privacy_usage_to_accuracy() and compute_privacy_usage() are not typically used for confidence interval calculations; instead, they are related to privacy budget calculations.</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Tue 25 Jul 2023 20:53)</code> - <em>Upvotes: 3</em></p><p># Assuming you have the privacy usage stored in a variable called &#x27;usage&#x27;
 alpha = 0.05  # 1 - 0.95 (to get 95% confidence interval)
 https://github.com/opendp/smartnoise-samples/blob/master/analysis/accuracy_pitfalls.ipynb
 accuracy = age_mean.get_accuracy(alpha, usage)
 
 print(accuracy)</p></blockquote>
+
 <blockquote><p><strong>snegnik</strong> <code>(Sat 03 Jun 2023 13:29)</code> - <em>Upvotes: 1</em></p><p>I think the ansver is get_accuracy(0.05)
 
         # get DP mean of age
@@ -44,6 +46,7 @@ print(accuracy)</p></blockquote>
 accuracy = dp_D_tilde_mean_ages[0].get_accuracy(0.05)
 
 https://github.com/opendp/smartnoise-samples/blob/master/analysis/accuracy_pitfalls.ipynb</p></blockquote>
+
 <blockquote><p><strong>snegnik</strong> <code>(Sat 03 Jun 2023 13:19)</code> - <em>Upvotes: 1</em></p><p>I think the ansver is wrong, I cant find any info about privacy_usage_to_accuracy in documentation.</p></blockquote>
 <blockquote><p><strong>fqc</strong> <code>(Sat 20 May 2023 11:14)</code> - <em>Upvotes: 1</em></p><p>From Bard:
 
@@ -54,6 +57,7 @@ confidence: The confidence level
 The compute_privacy_usage() method returns the privacy usage for the given epsilon and confidence level. The privacy usage is a measure of how much noise has been added to the data to protect privacy.
 
 print(age_mean.compute_privacy_usage(0.05, 0.95)</p></blockquote>
+
 <blockquote><p><strong>vish9</strong> <code>(Sat 13 May 2023 20:45)</code> - <em>Upvotes: 2</em></p><p>Not sure.</p></blockquote>
 
 </details>

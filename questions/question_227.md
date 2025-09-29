@@ -30,25 +30,25 @@ id,f1,f2,I
 
 You run the following code:
 
-![Question Image](images/q227_q_0022000001.png)
+![Question Image](../images/q227_q_0022000001.png)
 
 You need to create a dataset named training_data and load the data from all files into a single data frame by using the following code:
 
-![Question Image](images/q227_q_0022000002.png)
+![Question Image](../images/q227_q_0022000002.png)
 
 Solution: Run the following code:
 
-![Question Image](images/q227_q_0022000003.png)
+![Question Image](../images/q227_q_0022000003.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -61,23 +61,27 @@ Does the solution meet the goal?
 
 from azure.ai.ml import ...
 
-not 
+not
 
 from azureml.core import Dataset
 
 Reference: https://github.com/Azure/azure-sdk-for-python/tree/azure-ai-ml_1.11.1/sdk/ml/azure-ai-ml#authenticate-the-client</p></blockquote>
-<blockquote><p><strong>PI_Team</strong> <code>(Thu 01 Aug 2024 12:54)</code> - <em>Upvotes: 1</em></p><p>It meets the requirements. See example below from Microsoft: 
 
-   # create tabular dataset from all csv files in the directory
-   tabular_dataset_3 = Dataset.Tabular.from_delimited_files(path=(datastore,&#x27;weather/**/*.csv&#x27;))
+<blockquote><p><strong>PI_Team</strong> <code>(Thu 01 Aug 2024 12:54)</code> - <em>Upvotes: 1</em></p><p>It meets the requirements. See example below from Microsoft:
 
-   # create tabular dataset from multiple paths
-   data_paths = [(datastore, &#x27;weather/2018/11.csv&#x27;), (datastore, &#x27;weather/2018/12.csv&#x27;)]
-   tabular_dataset_4 = Dataset.Tabular.from_delimited_files(path=data_paths)
+# create tabular dataset from all csv files in the directory
+
+tabular_dataset_3 = Dataset.Tabular.from_delimited_files(path=(datastore,&#x27;weather/\*_/_.csv&#x27;))
+
+# create tabular dataset from multiple paths
+
+data_paths = [(datastore, &#x27;weather/2018/11.csv&#x27;), (datastore, &#x27;weather/2018/12.csv&#x27;)]
+tabular_dataset_4 = Dataset.Tabular.from_delimited_files(path=data_paths)
 
 Link: https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.dataset_factory.tabulardatasetfactory?view=azure-ml-py#azureml-data-dataset-factory-tabulardatasetfactory-from-delimited-files
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>fhlos</strong> <code>(Fri 28 Jun 2024 11:46)</code> - <em>Upvotes: 1</em></p><p>No, the solution does not meet the goal. The code provided to create the dataset and load the data into a single DataFrame is incorrect.
 
 To create a dataset named training_data and load the data from all files into a single DataFrame, you need to modify the code as follows:
@@ -95,6 +99,7 @@ The paths variable is updated to specify the paths of all files to be included i
 The Dataset.Tabular.from_delimited_files() method is used to create the dataset training_data by providing the paths variable.
 The to_pandas_dataframe() method is called on the training_data dataset to load the data from all files into a single pandas DataFrame.
 By making these changes, the code will create the desired dataset and load the data from all files into a single DataFrame.</p></blockquote>
+
 <blockquote><p><strong>abhishekm94</strong> <code>(Sun 16 Jun 2024 06:14)</code> - <em>Upvotes: 1</em></p><p>Correct answer is Yes
 Link :: https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.dataset_factory.tabulardatasetfactory?view=azure-ml-py&amp;viewFallbackFrom=azure-ml-pyandhttps%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpython%2Fapi%2Fazureml-core%2Fazureml.data.tabulardataset%3Fview%3Dazure-ml-py</p></blockquote>
 <blockquote><p><strong>centurion2020</strong> <code>(Fri 09 Feb 2024 18:57)</code> - <em>Upvotes: 9</em></p><p>Question updated as of Jan 2023.... based on
@@ -103,6 +108,7 @@ and
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.tabulardataset?view=azure-ml-py
 
 Answer seems to be A - YES</p></blockquote>
+
 <blockquote><p><strong>sultanmr123</strong> <code>(Sun 26 Nov 2023 21:46)</code> - <em>Upvotes: 1</em></p><p>yes Answer is B</p></blockquote>
 <blockquote><p><strong>casiopa</strong> <code>(Sat 09 Dec 2023 12:07)</code> - <em>Upvotes: 1</em></p><p>Why B?
 The Dataset is Tabular, and there is no need for two file paths.</p></blockquote>
@@ -111,17 +117,20 @@ The Dataset is Tabular, and there is no need for two file paths.</p></blockquote
 titanic_ds = Dataset.Tabular.from_delimited_files(path=web_path, set_column_types={&#x27;Survived&#x27;: DataType.to_bool()})
 
 # preview the first 3 rows of titanic_ds
+
 titanic_ds.take(3).to_pandas_dataframe()
 
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-register-datasets#set-data-schema</p></blockquote>
+
 <blockquote><p><strong>brendal89</strong> <code>(Fri 08 Apr 2022 14:11)</code> - <em>Upvotes: 3</em></p><p>I think the answer might be &#x27;yes&#x27;.
 
 see this similar example for parquet files:
 datastore_path = [(dstore, dset_name + &#x27;/*/*/data.parquet&#x27;)]
-dataset        = Dataset.Tabular.from_parquet_files(path=datastore_path, partition_format = dset_name + &#x27;/{partition_time:yyyy/MM}/data.parquet&#x27;)
+dataset = Dataset.Tabular.from_parquet_files(path=datastore_path, partition_format = dset_name + &#x27;/{partition_time:yyyy/MM}/data.parquet&#x27;)
 
 the partition_format argument appears optional.
 reference: https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/work-with-data/datasets-tutorial/timeseries-datasets/tabular-timeseries-dataset-filtering.ipynb</p></blockquote>
+
 <blockquote><p><strong>l2azure</strong> <code>(Sat 09 Apr 2022 12:30)</code> - <em>Upvotes: 13</em></p><p>Answer is &#x27;No&#x27;.
 You must create a pandas dataframe which is only possible from a Dataset.Tabular object.
 In this case (see last line) the dataframe cannot be made since it is a Dataset.File object.</p></blockquote>

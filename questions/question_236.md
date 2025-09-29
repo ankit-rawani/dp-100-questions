@@ -6,7 +6,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You plan to use a Python script to run an Azure Machine Learning experiment. The script creates a reference to the experiment run context, loads data from a file, identifies the set of unique values for the label column, and completes the experiment run:
 
-![Question Image](images/q236_q_0023500001.png)
+![Question Image](../images/q236_q_0023500001.png)
 
 The experiment must record the unique labels in the data as metrics for the run that can be reviewed later.
 
@@ -18,13 +18,14 @@ run.log_table('Label Values', label_vals)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Instead use the run_log function to log the contents in label_vals: for label_val in label_vals: run.log(&#x27;Label Values&#x27;, label_val)</p>
 <p>Reference:</p>
 <p>https://www.element61.be/en/resource/azure-machine-learning-services-complete-toolbox-ai</p>
@@ -50,6 +51,7 @@ Example: run.log_table(&quot;Y over X&quot;, {&quot;x&quot;:[1, 2, 3], &quot;y&q
 
 Image
 Example: run.log_image(&quot;ROC&quot;, path)</p></blockquote>
+
 <blockquote><p><strong>ranjsi01</strong> <code>(Thu 18 Jul 2024 09:31)</code> - <em>Upvotes: 5</em></p><p>B is correct. run.log_table is used to Log a dictionary object to the run with the given name using azureml.core.Run.log_table</p></blockquote>
 
 </details>

@@ -8,21 +8,21 @@ You need to select an early termination policy that meets the following requirem
 
 ✑ accounts for the performance of all previous runs when evaluating the current run avoids comparing the current run with only the best performing run to date
 
-![Question Image](images/q262_q_0028000002.png)
+![Question Image](../images/q262_q_0028000002.png)
 
 Which two early termination policies should you use? Each correct answer presents part of the solution.
 
 NOTE: Each correct selection is worth one point.
 
-* A.Median stopping
-* B.Bandit
-* C.Default
-* D.Truncation selection
+- A.Median stopping
+- B.Bandit
+- C.Default
+- D.Truncation selection
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>AD</strong><br>
+<strong>AD</strong><br>
 
 </details>
 
@@ -32,14 +32,15 @@ NOTE: Each correct selection is worth one point.
 <blockquote><p><strong>dushmantha</strong> <code>(Sat 27 Aug 2022 07:06)</code> - <em>Upvotes: 25</em></p><p>Condition 1: account for all previous runs
 Condition 2: avoid comparing with only best performing run up to date
 
-1) Condition 1: ok, Condition 2: ok (calculates running avg and its median at every step)
-2) Condition 1: ok, Condition 2: no (slack transformed value is compared with previous best value)
-3) Condition 1: no, Condition 2: no (no termination)
-4) Condition 1: ok, Condition 2: ok (to get lowest performing runs need to account for all runs)</p></blockquote>
+1. Condition 1: ok, Condition 2: ok (calculates running avg and its median at every step)
+2. Condition 1: ok, Condition 2: no (slack transformed value is compared with previous best value)
+3. Condition 1: no, Condition 2: no (no termination)
+4. Condition 1: ok, Condition 2: ok (to get lowest performing runs need to account for all runs)</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Sat 20 Jul 2024 05:26)</code> - <em>Upvotes: 1</em></p><p>A and D</p></blockquote>
 <blockquote><p><strong>Peeking</strong> <code>(Thu 14 Mar 2024 10:29)</code> - <em>Upvotes: 2</em></p><p>Median stopping is an early termination policy based on running averages of primary metrics reported by the runs. This policy computes running averages across all training runs and stops runs whose primary metric value is worse than the median of the averages.
 
 Truncation selection cancels a percentage of lowest performing runs at each evaluation interval. Runs are compared using the primary metric.</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Wed 21 Feb 2024 18:36)</code> - <em>Upvotes: 2</em></p><p>So, the recommended early termination policies in this case are A (Median Stopping) and B (Bandit) because they both account for the performance of all previous runs when evaluating the current run and do not rely only on the best performing run to date.</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Wed 21 Feb 2024 18:17)</code> - <em>Upvotes: 2</em></p><p>A. Median stopping B. Bandit</p></blockquote>
 <blockquote><p><strong>therealola</strong> <code>(Sun 18 Jun 2023 01:46)</code> - <em>Upvotes: 2</em></p><p>On exam 18-06-22</p></blockquote>
@@ -51,6 +52,7 @@ Truncation selection cancels a percentage of lowest performing runs at each eval
 <blockquote><p><strong>VJPrakash</strong> <code>(Wed 10 Aug 2022 09:18)</code> - <em>Upvotes: 3</em></p><p>It should be B and D(Truncate instead of Default).
 
 The default as per documentation means no termination policy.</p></blockquote>
+
 <blockquote><p><strong>pancman</strong> <code>(Tue 11 Apr 2023 02:26)</code> - <em>Upvotes: 1</em></p><p>The correct answer should be A and D.</p></blockquote>
 <blockquote><p><strong>trickerk</strong> <code>(Sun 07 Aug 2022 19:27)</code> - <em>Upvotes: 3</em></p><p>Given answers are correct.
 - Truncation cancels a percentage of lowest performing runs at each evaluation interval;
@@ -60,6 +62,7 @@ So &quot;Median stopping policy&quot; and &quot;Default&quot; are correct answer
 
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters
 https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hyperdrive.banditpolicy?view=azure-ml-py#definition</p></blockquote>
+
 <blockquote><p><strong>trickerk</strong> <code>(Sun 07 Aug 2022 19:29)</code> - <em>Upvotes: 1</em></p><p>&quot;accounts for the performance of all previous runs&quot;</p></blockquote>
 <blockquote><p><strong>manualrg</strong> <code>(Sat 27 Jan 2024 22:49)</code> - <em>Upvotes: 1</em></p><p>To apply truncation policy , a percentile must be computed, so indeed it uses &quot;performance of all previous runs&quot; IMHO</p></blockquote>
 <blockquote><p><strong>pancman</strong> <code>(Tue 11 Apr 2023 02:28)</code> - <em>Upvotes: 1</em></p><p>You&#x27;re wrong. The default policy is no early termination. Therefore it doesn&#x27;t satisfy the requirement in the question.

@@ -8,12 +8,13 @@ Which of the following can be used to complete your task? Answer by dragging the
 
 Select and Place:
 
-![Question Image](images/q1_q_0001100001.jpg)
+![Question Image](../images/q1_q_0001100001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q1_ans_0_0001200001.jpg" alt="Answer Image"><br>
+<img src="../images/q1_ans_0_0001200001.jpg" alt="Answer Image"><br>
+
 <p>You can move data to and from Azure Blob storage using different technologies:</p>
 <p>✑ Azure Storage-Explorer</p>
 <p>✑ AzCopy</p>
@@ -21,7 +22,7 @@ Select and Place:
 <p>✑ SSIS</p>
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/move-azure-blob</p>
-<img src="images/q1_ref_14_0001300001.png" alt="Reference Image"><br>
+<img src="../images/q1_ref_14_0001300001.png" alt="Reference Image"><br>
 
 </details>
 

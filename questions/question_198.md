@@ -6,7 +6,7 @@ You create a script for training a machine learning model in Azure Machine Learn
 
 You create an estimator by running the following code:
 
-![Question Image](images/q198_q_0017000001.png)
+![Question Image](../images/q198_q_0017000001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q198_q_0017100001.png)
+![Question Image](../images/q198_q_0017100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q198_ans_0_0017100002.png" alt="Answer Image"><br>
+<img src="../images/q198_ans_0_0017100002.png" alt="Answer Image"><br>
+
 <p>Box 1: Yes -</p>
 <p>Parameter source_directory is a local directory containing experiment configuration and code files needed for a training job.</p>
 <p>Box 2: Yes -</p>
@@ -39,6 +40,7 @@ Hot Area:
 <blockquote><p><strong>giusecozza</strong> <code>(Thu 07 Sep 2023 08:02)</code> - <em>Upvotes: 2</em></p><p>data_source is a Datastore object. I can&#x27;t see any reference to as_mount() method inside the doc. There&#x27;s something wrong here...
 
 https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.datastore.datastore?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Fri 19 May 2023 15:14)</code> - <em>Upvotes: 5</em></p><p>My vote Yes, No, No, Yes</p></blockquote>
 <blockquote><p><strong>Edriv</strong> <code>(Sat 16 Dec 2023 11:55)</code> - <em>Upvotes: 2</em></p><p>Correct</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Fri 19 May 2023 15:41)</code> - <em>Upvotes: 1</em></p><p>Not mount the local data-folder, but mount the data-storage as local data folder on the machine running the script</p></blockquote>
@@ -54,6 +56,7 @@ Shouldn&#x27;t it be No for the last option ?</p></blockquote>
 <blockquote><p><strong>dev2dev</strong> <code>(Thu 24 Mar 2022 15:15)</code> - <em>Upvotes: 5</em></p><p>box2 is no. you need to upload the files that can be made available to mount the folder.
 
 https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-bring-data</p></blockquote>
+
 <blockquote><p><strong>prashantjoge</strong> <code>(Mon 30 May 2022 22:38)</code> - <em>Upvotes: 3</em></p><p>no, you dont upload anything.</p></blockquote>
 <blockquote><p><strong>prashantjoge</strong> <code>(Mon 30 May 2022 22:38)</code> - <em>Upvotes: 1</em></p><p>the source directory is for the training script</p></blockquote>
 

@@ -6,7 +6,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You plan to use a Python script to run an Azure Machine Learning experiment. The script creates a reference to the experiment run context, loads data from a file, identifies the set of unique values for the label column, and completes the experiment run:
 
-![Question Image](images/q289_q_0031800001.png)
+![Question Image](../images/q289_q_0031800001.png)
 
 The experiment must record the unique labels in the data as metrics for the run that can be reviewed later.
 
@@ -18,13 +18,13 @@ run.log_list('Label Values', label_vals)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 

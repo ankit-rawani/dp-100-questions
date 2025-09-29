@@ -4,7 +4,7 @@ You plan to run a Python script as an Azure Machine Learning experiment.
 
 The script contains the following code:
 
-![Question Image](images/q285_q_0031000001.png)
+![Question Image](../images/q285_q_0031000001.png)
 
 You must specify a file dataset as an input to the script. The dataset consists of multiple large image files and must be streamed directly from its source.
 
@@ -12,15 +12,15 @@ You need to write code to define a ScriptRunConfig object for the experiment and
 
 Which code segment should you use?
 
-* A.arguments = ['--input-data', ds.to_pandas_dataframe()]
-* B.arguments = ['--input-data', ds.as_mount()]
-* C.arguments = ['--data-data', ds]
-* D.arguments = ['--input-data', ds.as_download()]
+- A.arguments = ['--input-data', ds.to_pandas_dataframe()]
+- B.arguments = ['--input-data', ds.as_mount()]
+- C.arguments = ['--data-data', ds]
+- D.arguments = ['--input-data', ds.as_download()]
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 

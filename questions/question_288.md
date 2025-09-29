@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q288_q_0031600001.png)
+![Question Image](../images/q288_q_0031600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q288_ans_0_0031700001.png" alt="Answer Image"><br>
+<img src="../images/q288_ans_0_0031700001.png" alt="Answer Image"><br>
+
 <p>Box 1: source_directory -</p>
 <p>source_directory: A local directory containing code files needed for a run.</p>
 <p>Box 2: script -</p>

@@ -16,12 +16,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images/q60_q_0006700003.png)
+![Question Image](../images/q60_q_0006700003.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q60_ans_0_image597.png" alt="Answer Image"><br>
+<img src="../images/q60_ans_0_image597.png" alt="Answer Image"><br>
 
 </details>
 
@@ -38,6 +38,7 @@ Microsoft Cognitive Toolkit (CNTK)
 For interactive data exploration and visualization:
 
 PowerBI Desktop</p></blockquote>
+
 <blockquote><p><strong>phydev</strong> <code>(Sat 20 Jan 2024 09:05)</code> - <em>Upvotes: 1</em></p><p>Yes, ChatGPT agrees.</p></blockquote>
 <blockquote><p><strong>JTWang</strong> <code>(Fri 30 Sep 2022 06:17)</code> - <em>Upvotes: 3</em></p><p>CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers
 https://docs.microsoft.com/en-us/cognitive-toolkit/</p></blockquote>

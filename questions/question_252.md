@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images/q252_q_0026000001.png)
+![Question Image](../images/q252_q_0026000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q252_ans_0_0026100001.png" alt="Answer Image"><br>
+<img src="../images/q252_ans_0_0026100001.png" alt="Answer Image"><br>
+
 <p>Box 1: Compute cluster -</p>
 <p>Create a single or multi node compute cluster for your training, batch inferencing or reinforcement learning workloads.</p>
 <p>Box 2: Inference cluster -</p>
@@ -50,18 +51,20 @@ Select and Place:
 <details>
   <summary>Show Discussions</summary>
 
-<blockquote><p><strong>syed_ahmed</strong> <code>(Tue 11 Jan 2022 11:30)</code> - <em>Upvotes: 52</em></p><p>This is the correct answer : 
+<blockquote><p><strong>syed_ahmed</strong> <code>(Tue 11 Jan 2022 11:30)</code> - <em>Upvotes: 52</em></p><p>This is the correct answer :
 
 Compute
 Inference
 Attached
 Inference</p></blockquote>
+
 <blockquote><p><strong>gunn_m</strong> <code>(Sun 15 Dec 2024 21:27)</code> - <em>Upvotes: 1</em></p><p>We deploy the model to an inference cluster, but to perform the deployment action we need a cluster or an instance.</p></blockquote>
 <blockquote><p><strong>DennisWitjes</strong> <code>(Tue 15 Feb 2022 22:07)</code> - <em>Upvotes: 2</em></p><p>Agreed. When deploying in AML Designer you have to select inference cluster. See example where they use AKS.
 https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy</p></blockquote>
 <blockquote><p><strong>htiwari</strong> <code>(Thu 04 Nov 2021 14:48)</code> - <em>Upvotes: 7</em></p><p>This answer is correct!
 
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-target</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Fri 02 Aug 2024 23:23)</code> - <em>Upvotes: 1</em></p><p>For the deployment is it inference or compute cluster, I understand as inference but folks are saying compute cluster.</p></blockquote>
 <blockquote><p><strong>A_PL300</strong> <code>(Wed 13 Mar 2024 16:32)</code> - <em>Upvotes: 2</em></p><p>Question like this one on September 4, 2023 exam</p></blockquote>
 <blockquote><p><strong>Yuriy_Ch</strong> <code>(Fri 08 Sep 2023 11:21)</code> - <em>Upvotes: 1</em></p><p>on exam 07/March/2023</p></blockquote>
@@ -72,6 +75,7 @@ Requirement B: To score new data through a trained model published as a real-tim
 Requirement C: To train models by using an Azure Databricks cluster, you can use both an attached compute and a compute cluster. An attached compute allows you to connect your Azure Machine Learning workspace to your Databricks workspace, while a compute cluster allows you to allocate resources to run your training jobs in a distributed fashion.
 
 Requirement D: To deploy models by using the Azure Machine Learning Designer, you can use a compute cluster. This will allow you to allocate resources to run your deployment job, enabling you to complete the deployment faster and at a lower cost.</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Wed 14 Aug 2024 01:39)</code> - <em>Upvotes: 1</em></p><p>but   realtime deployment doesn&#x27;t work in compute cluster. Hence, inference cluster. In my opinion. i am still not sure tough.</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Thu 17 Aug 2023 01:24)</code> - <em>Upvotes: 2</em></p><p>Requirement A:
 3- Compute cluster
@@ -85,6 +89,7 @@ Requirement C:
 
 Requirement D:
 3- Compute cluster</p></blockquote>
+
 <blockquote><p><strong>racnaoamo</strong> <code>(Sat 19 Nov 2022 08:58)</code> - <em>Upvotes: 3</em></p><p>on exam 18-5-22</p></blockquote>
 <blockquote><p><strong>kkkk_jjjj</strong> <code>(Sun 18 Sep 2022 08:44)</code> - <em>Upvotes: 2</em></p><p>on exam 18/03/2022</p></blockquote>
 <blockquote><p><strong>JoshuaXu</strong> <code>(Fri 06 May 2022 21:56)</code> - <em>Upvotes: 2</em></p><p>on Exam 6 Nov 2021</p></blockquote>
@@ -93,14 +98,15 @@ Requirement D:
 
 last one is Inference cluster
 
-**In the Models asset page, select the registered model.
+\*\*In the Models asset page, select the registered model.
 
 Select the Deploy button.
 
 In the configuration menu, enter the following information:
 
 Input a name for the endpoint.
-Select to deploy the model to Azure Kubernetes Service or Azure Container Instance. **</p></blockquote>
+Select to deploy the model to Azure Kubernetes Service or Azure Container Instance. \*\*</p></blockquote>
+
 <blockquote><p><strong>erp31</strong> <code>(Mon 31 Jan 2022 04:02)</code> - <em>Upvotes: 3</em></p><p>on exam 30/07/2021</p></blockquote>
 <blockquote><p><strong>ACSC</strong> <code>(Sat 09 Oct 2021 07:27)</code> - <em>Upvotes: 3</em></p><p>Answer is correct. See the link https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-attach-compute-studio</p></blockquote>
 <blockquote><p><strong>ac45863</strong> <code>(Thu 07 Oct 2021 23:05)</code> - <em>Upvotes: 7</em></p><p>In my opinion:

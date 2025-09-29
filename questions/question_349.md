@@ -8,15 +8,15 @@ You download a .csv file from a notebook in an Azure Machine Learning workspace 
 
 You must generate the summary statistics for the data in the file. The statistics must include the following for each numerical column:
 
-•	number of non-empty values
+• number of non-empty values
 
-•	average value
+• average value
 
-•	standard deviation
+• standard deviation
 
-•	minimum and maximum values
+• minimum and maximum values
 
-•	25th, 50th, and 75th percentiles
+• 25th, 50th, and 75th percentiles
 
 You need to complete the Python code that will generate the summary statistics.
 
@@ -24,12 +24,12 @@ Which code segments should you use? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q349_q_image550.png)
+![Question Image](../images/q349_q_image550.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q349_ans_0_image551.png" alt="Answer Image"><br>
+<img src="../images/q349_ans_0_image551.png" alt="Answer Image"><br>
 
 </details>
 
@@ -40,6 +40,7 @@ NOTE: Each correct selection is worth one point.
 pandas is a Python library for data manipulation and analysis, particularly suited for handling tabular data like csv files and performing statistical analysis, which includes generating summary statistics such as the describe() function to generate descriptive statistics.
 
 Wrong Answers:
+
 - csv module does not provide the functionality for statistical analysis required for this task.
 - numpy is primarily for lower-level array operations and does not provide high-level data analysis functions like describe().
 - query is used to filter data based on a query expression, not to generate summary statistics.

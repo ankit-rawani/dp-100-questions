@@ -14,12 +14,12 @@ What should you use? To answer, select the appropriate options in the answer are
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q314_q_image433.png)
+![Question Image](../images/q314_q_image433.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q314_ans_0_image434.png" alt="Answer Image"><br>
+<img src="../images/q314_ans_0_image434.png" alt="Answer Image"><br>
 
 </details>
 

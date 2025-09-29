@@ -10,17 +10,18 @@ You need to create a pipeline that runs a processing script to load data from a 
 
 Solution: Run the following code:
 
-![Question Image](images/q246_q_0025500001.png)
+![Question Image](../images/q246_q_0025500001.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Note: Data used in pipeline can be produced by one step and consumed in another step by providing a PipelineData object as an output of one step and an input of one or more subsequent steps.</p>
 <p>Compare with this example, the pipeline train step depends on the process_step_output output of the pipeline process step: from azureml.pipeline.core import Pipeline, PipelineData from azureml.pipeline.steps import PythonScriptStep datastore = ws.get_default_datastore() process_step_output = PipelineData(&quot;processed_data&quot;, datastore=datastore) process_step = PythonScriptStep(script_name=&quot;process.py&quot;, arguments=[&quot;--data_for_train&quot;, process_step_output], outputs=[process_step_output], compute_target=aml_compute, source_directory=process_directory) train_step = PythonScriptStep(script_name=&quot;train.py&quot;, arguments=[&quot;--data_for_train&quot;, process_step_output], inputs=[process_step_output], compute_target=aml_compute, source_directory=train_directory) pipeline = Pipeline(workspace=ws, steps=[process_step, train_step])</p>
 <p>Reference:</p>

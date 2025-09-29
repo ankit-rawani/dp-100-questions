@@ -6,22 +6,22 @@ You plan to run this script as an Azure Machine Learning experiment.
 
 The script loads the data and determines the number of rows it contains using the following code:
 
-![Question Image](images/q201_q_0018200001.png)
+![Question Image](../images/q201_q_0018200001.png)
 
 You need to record the row count as a metric named row_count that can be returned using the get_metrics method of the Run object after the experiment run completes.
 
 Which code should you use?
 
-* A.run.upload_file(T3 row_count', './data.csv')
-* B.run.log('row_count', rows)
-* C.run.tag('row_count', rows)
-* D.run.log_table('row_count', rows)
-* E.run.log_row('row_count', rows)
+- A.run.upload_file(T3 row_count', './data.csv')
+- B.run.log('row_count', rows)
+- C.run.tag('row_count', rows)
+- D.run.log_table('row_count', rows)
+- E.run.log_row('row_count', rows)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 

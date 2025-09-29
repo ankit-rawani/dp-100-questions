@@ -12,12 +12,12 @@ How should you complete the following code segment? To answer, select the approp
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q128_q_image450.png)
+![Question Image](../images/q128_q_image450.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q128_ans_0_image451.png" alt="Answer Image"><br>
+<img src="../images/q128_ans_0_image451.png" alt="Answer Image"><br>
 
 </details>
 
@@ -29,6 +29,7 @@ NOTE: Each correct selection is worth one point.
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.datastore(class)?view=azure-ml-py#azureml-core-datastore-register-azure-data-lake-gen2
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>Ahmed_Gehad</strong> <code>(Tue 23 Jul 2024 18:12)</code> - <em>Upvotes: 3</em></p><p>I think this question will be invalid in the new version of the exam. currently it&#x27;s azure.ai.ml &amp; we use abfs(s) now for data stores in an Azure Data Lake Storage Gen 2</p></blockquote>
 <blockquote><p><strong>damaldon</strong> <code>(Fri 12 Jul 2024 15:53)</code> - <em>Upvotes: 1</em></p><p>Cprrect.
 static register_azure_data_lake_gen2(workspace, datastore_name, filesystem, account_name, tenant_id=None, client_id=None, client_secret=None, resource_url=None, authority_url=None, protocol=None, endpoint=None, overwrite=False, subscription_id=None, resource_group=None, grant_workspace_access=False)</p></blockquote>

@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q376_q_0037800001.png)
+![Question Image](../images/q376_q_0037800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q376_ans_0_0037900001.png" alt="Answer Image"><br>
+<img src="../images/q376_ans_0_0037900001.png" alt="Answer Image"><br>
+
 <p>Box 1: from azureml.core.webservice import Webservice</p>
 <p>The following code shows how to use the SDK to update the model, environment, and entry script for a web service to Azure Container Instances: from azureml.core import Environment from azureml.core.webservice import Webservice from azureml.core.model import Model, InferenceConfig</p>
 <p>Box 2: predictions = service.run(input_json)</p>
@@ -56,7 +57,8 @@ so second answer should be prediction = requests.post(service.scoring_uri, input
 https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.webservice(class)?view=azure-ml-py
 
 in Webservice have method call run() to call webservice with an input. It should do the same functionality as requests.post(service.scoring_uri, input_json).
-I believe that prediction = requests.post(service.scoring_uri, input_json) should not work because of  the upper provided code is not include &quot;import requests&quot; to be able running post method.</p></blockquote>
+I believe that prediction = requests.post(service.scoring_uri, input_json) should not work because of the upper provided code is not include &quot;import requests&quot; to be able running post method.</p></blockquote>
+
 <blockquote><p><strong>Maunik</strong> <code>(Tue 16 Jan 2024 18:42)</code> - <em>Upvotes: 3</em></p><p>Given answer in correct: 
 https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/deploy-to-cloud/model-register-and-deploy.ipynb</p></blockquote>
 <blockquote><p><strong>dda711</strong> <code>(Tue 14 May 2024 20:57)</code> - <em>Upvotes: 3</em></p><p>requests is not a native SDK class either</p></blockquote>

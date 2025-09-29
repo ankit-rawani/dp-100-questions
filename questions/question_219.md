@@ -6,7 +6,7 @@ You have a feature set containing the following numerical features: X, Y, and Z.
 
 The Poisson correlation coefficient (r-value) of X, Y, and Z features is shown in the following image:
 
-![Question Image](images/q219_q_0020900001.png)
+![Question Image](../images/q219_q_0020900001.png)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the graphic.
 
@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q219_q_0021000001.png)
+![Question Image](../images/q219_q_0021000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q219_ans_0_0021000002.png" alt="Answer Image"><br>
+<img src="../images/q219_ans_0_0021000002.png" alt="Answer Image"><br>
+
 <p>Box 1: 0.859122 -</p>
 <p>Box 2: a positively linear relationship</p>
 <p>+1 indicates a strong positive linear relationship</p>

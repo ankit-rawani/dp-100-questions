@@ -18,12 +18,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q481_q_0045100001.jpg)
+![Question Image](../images/q481_q_0045100001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q481_ans_0_0045200001.jpg" alt="Answer Image"><br>
+<img src="../images/q481_ans_0_0045200001.jpg" alt="Answer Image"><br>
+
 <p>Box 1: Grid Search -</p>
 <p>Fairlearn open-source package provides postprocessing and reduction unfairness mitigation algorithms: ExponentiatedGradient, GridSearch, and</p>
 <p>ThresholdOptimizer.</p>
@@ -52,6 +53,7 @@ Grid search is a technique used in Fairlearn to find the optimal combination of 
 Demographic parity is a constraint used in Fairlearn that aims to ensure that the predicted outcomes are statistically independent of the protected attribute (in this case, ethnicity). This means that the proportion of positive outcomes (admission to the trial) should be the same across all ethnic groups.
 
 Therefore, by using the Grid search technique to find the optimal model that satisfies the Demographic parity constraint, you can mitigate and minimize disparities for each category in the Ethnicity feature.</p></blockquote>
+
 <blockquote><p><strong>fvil</strong> <code>(Tue 07 Nov 2023 15:47)</code> - <em>Upvotes: 3</em></p><p>Appeared on exam 07/11/2022</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Wed 14 Jun 2023 13:48)</code> - <em>Upvotes: 1</em></p><p>Grid search is good for sure ...
 However,
@@ -59,7 +61,7 @@ Demographic parity: ensure that an equal number of positive predictions are made
 False-positive rate parity: ensure that each group contains a comparable ratio of false-positive predictions
 So, which one is better ???</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Thu 15 Jun 2023 12:25)</code> - <em>Upvotes: 1</em></p><p>This question might be wrongly worded, Grid Search is only good for binary feature, ethnicity is categorical so, it cannot be really used ...</p></blockquote>
-<blockquote><p><strong>ranjsi01</strong> <code>(Wed 25 Jan 2023 20:21)</code> - <em>Upvotes: 2</em></p><p>correct. 
+<blockquote><p><strong>ranjsi01</strong> <code>(Wed 25 Jan 2023 20:21)</code> - <em>Upvotes: 2</em></p><p>correct.
 
 https://docs.microsoft.com/en-us/learn/modules/detect-mitigate-unfairness-models-with-azure-machine-learning/4-mitigate-with-fairlearn</p></blockquote>
 

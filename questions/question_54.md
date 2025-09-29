@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q54_q_0006200001.jpg)
+![Question Image](../images/q54_q_0006200001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q54_ans_0_0006400001.jpg" alt="Answer Image"><br>
+<img src="../images/q54_ans_0_0006400001.jpg" alt="Answer Image"><br>
+
 <p>Vocabulary mode: Create -</p>
 <p>For Vocabulary mode, select Create to indicate that you are creating a new list of n-gram features.</p>
 <p>N-Grams size: 3 -</p>

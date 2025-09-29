@@ -12,17 +12,18 @@ You need to configure the run to ensure that the environment includes the requir
 
 Solution: Run the following code:
 
-![Question Image](images/q249_q_0025900001.png)
+![Question Image](../images/q249_q_0025900001.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>The scikit-learn estimator provides a simple way of launching a scikit-learn training job on a compute target. It is implemented through the SKLearn class, which can be used to support single-node CPU training.</p>
 <p>Example:</p>
 <p>from azureml.train.sklearn import SKLearn</p>

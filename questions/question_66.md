@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q66_q_0008500001.png)
+![Question Image](../images/q66_q_0008500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q66_ans_0_0008500002.png" alt="Answer Image"><br>
+<img src="../images/q66_ans_0_0008500002.png" alt="Answer Image"><br>
+
 <p>CUDA is a parallel computing platform and programming model developed by Nvidia for general computing on its own GPUs (graphics processing units). CUDA enables developers to speed up compute-intensive applications by harnessing the power of GPUs for the parallelizable part of the computation.</p>
 <p>Reference:</p>
 <p>https://www.infoworld.com/article/3299703/what-is-cuda-parallel-programming-for-gpus.html</p>

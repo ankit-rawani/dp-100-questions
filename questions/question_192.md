@@ -4,7 +4,7 @@ HOTSPOT -
 
 You plan to use Hyperdrive to optimize the hyperparameters selected when training a model. You create the following code to define options for the hyperparameter experiment:
 
-![Question Image](images/q192_q_0016000001.png)
+![Question Image](../images/q192_q_0016000001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -12,12 +12,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q192_q_0016000002.png)
+![Question Image](../images/q192_q_0016000002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q192_ans_0_image604.png" alt="Answer Image"><br>
+<img src="../images/q192_ans_0_image604.png" alt="Answer Image"><br>
 
 </details>
 

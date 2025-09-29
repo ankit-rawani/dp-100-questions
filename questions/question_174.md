@@ -12,12 +12,12 @@ You need to add a new R kernel to the compute instance.
 
 In which order should you perform the actions? To answer, move all actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q174_q_image582.png)
+![Question Image](../images/q174_q_image582.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q174_ans_0_image583.png" alt="Answer Image"><br>
+<img src="../images/q174_ans_0_image583.png" alt="Answer Image"><br>
 
 </details>
 

@@ -16,12 +16,13 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images/q69_q_0008700001.png)
+![Question Image](../images/q69_q_0008700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q69_ans_0_0008700002.png" alt="Answer Image"><br>
+<img src="../images/q69_ans_0_0008700002.png" alt="Answer Image"><br>
+
 <p>Box 1: Clean Missing Data -</p>
 <p>Box 2: SMOTE -</p>
 <p>Use the SMOTE module in Azure Machine Learning Studio to increase the number of underepresented cases in a dataset used for machine learning. SMOTE is a better way of increasing the number of rare cases than simply duplicating existing cases.</p>

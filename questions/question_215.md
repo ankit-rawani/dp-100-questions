@@ -20,12 +20,12 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images/q215_q_0020000001.png)
+![Question Image](../images/q215_q_0020000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q215_ans_0_image608.png" alt="Answer Image"><br>
+<img src="../images/q215_ans_0_image608.png" alt="Answer Image"><br>
 
 </details>
 
@@ -77,6 +77,7 @@ c)python script</p></blockquote>
 3. SQL Transform
 
 My answer will be that ...</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Thu 26 May 2022 16:15)</code> - <em>Upvotes: 1</em></p><p>Read question again ...
 1. If have to use pandas filter, then script
 2. If Bayes is the algorithm, then python model</p></blockquote>
@@ -93,6 +94,7 @@ Box 2: Create python model
 Box 3: Execute python script
 
 Based on this link: https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/create-python-model</p></blockquote>
+
 <blockquote><p><strong>AjoseO</strong> <code>(Sun 20 Feb 2022 07:40)</code> - <em>Upvotes: 1</em></p><p>Correct!</p></blockquote>
 <blockquote><p><strong>skrjha20</strong> <code>(Sun 17 Oct 2021 07:31)</code> - <em>Upvotes: 1</em></p><p>Select columns ftom dataset
 create model

@@ -20,12 +20,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q93_q_0012000001.png)
+![Question Image](../images/q93_q_0012000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q93_ans_0_0012000002.png" alt="Answer Image"><br>
+<img src="../images/q93_ans_0_0012000002.png" alt="Answer Image"><br>
+
 <p>Use the Split data into partitions option when you want to divide the dataset into subsets of the data. This option is also useful when you want to create a custom number of folds for cross-validation, or to split rows into several groups.</p>
 <p>1. Add the Partition and Sample module to your experiment in Studio (classic), and connect the dataset.</p>
 <p>2. For Partition or sample mode, select Assign to Folds.</p>

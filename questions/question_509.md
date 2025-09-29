@@ -4,18 +4,19 @@ You need to implement a new cost factor scenario for the ad response models as i
 
 Which technique should you use?
 
-* A.Set the threshold to 0.5 and retrain if weighted Kappa deviates +/- 5% from 0.45.
-* B.Set the threshold to 0.05 and retrain if weighted Kappa deviates +/- 5% from 0.5.
-* C.Set the threshold to 0.2 and retrain if weighted Kappa deviates +/- 5% from 0.6.
-* D.Set the threshold to 0.75 and retrain if weighted Kappa deviates +/- 5% from 0.15.
+- A.Set the threshold to 0.5 and retrain if weighted Kappa deviates +/- 5% from 0.45.
+- B.Set the threshold to 0.05 and retrain if weighted Kappa deviates +/- 5% from 0.5.
+- C.Set the threshold to 0.2 and retrain if weighted Kappa deviates +/- 5% from 0.6.
+- D.Set the threshold to 0.75 and retrain if weighted Kappa deviates +/- 5% from 0.15.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>Scenario:</p>
 <p>Performance curves of current and proposed cost factor scenarios are shown in the following diagram:</p>
-<img src="images/q509_ref_4_0033400001.png" alt="Reference Image"><br>
+<img src="../images/q509_ref_4_0033400001.png" alt="Reference Image"><br>
 <p>The ad propensity model uses a cut threshold is 0.45 and retrains occur if weighted Kappa deviated from 0.1 +/- 5%.</p>
 
 </details>

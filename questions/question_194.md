@@ -12,12 +12,13 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images/q194_q_0016800001.png)
+![Question Image](../images/q194_q_0016800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q194_ans_0_0016900001.png" alt="Answer Image"><br>
+<img src="../images/q194_ans_0_0016900001.png" alt="Answer Image"><br>
+
 <p>Step 1: Publish the pipeline.</p>
 <p>To schedule a pipeline, you&#x27;ll need a reference to your workspace, the identifier of your published pipeline, and the name of the experiment in which you wish to create the schedule.</p>
 <p>Step 2: Retrieve the pipeline ID.</p>

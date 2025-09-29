@@ -12,7 +12,7 @@ You need to configure the Preprocess Text module to meet the following requireme
 
 Remove words to optimize information retrieval.
 
-![Question Image](images/q200_q_0017600004.png)
+![Question Image](../images/q200_q_0017600004.png)
 
 Which three options should you select? To answer, select the appropriate options in the answer area.
 
@@ -20,12 +20,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q200_q_0017800001.png)
+![Question Image](../images/q200_q_0017800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q200_ans_0_0018000001.png" alt="Answer Image"><br>
+<img src="../images/q200_ans_0_0018000001.png" alt="Answer Image"><br>
+
 <p>Box 1: Remove stop words -</p>
 <p>Remove words to optimize information retrieval.</p>
 <p>Remove stop words: Select this option if you want to apply a predefined stopword list to the text column. Stop word removal is performed before any other processes.</p>
@@ -57,11 +58,12 @@ https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-referen
 https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/preprocess-text</p></blockquote>
 <blockquote><p><strong>David_Tadeu</strong> <code>(Sat 30 Sep 2023 09:03)</code> - <em>Upvotes: 7</em></p><p>I see these definitions
 
-5Jun2019 - *Remove special characters*: Use this option to replace any non-alphanumeric special characters with the pipe | character. (https://docs.microsoft.com/en-us/previous-versions/azure/machine-learning/studio-module-reference/preprocess-text)
+5Jun2019 - _Remove special characters_: Use this option to replace any non-alphanumeric special characters with the pipe | character. (https://docs.microsoft.com/en-us/previous-versions/azure/machine-learning/studio-module-reference/preprocess-text)
 
-11Apr2021 - *Remove special characters*: Use this option to remove any non-alphanumeric special characters. (https://docs.microsoft.com/en-us/azure/machine-learning/component-reference/preprocess-text)
+11Apr2021 - _Remove special characters_: Use this option to remove any non-alphanumeric special characters. (https://docs.microsoft.com/en-us/azure/machine-learning/component-reference/preprocess-text)
 
-So for the second I&#x27;m going with *Remove Special Characters*, i.e. I think the answer is right as of March 2022.</p></blockquote>
+So for the second I&#x27;m going with _Remove Special Characters_, i.e. I think the answer is right as of March 2022.</p></blockquote>
+
 <blockquote><p><strong>michaelmorar</strong> <code>(Sun 30 Jun 2024 12:21)</code> - <em>Upvotes: 1</em></p><p>Thank you for this explanation!</p></blockquote>
 <blockquote><p><strong>Mrinals</strong> <code>(Mon 22 May 2023 23:17)</code> - <em>Upvotes: 1</em></p><p>Remove special characters: Use this option to replace any non-alphanumeric special characters with the pipe | character.
 in link &quot;https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/preprocess-text&quot;</p></blockquote>

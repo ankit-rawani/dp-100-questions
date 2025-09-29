@@ -4,13 +4,13 @@ HOTSPOT -
 
 You register the following versions of a model.
 
-![Question Image](images/q254_q_0026900001.png)
+![Question Image](../images/q254_q_0026900001.png)
 
 You use the Azure ML Python SDK to run a training experiment. You use a variable named run to reference the experiment run.
 
 After the run has been submitted and completed, you run the following code:
 
-![Question Image](images/q254_q_0026900002.png)
+![Question Image](../images/q254_q_0026900002.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -18,12 +18,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q254_q_0027000001.png)
+![Question Image](../images/q254_q_0027000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q254_ans_0_0027000002.png" alt="Answer Image"><br>
+<img src="../images/q254_ans_0_0027000002.png" alt="Answer Image"><br>
+
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-and-where</p>
 

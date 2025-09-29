@@ -10,20 +10,20 @@ You plan to use WS1 to train two models named model1 and model2. For model1, you
 
 You need to determine the compute targets you should use to train each model. Your solution must ensure the following:
 
-•	The compute target for model1 supports auto-shutdown/auto-start based on a schedule.
+• The compute target for model1 supports auto-shutdown/auto-start based on a schedule.
 
-•	The compute target for model2 supports the use of low-priority Azure Virtual Machines.
+• The compute target for model2 supports the use of low-priority Azure Virtual Machines.
 
 Which compute targets should you use? To answer, move the appropriate compute targets to the correct model. You may use each compute target once, more than once, or not at all. You may need to move the split bar between panes or scroll to view content.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q176_q_image586.png)
+![Question Image](../images/q176_q_image586.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q176_ans_0_image587.png" alt="Answer Image"><br>
+<img src="../images/q176_ans_0_image587.png" alt="Answer Image"><br>
 
 </details>
 

@@ -6,7 +6,7 @@ You are using the Hyperdrive feature in Azure Machine Learning to train a model.
 
 You configure the Hyperdrive experiment by running the following code:
 
-![Question Image](images/q208_q_0018900001.png)
+![Question Image](../images/q208_q_0018900001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -14,12 +14,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q208_q_0019000001.png)
+![Question Image](../images/q208_q_0019000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q208_ans_0_image607.png" alt="Answer Image"><br>
+<img src="../images/q208_ans_0_image607.png" alt="Answer Image"><br>
 
 </details>
 
@@ -37,6 +37,7 @@ All combination + Reduce computing resource , because &quot;Research has shown t
 
 Referred from: Topic 1 Question 37 in DP-100
 Credit: @lookaaaa</p></blockquote>
+
 <blockquote><p><strong>NullVoider_0</strong> <code>(Thu 20 Jun 2024 07:50)</code> - <em>Upvotes: 1</em></p><p>Based on the Hyperdrive configuration code snippet provided:
 
 1. False - Using RandomParameterSampling does not test every possible parameter combination, only randomly selected values from the specified distributions.
@@ -52,14 +53,15 @@ Credit: @lookaaaa</p></blockquote>
 <blockquote><p><strong>Arend78</strong> <code>(Mon 12 Jun 2023 12:32)</code> - <em>Upvotes: 1</em></p><p>Please note that range() in Python is excluding the upper boundary value, see https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters:
 
 command_job_for_sweep = command_job(
-    batch_size=Choice(values=[16, 32, 64, 128]),
-    number_of_hidden_layers=Choice(values=range(1,5)),
+batch_size=Choice(values=[16, 32, 64, 128]),
+number_of_hidden_layers=Choice(values=range(1,5)),
 command_job_for_sweep = command_job(
-    batch_size=Choice(values=[16, 32, 64, 128]),
-    number_of_hidden_layers=Choice(values=range(1,5)),
+batch_size=Choice(values=[16, 32, 64, 128]),
+number_of_hidden_layers=Choice(values=range(1,5)),
 )
 
 In this case, batch_size one of the values [16, 32, 64, 128] and number_of_hidden_layers takes one of the values [1, 2, 3, 4].</p></blockquote>
+
 <blockquote><p><strong>therealola</strong> <code>(Sun 18 Dec 2022 02:41)</code> - <em>Upvotes: 3</em></p><p>Similar question on exam 18-06-22</p></blockquote>
 <blockquote><p><strong>kevinvbc</strong> <code>(Tue 25 Oct 2022 19:19)</code> - <em>Upvotes: 2</em></p><p>It should be No, Yes,No, No. It is random sampling not grid sampling, so not all possible combinations will be tested (which would be impossible here anyway, since some of the parameters are coming from continuous distributions).</p></blockquote>
 <blockquote><p><strong>kkkk_jjjj</strong> <code>(Sun 18 Sep 2022 08:42)</code> - <em>Upvotes: 3</em></p><p>on exam 18/03/2022</p></blockquote>

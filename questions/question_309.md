@@ -10,12 +10,12 @@ You need to use MLflow Tracking to store metrics and artifacts from your local e
 
 In which order should you perform the actions? To answer, move all actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q309_q_image425.png)
+![Question Image](../images/q309_q_image425.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q309_ans_0_image426.png" alt="Answer Image"><br>
+<img src="../images/q309_ans_0_image426.png" alt="Answer Image"><br>
 
 </details>
 

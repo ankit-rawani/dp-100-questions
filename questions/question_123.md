@@ -14,12 +14,12 @@ How should you construct the URI? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q123_q_image402.png)
+![Question Image](../images/q123_q_image402.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q123_ans_0_image403.png" alt="Answer Image"><br>
+<img src="../images/q123_ans_0_image403.png" alt="Answer Image"><br>
 
 </details>
 
@@ -28,9 +28,10 @@ NOTE: Each correct selection is worth one point.
 
 <blockquote><p><strong>ajay0011</strong> <code>(Wed 04 Oct 2023 04:37)</code> - <em>Upvotes: 9</em></p><p>This is a URI (Uniform Resource Identifier) that points to a folder named &quot;folder1&quot; in a file system named &quot;fs1&quot; inside an Azure Data Lake Storage Gen2 storage account named &quot;storage1&quot;.
 
-The URI is using the ABFSS (Azure Blob File System Service) protocol to access the storage account. 
+The URI is using the ABFSS (Azure Blob File System Service) protocol to access the storage account.
 abfss://&lt;filesystem&gt;@&lt;storageaccount&gt;.dfs.core.windows.net/&lt;directory&gt;</p></blockquote>
-<blockquote><p><strong>PI_Team</strong> <code>(Thu 25 Jan 2024 11:38)</code> - <em>Upvotes: 2</em></p><p>Correct. 
+
+<blockquote><p><strong>PI_Team</strong> <code>(Thu 25 Jan 2024 11:38)</code> - <em>Upvotes: 2</em></p><p>Correct.
 
 The URI abfss://&lt;filesystem&gt;@&lt;storageaccount&gt;.dfs.core.windows.net/&lt;directory&gt; points to a folder named folder1 in a file system named fs1 inside an Azure Data Lake Storage Gen2 storage account named storage1. The URI is using the ABFSS (Azure Blob File System Service) protocol to access the storage account.
 
@@ -42,6 +43,7 @@ abfss: The scheme identifier for the ABFSS protocol.
 &lt;storageaccount&gt;: The name of the storage account.
 .dfs.core.windows.net: The domain name for the Azure Data Lake Storage Gen2 service.
 &lt;directory&gt;: The path to the folder.</p></blockquote>
+
 <blockquote><p><strong>Kanwal001</strong> <code>(Wed 28 Feb 2024 20:36)</code> - <em>Upvotes: 5</em></p><p>On exam 28 Aug 2023</p></blockquote>
 <blockquote><p><strong>evangelist</strong> <code>(Sun 01 Dec 2024 10:21)</code> - <em>Upvotes: 1</em></p><p>Correct Selections:
 abfss

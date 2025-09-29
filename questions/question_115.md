@@ -8,18 +8,18 @@ You have an Azure Machine Learning workspace.
 
 You run the following code in a Python environment in which the configuration file for your workspace has been downloaded.
 
-![Question Image](images/q115_q_image387.png)
+![Question Image](../images/q115_q_image387.png)
 
 Instructions: For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q115_q_image388.png)
+![Question Image](../images/q115_q_image388.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q115_ans_0_image389.png" alt="Answer Image"><br>
+<img src="../images/q115_ans_0_image389.png" alt="Answer Image"><br>
 
 </details>
 

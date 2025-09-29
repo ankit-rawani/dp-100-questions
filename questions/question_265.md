@@ -10,12 +10,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images/q265_q_0028800001.png)
+![Question Image](../images/q265_q_0028800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q265_ans_0_image610.png" alt="Answer Image"><br>
+<img src="../images/q265_ans_0_image610.png" alt="Answer Image"><br>
 
 </details>
 
@@ -39,6 +39,7 @@ https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automo
 Create and run a training pipeline that prepares the data and trains a classification model on the compute cluster.
 
 And whatsmore, you must &quot;Deploy a real-time endpoint&quot; or otherwise you are not complying with the requirement of the question.</p></blockquote>
+
 <blockquote><p><strong>BleadFast</strong> <code>(Wed 15 Sep 2021 07:44)</code> - <em>Upvotes: 2</em></p><p>I Agree</p></blockquote>
 <blockquote><p><strong>AkashV</strong> <code>(Sun 06 Feb 2022 16:44)</code> - <em>Upvotes: 2</em></p><p>You need a compute instance to create, run and publish the pipeline for training the model.</p></blockquote>
 <blockquote><p><strong>haby</strong> <code>(Tue 18 Jun 2024 13:33)</code> - <em>Upvotes: 1</em></p><p>D-C-B is correct for me. We can use pre-built compute cluster to run AML Designer, so no need to create a new compute instance.</p></blockquote>
@@ -50,6 +51,7 @@ C-Create and run a real-time inference pipeline on the compute cluster.
 After your model is trained, you need to create an inference pipeline. This pipeline will take new data, run it through your model, and output the model&#x27;s prediction. Since you want the client applications to get an immediate response, you should use a real-time inference pipeline.
 B-Deploy a real-time endpoint on the inference cluster.
 After your inference pipeline is created, you deploy it as a web service on the AKS inference cluster. This endpoint will allow client applications to send new data and receive predictions in real-time.</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Mon 21 Aug 2023 19:39)</code> - <em>Upvotes: 1</em></p><p>The correct sequence of actions to use the Azure Machine Learning designer to create a web service for a classification model would be:
 Create and run a training pipeline that prepares the data and trains a classification model on the computer cluster.
 Use the automated ML user interface to train a classification model on the compute cluster.
@@ -65,6 +67,7 @@ Questions says need to use the Azure Machine Learning designer to create a web s
 -&gt; Use the Automated ML user interference pipeline
 -&gt; create and run a real-time inference pipeline on the computer cluster
 -&gt; deploy a real-time endpoint on the inference cluster</p></blockquote>
+
 <blockquote><p><strong>TheCyanideLancer</strong> <code>(Fri 15 Jul 2022 04:44)</code> - <em>Upvotes: 1</em></p><p>Given answer is wrong, you definitely need to deploy the model to consume it. We can run the pipeline on a compute cluster as well, I do not see a need to create and start a compute Instance again.</p></blockquote>
 <blockquote><p><strong>dija123</strong> <code>(Tue 14 Jun 2022 08:20)</code> - <em>Upvotes: 2</em></p><p>Create and run a training pipeline 
 Create and run a real-time inference pipeline.

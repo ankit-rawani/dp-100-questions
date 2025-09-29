@@ -12,12 +12,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q209_q_0019300001.png)
+![Question Image](../images/q209_q_0019300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q209_ans_0_0019400001.png" alt="Answer Image"><br>
+<img src="../images/q209_ans_0_0019400001.png" alt="Answer Image"><br>
+
 <p>Box 1: True Positive -</p>
 <p>A true positive is an outcome where the model correctly predicts the positive class</p>
 <p>Box 2: True Negative -</p>
@@ -40,9 +41,10 @@ Hot Area:
 
 <blockquote><p><strong>lucazav</strong> <code>(Mon 18 Apr 2022 21:29)</code> - <em>Upvotes: 19</em></p><p>A mnemonic rule could be:
   - &quot;Positive&quot; and &quot;Negative&quot; are related to the output of the model, once the positive result is associated to an outcome by convention.
-  - &quot;True&quot; and &quot;False&quot; are the result comparing the model output to the reality 
+  - &quot;True&quot; and &quot;False&quot; are the result comparing the model output to the reality
 
 That said, given that is positive a person that has a disease by convention, &quot;the model predict that a person has a disease (Positive), and the person doesn&#x27;t have a disease (False with respect to the prediction): it&#x27;s a False Positive</p></blockquote>
+
 <blockquote><p><strong>Nugi</strong> <code>(Mon 14 Feb 2022 10:20)</code> - <em>Upvotes: 13</em></p><p>True Positive, True Negative, False Positive, False Negative.</p></blockquote>
 <blockquote><p><strong>nokcha1006</strong> <code>(Sun 17 Nov 2024 07:51)</code> - <em>Upvotes: 1</em></p><p>True Positive, True Negative, False Negative, False Positive.
 &quot;Wolf&quot; is a [P (Positives)] : Reality: A wolf threatened [T (True)]

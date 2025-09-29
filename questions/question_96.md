@@ -16,12 +16,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q96_q_0012400001.png)
+![Question Image](../images/q96_q_0012400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q96_ans_0_0012500001.png" alt="Answer Image"><br>
+<img src="../images/q96_ans_0_0012500001.png" alt="Answer Image"><br>
+
 <p>Box 1: Tensorflow -</p>
 <p>TensorFlow represents an estimator for training in TensorFlow experiments.</p>
 <p>Box 2: 12 vCPU, 112 GB memory..,2 GPU,..</p>

@@ -8,18 +8,18 @@ You build a data pipeline in an Azure Machine Learning workspace by using the Az
 
 You create the following code fragment in Python:
 
-![Question Image](images/q291_q_image407.png)
+![Question Image](../images/q291_q_image407.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q291_q_image408.png)
+![Question Image](../images/q291_q_image408.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q291_ans_0_image409.png" alt="Answer Image"><br>
+<img src="../images/q291_ans_0_image409.png" alt="Answer Image"><br>
 
 </details>
 

@@ -31,7 +31,7 @@ def download_image(img_url, question_num, image_dir, headers, unique_id=""):
                 img_f.write(chunk)
         
         # Return the relative path for the markdown file
-        relative_path = os.path.join(image_dir, unique_img_filename).replace('\\', '/')
+        relative_path = os.path.join("..", image_dir, unique_img_filename).replace('\\', '/')
         return relative_path
         
     except requests.exceptions.RequestException as img_e:
@@ -150,7 +150,7 @@ def parse_and_generate_file(question_block_soup, base_url, question_num, total_q
         if question_num > 1:
             nav_links.append(f"[<< Previous Question](question_{question_num - 1}.md)")
         
-        nav_links.append(f"[Home](/index.md)") # Link back to the main index
+        nav_links.append(f"[Home](../index.md)") # Link back to the main index
 
         if question_num < total_questions:
             nav_links.append(f"[Next Question >>](question_{question_num + 1}.md)")

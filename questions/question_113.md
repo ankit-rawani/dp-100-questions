@@ -8,11 +8,11 @@ You use Azure Machine Learning designer to load the following datasets into an e
 
 Dataset1 -
 
-![Question Image](images/q113_q_image383.png)
+![Question Image](../images/q113_q_image383.png)
 
 Dataset2 -
 
-![Question Image](images/q113_q_image384.png)
+![Question Image](../images/q113_q_image384.png)
 
 You need to create a dataset that has the same columns and header row as the input datasets and contains all rows from both input datasets.
 
@@ -20,13 +20,13 @@ Solution: Use the Execute Python Script module.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 

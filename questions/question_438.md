@@ -14,12 +14,12 @@ Which code segments should you use? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q438_q_image552.png)
+![Question Image](../images/q438_q_image552.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q438_ans_0_image553.png" alt="Answer Image"><br>
+<img src="../images/q438_ans_0_image553.png" alt="Answer Image"><br>
 
 </details>
 

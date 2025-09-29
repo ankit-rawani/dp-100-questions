@@ -30,25 +30,26 @@ id,f1,f2,I
 
 You run the following code:
 
-![Question Image](images/q231_q_0022300001.png)
+![Question Image](../images/q231_q_0022300001.png)
 
 You need to create a dataset named training_data and load the data from all files into a single data frame by using the following code:
 
-![Question Image](images/q231_q_0022300002.png)
+![Question Image](../images/q231_q_0022300002.png)
 
 Solution: Run the following code:
 
-![Question Image](images/q231_q_0022300003.png)
+![Question Image](../images/q231_q_0022300003.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>Use two file paths.</p>
 <p>Use Dataset.Tabular_from_delimeted as the data isn&#x27;t cleansed.</p>
 <p>Note:</p>
@@ -71,15 +72,17 @@ dataset = Dataset.Tabular.from_parquet_files(path=datastore_path, partition_form
 
 the partition_format argument appears optional.
 reference: https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/work-with-data/datasets-tutorial/timeseries-datasets/tabular-timeseries-dataset-filtering.ipynb</p></blockquote>
+
 <blockquote><p><strong>james2033</strong> <code>(Sat 19 Oct 2024 02:24)</code> - <em>Upvotes: 1</em></p><p>This question is out-of-date, obsoleted. Should be
 
 from azure.ai.ml import ...
 
-not 
+not
 
 from azureml.core import Dataset
 
 Reference: https://github.com/Azure/azure-sdk-for-python/tree/azure-ai-ml_1.11.1/sdk/ml/azure-ai-ml#authenticate-the-client</p></blockquote>
+
 <blockquote><p><strong>fhlos</strong> <code>(Fri 28 Jun 2024 11:53)</code> - <em>Upvotes: 1</em></p><p>YES - Chat GPT
 Yes, the solution meets the goal. The provided code correctly creates a dataset named training_data and loads the data from all files into a single DataFrame.
 
@@ -95,34 +98,41 @@ The paths variable is defined to specify the paths of all files to be included i
 The Dataset.Tabular.from_delimited_files() method is used to create the dataset training_data by providing the paths variable.
 The to_pandas_dataframe() method is called on the training_data dataset to load the data from all files into a single pandas DataFrame.
 By executing this code, the dataset training_data will be created, and the data from all files will be loaded into a single DataFrame for further processing.</p></blockquote>
+
 <blockquote><p><strong>therealola</strong> <code>(Sun 18 Jun 2023 01:43)</code> - <em>Upvotes: 2</em></p><p>On exam 18-06-22</p></blockquote>
 <blockquote><p><strong>azurelearner666</strong> <code>(Fri 14 Apr 2023 06:25)</code> - <em>Upvotes: 1</em></p><p>A. Yes.
 
 from azureml.core import Dataset
 
 # Get the default datastore
+
 default_ds = ws.get_default_datastore()
 
 #Create a tabular dataset from the path on the datastore (this may take a short while)
-tab_data_set = Dataset.Tabular.from_delimited_files(path=(default_ds, &#x27;diabetes-data/*.csv&#x27;))
+tab_data_set = Dataset.Tabular.from_delimited_files(path=(default_ds, &#x27;diabetes-data/\*.csv&#x27;))
 
 # Display the first 20 rows as a Pandas dataframe
+
 tab_data_set.take(20).to_pandas_dataframe()</p></blockquote>
+
 <blockquote><p><strong>Thornehead</strong> <code>(Thu 23 Mar 2023 21:51)</code> - <em>Upvotes: 1</em></p><p>Read the question again. The answer is not yes because it has missing values in it. The data has to be processed first then it should be put in for the training.</p></blockquote>
 <blockquote><p><strong>nick234987</strong> <code>(Fri 14 Oct 2022 09:15)</code> - <em>Upvotes: 5</em></p><p>It is yes, no doubt</p></blockquote>
 <blockquote><p><strong>slash_nyk</strong> <code>(Sun 26 Jun 2022 03:25)</code> - <em>Upvotes: 1</em></p><p>Hi All. The code works but answer should be yes. Pay attention to the output. Print out the the  dataset and you will notice the difference in soruce</p></blockquote>
-<blockquote><p><strong>surfing</strong> <code>(Sat 18 Jun 2022 20:22)</code> - <em>Upvotes: 3</em></p><p>The answer is Yes. 
+<blockquote><p><strong>surfing</strong> <code>(Sat 18 Jun 2022 20:22)</code> - <em>Upvotes: 3</em></p><p>The answer is Yes.
 
 from azureml.core import Dataset
 
 # Get the default datastore
+
 default_ds = ws.get_default_datastore()
 
 #Create a tabular dataset from the path on the datastore (this may take a short while)
-tab_data_set = Dataset.Tabular.from_delimited_files(path=(default_ds, &#x27;diabetes-data/*.csv&#x27;))
+tab_data_set = Dataset.Tabular.from_delimited_files(path=(default_ds, &#x27;diabetes-data/\*.csv&#x27;))
 
 # Display the first 20 rows as a Pandas dataframe
+
 tab_data_set.take(20).to_pandas_dataframe()</p></blockquote>
+
 <blockquote><p><strong>rsamant</strong> <code>(Tue 31 May 2022 18:39)</code> - <em>Upvotes: 5</em></p><p>answer is yes. tested</p></blockquote>
 <blockquote><p><strong>scipio</strong> <code>(Mon 16 May 2022 18:25)</code> - <em>Upvotes: 2</em></p><p>I think the problem is the * for the directory. Something like this:
 paths = [(data_store, &#x27;data/2018/*.csv&#x27;),(data_store, &#x27;data/2019/*.csv&#x27;)]
@@ -134,15 +144,18 @@ So yes, answer should be A.</p></blockquote>
 datastore_name = &#x27;your datastore name&#x27;
 
 # get existing workspace
+
 workspace = Workspace.from_config()
-    
+
 # retrieve an existing datastore in the workspace by name
+
 datastore = Datastore.get(workspace, datastore_name)
 
 # create a TabularDataset from 3 file paths in datastore
+
 datastore_paths = [(datastore, &#x27;weather/2018/11.csv&#x27;),
-                   (datastore, &#x27;weather/2018/12.csv&#x27;),
-                   (datastore, &#x27;weather/2019/*.csv&#x27;)]
+(datastore, &#x27;weather/2018/12.csv&#x27;),
+(datastore, &#x27;weather/2019/*.csv&#x27;)]
 
 weather_ds = Dataset.Tabular.from_delimited_files(path=datastore_paths)</p></blockquote>
 

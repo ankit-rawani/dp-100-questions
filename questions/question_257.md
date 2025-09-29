@@ -4,7 +4,7 @@ HOTSPOT -
 
 You collect data from a nearby weather station. You have a pandas dataframe named weather_df that includes the following data:
 
-![Question Image](images/q257_q_0027200001.png)
+![Question Image](../images/q257_q_0027200001.png)
 
 The data is collected every 12 hours: noon and midnight.
 
@@ -20,12 +20,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q257_q_0027400001.png)
+![Question Image](../images/q257_q_0027400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q257_ans_0_image609.png" alt="Answer Image"><br>
+<img src="../images/q257_ans_0_image609.png" alt="Answer Image"><br>
 
 </details>
 
@@ -43,6 +43,7 @@ Hot Area:
 In our case, time interval is 12 hours. We would need to forecast 14 periods forward to gain a prediction over the next 7 days. So, 14 should be the answer
 
 https://github.com/Azure/azureml-examples/blob/main/python-sdk/tutorials/automl-with-azureml/forecasting-hierarchical-timeseries/auto-ml-forecasting-hierarchical-timeseries.ipynb</p></blockquote>
+
 <blockquote><p><strong>pancman</strong> <code>(Wed 11 Oct 2023 02:10)</code> - <em>Upvotes: 2</em></p><p>max_horizon should certainly be 14</p></blockquote>
 <blockquote><p><strong>kkkk_jjjj</strong> <code>(Mon 18 Sep 2023 08:44)</code> - <em>Upvotes: 2</em></p><p>on exam 18/03/2022</p></blockquote>
 <blockquote><p><strong>JoshuaXu</strong> <code>(Sat 06 May 2023 22:01)</code> - <em>Upvotes: 2</em></p><p>on Exam 6 Nov 2021, and max_horizon in my opinion is 14.</p></blockquote>
@@ -54,6 +55,7 @@ The desired maximum forecast horizon in units of time-series frequency. The defa
 Units are based on the time interval of your training data, e.g., monthly, weekly that the forecaster should predict out. When task type is forecasting, this parameter is required. For more information on setting forecasting parameters, see Auto-train a time-series forecast model. This setting is being deprecated. Please use forecasting_parameters instead
 
 Answer is 14 instead of 7 based on the documentation. (Units are based on the time interval of your training data)</p></blockquote>
+
 <blockquote><p><strong>rishi_ram</strong> <code>(Wed 07 Dec 2022 13:47)</code> - <em>Upvotes: 3</em></p><p>Exact Question was there in June 2021 Exam</p></blockquote>
 <blockquote><p><strong>Lucario95</strong> <code>(Wed 23 Nov 2022 10:56)</code> - <em>Upvotes: 3</em></p><p>I also agree with 14 as max_horizon</p></blockquote>
 <blockquote><p><strong>ziizai</strong> <code>(Tue 15 Nov 2022 03:10)</code> - <em>Upvotes: 2</em></p><p>It says max_horizon is deprecated.

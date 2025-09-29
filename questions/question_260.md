@@ -10,17 +10,17 @@ You need to create a pipeline that runs a processing script to load data from a 
 
 Solution: Run the following code:
 
-![Question Image](images/q260_q_0027700001.png)
+![Question Image](../images/q260_q_0027700001.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -38,12 +38,12 @@ precess_step = PythonScriptStep(name = &#x27;Data Processing&#x27;,
                                 runconfig = run_config,
                                 arguments = [&#x27;--datafolder&#x27;, dataFolder])
 
-where, 
+where,
 
 dataFolder = PipelineData(name = &#x27;datafolder&#x27;, datastore = ws.get_default_datastore())
 
-
 so the answer is NO.</p></blockquote>
+
 <blockquote><p><strong>snegnik</strong> <code>(Wed 29 Nov 2023 19:06)</code> - <em>Upvotes: 1</em></p><p>I think input argument were losted for proces_ step, and output argument for the train_step</p></blockquote>
 <blockquote><p><strong>synapse</strong> <code>(Mon 12 Sep 2022 00:29)</code> - <em>Upvotes: 2</em></p><p>The answer is correct (A). But no need to look into this. DataReference is deprecated</p></blockquote>
 <blockquote><p><strong>synapse</strong> <code>(Mon 12 Sep 2022 00:28)</code> - <em>Upvotes: 6</em></p><p>Skip this question. DataReference is deprecated</p></blockquote>

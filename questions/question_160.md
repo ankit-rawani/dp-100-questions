@@ -10,12 +10,12 @@ You need to clone repo1 to make it available directly from WS1. The configuratio
 
 Which four actions should you perform in sequence?
 
-![Question Image](images/q160_q_image564.png)
+![Question Image](../images/q160_q_image564.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q160_ans_0_image565.png" alt="Answer Image"><br>
+<img src="../images/q160_ans_0_image565.png" alt="Answer Image"><br>
 
 </details>
 

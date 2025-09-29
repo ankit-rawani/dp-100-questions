@@ -22,12 +22,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q80_q_0009600001.png)
+![Question Image](../images/q80_q_0009600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q80_ans_0_image600.png" alt="Answer Image"><br>
+<img src="../images/q80_ans_0_image600.png" alt="Answer Image"><br>
 
 </details>
 
@@ -42,23 +42,30 @@ Hot Area:
 import pandas as pd  # Correct import for handling data frames
 
 # Load dataset
+
 dataset = pd.read_csv(&quot;data\\ProductSales.csv&quot;)
 
 # Map categories to numbers
+
 ProductCategoryMapping = {&quot;Bikes&quot;: 1, &quot;Cars&quot;: 2, &quot;Boats&quot;: 3, &quot;Vans&quot;: 4}
 
 # Apply the mapping
+
 dataset[&#x27;ProductCategoryMapping&#x27;] = dataset[&#x27;ProductCategory&#x27;].map(ProductCategoryMapping)
 
 # Initialize the regression model
+
 regr = linear_model.LinearRegression()
 
 # Specify the features and target variable
+
 X_train = dataset[[&#x27;ProductCategoryMapping&#x27;, &#x27;ProductSize&#x27;, &#x27;ProductCost&#x27;]]
 Y_train = dataset[&#x27;Sales&#x27;]
 
 # Fit the model
+
 regr.fit(X_train, Y_train)</p></blockquote>
+
 <blockquote><p><strong>sai384957324</strong> <code>(Thu 10 Oct 2024 15:54)</code> - <em>Upvotes: 1</em></p><p>Pandas as df and map is correct</p></blockquote>
 <blockquote><p><strong>Lion007</strong> <code>(Sun 30 Jun 2024 19:18)</code> - <em>Upvotes: 4</em></p><p>1. Import the pandas library to handle data frames:
 import pandas as pd
@@ -68,6 +75,7 @@ dataset[&#x27;ProductCategoryMapping&#x27;] = dataset[&#x27;ProductCategory&#x27
 To clear the confusion of some: Transpose is wrong. In a DataFrame, the transpose() function is used to transpose index and columns. Reflect the DataFrame over its main diagonal by writing rows as columns and vice-versa. Transposing a dataset does not convert categorical variables into a format suitable for regression analysis. This operation does not transform categorical data into a numerical format.
 
 In contrast, the &#x27;map&#x27; function in pandas is used to match and transform values in a Series based on a given dictionary of correspondences. In the case of the product categories &#x27;Bikes&#x27;, &#x27;Cars&#x27;, &#x27;Vans&#x27;, and &#x27;Boats&#x27;, these categories are to be mapped to numerical values {1, 2, 3, 4}, as specified in the ProductCategoryMapping dictionary. The purpose of this is to transform the categorical data into a numerical format that can be understood by regression models in scikit-learn.</p></blockquote>
+
 <blockquote><p><strong>lena123</strong> <code>(Wed 21 Jun 2023 06:29)</code> - <em>Upvotes: 3</em></p><p>The answer is map(), Transpose doesn&#x27;t transforms!!</p></blockquote>
 <blockquote><p><strong>ashii007</strong> <code>(Sat 25 Jun 2022 21:34)</code> - <em>Upvotes: 2</em></p><p>map() it is. https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html</p></blockquote>
 <blockquote><p><strong>ljljljlj</strong> <code>(Tue 11 Jan 2022 14:53)</code> - <em>Upvotes: 5</em></p><p>On exam 2021/7/10</p></blockquote>
@@ -80,14 +88,15 @@ productCategoryMapping = {&#x27;Bikes&#x27;:1, &#x27;Cars&#x27;:2, &#x27;Vans&#x
 salesData[&#x27;Mapping&#x27;] = salesData[&#x27;Product&#x27;].map(productCategoryMapping)
 print(salesData)
 
-This gives the following output - 
+This gives the following output -
 
-  Product  2017  2018  Mapping
-0   Bikes    34    25        1
-1    Cars    65    76        2
-2    Vans    48    55        3
+Product 2017 2018 Mapping
+0 Bikes 34 25 1
+1 Cars 65 76 2
+2 Vans 48 55 3
 
 So I think A) .map is correct answer</p></blockquote>
+
 <blockquote><p><strong>wjrmffldrhrl</strong> <code>(Tue 07 Sep 2021 23:57)</code> - <em>Upvotes: 3</em></p><p>Pandas.map() method need to lambda</p></blockquote>
 <blockquote><p><strong>wjrmffldrhrl</strong> <code>(Sat 11 Sep 2021 01:05)</code> - <em>Upvotes: 3</em></p><p>Oh... I&#x27;m wrong.. I just tested it and the map is correct.</p></blockquote>
 <blockquote><p><strong>timotheescheurer</strong> <code>(Mon 02 Aug 2021 07:23)</code> - <em>Upvotes: 3</em></p><p>The answer is pd.map ! I just tested it.</p></blockquote>
@@ -96,6 +105,7 @@ So I think A) .map is correct answer</p></blockquote>
 <blockquote><p><strong>Lion007</strong> <code>(Sun 30 Jun 2024 19:12)</code> - <em>Upvotes: 1</em></p><p>Transpose is Wrong. The justification provided for the choice of &#x27;transpose&#x27; reflects a misunderstanding. Transposing a dataset does not convert categorical variables into a format suitable for regression analysis. Transposing is a matrix operation that flips a table over its diagonal, turning rows into columns and vice versa. This operation does not transform categorical data into a numerical format.
 
 In contrast, the &#x27;map&#x27; function in pandas is used to match and transform values in a Series based on a given dictionary of correspondences. In the case of the product categories &#x27;Bikes&#x27;, &#x27;Cars&#x27;, &#x27;Vans&#x27;, and &#x27;Boats&#x27;, these categories are to be mapped to numerical values {1, 2, 3, 4}, as specified in the ProductCategoryMapping dictionary. The purpose of this is to transform the categorical data into a numerical format that can be understood by regression models in scikit-learn.</p></blockquote>
+
 <blockquote><p><strong>SN22</strong> <code>(Sun 18 Apr 2021 20:13)</code> - <em>Upvotes: 6</em></p><p>the second answer should be map</p></blockquote>
 <blockquote><p><strong>user11111</strong> <code>(Mon 01 Mar 2021 00:08)</code> - <em>Upvotes: 4</em></p><p>The answer is Transpose, map is Used for substituting each value in a Series with another value
 https://www.w3resource.com/pandas/dataframe/dataframe-transpose.php

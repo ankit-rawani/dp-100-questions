@@ -8,7 +8,7 @@ You plan to aggregate data for all of the TSV files together and then register t
 
 You run the following code.
 
-![Question Image](images/q193_q_0016500001.png)
+![Question Image](../images/q193_q_0016500001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -16,12 +16,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q193_q_0016500002.png)
+![Question Image](../images/q193_q_0016500002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q193_ans_0_0016600001.png" alt="Answer Image"><br>
+<img src="../images/q193_ans_0_0016600001.png" alt="Answer Image"><br>
+
 <p>Box 1: No -</p>
 <p>FileDataset references single or multiple files in datastores or from public URLs. The TSV files need to be parsed.</p>
 <p>Box 2: Yes -</p>

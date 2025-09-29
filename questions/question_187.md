@@ -4,7 +4,7 @@ You write five Python scripts that must be processed in the order specified in E
 
 You must create an Azure Machine Learning pipeline using the Python SDK, because you want to script to create the pipeline to be tracked in your version control system. You have created five PythonScriptSteps and have named the variables to match the module names.
 
-![Question Image](images/q187_q_0014900001.png)
+![Question Image](../images/q187_q_0014900001.png)
 
 You need to create the pipeline shown. Assume all relevant imports have been done.
 
@@ -12,24 +12,25 @@ Which Python code segment should you use?
 
 A.
 
-![Question Image](images/q187_q_0014900002.png)
+![Question Image](../images/q187_q_0014900002.png)
 
 B.
 
-![Question Image](images/q187_q_0015000001.png)
+![Question Image](../images/q187_q_0015000001.png)
 
 C.
 
-![Question Image](images/q187_q_0015000002.png)
+![Question Image](../images/q187_q_0015000002.png)
 
 D.
 
-![Question Image](images/q187_q_0015000003.png)
+![Question Image](../images/q187_q_0015000003.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>The steps parameter is an array of steps. To build pipelines that have multiple steps, place the steps in order in this array.</p>
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-parallel-run-step</p>
@@ -48,14 +49,15 @@ D.
 <blockquote><p><strong>Plb2</strong> <code>(Sat 24 Feb 2024 22:10)</code> - <em>Upvotes: 2</em></p><p>A would be correct if it had been
 p = Pipeline(ws, steps=StepSequence(steps=[initial_steps, step4]))
 
-
 https://learn.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.stepsequence?view=azure-ml-py#remarks</p></blockquote>
+
 <blockquote><p><strong>vv_bb</strong> <code>(Sun 12 Nov 2023 21:05)</code> - <em>Upvotes: 5</em></p><p>It should be C
 
 Check these links:
-1) https://learn.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.builder.pipelinestep?view=azure-ml-py#azureml-pipeline-core-builder-pipelinestep-run-after
 
-2) https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-getting-started.ipynb
+1. https://learn.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.builder.pipelinestep?view=azure-ml-py#azureml-pipeline-core-builder-pipelinestep-run-after
+
+2. https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-getting-started.ipynb
 -&gt; section &quot;Running a few steps in sequence&quot;</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Mon 10 Jul 2023 01:55)</code> - <em>Upvotes: 3</em></p><p>C could be</p></blockquote>
 <blockquote><p><strong>iai</strong> <code>(Sun 28 May 2023 13:24)</code> - <em>Upvotes: 1</em></p><p>A. is also wrong because it creates a non documented dependency of step_2_b on step_2_a</p></blockquote>

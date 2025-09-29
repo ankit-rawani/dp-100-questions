@@ -4,7 +4,7 @@ HOTSPOT -
 
 You are preparing to use the Azure ML SDK to run an experiment and need to create compute. You run the following code:
 
-![Question Image](images/q68_q_0008900001.png)
+![Question Image](../images/q68_q_0008900001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -12,12 +12,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q68_q_0009000001.png)
+![Question Image](../images/q68_q_0009000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q68_ans_0_image599.png" alt="Answer Image"><br>
+<img src="../images/q68_ans_0_image599.png" alt="Answer Image"><br>
 
 </details>
 
@@ -37,12 +37,14 @@ If you need voucher for your DP and AI exams contact me on+2348139103938</p></bl
 Yes, your understanding is correct. The wait_for_completion method, when called on a compute target, will wait until the specified compute target (in this case, the &#x27;aml-cluster&#x27;) has all its nodes provisioned and ready for use. The parameter show_output=True will also display detailed output while waiting, so you can monitor the progress.
 
 So, in your specific code, it will not return until the &#x27;aml-cluster&#x27; has all four nodes provisioned and ready for use.</p></blockquote>
+
 <blockquote><p><strong>MarinaMijailovic</strong> <code>(Sat 11 Nov 2023 08:32)</code> - <em>Upvotes: 5</em></p><p>NO NO YES NO
 
 NO - If it doesn&#x27;t exist an exception is raised, then a new compute target is created. It doesn&#x27;t delete and replace an existing one.
 NO - The wait_for_completion() method will return when the compute target is in the &#x27;Succeeded&#x27; or &#x27;Failed&#x27; provisioning state. It doesn&#x27;t specifically wait for all four nodes to become active.
 YES - The compute target is being created with &#x27;lowpriority&#x27; VMs, which can be preempted if Azure needs the capacity.
 NO - This code snippet does not include any code to delete the compute target after the training experiment completes.</p></blockquote>
+
 <blockquote><p><strong>Yuriy_Ch</strong> <code>(Fri 08 Sep 2023 11:09)</code> - <em>Upvotes: 2</em></p><p>Exactly this question was on exam 07/March/2023</p></blockquote>
 <blockquote><p><strong>jpalaci22</strong> <code>(Sun 20 Aug 2023 20:10)</code> - <em>Upvotes: 2</em></p><p>Seen on the exam 20Feb2023</p></blockquote>
 <blockquote><p><strong>turtle666</strong> <code>(Mon 10 Oct 2022 10:20)</code> - <em>Upvotes: 1</em></p><p>training_compute created from ComputeTarget class, and wait_for_completion() not have min_node option, different from AmlCompute Class
@@ -50,6 +52,7 @@ https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.compute.co
 <blockquote><p><strong>Thornehead</strong> <code>(Tue 27 Sep 2022 22:46)</code> - <em>Upvotes: 3</em></p><p>No, Yes, Yes and No.
 
 Read the question and coding carefully.</p></blockquote>
+
 <blockquote><p><strong>kkkk_jjjj</strong> <code>(Sun 18 Sep 2022 08:39)</code> - <em>Upvotes: 2</em></p><p>on exam 18/03/2022</p></blockquote>
 <blockquote><p><strong>TheYazan</strong> <code>(Fri 09 Sep 2022 20:52)</code> - <em>Upvotes: 1</em></p><p>On march-9-2022</p></blockquote>
 <blockquote><p><strong>JoshuaXu</strong> <code>(Fri 06 May 2022 21:38)</code> - <em>Upvotes: 1</em></p><p>on exam 6 Nov 2021</p></blockquote>
@@ -60,6 +63,7 @@ Read the question and coding carefully.</p></blockquote>
 Minimum number of nodes to wait for before considering provisioning to be complete. This doesn&#x27;t have to equal the minimum number of nodes that the compute was provisioned with, however it should not be greater than that.
 
 https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.compute.amlcompute(class)?view=azure-ml-py#wait-for-completion-show-output-false--min-node-count-none--timeout-in-minutes-25--is-delete-operation-false-</p></blockquote>
+
 <blockquote><p><strong>azurecert2021</strong> <code>(Fri 24 Dec 2021 21:03)</code> - <em>Upvotes: 4</em></p><p>yes agree with other correct answer is No No Yes No</p></blockquote>
 
 </details>

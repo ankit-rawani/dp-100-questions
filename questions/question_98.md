@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q98_q_0012900001.png)
+![Question Image](../images/q98_q_0012900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q98_ans_0_0013000001.png" alt="Answer Image"><br>
+<img src="../images/q98_ans_0_0013000001.png" alt="Answer Image"><br>
+
 <p>Box 1: Local web service -</p>
 <p>The Local web service compute target is used for testing/debugging. Use it for limited testing and troubleshooting. Hardware acceleration depends on use of libraries in the local system.</p>
 <p>Box 2: Azure Kubernetes Service (AKS)</p>
@@ -47,9 +48,10 @@ https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-target<
 <blockquote><p><strong>FlexingD</strong> <code>(Sat 05 Nov 2022 07:22)</code> - <em>Upvotes: 4</em></p><p>ACI for testing + 1</p></blockquote>
 <blockquote><p><strong>reddragondms</strong> <code>(Mon 26 Sep 2022 07:30)</code> - <em>Upvotes: 1</em></p><p>Local web services and azure container instances are listed under compute targets for inference, not training targets.
 
-Wouldn&#x27;t the order for &quot;minimize cost and deployment efforts&quot; for testing be first &quot;Local computer&quot; then &quot;Azure ML compute cluster&quot;? 
+Wouldn&#x27;t the order for &quot;minimize cost and deployment efforts&quot; for testing be first &quot;Local computer&quot; then &quot;Azure ML compute cluster&quot;?
 
 https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-target</p></blockquote>
+
 <blockquote><p><strong>claps92</strong> <code>(Mon 12 Sep 2022 15:40)</code> - <em>Upvotes: 3</em></p><p>ACI for testing (minimizes the deployment effort)</p></blockquote>
 <blockquote><p><strong>klowqw</strong> <code>(Thu 01 Sep 2022 14:18)</code> - <em>Upvotes: 2</em></p><p>ACI for testing</p></blockquote>
 <blockquote><p><strong>klowqw</strong> <code>(Fri 02 Sep 2022 19:36)</code> - <em>Upvotes: 1</em></p><p>Local for testing</p></blockquote>

@@ -10,12 +10,13 @@ Which of the following are the metrics you would choose? Answer by dragging the 
 
 Select and Place:
 
-![Question Image](images/q33_q_0004000001.jpg)
+![Question Image](../images/q33_q_0004000001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q33_ans_0_0004100001.jpg" alt="Answer Image"><br>
+<img src="../images/q33_ans_0_0004100001.jpg" alt="Answer Image"><br>
+
 <p>The evaluation metrics available for binary classification models are: Accuracy, Precision, Recall, F1 Score, and AUC.</p>
 <p>Note: A very natural question is: &#x27;Out of the individuals whom the model, how many were classified correctly (TP)?&#x27;</p>
 <p>This question can be answered by looking at the Precision of the model, which is the proportion of positives that are classified correctly.</p>

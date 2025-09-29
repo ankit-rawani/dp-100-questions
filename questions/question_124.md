@@ -14,12 +14,12 @@ Which chart types should you use? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q124_q_image400.png)
+![Question Image](../images/q124_q_image400.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q124_ans_0_image401.png" alt="Answer Image"><br>
+<img src="../images/q124_ans_0_image401.png" alt="Answer Image"><br>
 
 </details>
 
@@ -33,15 +33,16 @@ NOTE: Each correct selection is worth one point.
 The calibration curve plots a model&#x27;s confidence in its predictions against the proportion of positive samples at each confidence level (https://learn.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2#calibration-curve)
 
 The predicted vs. true chart plots the relationship between the target feature (true/actual values) and the model&#x27;s predictions (https://learn.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2#predicted-vs-true)</p></blockquote>
+
 <blockquote><p><strong>Tin_Tin</strong> <code>(Tue 09 Jul 2024 15:35)</code> - <em>Upvotes: 1</em></p><p>1. Confusion matrix
 2. Predicted vs. true
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2</p></blockquote>
 <blockquote><p><strong>labriji</strong> <code>(Mon 23 Oct 2023 18:02)</code> - <em>Upvotes: 4</em></p><p>* for sure we use the &quot;confusion matrix&quot; for classification problem 😄
 
-* for regression, we dont use &quot;confusion matrix&quot;,  we use
-&gt;&gt; &quot;Calibration curve&quot;: shows the relationship between the predicted values and the actual values.
-&gt;&gt; &quot;Predicted vs. true&quot;: visual representation of the model&#x27;s performance.
-i think both are correct 😅</p></blockquote>
+- for regression, we dont use &quot;confusion matrix&quot;, we use
+  &gt;&gt; &quot;Calibration curve&quot;: shows the relationship between the predicted values and the actual values.
+  &gt;&gt; &quot;Predicted vs. true&quot;: visual representation of the model&#x27;s performance.
+  i think both are correct 😅</p></blockquote>
 
 </details>
 

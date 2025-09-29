@@ -10,12 +10,13 @@ Which properties should you select for each tree depth? To answer, select the ap
 
 Hot Area:
 
-![Question Image](images/q473_q_0043900001.png)
+![Question Image](../images/q473_q_0043900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q473_ans_0_0044000001.png" alt="Answer Image"><br>
+<img src="../images/q473_ans_0_0044000001.png" alt="Answer Image"><br>
+
 <p>In decision trees, the depth of the tree determines the variance. A complicated decision tree (e.g. deep) has low bias and high variance.</p>
 <p>Note: In statistics and machine learning, the biasג€&quot;variance tradeoff is the property of a set of predictive models whereby models with a lower bias in parameter estimation have a higher variance of the parameter estimates across samples, and vice versa. Increasing the bias will decrease the variance. Increasing the variance will decrease the bias.</p>
 <p>Reference:</p>
@@ -31,6 +32,7 @@ Hot Area:
 variance: overfitting
 
 Reference: https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Thu 24 Aug 2023 03:14)</code> - <em>Upvotes: 2</em></p><p>In decision trees, the depth of the tree determines the variance. A complicated decision tree (e.g. deep) has low bias and high variance.  Increasing the bias will decrease the variance. Increasing the variance will decrease the bias.</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Tue 13 Dec 2022 13:46)</code> - <em>Upvotes: 3</em></p><p>Correct!
 

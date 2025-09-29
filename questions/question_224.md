@@ -4,25 +4,26 @@ You register a file dataset named csv_folder that references a folder. The folde
 
 You plan to use the following code to run a script that loads data from the file dataset. You create and instantiate the following variables:
 
-![Question Image](images/q224_q_0021500001.png)
+![Question Image](../images/q224_q_0021500001.png)
 
 You have the following code:
 
-![Question Image](images/q224_q_0021500002.png)
+![Question Image](../images/q224_q_0021500002.png)
 
 You need to pass the dataset to ensure that the script can read the files it references.
 
 Which code segment should you insert to replace the code comment?
 
-* A.inputs=[file_dataset.as_named_input('training_files')],
-* B.inputs=[file_dataset.as_named_input('training_files').as_mount()],
-* C.inputs=[file_dataset.as_named_input('training_files').to_pandas_dataframe()],
-* D.script_params={'--training_files': file_dataset},
+- A.inputs=[file_dataset.as_named_input('training_files')],
+- B.inputs=[file_dataset.as_named_input('training_files').as_mount()],
+- C.inputs=[file_dataset.as_named_input('training_files').to_pandas_dataframe()],
+- D.script_params={'--training_files': file_dataset},
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Example:</p>
 <p>from azureml.train.estimator import Estimator</p>
 <p>script_params = {</p>

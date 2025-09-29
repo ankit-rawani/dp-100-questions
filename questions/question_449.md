@@ -12,12 +12,12 @@ You need to start interactive data wrangling with the user identity passthrough.
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q449_q_image569.png)
+![Question Image](../images/q449_q_image569.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q449_ans_0_image570.png" alt="Answer Image"><br>
+<img src="../images/q449_ans_0_image570.png" alt="Answer Image"><br>
 
 </details>
 

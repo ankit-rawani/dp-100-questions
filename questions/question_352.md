@@ -14,12 +14,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q352_q_image562.png)
+![Question Image](../images/q352_q_image562.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q352_ans_0_image563.png" alt="Answer Image"><br>
+<img src="../images/q352_ans_0_image563.png" alt="Answer Image"><br>
 
 </details>
 

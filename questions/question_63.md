@@ -12,12 +12,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q63_q_0007500001.png)
+![Question Image](../images/q63_q_0007500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q63_ans_0_0007600001.png" alt="Answer Image"><br>
+<img src="../images/q63_ans_0_0007600001.png" alt="Answer Image"><br>
+
 <p>Box 1: register_azure_blob_container</p>
 <p>Register an Azure Blob Container to the datastore.</p>
 <p>Box 2: create_if_not_exists = False</p>
@@ -34,7 +35,8 @@ Hot Area:
 <blockquote><p><strong>atyagi55</strong> <code>(Thu 27 Oct 2022 16:36)</code> - <em>Upvotes: 9</em></p><p>give answer is correct.Please refer link
 https://azure.github.io/azureml-sdk-for-r/reference/register_azure_blob_container_datastore.html
 
-create_if_not_exists	&quot;If TRUE, creates the blob container if it does not exists.&quot;</p></blockquote>
+create_if_not_exists &quot;If TRUE, creates the blob container if it does not exists.&quot;</p></blockquote>
+
 <blockquote><p><strong>MarinaMijailovic</strong> <code>(Sun 27 Oct 2024 09:52)</code> - <em>Upvotes: 3</em></p><p>Answer is correct. We are not creating a container, only registering it and we need an error message if it does not exist. If we set &quot;create_if_not_exists&quot; to true, it will not display the error message but create the container and we dont want that.</p></blockquote>
 <blockquote><p><strong>ougullamaija</strong> <code>(Thu 19 Oct 2023 20:23)</code> - <em>Upvotes: 3</em></p><p>You can resolve this by thinking logically. overwrite = False would mean, that we don&#x27;t overwrite the existing file, but that we create a copy! create_if_not_exists = False won&#x27;t create anything if there is an existing folder.</p></blockquote>
 <blockquote><p><strong>azurelearner666</strong> <code>(Tue 10 Oct 2023 14:06)</code> - <em>Upvotes: 4</em></p><p>Correct,
@@ -42,7 +44,8 @@ A: Register_azure_blob_container
 B: Create_if_not_exists = False
 
 First is easy, we are talking about storage accounts and a blob container.
-Second too, It should raise an error if the container does not exist, so it should not create it in that case, as there would be  no error then.</p></blockquote>
+Second too, It should raise an error if the container does not exist, so it should not create it in that case, as there would be no error then.</p></blockquote>
+
 <blockquote><p><strong>kkkk_jjjj</strong> <code>(Mon 18 Sep 2023 08:39)</code> - <em>Upvotes: 2</em></p><p>on exam 18/03/2022</p></blockquote>
 <blockquote><p><strong>hargur</strong> <code>(Thu 20 Apr 2023 09:41)</code> - <em>Upvotes: 2</em></p><p>on 19Oct2021</p></blockquote>
 <blockquote><p><strong>kisskeo</strong> <code>(Mon 03 Apr 2023 20:14)</code> - <em>Upvotes: 3</em></p><p>On Exam 01 Oct 2021</p></blockquote>

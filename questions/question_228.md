@@ -30,25 +30,26 @@ id,f1,f2,I
 
 You run the following code:
 
-![Question Image](images/q228_q_0022100006.png)
+![Question Image](../images/q228_q_0022100006.png)
 
 You need to create a dataset named training_data and load the data from all files into a single data frame by using the following code:
 
-![Question Image](images/q228_q_0022100007.png)
+![Question Image](../images/q228_q_0022100007.png)
 
 Solution: Run the following code:
 
-![Question Image](images/q228_q_0022100008.png)
+![Question Image](../images/q228_q_0022100008.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Use two file paths.</p>
 <p>Use Dataset.Tabular_from_delimeted, instead of Dataset.File.from_files as the data isn&#x27;t cleansed.</p>
 <p>Note:</p>
@@ -69,11 +70,12 @@ Does the solution meet the goal?
 
 from azure.ai.ml import ...
 
-not 
+not
 
 from azureml.core import Dataset
 
 Reference: https://github.com/Azure/azure-sdk-for-python/tree/azure-ai-ml_1.11.1/sdk/ml/azure-ai-ml#authenticate-the-client</p></blockquote>
+
 <blockquote><p><strong>fhlos</strong> <code>(Fri 28 Jun 2024 11:50)</code> - <em>Upvotes: 1</em></p><p>No - ChatGPT
 No, the solution does not meet the goal. The code provided to create the dataset and load the data into a single DataFrame is incorrect.
 
@@ -90,17 +92,19 @@ The paths variable is updated to specify the paths of all files to be included i
 The Dataset.Tabular.from_delimited_files() method is used to create the dataset training_data by providing the paths variable.
 The to_pandas_dataframe() method is called on the training_data dataset to load the data from all files into a single pandas DataFrame.
 By making these changes, the code will create the desired dataset and load the data from all files into a single DataFrame.</p></blockquote>
+
 <blockquote><p><strong>abhishekm94</strong> <code>(Sun 16 Jun 2024 06:14)</code> - <em>Upvotes: 1</em></p><p>As per documentation, the correct answer is Yes. 
 link:: https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.dataset_factory.tabulardatasetfactory?view=azure-ml-py&amp;viewFallbackFrom=azure-ml-pyandhttps%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpython%2Fapi%2Fazureml-core%2Fazureml.data.tabulardataset%3Fview%3Dazure-ml-py</p></blockquote>
-<blockquote><p><strong>Crusader2k13</strong> <code>(Tue 19 Dec 2023 23:01)</code> - <em>Upvotes: 1</em></p><p>It is clearly No and the answer is correct! 
+<blockquote><p><strong>Crusader2k13</strong> <code>(Tue 19 Dec 2023 23:01)</code> - <em>Upvotes: 1</em></p><p>It is clearly No and the answer is correct!
 
-You can&#x27;t create a pandas dataframe from Dataset.File.from_files(), only from a Tabular dataset! 
+You can&#x27;t create a pandas dataframe from Dataset.File.from_files(), only from a Tabular dataset!
 
-See: 
+See:
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.tabulardataset?view=azure-ml-py
 
 FileDataset has no to_pandas_dataframe() method. See:
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.file_dataset.filedataset?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>nick234987</strong> <code>(Fri 14 Oct 2022 09:10)</code> - <em>Upvotes: 2</em></p><p>it should be YES. Check this link: https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.data.dataset_factory.tabulardatasetfactory?view=azure-ml-py#from-delimited-files-path--validate-true--include-path-false--infer-column-types-true--set-column-types-none--separator------header-true--partition-format-none--support-multi-line-false--empty-as-string-false--encoding--utf8--</p></blockquote>
 <blockquote><p><strong>skrjha20</strong> <code>(Thu 29 Sep 2022 08:05)</code> - <em>Upvotes: 3</em></p><p>It should be Yes
 # create tabular dataset from all csv files in the directory
@@ -109,6 +113,7 @@ https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.data.file_data
    tabular_dataset_3 = Dataset.Tabular.from_delimited_files(path=(datastore,&#x27;weather/**/*.csv&#x27;))
 
 https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.data.dataset_factory.tabulardatasetfactory?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>trickerk</strong> <code>(Thu 07 Jul 2022 11:04)</code> - <em>Upvotes: 4</em></p><p>Answer should be Yes.</p></blockquote>
 
 </details>

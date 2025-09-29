@@ -6,12 +6,13 @@ You need to consider the underlined segment to establish whether it is accurate.
 
 Hot Area:
 
-![Question Image](images/q12_q_0002400001.png)
+![Question Image](../images/q12_q_0002400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q12_ans_0_0002500001.jpg" alt="Answer Image"><br>
+<img src="../images/q12_ans_0_0002500001.jpg" alt="Answer Image"><br>
+
 <p>The box-plot algorithm can be used to display outliers.</p>
 <p>Reference:</p>
 <p>https://medium.com/analytics-vidhya/what-is-an-outliers-how-to-detect-and-remove-them-which-algorithm-are-sensitive-towards-outliers-2d501993d59</p>

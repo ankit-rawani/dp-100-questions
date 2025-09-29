@@ -4,7 +4,7 @@ HOTSPOT -
 
 A coworker registers a datastore in a Machine Learning services workspace by using the following code:
 
-![Question Image](images/q64_q_0007700001.png)
+![Question Image](../images/q64_q_0007700001.png)
 
 You need to write code to access the datastore from a notebook.
 
@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q64_q_0007800001.png)
+![Question Image](../images/q64_q_0007800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q64_ans_0_0007800002.png" alt="Answer Image"><br>
+<img src="../images/q64_ans_0_0007800002.png" alt="Answer Image"><br>
+
 <p>Box 1: DataStore -</p>
 <p>To get a specific datastore registered in the current workspace, use the get() static method on the Datastore class:</p>
 <p># Get a named datastore from the current workspace</p>
@@ -46,6 +47,7 @@ Link: https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.dat
 <blockquote><p><strong>Rosh4yuh</strong> <code>(Mon 17 Jan 2022 13:50)</code> - <em>Upvotes: 4</em></p><p>on 17/7/2021
 
 Answer is correct</p></blockquote>
+
 <blockquote><p><strong>ljljljlj</strong> <code>(Tue 11 Jan 2022 14:50)</code> - <em>Upvotes: 2</em></p><p>On exam 2021/7/10</p></blockquote>
 <blockquote><p><strong>okeyken1</strong> <code>(Sat 18 Dec 2021 15:27)</code> - <em>Upvotes: 4</em></p><p>yes correct</p></blockquote>
 

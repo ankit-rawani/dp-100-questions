@@ -12,12 +12,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 NOTE: More than one order of answer choices is correct. You will receive credit for any of the correct orders you select.
 
-![Question Image](images/q116_q_image392.png)
+![Question Image](../images/q116_q_image392.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q116_ans_0_image393.png" alt="Answer Image"><br>
+<img src="../images/q116_ans_0_image393.png" alt="Answer Image"><br>
 
 </details>
 

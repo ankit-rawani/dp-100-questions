@@ -8,9 +8,9 @@ You are designing an Azure Machine Learning solution by using the Python SDK v2.
 
 You must train and deploy the solution by using a compute target. The compute target must meet the following requirements:
 
-•	Enable the use of on-premises compute resources.
+• Enable the use of on-premises compute resources.
 
-•	Support autoscaling.
+• Support autoscaling.
 
 You need to configure a compute target for training and inference.
 
@@ -20,12 +20,12 @@ To answer, select the appropriate options in the answer area.
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q351_q_image560.png)
+![Question Image](../images/q351_q_image560.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q351_ans_0_image561.png" alt="Answer Image"><br>
+<img src="../images/q351_ans_0_image561.png" alt="Answer Image"><br>
 
 </details>
 

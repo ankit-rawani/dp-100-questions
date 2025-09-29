@@ -12,17 +12,18 @@ You need to configure the run to ensure that the environment includes the requir
 
 Solution: Run the following code:
 
-![Question Image](images/q247_q_0025800001.png)
+![Question Image](../images/q247_q_0025800001.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>The scikit-learn estimator provides a simple way of launching a scikit-learn training job on a compute target. It is implemented through the SKLearn class, which can be used to support single-node CPU training.</p>
 <p>Example:</p>
 <p>from azureml.train.sklearn import SKLearn</p>
@@ -41,21 +42,29 @@ Does the solution meet the goal?
 
 <blockquote><p><strong>folkmusic99</strong> <code>(Sat 24 Aug 2024 01:49)</code> - <em>Upvotes: 3</em></p><p>from azureml.core import ScriptRunConfig, Experiment
 
-   # create or load an experiment
-   experiment = Experiment(workspace, &#x27;MyExperiment&#x27;)
-   # create or retrieve a compute target
-   cluster = workspace.compute_targets[&#x27;MyCluster&#x27;]
-   # create or retrieve an environment
-   env = Environment.get(ws, name=&#x27;MyEnvironment&#x27;)
-   # configure and submit your training run
-   config = ScriptRunConfig(source_directory=&#x27;.&#x27;,
-                            script=&#x27;train.py&#x27;,
-                            arguments=[&#x27;--arg1&#x27;, arg1_val, &#x27;--arg2&#x27;, arg2_val],
-                            compute_target=cluster,
-                            environment=env)
-   script_run = experiment.submit(config)
+# create or load an experiment
+
+experiment = Experiment(workspace, &#x27;MyExperiment&#x27;)
+
+# create or retrieve a compute target
+
+cluster = workspace.compute_targets[&#x27;MyCluster&#x27;]
+
+# create or retrieve an environment
+
+env = Environment.get(ws, name=&#x27;MyEnvironment&#x27;)
+
+# configure and submit your training run
+
+config = ScriptRunConfig(source_directory=&#x27;.&#x27;,
+script=&#x27;train.py&#x27;,
+arguments=[&#x27;--arg1&#x27;, arg1_val, &#x27;--arg2&#x27;, arg2_val],
+compute_target=cluster,
+environment=env)
+script_run = experiment.submit(config)
 
 ScriptRunConfig and Experiment are two imp keys</p></blockquote>
+
 <blockquote><p><strong>medsimus</strong> <code>(Tue 02 Apr 2024 14:32)</code> - <em>Upvotes: 3</em></p><p>Question is outdated:
 https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.sklearn.sklearn?view=azure-ml-py</p></blockquote>
 <blockquote><p><strong>dev2dev</strong> <code>(Wed 20 Mar 2024 08:47)</code> - <em>Upvotes: 3</em></p><p>how is this correct answer? we need to use experiment class to run experiments.</p></blockquote>

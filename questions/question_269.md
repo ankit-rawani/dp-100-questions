@@ -16,12 +16,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q269_q_0029100001.png)
+![Question Image](../images/q269_q_0029100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q269_ans_0_0029200001.png" alt="Answer Image"><br>
+<img src="../images/q269_ans_0_0029200001.png" alt="Answer Image"><br>
+
 <p>Box 1: import mlflow -</p>
 <p>Import the mlflow and Workspace classes to access MLflow&#x27;s tracking URI and configure your workspace.</p>
 <p>Box 2: mlflow.start_run()</p>

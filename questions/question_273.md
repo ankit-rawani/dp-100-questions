@@ -12,17 +12,18 @@ You need to configure the run to ensure that the environment includes the requir
 
 Solution: Run the following code:
 
-![Question Image](images/q273_q_0029500001.png)
+![Question Image](../images/q273_q_0029500001.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>There is a missing line: conda_packages=[&#x27;scikit-learn&#x27;], which is needed.</p>
 <p>Correct example:</p>
 <p>sk_est = Estimator(source_directory=&#x27;./my-sklearn-proj&#x27;,</p>
@@ -56,9 +57,10 @@ from azureml.core import Environment
 env = Environment.from_conda_specification(name=&#x27;myenv&#x27;, file_path=&#x27;path_to_conda_dependencies.yml&#x27;)
 
 sk_est = Estimator(source_directory=&#x27;./scripts&#x27;,
-                   compute_target=aml-compute,
-                   entry_script=&#x27;train.py&#x27;,
-                   environment_definition=env)</p></blockquote>
+compute_target=aml-compute,
+entry_script=&#x27;train.py&#x27;,
+environment_definition=env)</p></blockquote>
+
 <blockquote><p><strong>prashantjoge</strong> <code>(Sat 27 Nov 2021 23:19)</code> - <em>Upvotes: 2</em></p><p>deprecated, oos</p></blockquote>
 <blockquote><p><strong>levm39</strong> <code>(Wed 08 Dec 2021 13:16)</code> - <em>Upvotes: 1</em></p><p>why is it deprecated?</p></blockquote>
 <blockquote><p><strong>Minghon</strong> <code>(Wed 29 Dec 2021 17:14)</code> - <em>Upvotes: 5</em></p><p>He may mean the Estimator class is deprecated..., Please apply ScriptRunConfig class instead according to the official document.</p></blockquote>

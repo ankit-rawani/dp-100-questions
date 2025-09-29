@@ -6,17 +6,18 @@ Complete the sentence by selecting the correct option in the answer area.
 
 Hot Area:
 
-![Question Image](images/q4_q_0001400001.png)
+![Question Image](../images/q4_q_0001400001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q4_ans_0_0001400002.jpg" alt="Answer Image"><br>
+<img src="../images/q4_ans_0_0001400002.jpg" alt="Answer Image"><br>
+
 <p>Use the Convert to ARFF module in Azure Machine Learning Studio, to convert datasets and results in Azure Machine Learning to the attribute-relation file format used by the Weka toolset. This format is known as ARFF.</p>
 <p>The ARFF data specification for Weka supports multiple machine learning tasks, including data preprocessing, classification, and feature selection. In this format, data is organized by entities and their attributes, and is contained in a single text file.</p>
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/convert-to-arff</p>
-<img src="images/q4_ref_8_0001500001.png" alt="Reference Image"><br>
+<img src="../images/q4_ref_8_0001500001.png" alt="Reference Image"><br>
 
 </details>
 

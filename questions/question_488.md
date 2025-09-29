@@ -10,12 +10,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images/q488_q_0046000001.jpg)
+![Question Image](../images/q488_q_0046000001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q488_ans_0_0046000002.jpg" alt="Answer Image"><br>
+<img src="../images/q488_ans_0_0046000002.jpg" alt="Answer Image"><br>
 
 </details>
 
@@ -37,9 +37,10 @@ Step3. publish the pipeline
 Create an inference pipeline
 Step3. run the pipeline in studio
 This cannot be done before the pipeline is published (Step3).
-Through the submit button. 
+Through the submit button.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-retrain-designer</p></blockquote>
+
 <blockquote><p><strong>AzureJobsTillRetire</strong> <code>(Sat 18 Feb 2023 20:45)</code> - <em>Upvotes: 2</em></p><p>Sorry I was wrong. Mani1986 was right.</p></blockquote>
 <blockquote><p><strong>f2a9aa5</strong> <code>(Fri 28 Jun 2024 13:30)</code> - <em>Upvotes: 1</em></p><p>You could even answer this question by just following articles &quot;a&quot; and &quot;the&quot;:
 
@@ -49,6 +50,7 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-retrain-designer
 4. Run &quot;the&quot; training pipeline
 
 Can be used for most &quot;sequence&quot; type questions :) Or used as a verification technique.</p></blockquote>
+
 <blockquote><p><strong>3than</strong> <code>(Wed 22 Nov 2023 17:08)</code> - <em>Upvotes: 1</em></p><p>Add new parameter, specify path, publish, run</p></blockquote>
 <blockquote><p><strong>Yuriy_Ch</strong> <code>(Wed 08 Mar 2023 12:35)</code> - <em>Upvotes: 3</em></p><p>Exactly this question was on exam 07/March/2023</p></blockquote>
 <blockquote><p><strong>MattAnya</strong> <code>(Wed 04 Jan 2023 06:22)</code> - <em>Upvotes: 3</em></p><p>was on exam 01/03/2023</p></blockquote>

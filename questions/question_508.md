@@ -10,12 +10,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q508_q_0033900001.png)
+![Question Image](../images/q508_q_0033900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q508_ans_0_0034100001.png" alt="Answer Image"><br>
+<img src="../images/q508_ans_0_0034100001.png" alt="Answer Image"><br>
+
 <p>Box 1: Replace using MICE -</p>
 <p>Replace using MICE: For each missing value, this option assigns a new value, which is calculated by using a method described in the statistical literature as</p>
 <p>&quot;Multivariate Imputation using Chained Equations&quot; or &quot;Multiple Imputation by Chained Equations&quot;. With a multiple imputation method, each variable with missing data is modeled conditionally using the other variables in the data before filling in the missing values.</p>

@@ -2,7 +2,7 @@
 
 You register a model in an Azure Machine Learning workspace by running the following code:
 
-![Question Image](images/q317_q_image460.png)
+![Question Image](../images/q317_q_image460.png)
 
 You are creating a scoring script to use in a real-time service for the model.
 
@@ -10,15 +10,15 @@ You need to write code in the scoring script to set the path of the registered m
 
 Which code segment should you use?
 
-* A.path = Model.get_model_path(‘loan_model’)
-* B.path = ‘model.pkl’
-* C.path = ws.models(‘loan_model’)
-* D.path = ‘outputs/model.pkl’
+- A.path = Model.get_model_path(‘loan_model’)
+- B.path = ‘model.pkl’
+- C.path = ws.models(‘loan_model’)
+- D.path = ‘outputs/model.pkl’
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 

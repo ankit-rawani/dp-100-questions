@@ -12,12 +12,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q263_q_0028200001.png)
+![Question Image](../images/q263_q_0028200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q263_ans_0_0028300001.png" alt="Answer Image"><br>
+<img src="../images/q263_ans_0_0028300001.png" alt="Answer Image"><br>
+
 <p>Meta explainers automatically select a suitable direct explainer and generate the best explanation info based on the given model and data sets. The meta explainers leverage all the libraries (SHAP, LIME, Mimic, etc.) that we have integrated or developed. The following are the meta explainers available in the SDK:</p>
 <p>Tabular Explainer: Used with tabular datasets.</p>
 <p>Text Explainer: Used with text datasets.</p>

@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q101_q_0013500001.png)
+![Question Image](../images/q101_q_0013500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q101_ans_0_0013600001.png" alt="Answer Image"><br>
+<img src="../images/q101_ans_0_0013600001.png" alt="Answer Image"><br>
+
 <p>Box 1: Microsoft.MachineLearningServices/workspaces/*/read</p>
 <p>Reader    role: Read-only actions in the workspace. Readers can list and view assets, including datastore credentials, in a workspace. Readers can&#x27;t create or update these assets.</p>
 <p>Box 2: Microsoft.MachineLearningServices/workspaces/*/write</p>

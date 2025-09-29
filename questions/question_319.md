@@ -14,12 +14,12 @@ Which configurations should you use? To answer, select the appropriate options i
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q319_q_image465.png)
+![Question Image](../images/q319_q_image465.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q319_ans_0_image466.png" alt="Answer Image"><br>
+<img src="../images/q319_ans_0_image466.png" alt="Answer Image"><br>
 
 </details>
 
@@ -34,6 +34,7 @@ Metric type: Area Under the Precision-Recall Curve (AUPRC) or Average Precision 
 
 Averaging method: Macro
 Macro averaging calculates the metric independently for each class and then takes the average across all classes. It treats each class equally, regardless of the class distribution. It can be useful when you want to evaluate the model&#x27;s performance across all classes without bias towards the majority class.</p></blockquote>
+
 <blockquote><p><strong>kay1101</strong> <code>(Sat 23 Nov 2024 11:51)</code> - <em>Upvotes: 1</em></p><p>Metric type: precision
 Precision is the ability of a model to avoid labeling negative samples as positive.
 reference:
@@ -43,12 +44,14 @@ Averaging method: macro
 While each averaging method has its benefits, one common consideration when selecting the appropriate method is class imbalance. If classes have different numbers of samples, it might be more informative to use a macro average where minority classes are given equal weighting to majority classes.
 reference:
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2#classification-metrics</p></blockquote>
+
 <blockquote><p><strong>PI_Team</strong> <code>(Fri 23 Feb 2024 11:59)</code> - <em>Upvotes: 1</em></p><p>Metric Type: Precision
 Averaging Method: Micro
 
 Micro- and macro-averages (for whatever metric) will compute slightly different things, and thus their interpretation differs. A macro-average will compute the metric independently for each class and then take the average (hence treating all classes equally), whereas a micro-average will aggregate the contributions of all classes to compute the average metric. In a multi-class classification setup, micro-average is preferable if you suspect there might be class imbalance (i.e you may have many more examples of one class than of other classes).
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>BR_CS</strong> <code>(Sat 17 Feb 2024 11:44)</code> - <em>Upvotes: 1</em></p><p>I am not sure about the averaging method. Macro just takes the mean over all classes whereas micro incorporates class contribution.</p></blockquote>
 
 </details>

@@ -10,12 +10,12 @@ In which order should you perform the actions? To answer, move all actions from 
 
 Select and Place:
 
-![Question Image](images/q212_q_0018800001.png)
+![Question Image](../images/q212_q_0018800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q212_ans_0_image606.png" alt="Answer Image"><br>
+<img src="../images/q212_ans_0_image606.png" alt="Answer Image"><br>
 
 </details>
 
@@ -29,12 +29,14 @@ Select and Place:
 <blockquote><p><strong>Arend78</strong> <code>(Mon 12 Dec 2022 13:18)</code> - <em>Upvotes: 4</em></p><p>Here&#x27;s the full text from the SVM example on https://gallery.azure.ai/Experiment/e2ccb5a5d9dc480489ba8ff0b7eb98ac:
 
 Experiment Details
+
 1.  Add the Adult Census Income Binary Classification dataset to your experiment.
-2. Add a Split module to create a training and test datasets.
-3. Add a Two-Class Support Vector Machine module to initialize the SVM classifier.
-4. Add a Train Model module to train the classifier, and connect the SVM module to the left input port and the training dataset to the right input port. Using the column selector set the Label column to income.
-4. Add a Permutation Feature Importance module and connect the trained model and the test dataset to the left and right input ports respectively. Set the Metric for measuring performance property to Classification - Accuracy.</p></blockquote>
+2.  Add a Split module to create a training and test datasets.
+3.  Add a Two-Class Support Vector Machine module to initialize the SVM classifier.
+4.  Add a Train Model module to train the classifier, and connect the SVM module to the left input port and the training dataset to the right input port. Using the column selector set the Label column to income.
+5.  Add a Permutation Feature Importance module and connect the trained model and the test dataset to the left and right input ports respectively. Set the Metric for measuring performance property to Classification - Accuracy.</p></blockquote>
 <blockquote><p><strong>jl420</strong> <code>(Wed 13 Nov 2024 13:00)</code> - <em>Upvotes: 1</em></p><p>1) Add a dataset to the experiment.
+
 2) Add a Split Data module to create training and test datasets.
 3) Add a Two-Class Support Vector Machine module to initialize the SVM classifier.
 4) Set the Metric for measuring performance property to Classification - Accuracy and then run the experiment.
@@ -46,9 +48,10 @@ Add a Two-Class Support Vector Machine module to initialize the SVM classifier
 Set the Metric for measuring performance property to Classification - Accuracy and then run the experiment
 Add a Permutation Feature Importance module and connect the trained model and test dataset</p></blockquote>
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Fri 17 May 2024 21:56)</code> - <em>Upvotes: 1</em></p><p>The provided answer is correct. Have a closer look at the doc provided:
-1. Add the Permutation Feature Importance module to your experiment. 
-....
-5. For metric for measuring performance, select ...</p></blockquote>
+
+1. Add the Permutation Feature Importance module to your experiment.
+   ....
+2. For metric for measuring performance, select ...</p></blockquote>
 <blockquote><p><strong>thea_ipynb69</strong> <code>(Sun 25 Feb 2024 22:04)</code> - <em>Upvotes: 2</em></p><p>Add a dataset to the experiment ➡️ Add a split data module to create training and test datasets ➡️ Add a two-class support vector machine module to initialize the SVM classifier ➡️ Set the metric for measuring performance property classification - accuracy and then run the experiment ➡️ Add a permutation feature importance module and connect the trained model and test dataset.</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Tue 18 Jul 2023 02:04)</code> - <em>Upvotes: 2</em></p><p>4-5-1-2-3</p></blockquote>
 <blockquote><p><strong>fhlos</strong> <code>(Tue 27 Jun 2023 20:26)</code> - <em>Upvotes: 1</em></p><p>Incorrect solution.
@@ -62,10 +65,10 @@ Set the Metric for measuring performance property to &quot;Classification - Accu
 <blockquote><p><strong>Edriv</strong> <code>(Sun 15 Jan 2023 20:49)</code> - <em>Upvotes: 2</em></p><p>https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/permutation-feature-importance#how-to-use-permutation-feature-importance</p></blockquote>
 <blockquote><p><strong>therealola</strong> <code>(Sat 18 Jun 2022 01:41)</code> - <em>Upvotes: 4</em></p><p>on exam 18-06-22</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Mon 23 May 2022 17:22)</code> - <em>Upvotes: 4</em></p><p>1. add dataset
-2. split into train vs test
-3. add model
-4. connect everything
-5. run experiment</p></blockquote>
+3. split into train vs test
+4. add model
+5. connect everything
+6. run experiment</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Wed 15 Jun 2022 11:54)</code> - <em>Upvotes: 2</em></p><p>On a second thought, you can add model anytime before step 4 ...
 So cannot really tell which one is better ...
 Either way is good from a practical view ...</p></blockquote>
@@ -76,10 +79,11 @@ https://gallery.azure.ai/Experiment/e2ccb5a5d9dc480489ba8ff0b7eb98ac
 2- Add a Split module to create training and test datasets.
 3- Add a Two-Class Support Vector Machine module to initialize the SVM classifier.
 4- Add a Train Model module to train the classifier, and connect the SVM module to the left input port and the training dataset to the right input port. Using the column selector set the Label column to income.
-5- Add a Permutation Feature Importance module and connect the trained model and the test dataset to the left and right input ports respectively. Set the Metric for measuring 
+5- Add a Permutation Feature Importance module and connect the trained model and the test dataset to the left and right input ports respectively. Set the Metric for measuring
 6- performance property to Classification - Accuracy.
 
-So the order seems to be, read data, split data, add Two-Class,  add Permutation, set Accuracy</p></blockquote>
+So the order seems to be, read data, split data, add Two-Class, add Permutation, set Accuracy</p></blockquote>
+
 <blockquote><p><strong>TheCyanideLancer</strong> <code>(Thu 13 Jan 2022 08:18)</code> - <em>Upvotes: 1</em></p><p>Solution appears to be correct as I tried it out in old ml studio, except that steps one and two can be reversed or be kept the as mentioned in the solution.</p></blockquote>
 <blockquote><p><strong>dija123</strong> <code>(Mon 13 Dec 2021 17:29)</code> - <em>Upvotes: 1</em></p><p>Answer is correct,
 Add Two Class, Add dataset, Add split, Add Permutation, Set Accuracy</p></blockquote>

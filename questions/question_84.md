@@ -18,24 +18,25 @@ Which JSON code segment should you use?
 
 A.
 
-![Question Image](images/q84_q_0010300004.jpg)
+![Question Image](../images/q84_q_0010300004.jpg)
 
 B.
 
-![Question Image](images/q84_q_0010400001.jpg)
+![Question Image](../images/q84_q_0010400001.jpg)
 
 C.
 
-![Question Image](images/q84_q_0010400002.jpg)
+![Question Image](../images/q84_q_0010400002.jpg)
 
 D.
 
-![Question Image](images/q84_q_0010400003.jpg)
+![Question Image](../images/q84_q_0010400003.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>The following custom role can do everything in the workspace except for the following actions:</p>
 <p>✑ It can&#x27;t create or update a compute resource.</p>
 <p>✑ It can&#x27;t delete a compute resource.</p>

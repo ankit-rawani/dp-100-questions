@@ -8,12 +8,13 @@ Which three modules should you recommend be used in sequence? To answer, move th
 
 Select and Place:
 
-![Question Image](images/q511_q_0034300001.png)
+![Question Image](../images/q511_q_0034300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q511_ans_0_0034400001.png" alt="Answer Image"><br>
+<img src="../images/q511_ans_0_0034400001.png" alt="Answer Image"><br>
+
 <p>Step 1: Sweep Clustering -</p>
 <p>Start by using the &quot;Tune Model Hyperparameters&quot; module to select the best sets of parameters for each of the models we&#x27;re considering.</p>
 <p>One of the interesting things about the &quot;Tune Model Hyperparameters&quot; module is that it not only outputs the results from the Tuning, it also outputs the Trained</p>
@@ -51,9 +52,10 @@ Train Model
 Score Model
 Evaluate Model
 
-so --&gt;  Train Model,  Score Model, Evaluate Model
+so --&gt; Train Model, Score Model, Evaluate Model
 
 https://docs.microsoft.com/en-us/azure/machine-learning/classic/evaluate-model-performance</p></blockquote>
+
 <blockquote><p><strong>conniekdl</strong> <code>(Fri 28 Jul 2023 13:41)</code> - <em>Upvotes: 1</em></p><p>It seems that there&#x27;s no module for Loading Trained Model in the designer, but one in the studio. Maybe that&#x27;s why the first should be Load Trained Model.
 https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/module-reference</p></blockquote>
 <blockquote><p><strong>davo123</strong> <code>(Sat 20 May 2023 09:56)</code> - <em>Upvotes: 3</em></p><p>Why not &#x27;Score Model&#x27; instead of &#x27;Train Model&#x27;? References show that &#x27;Train Model&#x27; is not necessary here.</p></blockquote>

@@ -8,12 +8,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images/q504_q_0033000001.png)
+![Question Image](../images/q504_q_0033000001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q504_ans_0_0033000002.png" alt="Answer Image"><br>
+<img src="../images/q504_ans_0_0033000002.png" alt="Answer Image"><br>
+
 <p>Step 1: Implement a K-Means Clustering model</p>
 <p>Step 2: Use the cluster as a feature in a Decision jungle model.</p>
 <p>Decision jungles are non-parametric models, which can represent non-linear decision boundaries.</p>
@@ -38,6 +39,7 @@ Implement a K-Means clustering model
 Use the cluster as a feature in a decision jungle model
 Use the raw score as a feature in a logistic regression model
 Therefore, the correct order of actions is A, C, and D.</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Sun 17 Dec 2023 13:03)</code> - <em>Upvotes: 1</em></p><p>No idea, guess the answer is OK, thought process ...
 K-means --&gt; we do not what will come, so clustering ...
 Need a score as input for recommendation --&gt; Tree Forest Regression --&gt; Whatever score indicates what action we should take ????</p></blockquote>

@@ -14,12 +14,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q487_q_0045800001.jpg)
+![Question Image](../images/q487_q_0045800001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q487_ans_0_0045900001.jpg" alt="Answer Image"><br>
+<img src="../images/q487_ans_0_0045900001.jpg" alt="Answer Image"><br>
 
 </details>
 
@@ -44,11 +44,12 @@ dataprep_output = OutputFileDatasetConfig()
 input_dataset = Dataset.get_by_name(workspace, &#x27;raw_data&#x27;)
 
 dataprep_step = PythonScriptStep(
-    name=&quot;prep_data&quot;,
-    script_name=&quot;dataprep.py&quot;,
-    compute_target=cluster,
-    arguments=[input_dataset.as_named_input(&#x27;raw_data&#x27;).as_mount(), dataprep_output]
-    )</p></blockquote>
+name=&quot;prep_data&quot;,
+script_name=&quot;dataprep.py&quot;,
+compute_target=cluster,
+arguments=[input_dataset.as_named_input(&#x27;raw_data&#x27;).as_mount(), dataprep_output]
+)</p></blockquote>
+
 <blockquote><p><strong>Yuriy_Ch</strong> <code>(Wed 08 Mar 2023 12:34)</code> - <em>Upvotes: 3</em></p><p>Exactly this question was on exam 07/March/2023</p></blockquote>
 <blockquote><p><strong>phdykd</strong> <code>(Fri 24 Feb 2023 15:59)</code> - <em>Upvotes: 2</em></p><p>Class: OutputDatasetConfig
 Method: as_named_input
@@ -58,7 +59,8 @@ In contrast, when you use as_named_input, the input will have a name and can be 
 In the case of passing temporary data from the first step to the second step, it is generally recommended to use as_named_input so that the input can be easily identified and consumed in the second step.
 
 Therefore, you could use as_input instead of as_named_input, but as_named_input is the more appropriate method to use in this case.</p></blockquote>
-<blockquote><p><strong>Crusader2k13</strong> <code>(Fri 16 Dec 2022 13:45)</code> - <em>Upvotes: 1</em></p><p>Microsoft mixed up their own stuff here. It is the PipelineData object used for temporary data storage produced by one step of a pipeline to another step, creating a data dependency! See: 
+
+<blockquote><p><strong>Crusader2k13</strong> <code>(Fri 16 Dec 2022 13:45)</code> - <em>Upvotes: 1</em></p><p>Microsoft mixed up their own stuff here. It is the PipelineData object used for temporary data storage produced by one step of a pipeline to another step, creating a data dependency! See:
 
 https://learn.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipelinedata?view=azure-ml-py
 

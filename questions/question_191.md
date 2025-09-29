@@ -6,7 +6,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 An IT department creates the following Azure resource groups and resources:
 
-![Question Image](images/q191_q_0015700001.png)
+![Question Image](../images/q191_q_0015700001.png)
 
 The IT department creates an Azure Kubernetes Service (AKS)-based inference compute target named aks-cluster in the Azure Machine Learning workspace.
 
@@ -18,13 +18,13 @@ Solution: Install the Azure ML SDK on the Surface Book. Run Python code to conne
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -37,9 +37,10 @@ Does the solution meet the goal?
 <blockquote><p><strong>evangelist</strong> <code>(Mon 02 Dec 2024 11:15)</code> - <em>Upvotes: 1</em></p><p>answer is A, yes, AKS is used as inference compute target, inference means hosting and deploying the model not training the model</p></blockquote>
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Sun 17 Nov 2024 03:00)</code> - <em>Upvotes: 1</em></p><p>Even the doc says you can use Local computer as a training target, but I can&#x27;t find any detailed steps to do this. Besides, it will still be unmanaged compute and I doubt you can log the metrics that can be utilized to improve the performance of the model.</p></blockquote>
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Sun 17 Nov 2024 03:04)</code> - <em>Upvotes: 1</em></p><p>ChatGPT said I was wrong. The answer should be A.</p></blockquote>
-<blockquote><p><strong>PI_Team</strong> <code>(Sat 27 Jan 2024 12:28)</code> - <em>Upvotes: 1</em></p><p>The question only asks about running a script that trains a DNN model and logs the loss and accuracy metrics. In that case, the solution does meet the goal. Installing the Azure ML SDK on the Surface Book and running the training script as an experiment on local compute would allow you to train a DNN model and log the loss and accuracy metrics. 
+<blockquote><p><strong>PI_Team</strong> <code>(Sat 27 Jan 2024 12:28)</code> - <em>Upvotes: 1</em></p><p>The question only asks about running a script that trains a DNN model and logs the loss and accuracy metrics. In that case, the solution does meet the goal. Installing the Azure ML SDK on the Surface Book and running the training script as an experiment on local compute would allow you to train a DNN model and log the loss and accuracy metrics.
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>krishna1818</strong> <code>(Wed 29 Nov 2023 11:07)</code> - <em>Upvotes: 2</em></p><p>yes we can run the DNN locally</p></blockquote>
 <blockquote><p><strong>Yuriy_Ch</strong> <code>(Fri 08 Sep 2023 11:15)</code> - <em>Upvotes: 2</em></p><p>Exactly this question was on exam 07/March/2023</p></blockquote>
 <blockquote><p><strong>ahson0124</strong> <code>(Tue 15 Aug 2023 12:42)</code> - <em>Upvotes: 3</em></p><p>In exam on 2023-02-15</p></blockquote>

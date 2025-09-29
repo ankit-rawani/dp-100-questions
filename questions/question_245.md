@@ -10,17 +10,18 @@ You need to create a pipeline that runs a processing script to load data from a 
 
 Solution: Run the following code:
 
-![Question Image](images/q245_q_0025400001.png)
+![Question Image](../images/q245_q_0025400001.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>train_step is missing.</p>
 <p>Reference:</p>
 <p>https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipelinedata?view=azure-ml-py</p>

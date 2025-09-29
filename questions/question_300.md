@@ -8,7 +8,7 @@ You train a machine learning model by using Azure Machine Learning.
 
 You use the following training script in Python to log an accuracy value:
 
-![Question Image](images/q300_q_image420.png)
+![Question Image](../images/q300_q_image420.png)
 
 You must use a Python script to define a sweep job.
 
@@ -18,12 +18,12 @@ How should you complete the Python script? To answer, select the appropriate opt
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q300_q_image421.png)
+![Question Image](../images/q300_q_image421.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q300_ans_0_image422.png" alt="Answer Image"><br>
+<img src="../images/q300_ans_0_image422.png" alt="Answer Image"><br>
 
 </details>
 

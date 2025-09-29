@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q86_q_0010800001.png)
+![Question Image](../images/q86_q_0010800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q86_ans_0_0010900001.png" alt="Answer Image"><br>
+<img src="../images/q86_ans_0_0010900001.png" alt="Answer Image"><br>
+
 <p>Box 1: k-fold -</p>
 <p>Box 2: 3 -</p>
 <p>K-Folds cross-validator provides train/test indices to split data in train/test sets. Split dataset into k consecutive folds (without shuffling by default).</p>
@@ -60,7 +61,8 @@ data = array([10,20,30,40,50,60])
 
 k_fold = KFold(n_splits=3, shuffle=True,random_state=1)
 for train, test in k_fold, np.split(data):
-    print(f&#x27;train: {train}, test: {test}&#x27;)</p></blockquote>
+print(f&#x27;train: {train}, test: {test}&#x27;)</p></blockquote>
+
 <blockquote><p><strong>Matt2000</strong> <code>(Tue 23 Jul 2024 09:36)</code> - <em>Upvotes: 1</em></p><p>&quot;-&quot; shoud be read as &quot;=&quot;</p></blockquote>
 <blockquote><p><strong>Hisayuki</strong> <code>(Sat 04 May 2024 00:17)</code> - <em>Upvotes: 3</em></p><p>You&#x27;re gonna create three set of Train and Test dataset with Shuffling. So, the n_splits should be 3 in kfold.
 - train: [10 40 50 60], test: [20 30]

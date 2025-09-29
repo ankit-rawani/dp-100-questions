@@ -12,12 +12,12 @@ What should you define? To answer, select the appropriate options in the answer 
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q322_q_image469.png)
+![Question Image](../images/q322_q_image469.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q322_ans_0_image470.png" alt="Answer Image"><br>
+<img src="../images/q322_ans_0_image470.png" alt="Answer Image"><br>
 
 </details>
 

@@ -8,13 +8,13 @@ The training pipeline is shown in the exhibit. (Click the Training pipeline tab.
 
 Training pipeline -
 
-![Question Image](images/q255_q_0026700001.png)
+![Question Image](../images/q255_q_0026700001.png)
 
 You create a real-time inference pipeline from the training pipeline, as shown in the exhibit. (Click the Real-time pipeline tab.)
 
 Real-time pipeline -
 
-![Question Image](images/q255_q_0026800001.jpg)
+![Question Image](../images/q255_q_0026800001.jpg)
 
 You need to modify the inference pipeline to ensure that the web service returns the exponential of the scored label as the predicted automobile price and that client applications are not required to include a price value in the input values.
 
@@ -22,17 +22,17 @@ Which three modifications must you make to the inference pipeline? Each correct 
 
 NOTE: Each correct selection is worth one point.
 
-* A.Connect the output of the Apply SQL Transformation to the Web Service Output module.
-* B.Replace the Web Service Input module with a data input that does not include the price column.
-* C.Add a Select Columns module before the Score Model module to select all columns other than price.
-* D.Replace the training dataset module with a data input that does not include the price column.
-* E.Remove the Apply Math Operation module that replaces price with its natural log from the data flow.
-* F.Remove the Apply SQL Transformation module from the data flow.
+- A.Connect the output of the Apply SQL Transformation to the Web Service Output module.
+- B.Replace the Web Service Input module with a data input that does not include the price column.
+- C.Add a Select Columns module before the Score Model module to select all columns other than price.
+- D.Replace the training dataset module with a data input that does not include the price column.
+- E.Remove the Apply Math Operation module that replaces price with its natural log from the data flow.
+- F.Remove the Apply SQL Transformation module from the data flow.
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>ACE</strong><br>
+<strong>ACE</strong><br>
 
 </details>
 
@@ -48,11 +48,13 @@ In other words to achieve D you need to do C!</p></blockquote>
 B. Replace the Web Service Input module with a data input that does not include the price column: To prevent the need for price as an input.
 
 C. Add a Select Columns module before the Score Model module to select all columns other than price: To ensure the model uses only the necessary input features, excluding the price.</p></blockquote>
+
 <blockquote><p><strong>vv_bb</strong> <code>(Wed 15 May 2024 20:47)</code> - <em>Upvotes: 1</em></p><p>The correct answer is ADE
 
 Check this page, section &quot;Create and run an inference pipeline&quot;
 
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html</p></blockquote>
+
 <blockquote><p><strong>eloyinaay</strong> <code>(Wed 06 Sep 2023 14:28)</code> - <em>Upvotes: 2</em></p><p>on 2023/03/6 exam!</p></blockquote>
 <blockquote><p><strong>Gferreira</strong> <code>(Thu 13 Jul 2023 21:03)</code> - <em>Upvotes: 1</em></p><p>Sorry, ABE</p></blockquote>
 <blockquote><p><strong>Gferreira</strong> <code>(Thu 13 Jul 2023 21:00)</code> - <em>Upvotes: 1</em></p><p>ABF . Analyze</p></blockquote>

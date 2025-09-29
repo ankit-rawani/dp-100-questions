@@ -16,12 +16,12 @@ Which storage and data processing service should you use? To answer, select the 
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q175_q_image577.png)
+![Question Image](../images/q175_q_image577.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q175_ans_0_image578.png" alt="Answer Image"><br>
+<img src="../images/q175_ans_0_image578.png" alt="Answer Image"><br>
 
 </details>
 

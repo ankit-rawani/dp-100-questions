@@ -8,7 +8,7 @@ You are using Azure Machine Learning to run an experiment that trains a classifi
 
 You want to use Hyperdrive to find parameters that optimize the AUC metric for the model. You configure a HyperDriveConfig for the experiment by running the following code:
 
-![Question Image](images/q183_q_0014500001.png)
+![Question Image](../images/q183_q_0014500001.png)
 
 You plan to use this configuration to run a script that trains a random forest model and then tests it with validation data. The label values for the validation data are stored in a variable named y_test variable, and the predicted probabilities from the model are stored in a variable named y_predicted.
 
@@ -16,17 +16,17 @@ You need to add logging to the script to allow Hyperdrive to optimize hyperparam
 
 Solution: Run the following code:
 
-![Question Image](images/q183_q_0014600001.png)
+![Question Image](../images/q183_q_0014600001.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -45,7 +45,9 @@ Correct answer is NO.</p></blockquote>
 run = Run.get_context()
 
 # Log the AUC score
+
 run.log(&quot;AUC&quot;, auc)</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Mon 07 Aug 2023 19:45)</code> - <em>Upvotes: 2</em></p><p>B. No. The solution does not meet the goal as it only saves the AUC score to a text file in the &quot;outputs&quot; directory. It does not log the AUC metric in a way that can be monitored by Azure Machine Learning and Hyperdrive. In order to allow Hyperdrive to optimize hyperparameters for the AUC metric, the AUC score needs to be logged using the run.log method, as follows:
 import json, os
 from sklearn.metrics import roc_auc_score
@@ -57,7 +59,8 @@ run.log(&quot;AUC&quot;, auc)</p></blockquote>
 from azureml.core.run import Run
 run_logger = Run.get_context()
 run_logger.log(&quot;accuracy&quot;, float(val_accuracy))
- So log.info doesn&#x27;t seem to be the correct option. The hyperDrive needs to know the metric value of each run to be able to compare the values</p></blockquote>
+So log.info doesn&#x27;t seem to be the correct option. The hyperDrive needs to know the metric value of each run to be able to compare the values</p></blockquote>
+
 <blockquote><p><strong>zehraoneexam</strong> <code>(Fri 16 Sep 2022 06:03)</code> - <em>Upvotes: 1</em></p><p>I think the answer is yes. logging info can print the results. We can have more than one solution...</p></blockquote>
 <blockquote><p><strong>synapse</strong> <code>(Tue 13 Sep 2022 09:56)</code> - <em>Upvotes: 1</em></p><p>Answer is B. No. 
 Get a reference to the Azure ML run context and use a run.log() statement to write the AUC value to the run log

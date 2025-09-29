@@ -20,12 +20,12 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images/q50_q_0005300001.png)
+![Question Image](../images/q50_q_0005300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q50_ans_0_image596.png" alt="Answer Image"><br>
+<img src="../images/q50_ans_0_image596.png" alt="Answer Image"><br>
 
 </details>
 
@@ -55,6 +55,7 @@ Create and execute the Zeppelin notebooks on the cluster to build and train mach
 When the cluster is ready, export Zeppelin notebooks to a local environment to enable version control of the notebooks locally.
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Thu 02 Feb 2023 03:05)</code> - <em>Upvotes: 7</em></p><p>Here is the most accurate sequence of actions for creating the desired environment:
 Create an Azure Databricks cluster
 Install Microsoft Machine Learning for Apache Spark on the cluster
@@ -62,21 +63,23 @@ Create and execute Jupyter notebooks using AutoML on the cluster
 When the cluster is ready and has processed the notebook, export your Jupyter notebook to a local environment for version control.
 This sequence of actions will allow you to take advantage of the Azure Databricks platform for cloud-based data processing, and the Microsoft Machine Learning for Apache Spark library for automating feature engineering and model building in your Jupyter notebooks. Additionally, exporting the notebooks to a local environment will allow you to version control them and collaborate with other team members.</p></blockquote>
 <blockquote><p><strong>shubhangi2612</strong> <code>(Thu 19 Jan 2023 15:02)</code> - <em>Upvotes: 3</em></p><p>https://industry40.co.in/azure-hdinsight-and-azure-databricks/</p></blockquote>
-<blockquote><p><strong>ning</strong> <code>(Wed 11 May 2022 11:20)</code> - <em>Upvotes: 4</em></p><p>Totally agree  
+<blockquote><p><strong>ning</strong> <code>(Wed 11 May 2022 11:20)</code> - <em>Upvotes: 4</em></p><p>Totally agree
 
-1. Create Azure Databricks cluster 
-2. Install Azure ML SDK for Python 
-3. Create and exec Jupyter notebook using AutoML 
+1. Create Azure Databricks cluster
+2. Install Azure ML SDK for Python
+3. Create and exec Jupyter notebook using AutoML
 4. Export Jupyter to local env</p></blockquote>
 <blockquote><p><strong>DingDongSingSong</strong> <code>(Wed 30 Mar 2022 19:32)</code> - <em>Upvotes: 3</em></p><p>Reference this link: https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml
 
 Answer is as per DASIST noted:
+
 1. Create Azure Databricks cluster
 2. Install Azure ML SDK for Python
 3. Create and exec Jupyter notebook using AutoML
 4. Export Jupyter to local env
 
 Another link that supports this rationale is :https://industry40.co.in/azure-hdinsight-and-azure-databricks/. It clearly outlines why for Spark based environments, Databricks is a better option than HDInsight</p></blockquote>
+
 <blockquote><p><strong>ajayjha123</strong> <code>(Wed 08 Dec 2021 04:45)</code> - <em>Upvotes: 3</em></p><p>Should be: Create Azure Databricks cluster -&gt; Install Azure ML SDK for Python -&gt; Create and exec Jupyter notebook using AutoML -&gt; Export Jupyter to local env. That because you need auto feature engineering provided by autoML</p></blockquote>
 <blockquote><p><strong>RyanTsai</strong> <code>(Wed 22 Sep 2021 00:27)</code> - <em>Upvotes: 4</em></p><p>agree: Create Azure Databricks cluster -&gt;
 Create and exec Jupyter notebook using AutoML -&gt;
@@ -94,6 +97,7 @@ for data bricks, you must use Hadoop.</p></blockquote>
 <blockquote><p><strong>Srivathsan</strong> <code>(Sat 30 Jan 2021 02:23)</code> - <em>Upvotes: 1</em></p><p>https://docs.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect#:~:text=Databricks%20Connect%20allows%20you%20to,applications%20to%20Azure%20Databricks%20clusters.
 
 From the above link, it is seen that Databricks can support Zepplin.</p></blockquote>
+
 <blockquote><p><strong>prashantjoge</strong> <code>(Thu 20 May 2021 19:09)</code> - <em>Upvotes: 1</em></p><p>data bricks is a an analytics platform. it does not support feature engineering</p></blockquote>
 <blockquote><p><strong>valkyrieShadow</strong> <code>(Fri 27 Nov 2020 19:43)</code> - <em>Upvotes: 3</em></p><p>Azure data bricks meets all the requirements. HDInsight does not.
 Example: automatic feature engineering is included with autoML. HDinsight does not include this feature.
@@ -101,9 +105,11 @@ Example: automatic feature engineering is included with autoML. HDinsight does n
 HDinsight: https://docs.microsoft.com/en-us/azure/hdinsight/
 
 Azure Databricks: https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/</p></blockquote>
+
 <blockquote><p><strong>HkIsCrazY</strong> <code>(Sat 06 Feb 2021 07:30)</code> - <em>Upvotes: 3</em></p><p>No, HDinsight also provides all the autoML and auto feature engineering features
 
 https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-run-machine-learning-automl</p></blockquote>
+
 <blockquote><p><strong>prashantjoge</strong> <code>(Thu 20 May 2021 19:55)</code> - <em>Upvotes: 3</em></p><p>the given answer is correct</p></blockquote>
 <blockquote><p><strong>Karen_12321</strong> <code>(Mon 26 Oct 2020 06:01)</code> - <em>Upvotes: 1</em></p><p>Why not jupyter note book?</p></blockquote>
 <blockquote><p><strong>LakeSky</strong> <code>(Fri 09 Apr 2021 09:59)</code> - <em>Upvotes: 1</em></p><p>Maybe because jupyter notebook don&#x27;t provide intepreter for Spark like Zeppelin?

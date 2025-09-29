@@ -14,12 +14,12 @@ Which command should you use? To answer, select the appropriate options in the a
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q134_q_image484.png)
+![Question Image](../images/q134_q_image484.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q134_ans_0_image485.png" alt="Answer Image"><br>
+<img src="../images/q134_ans_0_image485.png" alt="Answer Image"><br>
 
 </details>
 
@@ -30,6 +30,7 @@ NOTE: Each correct selection is worth one point.
 This command uninstalls the specified kernel from Jupyter, which is the underlying technology used for compute instances in Azure Machine Learning. By running this command, you will remove the &quot;kernel1&quot; from the list of available kernels on the compute instance.
 
 Please make sure you have the necessary permissions to execute the command on the compute instance.</p></blockquote>
+
 <blockquote><p><strong>MiteshKachhatiya</strong> <code>(Wed 11 Jun 2025 06:11)</code> - <em>Upvotes: 1</em></p><p>On exam 8th June 2025</p></blockquote>
 <blockquote><p><strong>ymj_000</strong> <code>(Thu 07 Nov 2024 03:24)</code> - <em>Upvotes: 2</em></p><p>For reference: https://learn.microsoft.com/en-us/azure/machine-learning/how-to-access-terminal?view=azureml-api-2</p></blockquote>
 <blockquote><p><strong>A_PL300</strong> <code>(Mon 09 Sep 2024 20:33)</code> - <em>Upvotes: 4</em></p><p>on exam 4 September 2023</p></blockquote>

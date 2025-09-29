@@ -10,12 +10,13 @@ NOTE: More than one order of answer choices is correct. You will receive the cre
 
 Select and Place:
 
-![Question Image](images/q520_q_0036800001.png)
+![Question Image](../images/q520_q_0036800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q520_ans_0_0036900001.png" alt="Answer Image"><br>
+<img src="../images/q520_ans_0_0036900001.png" alt="Answer Image"><br>
+
 <p>Step 1: from azureml.train.hyperdrive</p>
 <p>Step 2: Import TruncationCelectionPolicy</p>
 <p>Truncation selection cancels a given percentage of lowest performing runs at each evaluation interval. Runs are compared based on their performance on the primary metric and the lowest X% are terminated.</p>
@@ -49,6 +50,7 @@ Answer: Selection Truncation policy.  As delay_evaluation is already set in all 
 <blockquote><p><strong>saurabhk1</strong> <code>(Tue 08 Mar 2022 13:53)</code> - <em>Upvotes: 4</em></p><p>I think, the policy should be the MedianTerminationPolicy,
 
 For a conservative policy that provides savings without terminating promising jobs, consider a Median Stopping Policy with evaluation_interval 1 and delay_evaluation 5. These are conservative settings, that can provide approximately 25%-35% savings with no loss on primary metric (based on our evaluation data).</p></blockquote>
+
 <blockquote><p><strong>audun</strong> <code>(Tue 04 Apr 2023 09:11)</code> - <em>Upvotes: 1</em></p><p>the question states that &quot;NOTE: More than one order of answer choices is correct. &quot; so that can be true simulatenous with TruncationSelectionPolicy</p></blockquote>
 
 </details>

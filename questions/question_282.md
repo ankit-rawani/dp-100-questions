@@ -12,12 +12,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q282_q_0030700001.png)
+![Question Image](../images/q282_q_0030700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q282_ans_0_image611.png" alt="Answer Image"><br>
+<img src="../images/q282_ans_0_image611.png" alt="Answer Image"><br>
 
 </details>
 
@@ -39,14 +39,15 @@ Track in both Azure Databricks workspace and Azure Machine Learning workspace (d
 Track exclusively on Azure Machine Learning
 By default, dual-tracking is configured for you when you linked your Azure Databricks workspace.
 Hence It should be NNN</p></blockquote>
+
 <blockquote><p><strong>Matt2000</strong> <code>(Mon 29 Jul 2024 14:29)</code> - <em>Upvotes: 1</em></p><p>I followed your link. The code specified in this question occurs in the section &#x27;Tracking exclusively on Azure Machine Learning workspace&#x27;. I suppose that the second question should be &#x27;Yes&#x27;.</p></blockquote>
 <blockquote><p><strong>Secure_Defense</strong> <code>(Sun 02 Feb 2025 05:29)</code> - <em>Upvotes: 1</em></p><p>Should be NNN.
 
 For second box: NO
 &quot;You can configure Azure Databricks to track experiments using MLflow in two ways:
 
- - Track in both Azure Databricks workspace and Azure Machine Learning workspace (dual-tracking)
- - Track exclusively on Azure Machine Learning
+- Track in both Azure Databricks workspace and Azure Machine Learning workspace (dual-tracking)
+- Track exclusively on Azure Machine Learning
 
 By default, when you link your Azure Databricks workspace, dual-tracking is configured for you.
 
@@ -57,6 +58,7 @@ https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow-azure
 For third box: NO
 
 The code doesn&#x27;t provide any segment to track metrics.</p></blockquote>
+
 <blockquote><p><strong>SunilB</strong> <code>(Thu 14 Sep 2023 11:55)</code> - <em>Upvotes: 5</em></p><p>Should be NNN
 After you link your Azure Databricks workspace with your Azure Machine Learning workspace, MLflow Tracking is automatically set to be tracked in all of the following places:
 The linked Azure Machine Learning workspace.
@@ -65,12 +67,13 @@ Your original ADB workspace.</p></blockquote>
 <blockquote><p><strong>vishal_aiml164</strong> <code>(Sat 08 Jul 2023 15:30)</code> - <em>Upvotes: 1</em></p><p>FYR : https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow-azure-databricks?tabs=cli%2Cmlflow</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Thu 08 Dec 2022 18:34)</code> - <em>Upvotes: 1</em></p><p>I do not fully understand this question, in the statements, there are no statement for logging, in order mlflow to log, one the following needs to be called:
 
-mlflow.log_param(&quot;alpha&quot;, alpha) 
-mlflow.log_metric(&#x27;mse&#x27;, 1.23) 
-mlflow.log_artifact(&quot;actuals_vs_predictions.png&quot;) 
+mlflow.log_param(&quot;alpha&quot;, alpha)
+mlflow.log_metric(&#x27;mse&#x27;, 1.23)
+mlflow.log_artifact(&quot;actuals_vs_predictions.png&quot;)
 mlflow.log_model(lr, &quot;linear Model&quot;)
 
 if no statement to log, how would anything to be traced or logged???</p></blockquote>
+
 <blockquote><p><strong>AjoseO</strong> <code>(Sat 03 Sep 2022 05:35)</code> - <em>Upvotes: 4</em></p><p>On 03 March 2022
 
 The 3rd question was different</p></blockquote>

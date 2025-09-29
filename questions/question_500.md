@@ -8,12 +8,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images/q500_q_0032700001.png)
+![Question Image](../images/q500_q_0032700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q500_ans_0_0032700002.png" alt="Answer Image"><br>
+<img src="../images/q500_ans_0_0032700002.png" alt="Answer Image"><br>
+
 <p>Scenario:</p>
 <p>Experiments for local crowd sentiment models must combine local penalty detection data.</p>
 <p>Crowd sentiment models must identify known sounds such as cheers and known catch phrases. Individual crowd sentiment models will detect similar sounds.</p>
@@ -45,6 +46,7 @@ B) Filter labeled cases for retraining using the shortest distance from centroid
 
 A) Add new features for retraining supervised models: This step involves adding new features for retraining supervised models. The new features can help improve the performance of the models and capture important information from the data.
 Therefore, the correct order of actions is C, B, A.</p></blockquote>
+
 <blockquote><p><strong>snegnik</strong> <code>(Mon 04 Dec 2023 20:08)</code> - <em>Upvotes: 1</em></p><p>ChatGPT3.5?</p></blockquote>
 <blockquote><p><strong>PremPatrick</strong> <code>(Wed 17 May 2023 07:33)</code> - <em>Upvotes: 6</em></p><p>Did this appear in any of the previous exams?</p></blockquote>
 <blockquote><p><strong>michaelmorar</strong> <code>(Tue 22 Aug 2023 21:37)</code> - <em>Upvotes: 3</em></p><p>Writing on Friday, will let you know.</p></blockquote>

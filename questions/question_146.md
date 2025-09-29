@@ -14,12 +14,12 @@ How should you complete the code segment? To answer, select the appropriate opti
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q146_q_image496.png)
+![Question Image](../images/q146_q_image496.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q146_ans_0_image497.png" alt="Answer Image"><br>
+<img src="../images/q146_ans_0_image497.png" alt="Answer Image"><br>
 
 </details>
 

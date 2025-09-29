@@ -14,12 +14,12 @@ How should you complete the script? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q301_q_image423.png)
+![Question Image](../images/q301_q_image423.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q301_ans_0_image424.png" alt="Answer Image"><br>
+<img src="../images/q301_ans_0_image424.png" alt="Answer Image"><br>
 
 </details>
 

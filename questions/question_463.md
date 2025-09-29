@@ -6,7 +6,7 @@ You are performing feature scaling by using the scikit-learn Python library for 
 
 Original and scaled data is shown in the following image.
 
-![Question Image](images/q463_q_0042200001.jpg)
+![Question Image](../images/q463_q_0042200001.jpg)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the graphic.
 
@@ -14,19 +14,20 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q463_q_0042300001.png)
+![Question Image](../images/q463_q_0042300001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q463_ans_0_0042400001.png" alt="Answer Image"><br>
+<img src="../images/q463_ans_0_0042400001.png" alt="Answer Image"><br>
+
 <p>Box 1: StandardScaler -</p>
 <p>The StandardScaler assumes your data is normally distributed within each feature and will scale them such that the distribution is now centred around 0, with a standard deviation of 1.</p>
 <p>Example:</p>
-<img src="images/q463_ref_6_0042500001.png" alt="Reference Image"><br>
+<img src="../images/q463_ref_6_0042500001.png" alt="Reference Image"><br>
 <p>All features are now on the same scale relative to one another.</p>
 <p>Box 2: Min Max Scaler -</p>
-<img src="images/q463_ref_13_0042600001.png" alt="Reference Image"><br>
+<img src="../images/q463_ref_13_0042600001.png" alt="Reference Image"><br>
 <p>Notice that the skewness of the distribution is maintained but the 3 distributions are brought into the same scale so that they overlap.</p>
 <p>Box 3: Normalizer -</p>
 <p>Reference:</p>
@@ -50,6 +51,7 @@ Standard - The StandardScaler assumes your data is normally distributed within e
 Min Max - MinMaxScaler preserves the shape of the original distribution. It doesn’t meaningfully change the information embedded in the original data.
 
 Normal - Normalizer does transform all the features to values between -1 and 1</p></blockquote>
+
 <blockquote><p><strong>tomiskolc</strong> <code>(Thu 29 Apr 2021 10:07)</code> - <em>Upvotes: 26</em></p><p>I&#x27;m pretty pretty sure, that you&#x27;re wrong! MinMaxScaler always(!!) between 0 and 1, Normalizer always between -1 and 1! and Standard always around 0 (with standard deviation of 1). So the correct answer is A: Standard, B: Min Max, C: Normal . (Please others dont write if you dont know)</p></blockquote>
 <blockquote><p><strong>YipingRuan</strong> <code>(Sun 11 Jul 2021 06:49)</code> - <em>Upvotes: 3</em></p><p>But in chart B, it goes beyond 1?</p></blockquote>
 <blockquote><p><strong>E_aws</strong> <code>(Sun 16 May 2021 15:15)</code> - <em>Upvotes: 17</em></p><p>As a mathematician I can approve that the answers are correct! :))</p></blockquote>
@@ -69,6 +71,7 @@ Graph C:
 
 Scaler Used: Normalizer
 The data in Graph C has been scaled in a way that likely brings each data point to unit norm, typical of the Normalizer.</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Thu 08 Feb 2024 02:16)</code> - <em>Upvotes: 1</em></p><p>These answers are correct, for sure!</p></blockquote>
 <blockquote><p><strong>ZoeJ</strong> <code>(Thu 27 Apr 2023 04:58)</code> - <em>Upvotes: 1</em></p><p>A: Standard, B: Min Max, C: Normal</p></blockquote>
 <blockquote><p><strong>ZoeJ</strong> <code>(Thu 27 Apr 2023 04:58)</code> - <em>Upvotes: 1</em></p><p>http://benalexkeen.com/feature-scaling-with-scikit-learn/</p></blockquote>

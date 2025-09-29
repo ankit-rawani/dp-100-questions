@@ -12,12 +12,12 @@ How should you configure the workflow? To answer, select the appropriate options
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q435_q_image530.png)
+![Question Image](../images/q435_q_image530.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q435_ans_0_image531.png" alt="Answer Image"><br>
+<img src="../images/q435_ans_0_image531.png" alt="Answer Image"><br>
 
 </details>
 

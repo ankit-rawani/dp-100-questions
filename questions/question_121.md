@@ -6,23 +6,23 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images/q121_q_image394.png)
+![Question Image](../images/q121_q_image394.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images/q121_q_image397.png)
+![Question Image](../images/q121_q_image397.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -35,12 +35,14 @@ Does the solution meet the goal?
 Using the constructor, you need to include at least the &quot;subscription_id&quot;, &quot;resource_group&quot; and &quot;workspace_name&quot; as they are REQUIRED.
 
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.workspace.workspace?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>Norasit</strong> <code>(Tue 25 Jun 2024 00:00)</code> - <em>Upvotes: 1</em></p><p>There is no method in the &#x27;Workspace&#x27; class that accepts the &#x27;workspace_name&#x27; parameter.</p></blockquote>
 <blockquote><p><strong>BrahderLau</strong> <code>(Sun 02 Jun 2024 03:01)</code> - <em>Upvotes: 3</em></p><p>Since, subscription_id and resource_group are required, hence the answer is No
 
-Workspace(subscription_id, resource_group, workspace_name, auth=None, _location=None, _disable_service_check=False, _workspace_id=None, sku=&#x27;basic&#x27;, tags=None, _cloud=&#x27;AzureCloud&#x27;)
+Workspace(subscription_id, resource_group, workspace_name, auth=None, \_location=None, \_disable_service_check=False, \_workspace_id=None, sku=&#x27;basic&#x27;, tags=None, \_cloud=&#x27;AzureCloud&#x27;)
 
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.workspace.workspace?view=azure-ml-py#constructor</p></blockquote>
+
 <blockquote><p><strong>krishna1818</strong> <code>(Wed 29 May 2024 09:52)</code> - <em>Upvotes: 1</em></p><p>ws = workspace.get(name=&#x27;...&#x27;)</p></blockquote>
 <blockquote><p><strong>rishi_ram</strong> <code>(Tue 28 May 2024 09:21)</code> - <em>Upvotes: 1</em></p><p>Workspace(subscription_id, resource_group, workspace_name, auth=None, _location=None, _disable_service_check=False, _workspace_id=None, sku=&#x27;basic&#x27;, tags=None, _cloud=&#x27;AzureCloud&#x27;)
 parameter name is workspace_name not name hence all other options are wrong

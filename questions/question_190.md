@@ -6,7 +6,7 @@ After you answer a question in this section, you will NOT be able to return to i
 
 An IT department creates the following Azure resource groups and resources:
 
-![Question Image](images/q190_q_0015800001.png)
+![Question Image](../images/q190_q_0015800001.png)
 
 The IT department creates an Azure Kubernetes Service (AKS)-based inference compute target named aks-cluster in the Azure Machine Learning workspace.
 
@@ -18,13 +18,13 @@ Solution: Install the Azure ML SDK on the Surface Book. Run Python code to conne
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -41,6 +41,7 @@ AKS cluster in Azure. With your self-managed AKS cluster in Azure, you can gain 
 Arc Kubernetes cluster outside of Azure. With Arc Kubernetes cluster, you can train or deploy models in any infrastructure on-premises, across multicloud, or the edge.
 
 Since this question menthioned we have AKS Cluster in Azure, so it is not possible to train the model. the correct answer is B.</p></blockquote>
+
 <blockquote><p><strong>Matt2000</strong> <code>(Mon 12 Aug 2024 16:40)</code> - <em>Upvotes: 1</em></p><p>AKS clusters can process training and allow for gpu usage. So it seems feasible. Reference: https://learn.microsoft.com/en-us/azure/machine-learning/how-to-attach-kubernetes-anywhere?view=azureml-api-2</p></blockquote>
 <blockquote><p><strong>esimsek</strong> <code>(Sat 23 Sep 2023 11:46)</code> - <em>Upvotes: 5</em></p><p>In exam 2023-03-23</p></blockquote>
 <blockquote><p><strong>Yuriy_Ch</strong> <code>(Fri 08 Sep 2023 11:15)</code> - <em>Upvotes: 4</em></p><p>Exactly this question was on exam 07/March/2023</p></blockquote>

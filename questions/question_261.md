@@ -4,7 +4,7 @@ HOTSPOT -
 
 You have a dataset that includes home sales data for a city. The dataset includes the following columns.
 
-![Question Image](images/q261_q_0028400001.png)
+![Question Image](../images/q261_q_0028400001.png)
 
 Each row in the dataset corresponds to an individual home sales transaction.
 
@@ -16,12 +16,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q261_q_0028500001.png)
+![Question Image](../images/q261_q_0028500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q261_ans_0_0028600001.png" alt="Answer Image"><br>
+<img src="../images/q261_ans_0_0028600001.png" alt="Answer Image"><br>
+
 <p>Box 1: Regression -</p>
 <p>Regression is a supervised machine learning technique used to predict numeric values.</p>
 <p>Box 2: Price -</p>

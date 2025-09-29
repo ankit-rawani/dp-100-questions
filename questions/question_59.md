@@ -16,12 +16,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q59_q_0007200001.png)
+![Question Image](../images/q59_q_0007200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q59_ans_0_0007300001.png" alt="Answer Image"><br>
+<img src="../images/q59_ans_0_0007300001.png" alt="Answer Image"><br>
+
 <p>Box 1: Sampling -</p>
 <p>Create a sample of data -</p>
 <p>This option supports simple random sampling or stratified random sampling. This is useful if you want to create a smaller representative sample dataset for testing.</p>
@@ -44,6 +45,7 @@ Hot Area:
 This option is important if you want the rows to be divided the same way every time. The default value is 0, meaning that a starting seed is generated based on the system clock. This can lead to slightly different results each time you run the experiment.
 
 https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/partition-and-sample</p></blockquote>
+
 <blockquote><p><strong>David_Tadeu</strong> <code>(Wed 22 Mar 2023 14:42)</code> - <em>Upvotes: 10</em></p><p>So they just had the option time.clock() to trick us into failing?</p></blockquote>
 <blockquote><p><strong>Hisayuki</strong> <code>(Sun 03 Nov 2024 09:22)</code> - <em>Upvotes: 1</em></p><p>time.clock() - Trick us. Microsoft learning says &quot;This option is important if you want the rows to be divided the same way every time. The default value is 0, meaning that a starting seed is generated based on the system clock.&quot;</p></blockquote>
 <blockquote><p><strong>ning</strong> <code>(Thu 11 May 2023 11:45)</code> - <em>Upvotes: 2</em></p><p>correct! 0 --&gt; system clock, random sampling not stratified sampling</p></blockquote>
@@ -54,6 +56,7 @@ I believe that implies the 2nd drop down is time.clock() - machine time.</p></bl
 This option is important if you want the rows to be divided the same way every time. The default value is 0, meaning that a starting seed is generated based on the system clock. This value can lead to slightly different results each time you run the pipeline.
 
 https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/partition-and-sample</p></blockquote>
+
 <blockquote><p><strong>synapse</strong> <code>(Mon 13 Mar 2023 11:24)</code> - <em>Upvotes: 6</em></p><p>there&#x27;s no such option as time.clock(). 0 is the correct answer.</p></blockquote>
 
 </details>

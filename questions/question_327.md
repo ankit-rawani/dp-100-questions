@@ -10,12 +10,12 @@ You need to ensure that you can use MLflow Tracking with Azure Machine Learning 
 
 In which order should you perform the actions? To answer, move all actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q327_q_image504.png)
+![Question Image](../images/q327_q_image504.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q327_ans_0_image505.png" alt="Answer Image"><br>
+<img src="../images/q327_ans_0_image505.png" alt="Answer Image"><br>
 
 </details>
 
@@ -33,6 +33,7 @@ import mlflow
 set_tracking_uri
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow-configure-tracking?view=azureml-api-2&amp;tabs=cli%2Cmlflow</p></blockquote>
+
 <blockquote><p><strong>Gpblax</strong> <code>(Thu 06 Jun 2024 10:54)</code> - <em>Upvotes: 3</em></p><p>Sorry it is D,B,C,A</p></blockquote>
 
 </details>

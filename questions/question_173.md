@@ -14,12 +14,12 @@ Which parameters should you use? To answer, select the appropriate options in th
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q173_q_image584.png)
+![Question Image](../images/q173_q_image584.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q173_ans_0_image585.png" alt="Answer Image"><br>
+<img src="../images/q173_ans_0_image585.png" alt="Answer Image"><br>
 
 </details>
 

@@ -6,23 +6,23 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images/q119_q_image394.png)
+![Question Image](../images/q119_q_image394.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images/q119_q_image395.png)
+![Question Image](../images/q119_q_image395.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -42,6 +42,7 @@ workspace_name = &quot;ml-project&quot;
 ws = Workspace(subscription_id, resource_group, workspace_name)
 
 SaM</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Wed 28 Feb 2024 05:55)</code> - <em>Upvotes: 1</em></p><p>it should be Workspace.get()</p></blockquote>
 <blockquote><p><strong>LadyCasilda</strong> <code>(Fri 18 Aug 2023 18:50)</code> - <em>Upvotes: 6</em></p><p>On exam 18 August 2023</p></blockquote>
 <blockquote><p><strong>ManuelHenriques</strong> <code>(Mon 16 Dec 2024 15:36)</code> - <em>Upvotes: 1</em></p><p>A as the file is in the root folder</p></blockquote>
@@ -52,6 +53,7 @@ According to the details in the table, the ml-project workspace information is s
 
 Therefore, the correct answer is:
 A. Yes</p></blockquote>
+
 <blockquote><p><strong>welcomeYM</strong> <code>(Tue 07 May 2024 10:12)</code> - <em>Upvotes: 2</em></p><p>A is the answer.</p></blockquote>
 <blockquote><p><strong>kzmain</strong> <code>(Mon 29 Apr 2024 15:37)</code> - <em>Upvotes: 2</em></p><p>A
 To load the workspace from the configuration file, use the from_config method.
@@ -71,6 +73,7 @@ ws.get_details()
 The method provides a simple way to reuse the same workspace across multiple Python notebooks or projects. Users can save the workspace Azure Resource Manager (ARM) properties using the write_config method, and use this method to load the same workspace in different Python notebooks or projects without retyping the workspace ARM properties.
 
 Reference: https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.workspace.workspace?view=azure-ml-py#remarks</p></blockquote>
+
 <blockquote><p><strong>rishi_ram</strong> <code>(Sun 28 May 2023 09:04)</code> - <em>Upvotes: 2</em></p><p>The code ws = Workspace.from_config() will attempt to load the workspace configuration from the config.json file in the current directory. However, it does not specify the specific workspace name &quot;ml-project&quot; mentioned in the question.
 from azureml.core import Workspace
 ws = Workspace.from_config(path=&#x27;./config.json&#x27;, name=&#x27;ml-project&#x27;)</p></blockquote>

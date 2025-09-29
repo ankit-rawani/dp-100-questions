@@ -6,23 +6,23 @@ After you answer a question in this section, you will NOT be able to return to i
 
 You have the following Azure subscriptions and Azure Machine Learning service workspaces:
 
-![Question Image](images/q154_q_image554.png)
+![Question Image](../images/q154_q_image554.png)
 
 You need to obtain a reference to the ml-project workspace.
 
 Solution: Run the following Python code:
 
-![Question Image](images/q154_q_image555.png)
+![Question Image](../images/q154_q_image555.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 

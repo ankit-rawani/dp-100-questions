@@ -20,12 +20,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q211_q_0019600001.png)
+![Question Image](../images/q211_q_0019600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q211_ans_0_0019700001.png" alt="Answer Image"><br>
+<img src="../images/q211_ans_0_0019700001.png" alt="Answer Image"><br>
+
 <p>Box 1: normal(10,3)</p>
 <p>Box 2: choice(16, 32, 64)</p>
 <p>Box 3: uniform(0.05, 0.1)</p>
@@ -53,9 +54,11 @@ Choice(values=[16, 32, 64, 128])
 Just mentioning this in case it will become question on the exam  ;)
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters</p></blockquote>
+
 <blockquote><p><strong>og44</strong> <code>(Thu 12 Sep 2024 11:10)</code> - <em>Upvotes: 1</em></p><p>Also the requirement &quot;Batch size must be 16, 32 and 64.&quot; is mal-formed. This implies all the the same time. However, it is one of them. as indicated  in the documentation. Besides, I guess random.choice[ 16, 32,64] would return one of the options.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?view=azureml-api-2</p></blockquote>
+
 <blockquote><p><strong>nato16</strong> <code>(Mon 29 Mar 2021 11:26)</code> - <em>Upvotes: 2</em></p><p>How can the learning rate have a value of mean, just curious, usually it less then 1.</p></blockquote>
 <blockquote><p><strong>lollo1234</strong> <code>(Fri 09 Apr 2021 11:45)</code> - <em>Upvotes: 4</em></p><p>it can just be an arbitrary scalar value to weight new observations of gradients</p></blockquote>
 

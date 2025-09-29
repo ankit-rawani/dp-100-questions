@@ -10,12 +10,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q514_q_0035100001.png)
+![Question Image](../images/q514_q_0035100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q514_ans_0_image621.png" alt="Answer Image"><br>
+<img src="../images/q514_ans_0_image621.png" alt="Answer Image"><br>
 
 </details>
 
@@ -29,6 +29,7 @@ Hot Area:
 Launch column selector:
 Integer
 Unchanged: This will ensure that the MedianValue column in both datasets is recognized as an integer type and is not modified.</p></blockquote>
+
 <blockquote><p><strong>spaceykacey</strong> <code>(Fri 05 May 2023 06:24)</code> - <em>Upvotes: 3</em></p><p>Should it not be &#x27;Integer&#x27;? The value is in $1000s.</p></blockquote>
 <blockquote><p><strong>Mckay_</strong> <code>(Sun 14 Apr 2024 22:40)</code> - <em>Upvotes: 1</em></p><p>good observation. I totally agree with you.</p></blockquote>
 <blockquote><p><strong>prashantjoge</strong> <code>(Mon 28 Nov 2022 17:29)</code> - <em>Upvotes: 3</em></p><p>if your source dataset has numbers handled as text, you must change them to a numeric data type before using math operations.
@@ -37,9 +38,10 @@ Floating point and time span is not an option
 
 For example, you might have a column that contains the numbers 0, 1, and 2, but know that the numbers actually mean &quot;Smoker,&quot; &quot;Non-smoker,&quot; and &quot;Unknown.&quot; In that case, by flagging the column as categorical you ensure that the values are used only to group data and not in numeric calculations.
 
-Since it is numeric the option should be either &quot;unchanged&quot; or &quot;make uncategorical&quot;. 
+Since it is numeric the option should be either &quot;unchanged&quot; or &quot;make uncategorical&quot;.
 
 The original data is text so it should be made uncategorical</p></blockquote>
+
 <blockquote><p><strong>brendal89</strong> <code>(Fri 07 Oct 2022 10:19)</code> - <em>Upvotes: 2</em></p><p>if you google &quot;make uncategorical&quot; + edit metadata, you only get references to this particular exam question... I&#x27;m not convinced that &quot;make uncategorical&quot; even exists.</p></blockquote>
 <blockquote><p><strong>Dasist</strong> <code>(Tue 27 Sep 2022 17:24)</code> - <em>Upvotes: 3</em></p><p>Integer and uncategorical as the MedianValue is written in 1000 (no decimal point) and it&#x27;s a regression model so must be numeric.</p></blockquote>
 <blockquote><p><strong>Neuron</strong> <code>(Wed 03 Aug 2022 10:47)</code> - <em>Upvotes: 3</em></p><p>The table that shows types indicate MedianValue is in the $1000s. It&#x27;s an integer. Where did Floating Point come from? Also, the Paris data must be noncategorical, too, like the London data.</p></blockquote>
@@ -58,6 +60,7 @@ If you select multiple columns, you must apply the metadata changes to all selec
 If you don&#x27;t specify a new data type, the column metadata is unchanged.
 
 The column type and values will change after you perform the Edit Metadata operation. You can recover the original data type at any time by using Edit Metadata to reset the column data type.</p></blockquote>
+
 <blockquote><p><strong>aziti</strong> <code>(Thu 30 Jun 2022 13:51)</code> - <em>Upvotes: 2</em></p><p>I dont think there is such a thing as make uncategorical. Since the string version of the MedianValue we had is already not categorical we do not need to switch the MedianValue, thus leaving it unchanged would leave us with a non categorical Median integer value..maybe</p></blockquote>
 <blockquote><p><strong>Rickii</strong> <code>(Mon 17 Jan 2022 12:04)</code> - <em>Upvotes: 2</em></p><p>The answer is Floating point, Make Categorical</p></blockquote>
 <blockquote><p><strong>Indranee</strong> <code>(Wed 20 Jul 2022 07:43)</code> - <em>Upvotes: 1</em></p><p>To make &#x27;MedianValues&#x27; categorical, do you mean turning values into bins of &#x27;MedianValues&#x27;?</p></blockquote>

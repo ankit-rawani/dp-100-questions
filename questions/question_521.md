@@ -8,12 +8,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images/q521_q_0046700001.png)
+![Question Image](../images/q521_q_0046700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q521_ans_0_0046800001.png" alt="Answer Image"><br>
+<img src="../images/q521_ans_0_0046800001.png" alt="Answer Image"><br>
+
 <p>Step 1: Augment the data -</p>
 <p>Scenario: Columns in each dataset contain missing and null values. The datasets also contain many outliers.</p>
 <p>Step 2: Add the Bayesian Linear Regression module.</p>
@@ -50,6 +51,7 @@ Configure the regularization weight: Regularization can help to prevent overfitt
 Decrease the memory size for L-BFGS: This can help to reduce the computational resources required for training the model, which can improve the efficiency and speed of the training process.
 
 Adding the other modules (ordinal regression, two-class averaged perception, multiclass decision jungle) would not be appropriate for a regression problem, and adding the Bayesian Linear Regression module was already mentioned in the scenario.</p></blockquote>
+
 <blockquote><p><strong>azure1000</strong> <code>(Sat 06 Aug 2022 06:40)</code> - <em>Upvotes: 3</em></p><p>Augmentation and regularization is correct. but not sure for Bayesian model</p></blockquote>
 <blockquote><p><strong>azayra</strong> <code>(Fri 28 Oct 2022 16:38)</code> - <em>Upvotes: 1</em></p><p>You must set up the experiment to cross-validate the Linear Regression and Bayesian Linear Regression modules to evaluate performance.</p></blockquote>
 <blockquote><p><strong>mangeshb1981</strong> <code>(Fri 12 Aug 2022 11:28)</code> - <em>Upvotes: 1</em></p><p>What should be the answer then?</p></blockquote>

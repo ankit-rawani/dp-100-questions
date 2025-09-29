@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images/q474_q_0044100001.png)
+![Question Image](../images/q474_q_0044100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q474_ans_0_0044100002.png" alt="Answer Image"><br>
+<img src="../images/q474_ans_0_0044100002.png" alt="Answer Image"><br>
+
 <p>Box 1: Split data -</p>
 <p>Box 2: Partition and Sample -</p>
 <p>Box 3: Two-Class Boosted Decision Tree</p>

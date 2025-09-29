@@ -8,7 +8,7 @@ You are using Azure Machine Learning to run an experiment that trains a classifi
 
 You want to use Hyperdrive to find parameters that optimize the AUC metric for the model. You configure a HyperDriveConfig for the experiment by running the following code:
 
-![Question Image](images/q182_q_0014400001.png)
+![Question Image](../images/q182_q_0014400001.png)
 
 You plan to use this configuration to run a script that trains a random forest model and then tests it with validation data. The label values for the validation data are stored in a variable named y_test variable, and the predicted probabilities from the model are stored in a variable named y_predicted.
 
@@ -16,17 +16,17 @@ You need to add logging to the script to allow Hyperdrive to optimize hyperparam
 
 Solution: Run the following code:
 
-![Question Image](images/q182_q_0014400002.png)
+![Question Image](../images/q182_q_0014400002.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
 
 </details>
 
@@ -38,6 +38,7 @@ Does the solution meet the goal?
 logging.info() logs it but does not allow for optimizing hyperdrive
 
 See: https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/6a-knowledge-check</p></blockquote>
+
 <blockquote><p><strong>JohnDup</strong> <code>(Wed 08 Jun 2022 14:23)</code> - <em>Upvotes: 1</em></p><p>The question is &quot;You need to add logging to the script to allow Hyperdrive to optimize hyperparameters for the AUC metric.&quot; so it should be correct, since it only ask for log. 
 Answer: A. Yes</p></blockquote>
 <blockquote><p><strong>spaceykacey</strong> <code>(Tue 26 Apr 2022 13:14)</code> - <em>Upvotes: 2</em></p><p>agreed. correct answer is B.</p></blockquote>
@@ -46,7 +47,9 @@ Answer: A. Yes</p></blockquote>
 run = Run.get_context()
 
 # Log the AUC score
+
 run.log(&quot;AUC&quot;, auc)</p></blockquote>
+
 <blockquote><p><strong>PradhanManva</strong> <code>(Mon 25 Mar 2024 07:20)</code> - <em>Upvotes: 1</em></p><p>B is the answer</p></blockquote>
 <blockquote><p><strong>abhishekm94</strong> <code>(Sat 16 Dec 2023 04:01)</code> - <em>Upvotes: 1</em></p><p>&quot;The training script for your model must log the primary metric during model training using the same corresponding metric name so that the SweepJob can access it for hyperparameter tuning.&quot; - link :: https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?view=azureml-api-2  clearly says mlflow logging is  required. Any other logging will not work.</p></blockquote>
 <blockquote><p><strong>Tommo565</strong> <code>(Sat 23 Sep 2023 08:54)</code> - <em>Upvotes: 1</em></p><p>B is correct</p></blockquote>

@@ -10,12 +10,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q513_q_0035500001.jpg)
+![Question Image](../images/q513_q_0035500001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q513_ans_0_0035600001.jpg" alt="Answer Image"><br>
+<img src="../images/q513_ans_0_0035600001.jpg" alt="Answer Image"><br>
+
 <p>Box 1: 500 -</p>
 <p>For Random seed, type a value to use as seed for randomization. If you specify 0 (the default), a number is generated based on the system clock.</p>
 <p>A seed value is optional, but you should provide a value if you want reproducibility across runs of the same experiment.</p>

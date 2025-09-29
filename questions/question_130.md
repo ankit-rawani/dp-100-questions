@@ -10,12 +10,12 @@ You need to attach Azure Databricks as a compute resource from the Azure Machine
 
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q130_q_image454.png)
+![Question Image](../images/q130_q_image454.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q130_ans_0_image455.png" alt="Answer Image"><br>
+<img src="../images/q130_ans_0_image455.png" alt="Answer Image"><br>
 
 </details>
 

@@ -6,7 +6,7 @@ You are analyzing the asymmetry in a statistical distribution.
 
 The following image contains two density curves that show the probability distribution of two datasets.
 
-![Question Image](images/q475_q_0044300001.png)
+![Question Image](../images/q475_q_0044300001.png)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the graphic.
 
@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q475_q_0044300002.png)
+![Question Image](../images/q475_q_0044300002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q475_ans_0_0044400001.png" alt="Answer Image"><br>
+<img src="../images/q475_ans_0_0044400001.png" alt="Answer Image"><br>
+
 <p>Box 1: Positive skew -</p>
 <p>Positive skew values means the distribution is skewed to the right.</p>
 <p>Box 2: Negative skew -</p>
@@ -39,6 +40,7 @@ A left-skewed distribution has a long left tail. Left-skewed distributions are a
 A right-skewed distribution has a long right tail. Right-skewed distributions are also called positive-skew distributions. That’s because there is a long tail in the positive direction on the number line. The mean is also to the right of the peak.
 
 https://www.statisticshowto.com/probability-and-statistics/skewed-distribution/</p></blockquote>
+
 <blockquote><p><strong>Zhuo</strong> <code>(Wed 19 May 2021 15:05)</code> - <em>Upvotes: 12</em></p><p>Graph 1 is negative skew.</p></blockquote>
 <blockquote><p><strong>InversaRadice</strong> <code>(Tue 10 Dec 2024 16:59)</code> - <em>Upvotes: 1</em></p><p>given                    answer                      is                      correct</p></blockquote>
 <blockquote><p><strong>james2033</strong> <code>(Mon 07 Oct 2024 00:15)</code> - <em>Upvotes: 1</em></p><p>https://en.wikipedia.org/wiki/Skewness</p></blockquote>
@@ -56,11 +58,12 @@ positive skew: The right tail is longer; the mass of the distribution is concent
 Ergo, the answers are interchanged. G1: should be negative skew and G2: positive. See the figure from the wiki link or the link provided by VickyM.
 
 At times like this, I am starting to doubt the competence of the answers provided.</p></blockquote>
+
 <blockquote><p><strong>saurabhk1</strong> <code>(Sat 05 Mar 2022 09:55)</code> - <em>Upvotes: 5</em></p><p>The answer is quite opposite.
 The first one is negative and the second one is positive
 
-
 https://en.wikipedia.org/wiki/Skewness</p></blockquote>
+
 <blockquote><p><strong>Shankar_102</strong> <code>(Fri 28 Jan 2022 17:52)</code> - <em>Upvotes: 3</em></p><p>Wrong answer</p></blockquote>
 <blockquote><p><strong>deepakconsult</strong> <code>(Sat 28 Aug 2021 06:50)</code> - <em>Upvotes: 1</em></p><p>Reverse: https://en.wikipedia.org/wiki/</p></blockquote>
 <blockquote><p><strong>Nugi</strong> <code>(Sat 14 Aug 2021 11:16)</code> - <em>Upvotes: 7</em></p><p>Graph 1 = negative

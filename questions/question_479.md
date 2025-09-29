@@ -14,12 +14,12 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q479_q_0044800001.png)
+![Question Image](../images/q479_q_0044800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q479_ans_0_image620.png" alt="Answer Image"><br>
+<img src="../images/q479_ans_0_image620.png" alt="Answer Image"><br>
 
 </details>
 
@@ -49,6 +49,7 @@ yes: explainers has no restrictions to be used in a tree based method</p></block
 
 Ex:
 explainer = MimicExplainer(model, x_train, explainable_model=DecisionTreeExplainableModel, features=feature_names, classes=class_names)</p></blockquote>
+
 <blockquote><p><strong>pancman</strong> <code>(Thu 13 Oct 2022 03:20)</code> - <em>Upvotes: 1</em></p><p>You can refer to TabularExplainer documentation here:
 https://interpret-community.readthedocs.io/en/latest/api_reference/interpret_community.html?highlight=tabularexplainer#interpret_community.TabularExplainer</p></blockquote>
 <blockquote><p><strong>dija123</strong> <code>(Wed 08 Jun 2022 18:00)</code> - <em>Upvotes: 3</em></p><p>1- Yes
@@ -63,6 +64,7 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-
 <blockquote><p><strong>YipingRuan</strong> <code>(Tue 25 Jan 2022 16:32)</code> - <em>Upvotes: 1</em></p><p>You can use one of the following interpretable models as your surrogate model: LightGBM (LGBMExplainableModel), Linear Regression (LinearExplainableModel)
 
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability</p></blockquote>
+
 <blockquote><p><strong>thhvancouver</strong> <code>(Mon 31 Jan 2022 18:28)</code> - <em>Upvotes: 5</em></p><p>According to the documentation: You can use one of the following interpretable models as your surrogate model: LightGBM (LGBMExplainableModel), Linear Regression (LinearExplainableModel), Stochastic Gradient Descent explainable model (SGDExplainableModel), and Decision Tree (DecisionTreeExplainableModel). So a MimicExplainer can also be used with Decision Tree.</p></blockquote>
 
 </details>

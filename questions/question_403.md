@@ -12,12 +12,13 @@ Which four actions should you perform in sequence? To answer, move the appropria
 
 Select and Place:
 
-![Question Image](images/q403_q_0040700001.jpg)
+![Question Image](../images/q403_q_0040700001.jpg)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q403_ans_0_0040800001.jpg" alt="Answer Image"><br>
+<img src="../images/q403_ans_0_0040800001.jpg" alt="Answer Image"><br>
+
 <p>Step 1: Install Docker on the workstation</p>
 <p>Prerequisites include having a working Docker installation on your local system.</p>
 <p>Build or download the dockerfile to the compute node.</p>
@@ -49,6 +50,7 @@ Create a LocalWebservice deployment configuration for the service and deploy the
 4.Creae an AksWebservice deployment configuration for the service and deploy the model to it
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-managed-online-endpoints?tabs=python</p></blockquote>
+
 <blockquote><p><strong>deyoz</strong> <code>(Tue 06 Aug 2024 02:11)</code> - <em>Upvotes: 3</em></p><p>I agree with this answer but i want to know if the following sequence is also correct:
 1. Create localwebservice
 2. debug and modify the scoring script

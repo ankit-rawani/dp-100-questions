@@ -12,12 +12,12 @@ You need to implement the Python SDK v2 code to store metrics and artifacts in w
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q334_q_image510.png)
+![Question Image](../images/q334_q_image510.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q334_ans_0_image511.png" alt="Answer Image"><br>
+<img src="../images/q334_ans_0_image511.png" alt="Answer Image"><br>
 
 </details>
 
@@ -31,38 +31,47 @@ Set the MLflow tracking URI. MLflow is a platform for managing the machine learn
 from azure.identity import DefaultAzureCredential
 
 # Step 1: Instantiate an object of the MLClient class
+
 credential = DefaultAzureCredential()
 ml_client = MLClient(credential, subscription_id, resource_group, workspace_name)
 
 # Step 2: Retrieve the tracking URI of workspace1
+
 tracking_uri = ml_client.workspaces.get(workspace_name).mlflow_tracking_uri
 
 # Step 3: Set the MLflow tracking URI
+
 import mlflow
 mlflow.set_tracking_uri(tracking_uri)</p></blockquote>
+
 <blockquote><p><strong>sl_mslconsulting</strong> <code>(Wed 27 Nov 2024 18:31)</code> - <em>Upvotes: 1</em></p><p>this link should provide all the inform you need to answer this question. https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow-configure-tracking?view=azureml-api-2&amp;tabs=python%2Cmlflow</p></blockquote>
 <blockquote><p><strong>PI_Team</strong> <code>(Sat 08 Jun 2024 10:27)</code> - <em>Upvotes: 3</em></p><p>from azure.ai.ml import MLClient
 from azure.identity import DefaultAzureCredential
 import mlflow
 
 # Define your parameters
+
 subscription_id = &quot;&lt;your-subscription-id&gt;&quot;
 resource_group_name = &quot;&lt;your-resource-group-name&gt;&quot;
 workspace_name = &quot;&lt;your-workspace-name&gt;&quot;
 
 # Instantiate the MLClient class
+
 ml_client = MLClient(
-    credential=DefaultAzureCredential(),
-    subscription_id=subscription_id,
-    resource_group_name=resource_group_name,
-    workspace_name=workspace_name
+credential=DefaultAzureCredential(),
+subscription_id=subscription_id,
+resource_group_name=resource_group_name,
+workspace_name=workspace_name
 )
 
 # Retrieve the tracking URI of workspace1
+
 tracking_uri = ml_client.get_tracking_uri()
 
 # Set the MLflow tracking URI
+
 mlflow.set_tracking_uri(tracking_uri)</p></blockquote>
+
 <blockquote><p><strong>barb4ever2002</strong> <code>(Wed 27 Dec 2023 10:47)</code> - <em>Upvotes: 1</em></p><p>chat gtp: 
 Retrieve the tracking URI of workspace1: To interact with the MLflow server in workspace1, you need to retrieve the tracking URI. This can be done using the Azure Machine Learning SDK to access the workspace and retrieve the necessary information.
 

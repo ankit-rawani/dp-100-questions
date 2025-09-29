@@ -6,7 +6,7 @@ An organization uses Azure Machine Learning service and wants to expand their us
 
 You have the following compute environments. The organization does not want to create another compute environment.
 
-![Question Image](images/q70_q_0008100001.png)
+![Question Image](../images/q70_q_0008100001.png)
 
 You need to determine which compute environment to use for the following scenarios.
 
@@ -16,14 +16,15 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images/q70_q_0008100002.png)
+![Question Image](../images/q70_q_0008100002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q70_ans_0_0008100003.png" alt="Answer Image"><br>
+<img src="../images/q70_ans_0_0008100003.png" alt="Answer Image"><br>
+
 <p>Box 1: nb_server -</p>
-<img src="images/q70_ref_2_0008200001.png" alt="Reference Image"><br>
+<img src="../images/q70_ref_2_0008200001.png" alt="Reference Image"><br>
 <p>Box 2: mlc_cluster -</p>
 <p>With Azure Machine Learning, you can train your model on a variety of resources or environments, collectively referred to as compute targets. A compute target can be a local machine or a cloud resource, such as an Azure Machine Learning Compute, Azure HDInsight or a remote virtual machine.</p>
 <p>Reference:</p>
@@ -45,8 +46,9 @@ aks_cluster
 Here is why: https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer#compute
 
 When using AML designer, the supported compute targets are
-   - AML compute, for TRAINING
-   - AKS, for DEPLOYMENT</p></blockquote>
+
+- AML compute, for TRAINING
+- AKS, for DEPLOYMENT</p></blockquote>
 <blockquote><p><strong>prashantjoge</strong> <code>(Tue 30 Nov 2021 22:15)</code> - <em>Upvotes: 11</em></p><p>should be compute instance and AKS. What is machine learning compute?</p></blockquote>
 <blockquote><p><strong>kty</strong> <code>(Thu 16 Sep 2021 13:10)</code> - <em>Upvotes: 8</em></p><p>https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-target
 to use designer in training, it has to be &quot; compute cluster &quot;</p></blockquote>
@@ -57,6 +59,7 @@ Azure Machine Learning compute instance
 Azure Container Instances
 Azure Kubernetes Service
 Azure Functions</p></blockquote>
+
 <blockquote><p><strong>Karthikat</strong> <code>(Wed 25 Sep 2024 16:40)</code> - <em>Upvotes: 5</em></p><p>on exam 3/25/2024</p></blockquote>
 <blockquote><p><strong>Kanwal001</strong> <code>(Wed 28 Feb 2024 20:27)</code> - <em>Upvotes: 4</em></p><p>On exam 28/08/2023..</p></blockquote>
 <blockquote><p><strong>braupi</strong> <code>(Thu 29 Feb 2024 04:33)</code> - <em>Upvotes: 1</em></p><p>what is the answer?</p></blockquote>

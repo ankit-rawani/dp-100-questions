@@ -14,12 +14,12 @@ What should you evaluate? To answer, select the appropriate options in the answe
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q299_q_image418.png)
+![Question Image](../images/q299_q_image418.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q299_ans_0_image419.png" alt="Answer Image"><br>
+<img src="../images/q299_ans_0_image419.png" alt="Answer Image"><br>
 
 </details>
 

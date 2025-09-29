@@ -2,7 +2,7 @@
 
 You deploy a model as an Azure Machine Learning real-time web service using the following code.
 
-![Question Image](images/q372_q_0037600001.png)
+![Question Image](../images/q372_q_0037600001.png)
 
 The deployment fails.
 
@@ -10,15 +10,16 @@ You need to troubleshoot the deployment failure by determining the actions that 
 
 Which code segment should you run?
 
-* A.service.get_logs()
-* B.service.state
-* C.service.serialize()
-* D.service.update_deployment_state()
+- A.service.get_logs()
+- B.service.state
+- C.service.serialize()
+- D.service.update_deployment_state()
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
+
 <p>You can print out detailed Docker engine log messages from the service object. You can view the log for ACI, AKS, and Local deployments. The following example demonstrates how to print the logs.</p>
 <p># if you already have the service object handy</p>
 <p>print(service.get_logs())</p>

@@ -12,12 +12,12 @@ You need to ensure that client applications can submit data as HTTP requests and
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q417_q_image445.png)
+![Question Image](../images/q417_q_image445.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q417_ans_0_image446.png" alt="Answer Image"><br>
+<img src="../images/q417_ans_0_image446.png" alt="Answer Image"><br>
 
 </details>
 
@@ -33,6 +33,7 @@ Which three actions should you perform in sequence? To answer, move the appropri
 b) Create a pipeline that trains a classification model and run the pipeline on the compute cluster. You first need to create and run a training pipeline in the Azure Machine Learning Designer. This pipeline should train a classification model on your data.
 d) Create a real-time inference pipeline and run the pipeline on the compute cluster. After the model is trained, you can create a real-time inference pipeline. This type of pipeline will use your trained model to make predictions on new data in real time.
 a) Deploy a service to the inference cluster. The last step is to deploy your real-time inference pipeline as a service to the inference cluster. This service will allow client applications to send data as HTTP requests and receive predictions as HTTP responses</p></blockquote>
+
 <blockquote><p><strong>sap_dg</strong> <code>(Fri 29 Mar 2024 04:13)</code> - <em>Upvotes: 1</em></p><p>Create pipeline that trains classification model -&gt; deploy service to the inference cluster -&gt; create real time inference pipeline</p></blockquote>
 <blockquote><p><strong>Piddi</strong> <code>(Fri 05 Apr 2024 04:03)</code> - <em>Upvotes: 3</em></p><p>Shouldn&#x27;t the third step be the second step in your answer?</p></blockquote>
 

@@ -2,22 +2,22 @@
 
 You create a batch inference pipeline by using the Azure ML SDK. You configure the pipeline parameters by executing the following code:
 
-![Question Image](images/q195_q_0016700001.png)
+![Question Image](../images/q195_q_0016700001.png)
 
 You need to obtain the output from the pipeline execution.
 
 Where will you find the output?
 
-* A.the digit_identification.py script
-* B.the debug log
-* C.the Activity Log in the Azure portal for the Machine Learning workspace
-* D.the Inference Clusters tab in Machine Learning studio
-* E.a file named parallel_run_step.txt located in the output folder
+- A.the digit_identification.py script
+- B.the debug log
+- C.the Activity Log in the Azure portal for the Machine Learning workspace
+- D.the Inference Clusters tab in Machine Learning studio
+- E.a file named parallel_run_step.txt located in the output folder
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>E</strong><br>
+<strong>E</strong><br>
 
 </details>
 

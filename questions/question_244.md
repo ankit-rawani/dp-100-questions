@@ -10,17 +10,18 @@ You need to create a pipeline that runs a processing script to load data from a 
 
 Solution: Run the following code:
 
-![Question Image](images/q244_q_0025200001.png)
+![Question Image](../images/q244_q_0025200001.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>The two steps are present: process_step and train_step</p>
 <p>The training data input is not setup correctly.</p>
 <p>Note:</p>
@@ -48,7 +49,8 @@ Does the solution meet the goal?
                                  compute_target=aml_compute,
                                  source_directory=train_directory)
 
-   pipeline = Pipeline(workspace=ws, steps=[process_step, train_step])</p></blockquote>
+pipeline = Pipeline(workspace=ws, steps=[process_step, train_step])</p></blockquote>
+
 <blockquote><p><strong>ML_Novice</strong> <code>(Wed 17 May 2023 11:15)</code> - <em>Upvotes: 2</em></p><p>how the first preprocess step doesn&#x27;t require any input entry?
 thanks for your response</p></blockquote>
 <blockquote><p><strong>snegnik</strong> <code>(Fri 29 Nov 2024 15:09)</code> - <em>Upvotes: 1</em></p><p>Where is input for process_step?</p></blockquote>
@@ -74,6 +76,7 @@ compute_target=aml_compute,
 source_directory=train_directory)
 
 pipeline = Pipeline(workspace=ws, steps=[process_step, train_step])</p></blockquote>
+
 <blockquote><p><strong>skrjha20</strong> <code>(Thu 30 Mar 2023 09:20)</code> - <em>Upvotes: 2</em></p><p>Code should be as below.
 datastore = ws.get_default_datastore()
    process_step_output = PipelineData(&quot;processed_data&quot;, datastore=datastore)
@@ -88,9 +91,10 @@ datastore = ws.get_default_datastore()
                                  compute_target=aml_compute,
                                  source_directory=train_directory)
 
-   pipeline = Pipeline(workspace=ws, steps=[process_step, train_step])
+pipeline = Pipeline(workspace=ws, steps=[process_step, train_step])
 
 However in 2 nd line tried to use read_csv() which is wrong</p></blockquote>
+
 <blockquote><p><strong>SnowCheetah</strong> <code>(Sun 25 Dec 2022 15:37)</code> - <em>Upvotes: 2</em></p><p>https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipelinedata?view=azure-ml-py
 
 This one is incorrect since process_step_output is set up incorrectly

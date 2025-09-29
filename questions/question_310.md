@@ -14,12 +14,12 @@ Which code segments should you use? To answer, select the appropriate options in
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q310_q_image427.png)
+![Question Image](../images/q310_q_image427.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q310_ans_0_image428.png" alt="Answer Image"><br>
+<img src="../images/q310_ans_0_image428.png" alt="Answer Image"><br>
 
 </details>
 
@@ -37,6 +37,7 @@ output :
 
 Not uniform since uniform should only have 2 parameters:(min_num, max_num)
 ref : https://learn.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hyperdrive.parameter_expressions?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>jl420</strong> <code>(Fri 08 Nov 2024 16:28)</code> - <em>Upvotes: 1</em></p><p>this question is broken</p></blockquote>
 <blockquote><p><strong>Nghia1</strong> <code>(Tue 06 Jun 2023 20:01)</code> - <em>Upvotes: 3</em></p><p>correct
 https://learn.microsoft.com/en-us/training/modules/tune-hyperparameters-with-azure-machine-learning/3-sampling</p></blockquote>

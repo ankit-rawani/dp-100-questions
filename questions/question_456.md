@@ -14,12 +14,12 @@ Which compute options should you select for training and deployment? To answer, 
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q456_q_image594.png)
+![Question Image](../images/q456_q_image594.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q456_ans_0_image595.png" alt="Answer Image"><br>
+<img src="../images/q456_ans_0_image595.png" alt="Answer Image"><br>
 
 </details>
 

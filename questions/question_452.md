@@ -10,7 +10,7 @@ You plan to deploy model1 to an online endpoint named endpoint1 without egress c
 
 You have the following code:
 
-![Question Image](images/q452_q_image571.png)
+![Question Image](../images/q452_q_image571.png)
 
 You need to add a parameter to the ManagedOnlineDeployment object to ensure the model deploys successfully.
 
@@ -18,13 +18,13 @@ Solution: Add the with_package parameter.
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>A</strong><br>
+<strong>A</strong><br>
 
 </details>
 
@@ -57,6 +57,7 @@ Replace $ENDPOINT_NAME with your desired endpoint name.
 This approach allows you to avoid the need for an internet connection while deploying MLflow models.
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-mlflow-models-online-endpoints?view=azureml-api-2&amp;tabs=cli</p></blockquote>
+
 <blockquote><p><strong>cryodax</strong> <code>(Sat 15 Jun 2024 19:35)</code> - <em>Upvotes: 3</em></p><p>The ManagedOnlineDeployment class requires the following parameters:
 
 name: str: Name of the deployment resource.
@@ -64,12 +65,14 @@ model: str | Model | None: Model entity for the endpoint deployment, defaults to
 code_configuration: CodeConfiguration | None: Code Configuration, defaults to None.
 environment: str | Environment | None: Environment entity for the endpoint deployment, defaults to None.
 These are the minimum required parameters to create an instance of the ManagedOnlineDeployment class. All other parameters are optional and have default values. Please note that while model, code_configuration, and environment are optional in the constructor, they are typically necessary for a successful deployment. If not provided in the constructor, they should be set before deployment.</p></blockquote>
+
 <blockquote><p><strong>cryodax</strong> <code>(Sat 15 Jun 2024 19:32)</code> - <em>Upvotes: 1</em></p><p>Sorry, scoring_script is optional. Copilot response:
 
 When using the ManagedOnlineDeployment class with the pyfunc flavor, the parameters remain the same. However, the model and code_configuration parameters are particularly important:
 
 model: str | Model | None: This should be an instance of mlflow.pyfunc.PyFuncModel or the URI of the model saved with mlflow.pyfunc.save_model1.
 code_configuration: CodeConfiguration | None: This should be an instance of CodeConfiguration where the code_flavor is set to pyfunc.</p></blockquote>
+
 <blockquote><p><strong>D0ktor</strong> <code>(Mon 18 Nov 2024 19:25)</code> - <em>Upvotes: 1</em></p><p>https://learn.microsoft.com/en-us/python/api/azure-ai-ml/azure.ai.ml.entities.managedonlinedeployment?view=azure-python
 Scoring script is not optional</p></blockquote>
 <blockquote><p><strong>cryodax</strong> <code>(Sat 15 Jun 2024 19:22)</code> - <em>Upvotes: 2</em></p><p>B. No

@@ -8,7 +8,7 @@ You use 75 percent of the data points for training and 25 percent for testing. Y
 
 You create the following Python data frames:
 
-![Question Image](images/q218_q_0020600001.png)
+![Question Image](../images/q218_q_0020600001.png)
 
 You need to apply the Principal Component Analysis (PCA) method to reduce the dimensionality of the feature set to 10 features in both training and testing sets.
 
@@ -18,12 +18,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q218_q_0020700001.png)
+![Question Image](../images/q218_q_0020700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q218_ans_0_0020800001.png" alt="Answer Image"><br>
+<img src="../images/q218_ans_0_0020800001.png" alt="Answer Image"><br>
+
 <p>Box 1: PCA(n_components = 10)</p>
 <p>Need to reduce the dimensionality of the feature set to 10 features in both training and testing sets.</p>
 <p>Example:</p>
@@ -49,6 +50,7 @@ Hot Area:
 
 Name: x_train should be x_test. Description: testing feature set
 Name: y_train should be y_test. Description: testing class labels</p></blockquote>
+
 <blockquote><p><strong>ning</strong> <code>(Fri 25 Nov 2022 12:40)</code> - <em>Upvotes: 2</em></p><p>Seems correct</p></blockquote>
 <blockquote><p><strong>WeiD</strong> <code>(Tue 15 Nov 2022 01:41)</code> - <em>Upvotes: 2</em></p><p>There is no x_test in the question, a typo?</p></blockquote>
 <blockquote><p><strong>PremPatrick</strong> <code>(Sat 13 May 2023 01:16)</code> - <em>Upvotes: 1</em></p><p>Seems like typo in the question!</p></blockquote>

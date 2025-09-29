@@ -4,7 +4,7 @@ HOTSPOT -
 
 Your Azure Machine Learning workspace has a dataset named real_estate_data. A sample of the data in the dataset follows.
 
-![Question Image](images/q230_q_0022500003.png)
+![Question Image](../images/q230_q_0022500003.png)
 
 You want to use automated machine learning to find the best regression model for predicting the price column.
 
@@ -16,12 +16,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q230_q_0022600001.png)
+![Question Image](../images/q230_q_0022600001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q230_ans_0_0022700001.png" alt="Answer Image"><br>
+<img src="../images/q230_ans_0_0022700001.png" alt="Answer Image"><br>
+
 <p>Box 1: training_data -</p>
 <p>The training data to be used within the experiment. It should contain both training features and a label column (optionally a sample weights column). If training_data is specified, then the label_column_name parameter must also be specified.</p>
 <p>Box 2: validation_data -</p>
@@ -56,20 +57,22 @@ https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azu
 
 automl_run_config = RunConfiguration(framework=&#x27;python&#x27;)
 automl_config = AutoMLConfig(name=&#x27;Automated ML Experiment&#x27;,
-                             task=&#x27;classification&#x27;,
-                             primary_metric = &#x27;AUC_weighted&#x27;,
-                             compute_target=aml_compute,
-                             training_data = train_dataset,
-                             validation_data = test_dataset,
-                             label_column_name=&#x27;Label&#x27;,
-                             featurization=&#x27;auto&#x27;,
-                             iterations=12,
-                             max_concurrent_iterations=4)</p></blockquote>
+task=&#x27;classification&#x27;,
+primary_metric = &#x27;AUC_weighted&#x27;,
+compute_target=aml_compute,
+training_data = train_dataset,
+validation_data = test_dataset,
+label_column_name=&#x27;Label&#x27;,
+featurization=&#x27;auto&#x27;,
+iterations=12,
+max_concurrent_iterations=4)</p></blockquote>
+
 <blockquote><p><strong>RoohiSaanjh</strong> <code>(Mon 26 Sep 2022 20:01)</code> - <em>Upvotes: 1</em></p><p>If specified, then y_valid or sample_weight_valid must also be specified. This setting is being deprecated. Please use validation_data and label_column_name instead.
 
 Both X_valid and y_valid must be specified together. This setting is being deprecated. Please use validation_data and label_column_name instead.
 
 https://docs.microsoft.com/en-us/python/api/azureml-train-automl-client/azureml.train.automl.automlconfig.automlconfig?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>hargur</strong> <code>(Wed 20 Apr 2022 09:46)</code> - <em>Upvotes: 2</em></p><p>on 19Oct2021</p></blockquote>
 <blockquote><p><strong>VJPrakash</strong> <code>(Fri 11 Feb 2022 17:23)</code> - <em>Upvotes: 1</em></p><p>on exam in August 2021</p></blockquote>
 <blockquote><p><strong>ljljljlj</strong> <code>(Tue 11 Jan 2022 15:06)</code> - <em>Upvotes: 1</em></p><p>On exam 2021/7/10</p></blockquote>

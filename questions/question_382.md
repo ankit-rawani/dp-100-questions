@@ -18,12 +18,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q382_q_0038500001.png)
+![Question Image](../images/q382_q_0038500001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q382_ans_0_0038600001.png" alt="Answer Image"><br>
+<img src="../images/q382_ans_0_0038600001.png" alt="Answer Image"><br>
+
 <p>Box 1: AksCompute -</p>
 <p>Example:</p>
 <p>aks_target = AksCompute(ws,&quot;myaks&quot;)</p>
@@ -57,16 +58,18 @@ Whether or not to enable Token auth for this Webservice. If this is enabled, use
 https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.webservice.akswebservice?view=azure-ml-py
 Service principal: You create a service principal account in Azure Active Directory, and use it to authenticate or get a token. A service principal is used when you need an automated process to authenticate to the service without requiring user interaction. For example, a continuous integration and deployment script that trains and tests a model every time the training code changes.
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication</p></blockquote>
+
 <blockquote><p><strong>evangelist</strong> <code>(Sun 08 Dec 2024 13:28)</code> - <em>Upvotes: 1</em></p><p>amlcompute=&gt;training
 Akscompute=&gt;real time computing and scalable
 batchcompute=&gt;non real time</p></blockquote>
-<blockquote><p><strong>james2033</strong> <code>(Sat 20 Apr 2024 06:54)</code> - <em>Upvotes: 1</em></p><p>Constructor azureml.core.compute.aks.AksCompute(workspace, name) 
+<blockquote><p><strong>james2033</strong> <code>(Sat 20 Apr 2024 06:54)</code> - <em>Upvotes: 1</em></p><p>Constructor azureml.core.compute.aks.AksCompute(workspace, name)
 
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.compute.aks.akscompute?view=azure-ml-py#constructor
 
 azureml.core.webservice.aks.AksWebservice.deploy_configuration(...)
 
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.webservice.aks.akswebservice?view=azure-ml-py#azureml-core-webservice-aks-akswebservice-deploy-configuration</p></blockquote>
+
 <blockquote><p><strong>pancman</strong> <code>(Tue 11 Oct 2022 20:57)</code> - <em>Upvotes: 6</em></p><p>Given answer is correct. The third one might be confusing for some people but here is what Microsoft documentation says:
 token_auth_enabled: Whether or not to enable Token auth for this Webservice. If this is enabled, users can access this Webservice by fetching an access token using their Azure Active Directory credentials. Defaults to False.</p></blockquote>
 <blockquote><p><strong>kkkk_jjjj</strong> <code>(Sun 18 Sep 2022 08:47)</code> - <em>Upvotes: 3</em></p><p>on exam 18/03/2022</p></blockquote>

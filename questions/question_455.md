@@ -14,12 +14,12 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 NOTE: More than one order of answer choices is correct. You will receive credit for any of the correct orders you select.
 
-![Question Image](images/q455_q_image588.png)
+![Question Image](../images/q455_q_image588.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q455_ans_0_image589.png" alt="Answer Image"><br>
+<img src="../images/q455_ans_0_image589.png" alt="Answer Image"><br>
 
 </details>
 
@@ -32,7 +32,7 @@ This involves creating a new application registration in Azure Active Directory 
 Add a client secret, write a description for your key, and select duration
 
 2. After registering the application, generate a client secret. The client secret acts as a password for the service principal and is required for authentication.
-Select Access Control (IAM) and grant the Contributor role for the service principal
+   Select Access Control (IAM) and grant the Contributor role for the service principal
 
 3. Grant the service principal the necessary permissions to access the Azure Machine Learning workspace by assigning the Contributor role. This allows the service principal to create, modify, and delete resources within the workspace.
 

@@ -6,7 +6,7 @@ You are using C-Support Vector classification to do a multi-class classification
 
 Python code shown below:
 
-![Question Image](images/q268_q_0029700001.png)
+![Question Image](../images/q268_q_0029700001.png)
 
 You need to evaluate the C-Support Vector classification code.
 
@@ -16,12 +16,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q268_q_0029800001.png)
+![Question Image](../images/q268_q_0029800001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q268_ans_0_0029800002.png" alt="Answer Image"><br>
+<img src="../images/q268_ans_0_0029800002.png" alt="Answer Image"><br>
+
 <p>Box 1: Automatically adjust weights inversely proportional to class frequencies in the input data</p>
 <p>The ג€balancedג€ mode uses the values of y to automatically adjust weights inversely proportional to class frequencies in the input data as n_samples / (n_classes * np.bincount(y)).</p>
 <p>Box 2: Penalty parameter -</p>

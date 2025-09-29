@@ -8,19 +8,20 @@ Which two prerequisite components should attendees install on the devices? Each 
 
 NOTE: Each correct selection is worth one point.
 
-* A.Microsoft Hardware-Assisted Virtualization Detection Tool
-* B.Kitematic
-* C.BIOS-enabled virtualization
-* D.VirtualBox
-* E.Windows 10 64-bit Professional
+- A.Microsoft Hardware-Assisted Virtualization Detection Tool
+- B.Kitematic
+- C.BIOS-enabled virtualization
+- D.VirtualBox
+- E.Windows 10 64-bit Professional
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>CE</strong><br>
+<strong>CE</strong><br>
+
 <p>C: Make sure your Windows system supports Hardware Virtualization Technology and that virtualization is enabled.</p>
 <p>Ensure that hardware virtualization support is turned on in the BIOS settings. For example:</p>
-<img src="images/q47_ref_4_0005100001.jpg" alt="Reference Image"><br>
+<img src="../images/q47_ref_4_0005100001.jpg" alt="Reference Image"><br>
 <p>E: To run Docker, your machine must have a 64-bit operating system running Windows 7 or higher.</p>
 <p>Reference:</p>
 <p>https://docs.docker.com/toolbox/toolbox_install_windows/</p>

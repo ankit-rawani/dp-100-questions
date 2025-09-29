@@ -6,7 +6,7 @@ You use an Azure Machine Learning workspace.
 
 You create the following Python code:
 
-![Question Image](images/q287_q_0031300001.png)
+![Question Image](../images/q287_q_0031300001.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q287_q_0031300002.png)
+![Question Image](../images/q287_q_0031300002.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q287_ans_0_0031400001.png" alt="Answer Image"><br>
+<img src="../images/q287_ans_0_0031400001.png" alt="Answer Image"><br>
+
 <p>Box 1: No -</p>
 <p>Environment is a required parameter. The environment to use for the run. If no environment is specified, azureml.core.runconfig.DEFAULT_CPU_IMAGE will be used as the Docker image for the run.</p>
 <p>The following example shows how to instantiate a new environment. from azureml.core import Environment myenv = Environment(name=&quot;myenv&quot;)</p>
@@ -42,6 +43,7 @@ compute_target
 
 AbstractComputeTarget or str
 The compute target where training will happen. This can either be a ComputeTarget object, the name of an existing ComputeTarget, or the string &quot;local&quot;. If no compute target is specified, your local machine will be used.</p></blockquote>
+
 <blockquote><p><strong>jefimija</strong> <code>(Wed 30 Oct 2024 10:02)</code> - <em>Upvotes: 2</em></p><p>how do we know it&#x27;s local compute?</p></blockquote>
 <blockquote><p><strong>a6cb3b0</strong> <code>(Fri 22 Mar 2024 17:25)</code> - <em>Upvotes: 2</em></p><p>No-Yes-Yes
 for 2nd:

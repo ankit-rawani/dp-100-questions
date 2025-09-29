@@ -6,7 +6,7 @@ You are developing a linear regression model in Azure Machine Learning Studio. Y
 
 The following image displays the results dataset output:
 
-![Question Image](images/q472_q_0043600001.png)
+![Question Image](../images/q472_q_0043600001.png)
 
 Use the drop-down menus to select the answer choice that answers each question based on the information presented in the image.
 
@@ -14,12 +14,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q472_q_0043700001.png)
+![Question Image](../images/q472_q_0043700001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q472_ans_0_0043800001.jpg" alt="Answer Image"><br>
+<img src="../images/q472_ans_0_0043800001.jpg" alt="Answer Image"><br>
+
 <p>Box 1: Boosted Decision Tree Regression</p>
 <p>Mean absolute error (MAE) measures how close the predictions are to the actual outcomes; thus, a lower score is better.</p>
 <p>Box 2:</p>

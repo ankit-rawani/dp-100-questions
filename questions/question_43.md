@@ -12,12 +12,12 @@ You need to implement the computer resources.
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q43_q_image375.png)
+![Question Image](../images/q43_q_image375.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q43_ans_0_image376.png" alt="Answer Image"><br>
+<img src="../images/q43_ans_0_image376.png" alt="Answer Image"><br>
 
 </details>
 

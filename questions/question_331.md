@@ -22,12 +22,12 @@ How should you complete the code? To answer, select the appropriate options in t
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q331_q_image508.png)
+![Question Image](../images/q331_q_image508.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q331_ans_0_image509.png" alt="Answer Image"><br>
+<img src="../images/q331_ans_0_image509.png" alt="Answer Image"><br>
 
 </details>
 
@@ -53,9 +53,10 @@ mlflow.log_artifact(filename)</p></blockquote>
 <blockquote><p><strong>gracel11</strong> <code>(Fri 01 Nov 2024 17:41)</code> - <em>Upvotes: 1</em></p><p>The first one should be json.load()
 json.load() : read JSON data from a file and convert it into a dictionary.
 json.dump(): used for writing the Python object i.e. dict to JSON file.</p></blockquote>
-<blockquote><p><strong>Ran2025</strong> <code>(Mon 22 Apr 2024 04:56)</code> - <em>Upvotes: 1</em></p><p>I think the first answer is &#x27;load&#x27;. 
+<blockquote><p><strong>Ran2025</strong> <code>(Mon 22 Apr 2024 04:56)</code> - <em>Upvotes: 1</em></p><p>I think the first answer is &#x27;load&#x27;.
 
 json.dump(object, file)</p></blockquote>
+
 <blockquote><p><strong>Ran2025</strong> <code>(Mon 22 Apr 2024 05:04)</code> - <em>Upvotes: 1</em></p><p>the second is &#x27;log_artifact&#x27;
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-log-view-metrics?view=azureml-api-2&amp;tabs=interactive</p></blockquote>

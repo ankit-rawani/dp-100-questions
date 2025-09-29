@@ -14,18 +14,19 @@ NOTE: More than one order of answer choices is correct. You will receive credit 
 
 Select and Place:
 
-![Question Image](images/q57_q_0006900001.png)
+![Question Image](../images/q57_q_0006900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q57_ans_0_0007000001.png" alt="Answer Image"><br>
+<img src="../images/q57_ans_0_0007000001.png" alt="Answer Image"><br>
+
 <p>The Clean Missing Data module in Azure Machine Learning Studio, to remove, replace, or infer missing values.</p>
 <p>Incorrect Answers:</p>
 <p>✑ Latent Direchlet Transformation: Latent Dirichlet Allocation module in Azure Machine Learning Studio, to group otherwise unclassified text into a number of categories. Latent Dirichlet Allocation (LDA) is often used in natural language processing (NLP) to find texts that are similar. Another common term is topic modeling.</p>
 <p>✑ Build Counting Transform: Build Counting Transform module in Azure Machine Learning Studio, to analyze training data. From this data, the module builds a count table as well as a set of count-based features that can be used in a predictive model.</p>
 <p>Missing Value Scrubber: The Missing Values Scrubber module is deprecated.</p>
-<img src="images/q57_ref_10_0007000004.png" alt="Reference Image"><br>
+<img src="../images/q57_ref_10_0007000004.png" alt="Reference Image"><br>
 <p>✑ Feature hashing: Feature hashing is used for linguistics, and works by converting unique tokens into integers.</p>
 <p>✑ Replace discrete values: the Replace Discrete Values module in Azure Machine Learning Studio is used to generate a probability score that can be used to represent a discrete value. This score can be useful for understanding the information value of the discrete values.</p>
 <p>Reference:</p>

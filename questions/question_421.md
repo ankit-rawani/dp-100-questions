@@ -12,12 +12,12 @@ Which method should you use? To answer, select the appropriate options in the an
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q421_q_image473.png)
+![Question Image](../images/q421_q_image473.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q421_ans_0_image474.png" alt="Answer Image"><br>
+<img src="../images/q421_ans_0_image474.png" alt="Answer Image"><br>
 
 </details>
 

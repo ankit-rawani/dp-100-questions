@@ -12,12 +12,12 @@ You need to attach the Synapse Spark pool in Azure Machine Learning by using the
 
 Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q147_q_image500.png)
+![Question Image](../images/q147_q_image500.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q147_ans_0_image501.png" alt="Answer Image"><br>
+<img src="../images/q147_ans_0_image501.png" alt="Answer Image"><br>
 
 </details>
 
@@ -30,11 +30,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 name - user-defined name of the new attached Synapse Spark pool.
 resource_id - resource ID of the Synapse Spark pool created earlier in the Azure Synapse Analytics workspace.
 An azure.ai.ml.MLClient.begin_create_or_update() function call attaches the defined Synapse Spark pool to the Azure Machine Learning workspace.</p></blockquote>
+
 <blockquote><p><strong>Mikku123</strong> <code>(Wed 02 Aug 2023 23:12)</code> - <em>Upvotes: 3</em></p><p>My Bad -  The correct sequence is:
 
 Create an instance of the azure.ai.MLClient class
 Define the spark pool configuration with the SparkResourceConfiguration class
 Attach the Synapse Spark pool with the azure.ai.ml.MLClient.begin_create_or_update() function</p></blockquote>
+
 <blockquote><p><strong>Sadhak</strong> <code>(Mon 04 Nov 2024 21:13)</code> - <em>Upvotes: 1</em></p><p>Not SparkResourceConfiguration calss but SynapseSparkCompute class.</p></blockquote>
 <blockquote><p><strong>Mikku123</strong> <code>(Wed 02 Aug 2023 23:10)</code> - <em>Upvotes: 3</em></p><p>correct answer!</p></blockquote>
 

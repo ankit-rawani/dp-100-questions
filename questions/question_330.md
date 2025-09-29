@@ -14,12 +14,12 @@ Which configuration values should you use? To answer, select the appropriate opt
 
 NOTE: Each correct selection is worth one point.
 
-![Question Image](images/q330_q_image506.png)
+![Question Image](../images/q330_q_image506.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q330_ans_0_image507.png" alt="Answer Image"><br>
+<img src="../images/q330_ans_0_image507.png" alt="Answer Image"><br>
 
 </details>
 

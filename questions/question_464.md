@@ -12,12 +12,13 @@ Which three actions should you perform in sequence? To answer, move the appropri
 
 Select and Place:
 
-![Question Image](images/q464_q_0042900001.png)
+![Question Image](../images/q464_q_0042900001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q464_ans_0_0043000001.png" alt="Answer Image"><br>
+<img src="../images/q464_ans_0_0043000001.png" alt="Answer Image"><br>
+
 <p>Step 1: Use the Filter Based Feature Selection module</p>
 <p>Filter Based Feature Selection identifies the features in a dataset with the greatest predictive power.</p>
 <p>The module outputs a dataset that contains the best feature columns, as ranked by predictive power. It also outputs the names of the features and their scores from the selected metric.</p>
@@ -46,6 +47,7 @@ Select and Place:
 Compute linear correlation (e): Calculate the correlation between the independent variables to understand the degree of correlation between them.
 Use the Filter Based Feature Selection module (c): Utilize this module to select the most relevant features while considering their correlations. This step helps in reducing multicollinearity and selecting a subset of features that contribute the most to the model.
 Test the hypothesis using t-Test (d): After selecting the features, perform hypothesis testing using t-Tests to validate the statistical significance of the chosen features in relation to the dependent variable.</p></blockquote>
+
 <blockquote><p><strong>phdykd</strong> <code>(Sun 28 Jan 2024 19:58)</code> - <em>Upvotes: 1</em></p><p>Compute linear correlation: By computing linear correlation between variables, you can identify pairs of variables that are highly correlated. These are the ones causing multicollinearity.
 Use the Filter Based Feature Selection module: Azure Machine Learning Studio provides this module to automatically select important features. It can help eliminate redundant features, i.e., features that are highly correlated with each other, which helps reduce multicollinearity.
 Remove duplicate rows: As mentioned before, removing duplicate rows is a good practice in general, not necessarily to handle high correlation among variables. However, in some cases, duplicate rows may contribute to multicollinearity, especially when they form a significant proportion of the dataset.</p></blockquote>

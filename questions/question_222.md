@@ -30,12 +30,13 @@ NOTE: Each correct selection is worth one point.
 
 Select and Place:
 
-![Question Image](images/q222_q_0021200001.png)
+![Question Image](../images/q222_q_0021200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q222_ans_0_0021300001.png" alt="Answer Image"><br>
+<img src="../images/q222_ans_0_0021300001.png" alt="Answer Image"><br>
+
 <p>Box 1: log -</p>
 <p>The number of observations in the dataset.</p>
 <p>run.log(name, value, description=&#x27;&#x27;)</p>
@@ -57,7 +58,7 @@ Select and Place:
 
 First is straightforward to store a single value is using log()
 
-Second since code try to save pyplot graph = image 
+Second since code try to save pyplot graph = image
 the second answer is log_image()
 
 On Last question Based on to_dict function https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_dict.html
@@ -65,10 +66,12 @@ On Last question Based on to_dict function https://pandas.pydata.org/pandas-docs
 to save log with that format The last answer should use log_table()
 
 https://stackoverflow.com/questions/65156959/what-are-the-various-run-metrics-that-can-be-added-in-run-in-azureml</p></blockquote>
+
 <blockquote><p><strong>Dilesha</strong> <code>(Mon 19 Aug 2024 00:41)</code> - <em>Upvotes: 9</em></p><p>On Exam 17 Feb 2023</p></blockquote>
 <blockquote><p><strong>JTWang</strong> <code>(Thu 18 Apr 2024 07:56)</code> - <em>Upvotes: 4</em></p><p>Correct.
 
 https://learn.microsoft.com/en-us/python/api/azureml-core/azureml.core.run(class)?view=azure-ml-py</p></blockquote>
+
 <blockquote><p><strong>racnaoamo</strong> <code>(Sun 19 Nov 2023 08:53)</code> - <em>Upvotes: 3</em></p><p>similar question on 18-5-22</p></blockquote>
 <blockquote><p><strong>hargur</strong> <code>(Thu 20 Apr 2023 09:45)</code> - <em>Upvotes: 3</em></p><p>on 19Oct2021</p></blockquote>
 <blockquote><p><strong>kisskeo</strong> <code>(Fri 07 Apr 2023 20:14)</code> - <em>Upvotes: 2</em></p><p>On Exam 01 Oct 2021</p></blockquote>

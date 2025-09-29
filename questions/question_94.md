@@ -24,12 +24,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q94_q_0011200001.png)
+![Question Image](../images/q94_q_0011200001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q94_ans_0_0011300001.png" alt="Answer Image"><br>
+<img src="../images/q94_ans_0_0011300001.png" alt="Answer Image"><br>
+
 <p>Box 1: the ds-workstation compute instance</p>
 <p>A workstation notebook instance is good enough to run experiments.</p>
 <p>Box 2: the gpu-cluster compute target</p>

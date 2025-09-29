@@ -8,7 +8,7 @@ You are using Azure Machine Learning to run an experiment that trains a classifi
 
 You want to use Hyperdrive to find parameters that optimize the AUC metric for the model. You configure a HyperDriveConfig for the experiment by running the following code:
 
-![Question Image](images/q184_q_0014700001.png)
+![Question Image](../images/q184_q_0014700001.png)
 
 You plan to use this configuration to run a script that trains a random forest model and then tests it with validation data. The label values for the validation data are stored in a variable named y_test variable, and the predicted probabilities from the model are stored in a variable named y_predicted.
 
@@ -16,17 +16,18 @@ You need to add logging to the script to allow Hyperdrive to optimize hyperparam
 
 Solution: Run the following code:
 
-![Question Image](images/q184_q_0014700002.png)
+![Question Image](../images/q184_q_0014700002.png)
 
 Does the solution meet the goal?
 
-* A.Yes
-* B.No
+- A.Yes
+- B.No
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <strong>B</strong><br>
+<strong>B</strong><br>
+
 <p>Explanation -</p>
 <p>Use a solution with logging.info(message) instead.</p>
 <p>Note: Python printing/logging example:</p>
@@ -46,7 +47,9 @@ Does the solution meet the goal?
 run = Run.get_context()
 
 # Log the AUC score
+
 run.log(&quot;AUC&quot;, auc)</p></blockquote>
+
 <blockquote><p><strong>synapse</strong> <code>(Wed 14 Sep 2022 02:53)</code> - <em>Upvotes: 1</em></p><p>Copying: THe question is not about just logging AUC but logging to allow Hyperdrive to optimize hyperparameters for the AUC metric. So you must log using run instance. That way the Hyperdrive has access to that metric to compare with other runs. SO the correct answer is &quot;No&quot;</p></blockquote>
 <blockquote><p><strong>azurecert2021</strong> <code>(Fri 24 Dec 2021 16:02)</code> - <em>Upvotes: 2</em></p><p>question is about &quot;You need to add logging to the script to allow Hyperdrive to optimize hyperparameters for the AUC metric.&quot;
 so if we go through following links we use run.log to log np.float(reg) whereas printf is used for general debugging.
@@ -57,6 +60,7 @@ model = LogisticRegression(C=1/reg, solver=&quot;liblinear&quot;).fit(X_train, y
 
 https://github.com/MicrosoftLearning/DP100/blob/master/08A%20-%20Tuning%20Hyperparameters.ipynb
 https://sites.google.com/view/raybellwaves/courses/build-ai-solutions-with-azure-machine-learning</p></blockquote>
+
 <blockquote><p><strong>anjurad</strong> <code>(Mon 01 Nov 2021 15:31)</code> - <em>Upvotes: 3</em></p><p>for hyperdrive to optimise, it has to extract the chosen metric from the experiment run, through what has been logged.  The log name has to match the primary metric name specified in config.  The values aren&#x27;t being logged in the example script - and printing doesn&#x27;t capture the key/value pairs required to do the matching and comparison</p></blockquote>
 <blockquote><p><strong>levm39</strong> <code>(Fri 08 Oct 2021 07:48)</code> - <em>Upvotes: 4</em></p><p>the print statement can be used to debug, but in this piece of code you are only printing np.float(AUC), so you are only printing the conversion of a value to float, you are not printing any debugging information from the algorithm.</p></blockquote>
 <blockquote><p><strong>dev2dev</strong> <code>(Mon 13 Sep 2021 04:53)</code> - <em>Upvotes: 3</em></p><p>Answer is Yes. We can use either logger or print as per the referenced document

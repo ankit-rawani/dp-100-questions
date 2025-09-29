@@ -10,19 +10,19 @@ You need to use the shared file system of the workspace to store a clone of a pr
 
 Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-![Question Image](images/q114_q_image390.png)
+![Question Image](../images/q114_q_image390.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q114_ans_0_image391.png" alt="Answer Image"><br>
+<img src="../images/q114_ans_0_image391.png" alt="Answer Image"><br>
 
 </details>
 
 <details>
   <summary>Show Discussions</summary>
 
-<blockquote><p><strong>PI_Team</strong> <code>(Sun 21 Jan 2024 12:25)</code> - <em>Upvotes: 6</em></p><p>correct: 
+<blockquote><p><strong>PI_Team</strong> <code>(Sun 21 Jan 2024 12:25)</code> - <em>Upvotes: 6</em></p><p>correct:
 
 1. You need to create a compute instance to access the shared file system of the workspace.
 2. You need to run the ssh-keygen command to generate a new SSH key pair. The public key will be used to authenticate your Git account with SSH, and the private key will be used to access your Git repositories.
@@ -33,10 +33,11 @@ Which four actions should you perform in sequence? To answer, move the appropria
 <blockquote><p><strong>labriji</strong> <code>(Mon 23 Oct 2023 17:29)</code> - <em>Upvotes: 2</em></p><p>Given answer is correct 😄
 
 here is the order :
-* Create a compute instance.
-* Run the ssh-keygen command.
-* Copy the public key to GitHub.
-* Run the git clone command.</p></blockquote>
+
+- Create a compute instance.
+- Run the ssh-keygen command.
+- Copy the public key to GitHub.
+- Run the git clone command.</p></blockquote>
 
 </details>
 

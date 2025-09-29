@@ -8,16 +8,16 @@ You manage an Azure Machine Learning workspace. You create an experiment named e
 
 You are reviewing the results of experiment by using the following code segment:
 
-![Question Image](images/q135_q_image479.png)
+![Question Image](../images/q135_q_image479.png)
 
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 
-![Question Image](images/q135_q_image480.png)
+![Question Image](../images/q135_q_image480.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q135_ans_0_image481.png" alt="Answer Image"><br>
+<img src="../images/q135_ans_0_image481.png" alt="Answer Image"><br>
 
 </details>
 
@@ -29,6 +29,7 @@ For each of the following statements, select Yes if the statement is true. Other
 is it about the atributes.status?
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-track-experiments-mlflow?view=azureml-api-2#getting-params-and-metrics-from-a-run</p></blockquote>
+
 <blockquote><p><strong>zainkhazi</strong> <code>(Fri 08 Mar 2024 15:06)</code> - <em>Upvotes: 1</em></p><p>Aborted means cancelled by the user explicitly, not to be confused with &quot;failed&quot; jobs.</p></blockquote>
 <blockquote><p><strong>Mal42</strong> <code>(Mon 21 Aug 2023 07:30)</code> - <em>Upvotes: 3</em></p><p>On exam 18 Aug 2023</p></blockquote>
 <blockquote><p><strong>ABosco</strong> <code>(Fri 18 Aug 2023 08:04)</code> - <em>Upvotes: 4</em></p><p>All NOs is correct.</p></blockquote>

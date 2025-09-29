@@ -18,12 +18,13 @@ NOTE: Each correct selection is worth one point.
 
 Hot Area:
 
-![Question Image](images/q238_q_0024100001.png)
+![Question Image](../images/q238_q_0024100001.png)
 
 <details>
   <summary>Show Suggested Answer</summary>
 
-  <img src="images/q238_ans_0_0024200001.png" alt="Answer Image"><br>
+<img src="../images/q238_ans_0_0024200001.png" alt="Answer Image"><br>
+
 <p>Box 1: 300 -</p>
 <p>You type 300 (%), the module triples the percentage of minority cases (3000) compared to the original dataset (1000).</p>
 <p>Box 2: 5 -</p>
@@ -43,13 +44,15 @@ Hot Area:
 https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/smote#examples</p></blockquote>
 <blockquote><p><strong>james2033</strong> <code>(Sat 19 Oct 2024 03:46)</code> - <em>Upvotes: 2</em></p><p>The given answer is correct .
 
-1000 + 300% * 1000 = 4000
+1000 + 300% \* 1000 = 4000
 
 1 item has 5 nearest neighbors. Question keyword &#x27;increase the number of training examples for class 1 to 4000 by using 5 data rows&#x27;</p></blockquote>
+
 <blockquote><p><strong>michaelmorar</strong> <code>(Fri 08 Dec 2023 21:30)</code> - <em>Upvotes: 4</em></p><p>300% makes mathematical sense (we need to increase 1000 by 3000 to reach 4000). 
 5 nearest neighbours also seems to agree with the stipulation of using 5 rows.
 
 SO, answer to me is correct.</p></blockquote>
+
 <blockquote><p><strong>azurecert2021</strong> <code>(Sun 26 Jun 2022 15:16)</code> - <em>Upvotes: 4</em></p><p>based on example on below link it looks like given answer is correct as 
 smote % 0 means original data set and 3000 and 4000 is to much high.
 even neighbors value 4000 is too high value for 10,000 rows data set.
